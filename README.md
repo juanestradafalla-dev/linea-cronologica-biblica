@@ -1,6 +1,6 @@
 # Cronología bíblica
 
-Página estática de fondo claro. Línea horizontal por décadas desde 600 a. C. hasta el cierre en 70 d. C.; recorrido de las 15 etapas originales desde la rebelión celestial. Conserva las 148 fichas y enlaza al mural de 32 genealogías.
+Página estática de fondo claro. Línea horizontal por décadas desde 600 a. C. hasta el cierre en 70 d. C.; recorrido de las 15 etapas originales desde la rebelión celestial. Conserva las 148 fichas y enlaza al mural de 46 ramas genealógicas. La ampliación incluye Elí, cantores y porteros levitas, Caleb, Simeón, Ester, herodianos y la familia de Zamaris. Las apariciones repetidas no son personas únicas.
 
 ## Uso
 
@@ -14,7 +14,7 @@ Las décadas a. C. avanzan 600–591, 590–581, etc. No existe año cero. El pr
 
 ## Publicación en GitHub y Vercel
 
-Subir el contenido de esta carpeta `web` como raíz de un repositorio nuevo. En Vercel, dentro del equipo `almacen-2787s-projects`, importar ese repositorio. Configuración: **Other**, sin comando de compilación, directorio de salida **dist**. `vercel.json` incluye estos ajustes.
+Repositorio público: https://github.com/juanestradafalla-dev/linea-cronologica-biblica. Publicación: https://linea-cronologica-biblica.vercel.app/. Vercel, equipo `personal-3162`, despliega los cambios de `main`. Configuración: **Other**, sin comando de compilación, directorio de salida **dist**. `vercel.json` incluye estos ajustes.
 
 No subir la carpeta superior del estudio ni los PDF: la carpeta `web` contiene toda la página necesaria. Los originales y el respaldo permanecen fuera del proyecto de publicación.
 
