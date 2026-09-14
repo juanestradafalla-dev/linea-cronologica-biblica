@@ -1,10 +1,10 @@
 # Cronología bíblica
 
-Página estática de fondo claro. Línea horizontal por décadas desde 600 a. C. hasta el cierre en 70 d. C.; recorrido de las 15 etapas originales desde la rebelión celestial. Conserva las 148 fichas y enlaza al mural de 103 ramas genealógicas, con 2.037 apariciones de personas o grupos y 1.860 relaciones. Las apariciones repetidas no son personas únicas.
+Página estática de fondo claro. Línea horizontal por décadas desde 600 a. C. hasta el cierre en 70 d. C.; recorrido de las 15 etapas originales desde la rebelión celestial. Conserva las 148 fichas y enlaza al mural de 150 ramas genealógicas, con 2.519 apariciones de personas o grupos y 2.195 relaciones. Las apariciones repetidas no son personas únicas.
 
 La ampliación anterior completó los ocho bloques identificados: familias de jueces, ramas tribales, Safán, Baruc y su entorno, recabitas, casas del retorno, Job y parentescos del Nuevo Testamento. Las notas de Elena G. White distinguen obra, capítulo y referencia de página/párrafo en la edición inglesa consultada. Las familias enlazan a los acontecimientos relacionados y las fichas de acontecimientos permiten regresar a esas familias. El catálogo descargable documenta la cobertura y las incertidumbres.
 
-La primera implementación de la auditoría incorpora 49 de los 70 hallazgos, mediante 27 ramas nuevas y ampliaciones de ramas existentes. Quedan 21 hallazgos pendientes de implementación. Se conservan los 148 acontecimientos y se distinguen parentescos discutidos, grupos e identidades no resueltas. El catálogo incluye la lista de hallazgos incorporados y pendientes.
+La segunda implementación incorpora los 34 hallazgos pendientes y 14 nuevos cotejos. El registro acumulado contiene 97 hallazgos incorporados, incluidos casos representados como cautelas de interpretación. Se añaden 47 ramas; las 103 anteriores permanecen idénticas. Incorporar una variante no significa resolverla: las casas, los vínculos de crianza y los parentescos espirituales se distinguen de la filiación biológica. La revisión integral de las fuentes continúa pendiente.
 
 ## Uso
 
