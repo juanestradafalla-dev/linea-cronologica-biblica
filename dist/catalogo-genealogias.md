@@ -4,6 +4,30 @@ Filiaciones, genealogías, parentescos, sucesiones y pertenencia a pueblos se di
 
 Estado: ampliación documentada, no inventario exhaustivo de todos los personajes bíblicos ni lectura íntegra de los 120 PDF. Las apariciones repetidas no equivalen a personas únicas.
 
+# Cobertura del bloque genealógico acordado
+
+Se completan los ocho bloques enumerados en la conversación, mediante 30 ramas adicionales. Esta cobertura se refiere a los pasajes y las familias indicados aquí; no declara terminada la lectura de todos los libros bíblicos ni de los 120 documentos.
+
+| Bloque | Ramas incorporadas | Cotejo principal |
+|---|---|---|
+| Jueces | Gedeón, Jefté, Sansón, Tola, Jair, Ibzán, Abdón | Jueces 6–16; PP 556.3; 558.3; 560.2–4; 562.2; 567.1–2 |
+| Ramas tribales | Isacar; Aser; dos listas de Benjamín; Rubén; Gad y Manasés oriental; rama de Maaca y Hamolequet; familias del censo de Moab | 1 Crónicas 5; 7–8; Números 26 |
+| Casa de Safán | Ascendencia, hijos y nietos; reforma, protección del profeta, lectura del rollo y gobierno del remanente | 2 Reyes 22; Jeremías 26; 29; 36; 40–41; Ezequiel 8:11; PK 393.1; 460.2 |
+| Baruc y su entorno | Maaseías–Nerías–Baruc/Seraías; familia de Jeremías; Hulda y casas de escribas y dirigentes | Jeremías 1; 32; 35–36; 40–41; 51; 2 Reyes 22; PK 432.3; 437.1 |
+| Recabitas | Recab–Jonadab; casa colectiva; Habasinías–Jeremías–Jaazanías; hijos y hermanos sin nombres | 2 Reyes 10; Jeremías 35; PK 423.2–424.1 |
+| Retorno | Casas y poblaciones; sacerdotes y levitas; netineos; siervos de Salomón; casas sin registro; compañeros de Esdras; sacerdocio hasta Jadúa; jefes sacerdotales; familia de Nehemías y músicos | Esdras 2; 8; Nehemías 1; 7; 12–13; PK 611.1; 616.2–617.1 |
+| Job | Dos grupos de hijos; tres hijas nombradas al final; cuatro generaciones sin nombres; hermanos; ascendencia de Eliú | Job 1–2; 32; 42; Ed 154.2–155.6 |
+| Nuevo Testamento | Anás y Caifás; Malco y su pariente; hermana y sobrino de Pablo; Felipe y cuatro hijas; hermanos de Betania; familias de Naín, Jairo y el oficial | Juan 4; 11; 18; Lucas 7–8; Hechos 4; 21; 23; DA 698.1–3; AA 414.2–415.2 |
+
+Las notas de Elena G. White son paráfrasis atribuidas. PP, PK, DA, AA y Ed remiten a la numeración de página y párrafo de las ediciones inglesas locales; no se presentan como numeración de páginas de las ediciones españolas. Sus aportaciones contextuales están separadas de las relaciones genealógicas bíblicas.
+
+Los números de censos se guardan como cantidades de personas de un grupo, sin crear una persona ficticia por cada integrante. Las poblaciones no se convierten en padres. Los nombres semejantes y los cambios entre listas se documentan como variantes o cuestiones no resueltas.
+
+Cada ficha del bloque con un acontecimiento ya existente ofrece un enlace al acontecimiento, y este devuelve a las familias relacionadas. Job queda sin enlace a una ficha cronológica absoluta: no existe todavía un acontecimiento propio de Job entre las 148 fichas conservadas.
+
+Comprobaciones: conservación exacta de las 46 ramas previas; referencias bíblicas por relación; localización de las referencias EGW en los archivos de origen; integridad de identificadores; ausencia de ciclos de ascendencia; separación de los hijos de Job; ausencia de un matrimonio afirmado de Sansón y Dalila; advertencia de la lectura de Esdras 8:18.
+
+
 ## G01 · Adán, Eva y la rama de Caín
 
 Fuente: Génesis 4:1–24
@@ -8871,4 +8895,5861 @@ Organiza y adiestra jinetes que sirven como guardia de los reyes.
 Cronología generacional no determinada; ubicación esquemática.
 
 Jefe militar vinculado al rey Agripa; la continuidad familiar explica su posición en la región.
+
+
+## G47 · Gedeón: Joás, Jeter, Abimelec y Jotam
+
+Fuente: Jueces 6:11–15; 8:18–35; 9:1–57
+
+Jeter es el primogénito y Jotam el menor. El grupo de setenta hijos incluye a los hijos nombrados: no sumar los nodos colectivos como personas adicionales. Abimelec tiene madre identificada por residencia, no por nombre.
+
+Elena G. White — PP 556.3 · Patriarchs and Prophets, cap. 53: Elena G. White relaciona el ascenso de Abimelec y la destrucción de la casa de Gedeón con la ingratitud y la apostasía de Israel.
+
+Acontecimiento relacionado: E66 · Madián y Abimelec (Gedeón y su casa).
+
+### Manasés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Casa de Abiezer. Pertenencia tribal de la casa de Gedeón; no generaciones individuales completas. Fuente: Jueces 6:11,15
+
+### Casa de Abiezer
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- descendencia → Joás (padre de Gedeón).  Fuente: Jueces 6:11
+
+### Joás (padre de Gedeón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Gedeón / Jerobaal.  Fuente: Jueces 6:11; 8:29
+
+### Gedeón / Jerobaal
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jeter (primogénito de Gedeón).  Fuente: Jueces 8:20; 9:5
+- filiacion → Jotam (hijo de Gedeón).  Fuente: Jueces 8:20; 9:5
+- colectivo → Setenta hijos de Gedeón (conjunto). Grupo; no una sola persona ni un hijo inmediato. Fuente: Jueces 6:11–15; 8:18–35; 9:1–57
+- filiacion → Abimelec (hijo de Gedeón).  Fuente: Jueces 8:31
+
+### Madre de Gedeón (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Gedeón / Jerobaal.  Fuente: Jueces 8:19
+- colectivo → Hermanos de Gedeón muertos en Tabor. Grupo; no una sola persona ni un hijo inmediato. Fuente: Jueces 6:11–15; 8:18–35; 9:1–57
+
+### Hermanos de Gedeón muertos en Tabor
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Gedeón los identifica como hijos de su madre; no se inventan nombres ni número. Jue 8:18–19.
+
+
+### Jeter (primogénito de Gedeón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Todavía joven, teme ejecutar a Zeba y Zalmuna (8:20). No se le atribuye descendencia.
+
+
+### Jotam (hijo de Gedeón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Escapa de la matanza y pronuncia la parábola de los árboles; después huye a Beer (9:5–21).
+
+
+### Setenta hijos de Gedeón (conjunto)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Jue 8:30; 9:5 conserva la cifra setenta y la excepción de Jotam. No se reconstruye una lista nominal de setenta.
+
+
+### Abimelec (hijo de Gedeón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Obtiene apoyo de Siquem, mata a sus hermanos y acaba herido por una piedra de molino en Tebes (9:1–6,50–54).
+
+
+### Concubina de Gedeón en Siquem
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Abimelec (hijo de Gedeón).  Fuente: Jueces 8:31
+- colectivo → Familia materna de Abimelec. Grupo; no una sola persona ni un hijo inmediato. Fuente: Jueces 6:11–15; 8:18–35; 9:1–57
+
+### Familia materna de Abimelec
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Sus parientes de Siquem favorecen su ascenso; Jue 9:1–3.
+
+
+## G48 · Jefté: exclusión, restitución y su hija única
+
+Fuente: Jueces 11:1–3,29–40; 12:7
+
+Galaad, padre de Jefté, no se identifica con Galaad hijo de Maquir. La hija no tiene nombre bíblico; el texto la declara hija única. Las interpretaciones del cumplimiento del voto no originan una descendencia inventada.
+
+Elena G. White — PP 558.3 · Patriarchs and Prophets, cap. 53: White presenta a Jefté como el libertador galaadita levantado frente a la opresión amonita. Este párrafo no aporta nombres para su madre o su hija.
+
+Acontecimiento relacionado: E67 · Tola, Jair y Jefté (Otros jueces).
+
+### Galaad (padre de Jefté)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jefté.  Fuente: Jueces 11:1
+- colectivo → Hermanos paternos de Jefté. Grupo; no una sola persona ni un hijo inmediato. Fuente: Jueces 11:1–3,29–40; 12:7
+
+### Jefté
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Vence a los amonitas; su voto afecta a su hija. Juzga seis años (11:29–40; 12:7); no se traduce esa duración en un año absoluto.
+
+- filiacion → Hija única de Jefté.  Fuente: Jueces 11:34
+
+### Madre de Jefté (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Jefté.  Fuente: Jueces 11:1
+
+### Hermanos paternos de Jefté
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Hijos de la esposa de Galaad; expulsan a Jefté y le niegan herencia (11:2).
+
+
+### Esposa de Galaad (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Hermanos paternos de Jefté. Maternidad del conjunto; distinta de la madre de Jefté. Fuente: Jueces 11:2
+
+### Hija única de Jefté
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Sale a recibirlo con danzas; pide dos meses para lamentar su virginidad. El relato no registra esposo ni hijos (11:34–40).
+
+
+## G49 · Sansón: casa de Manoa y familia de Timnat
+
+Fuente: Jueces 13–16
+
+No se da nombre a la madre de Sansón ni a su esposa de Timnat. Dalila es una mujer amada por Sansón; Jue 16:4 no declara matrimonio. No se registran hijos de Sansón en estos capítulos.
+
+Elena G. White — PP 560.2–4 · Patriarchs and Prophets, cap. 54: White desarrolla la visita a la esposa de Manoa y la preparación de los padres para criar al hijo prometido.
+
+Elena G. White — PP 562.2 · Patriarchs and Prophets, cap. 54: Explica la oposición inicial de los padres al matrimonio de Timnat y su posterior consentimiento.
+
+Elena G. White — PP 567.1–2 · Patriarchs and Prophets, cap. 54: Relaciona la sepultura familiar con el desenlace de la misión de Sansón.
+
+Acontecimiento relacionado: E68 · Sansón (Dominio filisteo).
+
+### Manoa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Sansón.  Fuente: Jueces 13:2,24
+- colectivo → Casa paterna que sepulta a Sansón. Grupo; no una sola persona ni un hijo inmediato. Fuente: Jueces 13–16
+
+### Sansón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- union → Esposa de Sansón en Timnat.  Fuente: Jueces 14:1–20
+
+### Esposa de Manoa (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Sansón.  Fuente: Jueces 13:2,24
+
+### Dan
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- descendencia → Manoa. Familia de los danitas; eslabones no enumerados. Fuente: Jueces 13:2
+
+### Padre de la esposa de Sansón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Esposa de Sansón en Timnat.  Fuente: Jueces 15:1–2
+- filiacion → Hermana menor de la esposa de Sansón.  Fuente: Jueces 15:1–2
+
+### Esposa de Sansón en Timnat
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- union → Compañero de Sansón (sin nombre). Su padre la entrega al compañero; la hermana menor es ofrecida, pero no se relata una boda con ella. Fuente: Jueces 14:20; 15:2
+
+### Hermana menor de la esposa de Sansón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañero de Sansón (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Dalila
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mujer del valle de Sorec a quien Sansón ama; entrega el secreto de su fuerza a los filisteos. Se mantiene como personaje, sin línea de matrimonio afirmado ni hijos (16:4–21).
+
+
+### Casa paterna que sepulta a Sansón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Jue 16:31 menciona hermanos y casa paterna; no determina sus nombres ni cuántos eran hijos inmediatos de Manoa.
+
+
+## G50 · Otros jueces: Tola, Jair, Ibzán y Abdón
+
+Fuente: Jueces 10:1–5; 12:8–15
+
+Los números de hijos y descendientes no son nombres propios. Tola juez no se identifica con Tola hijo del patriarca Isacar; Jair juez no se fusiona por nombre con otros Jair.
+
+Acontecimiento relacionado: E67 · Tola, Jair y Jefté (Otros jueces).
+
+### Dodo (abuelo de Tola)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Fúa (padre del juez).  Fuente: Jueces 10:1
+
+### Fúa (padre del juez)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Tola (juez).  Fuente: Jueces 10:1
+
+### Tola (juez)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Juzga 23 años y es sepultado en Samir (10:1–2).
+
+
+### Treinta hijos de Jair
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Treinta asnos y treinta ciudades; gobierno de Jair durante 22 años (10:3–4).
+
+
+### Jair (juez)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Treinta hijos de Jair. Grupo; no una sola persona ni un hijo inmediato. Fuente: Jueces 10:1–5; 12:8–15
+
+### Treinta hijos de Ibzán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+El padre trae treinta mujeres de fuera para ellos; siete años de gobierno (12:8–10).
+
+
+### Ibzán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Treinta hijos de Ibzán. Grupo; no una sola persona ni un hijo inmediato. Fuente: Jueces 10:1–5; 12:8–15
+- colectivo → Treinta hijas de Ibzán. Grupo; no una sola persona ni un hijo inmediato. Fuente: Jueces 10:1–5; 12:8–15
+
+### Treinta hijas de Ibzán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casadas fuera de la casa; sin nombres ni parejas individualizadas (12:9).
+
+
+### Hilel (padre de Abdón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Abdón (juez).  Fuente: Jueces 12:13
+
+### Abdón (juez)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Cuarenta hijos de Abdón. Grupo; no una sola persona ni un hijo inmediato. Fuente: Jueces 10:1–5; 12:8–15
+- descendencia → Treinta nietos de Abdón. KJV emplea nephews en su sentido antiguo; otras traducciones dan nietos. No se distribuyen entre los cuarenta hijos. Fuente: Jueces 12:14
+
+### Cuarenta hijos de Abdón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Jueces 12:14; sin nombres individuales.
+
+
+### Treinta nietos de Abdón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Grupo de descendientes de segunda generación; no treinta personas identificadas.
+
+
+### Elón (juez zabulonita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Juzga diez años (12:11–12); no se nombra padre ni descendientes. No fusionar con Elón hijo de Zabulón.
+
+
+## G51 · Isacar: Tola, Uzi e Izrahías
+
+Fuente: 1 Crónicas 7:1–5; Números 26:23–25; Génesis 46:13
+
+Se conserva Jasub frente a Job de Gn 46 KJV como variante de listas. Los efectivos militares no equivalen a hijos individuales. 7:3 dice cinco jefes tras nombrar a Izrahías y cuatro hijos; no se inventa un quinto hijo.
+
+### Isacar
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Tola (hijo de Isacar).  Fuente: 1 Crónicas 7:1
+- filiacion → Fúa (hijo de Isacar).  Fuente: 1 Crónicas 7:1
+- filiacion → Jasub.  Fuente: 1 Crónicas 7:1
+- filiacion → Simrón.  Fuente: 1 Crónicas 7:1
+
+### Tola (hijo de Isacar)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+La casa cuenta 22.600 hombres en tiempos de David; Isacar reúne 87.000 según 7:2,5. No es el juez Tola.
+
+- filiacion → Uzi (hijo de Tola).  Fuente: 1 Crónicas 7:2
+- filiacion → Refaías.  Fuente: 1 Crónicas 7:2
+- filiacion → Jeriel.  Fuente: 1 Crónicas 7:2
+- filiacion → Jahmai.  Fuente: 1 Crónicas 7:2
+- filiacion → Jibsam.  Fuente: 1 Crónicas 7:2
+- filiacion → Samuel (hijo de Tola).  Fuente: 1 Crónicas 7:2
+
+### Fúa (hijo de Isacar)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jasub
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Simrón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Uzi (hijo de Tola)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Izrahías.  Fuente: 1 Crónicas 7:3
+
+### Refaías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jeriel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jahmai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jibsam
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Samuel (hijo de Tola)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Izrahías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Micael (hijo de Izrahías).  Fuente: 1 Crónicas 7:3
+- filiacion → Obadías.  Fuente: 1 Crónicas 7:3
+- filiacion → Joel (hijo de Izrahías).  Fuente: 1 Crónicas 7:3
+- filiacion → Isías.  Fuente: 1 Crónicas 7:3
+
+### Micael (hijo de Izrahías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Obadías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joel (hijo de Izrahías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Isías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G52 · Aser: Heber, Jaflet, Zofa y sus descendientes
+
+Fuente: 1 Crónicas 7:30–40
+
+Somer/Samer, Hotam/Helem e Itrán/Jeter presentan posibles variantes; las no resueltas llevan vínculo discutido. Birzavit puede designar una localidad o casa. No se infiere la paternidad de Ula.
+
+### Aser
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Imna (hijo de Aser).  Fuente: 1 Crónicas 7:30
+- filiacion → Isúa.  Fuente: 1 Crónicas 7:30
+- filiacion → Isúi.  Fuente: 1 Crónicas 7:30
+- filiacion → Bería (hijo de Aser).  Fuente: 1 Crónicas 7:30
+- filiacion → Sera.  Fuente: 1 Crónicas 7:30
+
+### Imna (hijo de Aser)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Isúa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Isúi
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bería (hijo de Aser)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Heber (hijo de Bería).  Fuente: 1 Crónicas 7:31
+- filiacion → Malquiel.  Fuente: 1 Crónicas 7:31
+
+### Sera
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Heber (hijo de Bería)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jaflet.  Fuente: 1 Crónicas 7:32
+- filiacion → Somer / Samer.  Fuente: 1 Crónicas 7:32
+- filiacion → Hotam.  Fuente: 1 Crónicas 7:32
+- filiacion → Súa (hija de Heber).  Fuente: 1 Crónicas 7:32
+
+### Malquiel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Birzavit. «Padre de» puede expresar relación con una población/casa; no se fija naturaleza personal. Fuente: 1 Crónicas 7:31
+
+### Birzavit
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jaflet
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Pasac.  Fuente: 1 Crónicas 7:33
+- filiacion → Bimhal.  Fuente: 1 Crónicas 7:33
+- filiacion → Asvat.  Fuente: 1 Crónicas 7:33
+
+### Somer / Samer
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Ahí.  Fuente: 1 Crónicas 7:34
+- filiacion → Rohga.  Fuente: 1 Crónicas 7:34
+- filiacion → Jehúba.  Fuente: 1 Crónicas 7:34
+- filiacion → Aram (hijo de Samer).  Fuente: 1 Crónicas 7:34
+
+### Hotam
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- discutida → Helem. Posible variante de identidad; no se presenta como filiación. Fuente: 1 Crónicas 7:32,35
+
+### Súa (hija de Heber)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pasac
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bimhal
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Asvat
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahí
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rohga
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jehúba
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aram (hijo de Samer)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Helem
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Zofa.  Fuente: 1 Crónicas 7:35
+- filiacion → Imna (hijo de Helem).  Fuente: 1 Crónicas 7:35
+- filiacion → Seles.  Fuente: 1 Crónicas 7:35
+- filiacion → Amal.  Fuente: 1 Crónicas 7:35
+
+### Zofa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Súa (hijo de Zofa).  Fuente: 1 Crónicas 7:36–37
+- filiacion → Harnefer.  Fuente: 1 Crónicas 7:36–37
+- filiacion → Sual.  Fuente: 1 Crónicas 7:36–37
+- filiacion → Beri.  Fuente: 1 Crónicas 7:36–37
+- filiacion → Imra.  Fuente: 1 Crónicas 7:36–37
+- filiacion → Beser.  Fuente: 1 Crónicas 7:36–37
+- filiacion → Hod.  Fuente: 1 Crónicas 7:36–37
+- filiacion → Sama.  Fuente: 1 Crónicas 7:36–37
+- filiacion → Silsa.  Fuente: 1 Crónicas 7:36–37
+- filiacion → Itrán.  Fuente: 1 Crónicas 7:36–37
+- filiacion → Beera.  Fuente: 1 Crónicas 7:36–37
+
+### Imna (hijo de Helem)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Seles
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Amal
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Súa (hijo de Zofa)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Harnefer
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sual
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Beri
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Imra
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Beser
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hod
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sama
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Silsa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Itrán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- discutida → Jeter (rama de Aser). Posible variante; no fusionar sin advertencia. Fuente: 1 Crónicas 7:37–38
+
+### Beera
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jeter (rama de Aser)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jefone (rama de Aser).  Fuente: 1 Crónicas 7:38
+- filiacion → Pispa.  Fuente: 1 Crónicas 7:38
+- filiacion → Ara.  Fuente: 1 Crónicas 7:38
+
+### Jefone (rama de Aser)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pispa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ara
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ula
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Ara (hijo de Ula).  Fuente: 1 Crónicas 7:39
+- filiacion → Haniel.  Fuente: 1 Crónicas 7:39
+- filiacion → Rezia.  Fuente: 1 Crónicas 7:39
+
+### Ara (hijo de Ula)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Haniel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rezia
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G53 · Benjamín: listas de Bela, Bequer y Jediael
+
+Fuente: 1 Crónicas 7:6–12
+
+Lista conservada separada de Génesis 46, Números 26 y 1 Crónicas 8. No se fuerzan identidades de nombres repetidos. El texto no identifica a su Aod con el juez.
+
+### Benjamín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Bela (lista de 1 Cr 7).  Fuente: 1 Crónicas 7:6
+- filiacion → Bequer.  Fuente: 1 Crónicas 7:6
+- filiacion → Jediael.  Fuente: 1 Crónicas 7:6
+
+### Bela (lista de 1 Cr 7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Esbón.  Fuente: 1 Crónicas 7:7
+- filiacion → Uzi (hijo de Bela).  Fuente: 1 Crónicas 7:7
+- filiacion → Uziel (hijo de Bela).  Fuente: 1 Crónicas 7:7
+- filiacion → Jerimot (hijo de Bela).  Fuente: 1 Crónicas 7:7
+- filiacion → Iri.  Fuente: 1 Crónicas 7:7
+
+### Bequer
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Zemira.  Fuente: 1 Crónicas 7:8
+- filiacion → Joás (hijo de Bequer).  Fuente: 1 Crónicas 7:8
+- filiacion → Eliezer (hijo de Bequer).  Fuente: 1 Crónicas 7:8
+- filiacion → Elioenai.  Fuente: 1 Crónicas 7:8
+- filiacion → Omri (hijo de Bequer).  Fuente: 1 Crónicas 7:8
+- filiacion → Jerimot (hijo de Bequer).  Fuente: 1 Crónicas 7:8
+- filiacion → Abías.  Fuente: 1 Crónicas 7:8
+- filiacion → Anatot.  Fuente: 1 Crónicas 7:8
+- filiacion → Alemet.  Fuente: 1 Crónicas 7:8
+
+### Jediael
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Bilhán.  Fuente: 1 Crónicas 7:10
+
+### Esbón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Uzi (hijo de Bela)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Uziel (hijo de Bela)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jerimot (hijo de Bela)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Iri
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zemira
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joás (hijo de Bequer)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliezer (hijo de Bequer)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elioenai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Omri (hijo de Bequer)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jerimot (hijo de Bequer)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Anatot
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Alemet
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bilhán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jeús.  Fuente: 1 Crónicas 7:10
+- filiacion → Benjamín (hijo de Bilhán).  Fuente: 1 Crónicas 7:10
+- filiacion → Aod (hijo de Bilhán).  Fuente: 1 Crónicas 7:10
+- filiacion → Quenaana.  Fuente: 1 Crónicas 7:10
+- filiacion → Zetán.  Fuente: 1 Crónicas 7:10
+- filiacion → Tarsis.  Fuente: 1 Crónicas 7:10
+- filiacion → Ahisahar.  Fuente: 1 Crónicas 7:10
+
+### Jeús
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Benjamín (hijo de Bilhán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aod (hijo de Bilhán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Quenaana
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zetán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tarsis
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahisahar
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ir
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Supim.  Fuente: 1 Crónicas 7:12
+- filiacion → Hupim.  Fuente: 1 Crónicas 7:12
+
+### Supim
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hupim
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aher
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Husim (hijo de Aher). Se conserva la KJV; la identificación tribal y las variantes exigen cautela. Fuente: 1 Crónicas 7:12
+
+### Husim (hijo de Aher)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G54 · Benjamín: casas de Saharaim, Elpaal y Jerusalén
+
+Fuente: 1 Crónicas 8:1–32
+
+Los grupos se conservan según la lista, con homónimos calificados. No se agrega una ascendencia concreta a Saharaim, Simhi, Sasac o Jeroham por su proximidad en el capítulo. Gera figura dos veces en 8:3–5; identidad no resuelta.
+
+### Benjamín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Bela (lista de 1 Cr 8).  Fuente: 1 Crónicas 8:1–2
+- filiacion → Asbel.  Fuente: 1 Crónicas 8:1–2
+- filiacion → Ahara.  Fuente: 1 Crónicas 8:1–2
+- filiacion → Noha.  Fuente: 1 Crónicas 8:1–2
+- filiacion → Rafa.  Fuente: 1 Crónicas 8:1–2
+
+### Bela (lista de 1 Cr 8)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Adar.  Fuente: 1 Crónicas 8:3–5
+- filiacion → Gera (mención de 8:3).  Fuente: 1 Crónicas 8:3–5
+- filiacion → Abihud.  Fuente: 1 Crónicas 8:3–5
+- filiacion → Abisúa.  Fuente: 1 Crónicas 8:3–5
+- filiacion → Naamán (hijo de Bela).  Fuente: 1 Crónicas 8:3–5
+- filiacion → Ahoa.  Fuente: 1 Crónicas 8:3–5
+- filiacion → Gera (mención de 8:5).  Fuente: 1 Crónicas 8:3–5
+- filiacion → Sefufán.  Fuente: 1 Crónicas 8:3–5
+- filiacion → Huram.  Fuente: 1 Crónicas 8:3–5
+
+### Asbel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahara
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Noha
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rafa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Adar
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gera (mención de 8:3)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- discutida → Gera (mención de 8:5). Dos menciones textuales; no dos personas seguras ni un padre y su hijo. Fuente: 1 Crónicas 8:1–32
+
+### Abihud
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abisúa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Naamán (hijo de Bela)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahoa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gera (mención de 8:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sefufán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Huram
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aod (casa de Geba)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Naamán (casa de Geba).  Fuente: 1 Crónicas 8:6–7
+- genealogia → Ahías (casa de Geba).  Fuente: 1 Crónicas 8:6–7
+- genealogia → Gera (casa de Geba).  Fuente: 1 Crónicas 8:6–7
+
+### Naamán (casa de Geba)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahías (casa de Geba)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gera (casa de Geba)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Uza.  Fuente: 1 Crónicas 8:7
+- filiacion → Ahihud.  Fuente: 1 Crónicas 8:7
+
+### Uza
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahihud
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Saharaim
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jobab (hijo de Saharaim).  Fuente: 1 Crónicas 8:8–10
+- filiacion → Zibia.  Fuente: 1 Crónicas 8:8–10
+- filiacion → Mesa.  Fuente: 1 Crónicas 8:8–10
+- filiacion → Malcam.  Fuente: 1 Crónicas 8:8–10
+- filiacion → Jeúz.  Fuente: 1 Crónicas 8:8–10
+- filiacion → Saquías.  Fuente: 1 Crónicas 8:8–10
+- filiacion → Mirma.  Fuente: 1 Crónicas 8:8–10
+- filiacion → Abitob.  Fuente: 1 Crónicas 8:11
+- filiacion → Elpaal.  Fuente: 1 Crónicas 8:11
+- union → Baara. Esposa nombrada; no se le atribuyen hijos no especificados. Fuente: 1 Crónicas 8:8
+
+### Jobab (hijo de Saharaim)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hodes
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Jobab (hijo de Saharaim).  Fuente: 1 Crónicas 8:8–10
+- materna → Zibia.  Fuente: 1 Crónicas 8:8–10
+- materna → Mesa.  Fuente: 1 Crónicas 8:8–10
+- materna → Malcam.  Fuente: 1 Crónicas 8:8–10
+- materna → Jeúz.  Fuente: 1 Crónicas 8:8–10
+- materna → Saquías.  Fuente: 1 Crónicas 8:8–10
+- materna → Mirma.  Fuente: 1 Crónicas 8:8–10
+
+### Zibia
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mesa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Malcam
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jeúz
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Saquías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mirma
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abitob
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Husim (esposa de Saharaim)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Abitob.  Fuente: 1 Crónicas 8:11
+- materna → Elpaal.  Fuente: 1 Crónicas 8:11
+
+### Elpaal
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Heber (hijo de Elpaal, v. 12).  Fuente: 1 Crónicas 8:12,17–18
+- filiacion → Misam.  Fuente: 1 Crónicas 8:12,17–18
+- filiacion → Semer.  Fuente: 1 Crónicas 8:12,17–18
+- filiacion → Zebadías (hijo de Elpaal).  Fuente: 1 Crónicas 8:12,17–18
+- filiacion → Mesulam (hijo de Elpaal).  Fuente: 1 Crónicas 8:12,17–18
+- filiacion → Ezequi.  Fuente: 1 Crónicas 8:12,17–18
+- filiacion → Heber (hijo de Elpaal, v. 17).  Fuente: 1 Crónicas 8:12,17–18
+- filiacion → Ismerai.  Fuente: 1 Crónicas 8:12,17–18
+- filiacion → Jezlías.  Fuente: 1 Crónicas 8:12,17–18
+- filiacion → Jobab (hijo de Elpaal).  Fuente: 1 Crónicas 8:12,17–18
+
+### Baara
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Heber (hijo de Elpaal, v. 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Misam
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Semer
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Constructor de Ono y Lod con sus aldeas (8:12).
+
+
+### Zebadías (hijo de Elpaal)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mesulam (hijo de Elpaal)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ezequi
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Heber (hijo de Elpaal, v. 17)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ismerai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jezlías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jobab (hijo de Elpaal)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bería (casa de Ajalón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Junto con Sema, jefe de casas de Ajalón; expulsan habitantes de Gat (8:13).
+
+- filiacion → Ahío (hijo de Bería).  Fuente: 1 Crónicas 8:14–16
+- filiacion → Sasac (mención de 8:14).  Fuente: 1 Crónicas 8:14–16
+- filiacion → Jeremot.  Fuente: 1 Crónicas 8:14–16
+- filiacion → Zebadías (hijo de Bería).  Fuente: 1 Crónicas 8:14–16
+- filiacion → Arad.  Fuente: 1 Crónicas 8:14–16
+- filiacion → Ader.  Fuente: 1 Crónicas 8:14–16
+- filiacion → Micael.  Fuente: 1 Crónicas 8:14–16
+- filiacion → Ispa.  Fuente: 1 Crónicas 8:14–16
+- filiacion → Joha.  Fuente: 1 Crónicas 8:14–16
+
+### Ahío (hijo de Bería)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sasac (mención de 8:14)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- discutida → Sasac (casa de 8:22–25). Correspondencia posible dentro de la lista; no se da por demostrada. Fuente: 1 Crónicas 8:1–32
+
+### Jeremot
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zebadías (hijo de Bería)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Arad
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ader
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Micael
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ispa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joha
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sema (casa de Ajalón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Copartícipe de la acción de 8:13; su identificación con Simhi no se impone.
+
+
+### Simhi
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jaquim.  Fuente: 1 Crónicas 8:19–21
+- filiacion → Zicri (hijo de Simhi).  Fuente: 1 Crónicas 8:19–21
+- filiacion → Zabdi.  Fuente: 1 Crónicas 8:19–21
+- filiacion → Elienai.  Fuente: 1 Crónicas 8:19–21
+- filiacion → Ziltai.  Fuente: 1 Crónicas 8:19–21
+- filiacion → Eliel (hijo de Simhi).  Fuente: 1 Crónicas 8:19–21
+- filiacion → Adaías.  Fuente: 1 Crónicas 8:19–21
+- filiacion → Beraías.  Fuente: 1 Crónicas 8:19–21
+- filiacion → Simrat.  Fuente: 1 Crónicas 8:19–21
+
+### Jaquim
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zicri (hijo de Simhi)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zabdi
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elienai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ziltai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliel (hijo de Simhi)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Adaías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Beraías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Simrat
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sasac (casa de 8:22–25)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Ispán.  Fuente: 1 Crónicas 8:22–25
+- filiacion → Heber (hijo de Sasac).  Fuente: 1 Crónicas 8:22–25
+- filiacion → Eliel (hijo de Sasac).  Fuente: 1 Crónicas 8:22–25
+- filiacion → Abdón.  Fuente: 1 Crónicas 8:22–25
+- filiacion → Zicri (hijo de Sasac).  Fuente: 1 Crónicas 8:22–25
+- filiacion → Hanán.  Fuente: 1 Crónicas 8:22–25
+- filiacion → Hananías.  Fuente: 1 Crónicas 8:22–25
+- filiacion → Elam.  Fuente: 1 Crónicas 8:22–25
+- filiacion → Anatotías.  Fuente: 1 Crónicas 8:22–25
+- filiacion → Ifdaías.  Fuente: 1 Crónicas 8:22–25
+- filiacion → Penuel.  Fuente: 1 Crónicas 8:22–25
+
+### Ispán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Heber (hijo de Sasac)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliel (hijo de Sasac)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abdón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zicri (hijo de Sasac)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hanán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hananías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elam
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Anatotías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ifdaías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Penuel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jeroham (casa de Jerusalén)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Samserai.  Fuente: 1 Crónicas 8:26–27
+- filiacion → Seharías.  Fuente: 1 Crónicas 8:26–27
+- filiacion → Atalías.  Fuente: 1 Crónicas 8:26–27
+- filiacion → Jaresías.  Fuente: 1 Crónicas 8:26–27
+- filiacion → Elías.  Fuente: 1 Crónicas 8:26–27
+- filiacion → Zicri (hijo de Jeroham).  Fuente: 1 Crónicas 8:26–27
+
+### Samserai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Seharías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Atalías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jaresías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zicri (hijo de Jeroham)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Padre de Gabaón (8:29)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- union → Maaca (esposa del padre de Gabaón).  Fuente: 1 Crónicas 8:29
+- filiacion → Abdón (primogénito de Gabaón).  Fuente: 1 Crónicas 8:30–31
+- filiacion → Zur.  Fuente: 1 Crónicas 8:30–31
+- filiacion → Cis (casa de Gabaón).  Fuente: 1 Crónicas 8:30–31
+- filiacion → Baal.  Fuente: 1 Crónicas 8:30–31
+- filiacion → Nadab.  Fuente: 1 Crónicas 8:30–31
+- filiacion → Gedor.  Fuente: 1 Crónicas 8:30–31
+- filiacion → Ahío (casa de Gabaón).  Fuente: 1 Crónicas 8:30–31
+- filiacion → Zaquer.  Fuente: 1 Crónicas 8:30–31
+
+### Maaca (esposa del padre de Gabaón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abdón (primogénito de Gabaón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zur
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cis (casa de Gabaón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Baal
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nadab
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gedor
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahío (casa de Gabaón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zaquer
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Miclot
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Simea.  Fuente: 1 Crónicas 8:32
+
+### Simea
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G55 · Rubén: Eliab, Datán, Abiram y la casa de Beera
+
+Fuente: Números 26:5–11; 1 Crónicas 5:3–10
+
+Se distinguen los dos grupos textuales. Joel no recibe un padre inventado. Sema de 5:8 y Semaías de 5:4 no se fusionan automáticamente.
+
+### Rubén
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Hanoc.  Fuente: Números 26:5–6
+- filiacion → Falú.  Fuente: Números 26:5–6
+- filiacion → Hezrón (rubenita).  Fuente: Números 26:5–6
+- filiacion → Carmi (rubenita).  Fuente: Números 26:5–6
+
+### Hanoc
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Falú
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Eliab (rubenita).  Fuente: Números 26:8
+
+### Hezrón (rubenita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Carmi (rubenita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliab (rubenita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Nemuel (hijo de Eliab).  Fuente: Números 26:9
+- filiacion → Datán.  Fuente: Números 26:9
+- filiacion → Abiram.  Fuente: Números 26:9
+
+### Nemuel (hijo de Eliab)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Datán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Participa en la rebelión contra Moisés y Aarón; Nm 26:9–11 recuerda el juicio y distingue la supervivencia de los hijos de Coré.
+
+
+### Abiram
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Participa en la rebelión contra Moisés y Aarón; Nm 26:9–11 recuerda el juicio y distingue la supervivencia de los hijos de Coré.
+
+
+### Joel (rama de Rubén)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Semaías.  Fuente: 1 Crónicas 5:4–6
+- genealogia → Sema.  Fuente: 1 Crónicas 5:8
+
+### Semaías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Gog.  Fuente: 1 Crónicas 5:4–6
+
+### Gog
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Simei.  Fuente: 1 Crónicas 5:4–6
+
+### Simei
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Micaía.  Fuente: 1 Crónicas 5:4–6
+
+### Micaía
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Reaía.  Fuente: 1 Crónicas 5:4–6
+
+### Reaía
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Baal (antepasado de Beera).  Fuente: 1 Crónicas 5:4–6
+
+### Baal (antepasado de Beera)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Beera (príncipe rubenita).  Fuente: 1 Crónicas 5:4–6
+
+### Beera (príncipe rubenita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Deportado por Tiglat-pileser (1 Cr 5:6); no se calcula fecha de nacimiento a partir del exilio.
+
+
+### Sema
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Azaz.  Fuente: 1 Crónicas 5:8
+
+### Azaz
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Bela (rubenita).  Fuente: 1 Crónicas 5:8
+
+### Bela (rubenita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jeiel (jefe rubenita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Nombrado entre los jefes y parientes de la casa; paternidad no especificada (1 Cr 5:7).
+
+
+### Zacarías (jefe rubenita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Nombrado entre los jefes y parientes de la casa; paternidad no especificada (1 Cr 5:7).
+
+
+## G56 · Gad y Manasés oriental: jefes y deportación
+
+Fuente: 1 Crónicas 5:11–26
+
+Los censos se sitúan en los días de Jotam y Jeroboam (5:17), sin asignar nacimientos. Galaad y Micael de esta cadena no se fusionan con homónimos de otras tribus.
+
+### Buz (rama de Gad)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Jahdo.  Fuente: 1 Crónicas 5:14
+
+### Jahdo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Jesisai.  Fuente: 1 Crónicas 5:14
+
+### Jesisai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Micael (antepasado gadita).  Fuente: 1 Crónicas 5:14
+
+### Micael (antepasado gadita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Galaad (antepasado gadita).  Fuente: 1 Crónicas 5:14
+
+### Galaad (antepasado gadita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Jaroa.  Fuente: 1 Crónicas 5:14
+
+### Jaroa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Huri.  Fuente: 1 Crónicas 5:14
+
+### Huri
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Abihail (gadita).  Fuente: 1 Crónicas 5:14
+
+### Abihail (gadita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Micael (hijo de Abihail).  Fuente: 1 Crónicas 5:13–14
+- genealogia → Mesulam.  Fuente: 1 Crónicas 5:13–14
+- genealogia → Seba.  Fuente: 1 Crónicas 5:13–14
+- genealogia → Jorai.  Fuente: 1 Crónicas 5:13–14
+- genealogia → Jacán.  Fuente: 1 Crónicas 5:13–14
+- genealogia → Zía.  Fuente: 1 Crónicas 5:13–14
+- genealogia → Heber (gadita).  Fuente: 1 Crónicas 5:13–14
+
+### Micael (hijo de Abihail)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mesulam
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Seba
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jorai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jacán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zía
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Heber (gadita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Guni (rama de Gad)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Abdiel.  Fuente: 1 Crónicas 5:15
+
+### Abdiel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Ahí (jefe gadita).  Fuente: 1 Crónicas 5:15
+
+### Ahí (jefe gadita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joel (jefe gadita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Jefe nombrado en 1 Cr 5:12; no se establece padre inmediato.
+
+
+### Safam
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Jefe nombrado en 1 Cr 5:12; no se establece padre inmediato.
+
+
+### Jaanai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Jefe nombrado en 1 Cr 5:12; no se establece padre inmediato.
+
+
+### Safat (en Basán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Jefe nombrado en 1 Cr 5:12; no se establece padre inmediato.
+
+
+### Manasés oriental (tribu)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Con Rubén y Gad, deportada a Halah, Habor, Hara y el río Gozán según 5:26.
+
+- colectivo → Efer. Jefe de casa; pertenencia tribal, no hijo inmediato del patriarca. Fuente: 1 Crónicas 5:23–24
+- colectivo → Isi. Jefe de casa; pertenencia tribal, no hijo inmediato del patriarca. Fuente: 1 Crónicas 5:23–24
+- colectivo → Eliel. Jefe de casa; pertenencia tribal, no hijo inmediato del patriarca. Fuente: 1 Crónicas 5:23–24
+- colectivo → Azriel. Jefe de casa; pertenencia tribal, no hijo inmediato del patriarca. Fuente: 1 Crónicas 5:23–24
+- colectivo → Jeremías (jefe manasita). Jefe de casa; pertenencia tribal, no hijo inmediato del patriarca. Fuente: 1 Crónicas 5:23–24
+- colectivo → Hodavías. Jefe de casa; pertenencia tribal, no hijo inmediato del patriarca. Fuente: 1 Crónicas 5:23–24
+- colectivo → Jahdiel. Jefe de casa; pertenencia tribal, no hijo inmediato del patriarca. Fuente: 1 Crónicas 5:23–24
+
+### Efer
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Isi
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Azriel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jeremías (jefe manasita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hodavías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jahdiel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G57 · Manasés: Maaca, Hamolequet y ramas de Semida
+
+Fuente: 1 Crónicas 7:14–19
+
+El antecedente de varios pronombres y la relación de Maaca con Hupim/Supim son difíciles en la KJV. Se conservan por separado y con advertencia. No se convierte a Zelofehad en hijo inmediato de Maquir contra Números 26.
+
+### Manasés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Maquir.  Fuente: 1 Crónicas 7:14
+- genealogia → Asriel (lista de 1 Cr 7). Listado bajo Manasés; Nm 26:31 lo enumera bajo Galaad. No imponer paternidad inmediata. Fuente: 1 Crónicas 7:14
+
+### Maquir
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Galaad (hijo de Maquir).  Fuente: 1 Crónicas 7:14
+- union → Maaca (esposa de Maquir).  Fuente: 1 Crónicas 7:16
+- filiacion → Peres.  Fuente: 1 Crónicas 7:16
+
+### Concubina aramea de Manasés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Maquir.  Fuente: 1 Crónicas 7:14
+
+### Asriel (lista de 1 Cr 7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Galaad (hijo de Maquir)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Maaca (esposa de Maquir)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Peres.  Fuente: 1 Crónicas 7:16
+
+### Peres
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- hermanos → Seres.  Fuente: 1 Crónicas 7:16
+
+### Seres
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Ulam (rama de Maquir).  Fuente: 1 Crónicas 7:16
+- genealogia → Raquem.  Fuente: 1 Crónicas 7:16
+
+### Ulam (rama de Maquir)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Bedán.  Fuente: 1 Crónicas 7:17
+
+### Raquem
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bedán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hamolequet
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Descrita como «su hermana» (7:18); no se fuerza el antecedente ni se establece aquí un padre.
+
+- materna → Isod.  Fuente: 1 Crónicas 7:18
+- materna → Abiezer (hijo de Hamolequet).  Fuente: 1 Crónicas 7:18
+- materna → Mahala.  Fuente: 1 Crónicas 7:18
+
+### Isod
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abiezer (hijo de Hamolequet)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mahala
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Semida
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Ahián.  Fuente: 1 Crónicas 7:19
+- filiacion → Siquem (hijo de Semida).  Fuente: 1 Crónicas 7:19
+- filiacion → Likhi.  Fuente: 1 Crónicas 7:19
+- filiacion → Aniam.  Fuente: 1 Crónicas 7:19
+
+### Ahián
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Siquem (hijo de Semida)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Likhi
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aniam
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G58 · Números 26: familias censadas y variantes de nombres
+
+Fuente: Números 26:5–62
+
+Registro de familias y efectivos, no cumpleaños ni lista de hijos nacidos en Moab. Cada nodo familiar representa un colectivo. Se conservan variantes frente a Génesis 46 y Crónicas; no se borran nombres de las listas anteriores.
+
+### Rubén (censo de Moab)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+43,730 censados; varones aptos para la guerra, desde veinte años (26:2).
+
+- colectivo → Familia de Hanoc · Rubén. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:5–7
+- colectivo → Familia de Falú · Rubén. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:5–7
+- colectivo → Familia de Hezrón · Rubén. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:5–7
+- colectivo → Familia de Carmi · Rubén. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:5–7
+
+### Familia de Hanoc · Rubén
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Falú · Rubén
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Hezrón · Rubén
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Carmi · Rubén
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Simeón (censo de Moab)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+22,200 censados; varones aptos para la guerra, desde veinte años (26:2).
+
+- colectivo → Familia de Nemuel · Simeón. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:12–14
+- colectivo → Familia de Jamín · Simeón. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:12–14
+- colectivo → Familia de Jaquín · Simeón. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:12–14
+- colectivo → Familia de Zera · Simeón. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:12–14
+- colectivo → Familia de Saúl · Simeón. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:12–14
+
+### Familia de Nemuel · Simeón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Jamín · Simeón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Jaquín · Simeón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Zera · Simeón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Saúl · Simeón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gad (censo de Moab)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+40,500 censados; varones aptos para la guerra, desde veinte años (26:2).
+
+- colectivo → Familia de Zefón · Gad. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:15–18
+- colectivo → Familia de Hagui · Gad. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:15–18
+- colectivo → Familia de Suni · Gad. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:15–18
+- colectivo → Familia de Ozni · Gad. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:15–18
+- colectivo → Familia de Eri · Gad. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:15–18
+- colectivo → Familia de Arod · Gad. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:15–18
+- colectivo → Familia de Areli · Gad. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:15–18
+
+### Familia de Zefón · Gad
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Hagui · Gad
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Suni · Gad
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Ozni · Gad
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Eri · Gad
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Arod · Gad
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Areli · Gad
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Judá (censo de Moab)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+76.500 censados. Hezrón y Hamul proceden de Fares (26:21); los nodos del registro no afirman que sean hijos inmediatos de Judá. Er y Onán habían muerto en Canaán.
+
+- colectivo → Familia de Sela · Judá. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:19–22
+- colectivo → Familia de Fares · Judá. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:19–22
+- colectivo → Familia de Zera · Judá. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:19–22
+- colectivo → Familia de Hezrón · Judá. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:19–22
+- colectivo → Familia de Hamul · Judá. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:19–22
+
+### Familia de Sela · Judá
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Fares · Judá
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Zera · Judá
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Hezrón · Judá
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Hamul · Judá
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Isacar (censo de Moab)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+64,300 censados; varones aptos para la guerra, desde veinte años (26:2).
+
+- colectivo → Familia de Tola · Isacar. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:23–25
+- colectivo → Familia de Fúa · Isacar. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:23–25
+- colectivo → Familia de Jasub · Isacar. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:23–25
+- colectivo → Familia de Simrón · Isacar. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:23–25
+
+### Familia de Tola · Isacar
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Fúa · Isacar
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Jasub · Isacar
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Simrón · Isacar
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zabulón (censo de Moab)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+60,500 censados; varones aptos para la guerra, desde veinte años (26:2).
+
+- colectivo → Familia de Sered · Zabulón. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:26–27
+- colectivo → Familia de Elón · Zabulón. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:26–27
+- colectivo → Familia de Jahleel · Zabulón. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:26–27
+
+### Familia de Sered · Zabulón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Elón · Zabulón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Jahleel · Zabulón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Manasés (censo de Moab)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+52.700 censados. Maquir engendra a Galaad; 26:30–32 enumera las ramas bajo Galaad. Véase también G20.
+
+- colectivo → Familia de Maquir · Manasés. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:29–34
+- colectivo → Familia de Galaad · Manasés. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:29–34
+- colectivo → Familia de Jezer · Manasés. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:29–34
+- colectivo → Familia de Helec · Manasés. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:29–34
+- colectivo → Familia de Asriel · Manasés. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:29–34
+- colectivo → Familia de Siquem · Manasés. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:29–34
+- colectivo → Familia de Semida · Manasés. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:29–34
+- colectivo → Familia de Hefer · Manasés. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:29–34
+
+### Familia de Maquir · Manasés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Galaad · Manasés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Jezer · Manasés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Helec · Manasés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Asriel · Manasés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Siquem · Manasés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Semida · Manasés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Hefer · Manasés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Efraín (censo de Moab)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+32.500 censados. Erán se enumera bajo Sutela (26:36).
+
+- colectivo → Familia de Sutela · Efraín. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:35–37
+- colectivo → Familia de Bequer · Efraín. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:35–37
+- colectivo → Familia de Tahán · Efraín. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:35–37
+- colectivo → Familia de Erán · Efraín. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:35–37
+
+### Familia de Sutela · Efraín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Bequer · Efraín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Tahán · Efraín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Erán · Efraín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Benjamín (censo de Moab)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+45.600 censados. Ard y Naamán figuran como hijos de Bela (26:40), a diferencia de la disposición de Gn 46.
+
+- colectivo → Familia de Bela · Benjamín. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:38–41
+- colectivo → Familia de Asbel · Benjamín. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:38–41
+- colectivo → Familia de Ahiram · Benjamín. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:38–41
+- colectivo → Familia de Sufam · Benjamín. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:38–41
+- colectivo → Familia de Hufam · Benjamín. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:38–41
+- colectivo → Familia de Ard · Benjamín. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:38–41
+- colectivo → Familia de Naamán · Benjamín. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:38–41
+
+### Familia de Bela · Benjamín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Asbel · Benjamín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Ahiram · Benjamín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Sufam · Benjamín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Hufam · Benjamín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Ard · Benjamín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Naamán · Benjamín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Dan (censo de Moab)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+64,400 censados; varones aptos para la guerra, desde veinte años (26:2).
+
+- colectivo → Familia de Suham · Dan. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:42–43
+
+### Familia de Suham · Dan
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aser (censo de Moab)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+53.400 censados. Heber y Malquiel bajo Bería; Sera aparece como hija de Aser (26:45–46).
+
+- colectivo → Familia de Imna · Aser. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:44–47
+- colectivo → Familia de Isúi · Aser. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:44–47
+- colectivo → Familia de Bería · Aser. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:44–47
+- colectivo → Familia de Heber · Aser. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:44–47
+- colectivo → Familia de Malquiel · Aser. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:44–47
+
+### Familia de Imna · Aser
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Isúi · Aser
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Bería · Aser
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Heber · Aser
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Malquiel · Aser
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Neftalí (censo de Moab)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+45,400 censados; varones aptos para la guerra, desde veinte años (26:2).
+
+- colectivo → Familia de Jahzeel · Neftalí. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:48–50
+- colectivo → Familia de Guni · Neftalí. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:48–50
+- colectivo → Familia de Jezer · Neftalí. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:48–50
+- colectivo → Familia de Silem · Neftalí. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:48–50
+
+### Familia de Jahzeel · Neftalí
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Guni · Neftalí
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Jezer · Neftalí
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Silem · Neftalí
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gersonitas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Leví (censo separado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+23.000 varones desde un mes; no sumarlos al censo militar de 601.730 (26:51,62).
+
+- colectivo → Gersonitas. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:57–62
+- colectivo → Coatitas. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:57–62
+- colectivo → Meraritas. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:57–62
+- colectivo → Libnitas. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:57–62
+- colectivo → Hebronitas. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:57–62
+- colectivo → Mahlitas. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:57–62
+- colectivo → Musitas. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:57–62
+- colectivo → Corahítas. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:57–62
+
+### Coatitas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Meraritas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Libnitas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hebronitas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mahlitas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Musitas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Corahítas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G59 · Safán: reforma, protección de Jeremías y Gedalías
+
+Fuente: 2 Reyes 22:3,12; Jeremías 26:24; 29:3; 36:10–25; 40:5; 41:1–3; Ezequiel 8:11
+
+La casa conecta varias generaciones y acontecimientos. Jaazanías hijo de Safán se distingue de los Jaazanías de Jeremías. Los nombres repetidos no autorizan fusionar a todos sus portadores.
+
+Elena G. White — PK 393.1 · Prophets and Kings, cap. 33: White describe a Hilcías entregando el libro a Safán y a este llevándolo al rey; aporta contexto a la función pública de la familia.
+
+Elena G. White — PK 460.2 · Prophets and Kings, cap. 37: White relata el nombramiento y asesinato de Gedalías y la posterior huida del remanente a Egipto.
+
+Acontecimiento relacionado: E94 · Jeremías y Ezequiel (Exilio y últimos años de Judá).
+
+Acontecimiento relacionado: E96 · Gedalías y huida a Egipto (Después de la destrucción).
+
+### Mesulam (abuelo de Safán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Azalías.  Fuente: 2 Reyes 22:3
+
+### Azalías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Safán.  Fuente: 2 Reyes 22:3
+
+### Safán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Lee el libro de la ley ante Josías durante la reforma (2 R 22).
+
+- filiacion → Ahicam.  Fuente: Jeremías 26:24
+- filiacion → Elasa.  Fuente: Jeremías 29:3
+- filiacion → Gemarías (hijo de Safán).  Fuente: Jeremías 36:10
+- filiacion → Jaazanías (hijo de Safán).  Fuente: Ezequiel 8:11
+
+### Ahicam
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Protege a Jeremías frente a la ejecución (Jer 26:24).
+
+- filiacion → Gedalías (gobernador).  Fuente: Jeremías 40:5
+
+### Elasa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Lleva la carta de Jeremías a los deportados junto con Gemarías hijo de Hilcías (Jer 29:3).
+
+
+### Gemarías (hijo de Safán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+En su cámara se lee el rollo; pide a Joacim que no lo queme (Jer 36:10,25).
+
+- filiacion → Micaías (nieto de Safán).  Fuente: Jeremías 36:11
+
+### Jaazanías (hijo de Safán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Aparece entre los setenta ancianos en la visión de las prácticas idolátricas de Jerusalén (Ez 8:11). No se identifica con el recabita.
+
+
+### Micaías (nieto de Safán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Oye a Baruc e informa a los príncipes (Jer 36:11–13).
+
+
+### Gedalías (gobernador)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Nombrado sobre el remanente; asesinado por Ismael hijo de Netanías. No es Gedalías hijo de Jedutún.
+
+
+## G60 · Baruc, Seraías y los parientes de Jeremías
+
+Fuente: Jeremías 1:1; 32:7–12; 36:4,32; 51:59–64
+
+Hilcías padre de Jeremías no se identifica automáticamente con el sumo sacerdote de Josías. Salum es tío del profeta; el texto no especifica aquí por cuál progenitor. La fraternidad de Baruc y Seraías se desprende de compartir padre y abuelo en las referencias.
+
+Elena G. White — PK 432.3; 437.1 · Prophets and Kings, cap. 35: White presenta a Baruc como colaborador fiel de Jeremías y relata la redacción inicial y la reproducción ampliada del rollo quemado.
+
+Acontecimiento relacionado: E94 · Jeremías y Ezequiel (Exilio y últimos años de Judá).
+
+### Maasías (abuelo de Baruc)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Nerías.  Fuente: Jeremías 32:12
+
+### Nerías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Baruc.  Fuente: Jeremías 32:12
+- filiacion → Seraías (hijo de Nerías).  Fuente: Jeremías 51:59
+
+### Baruc
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Escriba que registra y lee las palabras de Jeremías; vuelve a escribir el rollo destruido por Joacim (Jer 36:4,32).
+
+
+### Seraías (hijo de Nerías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Lleva a Babilonia el anuncio escrito contra ella; debe leerlo y hundir el rollo en el Éufrates, en el cuarto año de Sedequías (Jer 51:59–64).
+
+
+### Hilcías (padre de Jeremías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jeremías (profeta).  Fuente: Jeremías 1:1
+
+### Jeremías (profeta)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Salum (tío de Jeremías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Hanameel.  Fuente: Jeremías 32:7
+- parentesco → Jeremías (profeta). Tío, sin decidir rama paterna o materna. Fuente: Jeremías 32:7
+
+### Hanameel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Vende a Jeremías el campo de Anatot; Baruc recibe el documento de compra (Jer 32:7–12).
+
+
+## G61 · Casas de escribas, Hulda y dirigentes del remanente
+
+Fuente: 2 Reyes 22:12–14; Jeremías 29:3; 35:4; 36:12–14,26; 40:8; 41:1
+
+Ramas pequeñas conservadas aunque no se conozcan sus eslabones posteriores. Hulda se conecta con su esposo; no se le atribuyen hijos. Las diferentes personas llamadas Seraías, Micaías o Maasías se mantienen calificadas.
+
+Acontecimiento relacionado: E94 · Jeremías y Ezequiel (Exilio y últimos años de Judá).
+
+Acontecimiento relacionado: E96 · Gedalías y huida a Egipto (Después de la destrucción).
+
+### Harhas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Ticva.  Fuente: 2 Reyes 22:14
+
+### Ticva
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Salum (esposo de Hulda).  Fuente: 2 Reyes 22:14
+
+### Salum (esposo de Hulda)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- union → Hulda.  Fuente: 2 Reyes 22:14
+
+### Hulda
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Profetisa consultada tras el hallazgo del libro de la ley (2 R 22:14–20).
+
+
+### Micaías (padre de Acbor)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Acbor.  Fuente: 2 Reyes 22:12; Jeremías 36:12
+
+### Acbor
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Elnatán.  Fuente: 2 Reyes 22:12; Jeremías 36:12
+
+### Elnatán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cusi
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Selemías (abuelo de Jehudí).  Fuente: Jeremías 36:14
+
+### Selemías (abuelo de Jehudí)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Netanías (padre de Jehudí).  Fuente: Jeremías 36:14
+
+### Netanías (padre de Jehudí)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Jehudí.  Fuente: Jeremías 36:14
+
+### Jehudí
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elisama (antepasado de Ismael)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Netanías (padre de Ismael).  Fuente: Jeremías 41:1
+
+### Netanías (padre de Ismael)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Ismael (asesino de Gedalías).  Fuente: Jeremías 41:1
+
+### Ismael (asesino de Gedalías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hilcías (padre de Gemarías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Gemarías (enviado a Babilonia).  Fuente: Jeremías 29:3
+
+### Gemarías (enviado a Babilonia)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Semaías (padre de Delaías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Delaías.  Fuente: Jeremías 36:12
+
+### Delaías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hananías (padre de Sedequías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Sedequías (príncipe de Jer 36).  Fuente: Jeremías 36:12
+
+### Sedequías (príncipe de Jer 36)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Azriel (padre de Seraías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Seraías (agente de Joacim).  Fuente: Jeremías 36:26
+
+### Seraías (agente de Joacim)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abdeel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Selemías (agente de Joacim).  Fuente: Jeremías 36:26
+
+### Selemías (agente de Joacim)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Carea
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Johanán (hijo de Carea).  Fuente: Jeremías 40:8
+- filiacion → Jonatán (hijo de Carea).  Fuente: Jeremías 40:8
+
+### Johanán (hijo de Carea)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jonatán (hijo de Carea)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tanhumet
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Seraías (hijo de Tanhumet).  Fuente: Jeremías 40:8
+
+### Seraías (hijo de Tanhumet)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G62 · Recabitas: Jonadab y la continuidad de su casa
+
+Fuente: 2 Reyes 10:15–23; Jeremías 35; 1 Crónicas 2:55
+
+Entre Jonadab y los recabitas de Jeremías hay generaciones no enumeradas. La obediencia colectiva no demuestra una cadena de padres inmediata. Jeremías hijo de Habasinías no es identificado con el profeta.
+
+Elena G. White — PK 423.2–424.1 · Prophets and Kings, cap. 34: White contrasta la fidelidad de los recabitas a la orden de su antepasado con la desobediencia de Judá a las advertencias divinas.
+
+Acontecimiento relacionado: E94 · Jeremías y Ezequiel (Exilio y últimos años de Judá).
+
+### Recab (padre de Jonadab)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jonadab / Jonadab hijo de Recab.  Fuente: 2 Reyes 10:15
+
+### Jonadab / Jonadab hijo de Recab
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Se encuentra con Jehú y participa en su campaña contra el culto a Baal (2 R 10:15–23).
+
+- descendencia → Casa de los recabitas. Descendencia colectiva con generaciones intermedias no enumeradas. Fuente: Jeremías 35:6–10
+
+### Casa de los recabitas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Incluye esposas, hijos e hijas. Entran en Jerusalén ante la amenaza caldea; mantienen la norma de su antepasado (Jer 35:8–11).
+
+- colectivo → Jaazanías (recabita). Pertenencia a la casa; no se identifican los padres intermedios desde Jonadab. Fuente: Jeremías 35:2–3
+
+### Habasinías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Jeremías (padre de Jaazanías).  Fuente: Jeremías 35:3
+
+### Jeremías (padre de Jaazanías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Jaazanías (recabita).  Fuente: Jeremías 35:3
+
+### Jaazanías (recabita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Hijos de Jaazanías. Grupo; no una sola persona ni un hijo inmediato. Fuente: 2 Reyes 10:15–23; Jeremías 35; 1 Crónicas 2:55
+- hermanos → Hermanos de Jaazanías. Grupo sin nombres; no generación posterior. Fuente: Jeremías 35:3
+
+### Hijos de Jaazanías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Presentes en la prueba del vino; sin nombres ni número (35:3).
+
+
+### Hermanos de Jaazanías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G63 · Retorno: casas y poblaciones de Esdras 2 y Nehemías 7
+
+Fuente: Esdras 2:1–35; Nehemías 7:5–38
+
+Registro colectivo, no lista de padres e hijos individuales. Se muestran ambos censos sin forzar una explicación de las diferencias. Las correspondencias con cambio de nombre se indican como comparación de listas, no identidad personal probada.
+
+Acontecimiento relacionado: E101 · Permiso y reconstrucción inicial (Primer año de Ciro; retorno).
+
+### Paros (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 2172. Nehemías 7: 2172. No son hijos inmediatos de una sola persona.
+
+
+### Registro del primer retorno
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Ambos registros dan una congregación de 42.360, además de 7.337 siervos y siervas. Los cantores/cantoras adicionales son 200 en Esd 2:65 y 245 en Neh 7:67. No se iguala la suma de partidas al total mediante personas inventadas.
+
+- colectivo → Paros (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Sefatías (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Ara (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Pahat-moab: casas de Jesúa y Joab (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Elam (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Zatu (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Zacai (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Bani / Binúi (comparación) (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Bebai (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Azgad (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Adonicam (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Bigvai (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Adín (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Ater de Ezequías (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Bezai (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Jora / Harif (comparación) (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Hasum (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Gibar / Gabaón (comparación) (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Belén y Netofa (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Anatot (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Azmavet / Bet-azmavet (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Quiriat-jearim, Cefira y Beerot (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Ramá y Geba (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Micmas (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Betel y Hai (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Nebo / el otro Nebo (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Magbis (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → El otro Elam (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Harim (laicos) (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Lod, Hadid y Ono (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Jericó (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+- colectivo → Senaa (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
+
+### Sefatías (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 372. Nehemías 7: 372. No son hijos inmediatos de una sola persona.
+
+
+### Ara (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 775. Nehemías 7: 652. No son hijos inmediatos de una sola persona.
+
+
+### Pahat-moab: casas de Jesúa y Joab (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 2812. Nehemías 7: 2818. No son hijos inmediatos de una sola persona.
+
+
+### Elam (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 1254. Nehemías 7: 1254. No son hijos inmediatos de una sola persona.
+
+
+### Zatu (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 945. Nehemías 7: 845. No son hijos inmediatos de una sola persona.
+
+
+### Zacai (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 760. Nehemías 7: 760. No son hijos inmediatos de una sola persona.
+
+
+### Bani / Binúi (comparación) (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 642. Nehemías 7: 648. No son hijos inmediatos de una sola persona.
+
+
+### Bebai (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 623. Nehemías 7: 628. No son hijos inmediatos de una sola persona.
+
+
+### Azgad (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 1222. Nehemías 7: 2322. No son hijos inmediatos de una sola persona.
+
+
+### Adonicam (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 666. Nehemías 7: 667. No son hijos inmediatos de una sola persona.
+
+
+### Bigvai (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 2056. Nehemías 7: 2067. No son hijos inmediatos de una sola persona.
+
+
+### Adín (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 454. Nehemías 7: 655. No son hijos inmediatos de una sola persona.
+
+
+### Ater de Ezequías (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 98. Nehemías 7: 98. No son hijos inmediatos de una sola persona.
+
+
+### Bezai (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 323. Nehemías 7: 324. No son hijos inmediatos de una sola persona.
+
+
+### Jora / Harif (comparación) (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 112. Nehemías 7: 112. No son hijos inmediatos de una sola persona.
+
+
+### Hasum (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 223. Nehemías 7: 328. No son hijos inmediatos de una sola persona.
+
+
+### Gibar / Gabaón (comparación) (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 95. Nehemías 7: 95. No son hijos inmediatos de una sola persona.
+
+
+### Belén y Netofa (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras distingue Belén: 123 y Netofa: 56 (2:21–22); se conserva la suma 179 solo para comparar con la entrada conjunta de 188 en Neh 7:26.
+
+
+### Anatot (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 128. Nehemías 7: 128. No son hijos inmediatos de una sola persona.
+
+
+### Azmavet / Bet-azmavet (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 42. Nehemías 7: 42. No son hijos inmediatos de una sola persona.
+
+
+### Quiriat-jearim, Cefira y Beerot (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 743. Nehemías 7: 743. No son hijos inmediatos de una sola persona.
+
+
+### Ramá y Geba (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 621. Nehemías 7: 621. No son hijos inmediatos de una sola persona.
+
+
+### Micmas (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 122. Nehemías 7: 122. No son hijos inmediatos de una sola persona.
+
+
+### Betel y Hai (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 223. Nehemías 7: 123. No son hijos inmediatos de una sola persona.
+
+
+### Nebo / el otro Nebo (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 52. Nehemías 7: 52. No son hijos inmediatos de una sola persona.
+
+
+### Magbis (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 156. Nehemías 7: sin entrada homóloga explícita. No son hijos inmediatos de una sola persona.
+
+
+### El otro Elam (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 1254. Nehemías 7: 1254. No son hijos inmediatos de una sola persona.
+
+
+### Harim (laicos) (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 320. Nehemías 7: 320. No son hijos inmediatos de una sola persona.
+
+
+### Lod, Hadid y Ono (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 725. Nehemías 7: 721. No son hijos inmediatos de una sola persona.
+
+
+### Jericó (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 345. Nehemías 7: 345. No son hijos inmediatos de una sola persona.
+
+
+### Senaa (casa o población)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esdras 2: 3630. Nehemías 7: 3930. No son hijos inmediatos de una sola persona.
+
+
+## G64 · Retorno: sacerdotes, levitas, cantores y porteros
+
+Fuente: Esdras 2:36–42; Nehemías 7:39–45
+
+Casas y oficios colectivos. Los nombres de fundadores no identifican automáticamente a un contemporáneo de Zorobabel. Se conservan las diferencias de efectivos.
+
+Acontecimiento relacionado: E101 · Permiso y reconstrucción inicial (Primer año de Ciro; retorno).
+
+Acontecimiento relacionado: E106 · Nehemías y los muros (Año 20 de Artajerjes).
+
+### Casa de Jedaías, casa de Jesúa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+973 en ambos registros.
+
+
+### Sacerdotes del retorno
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Casa de Jedaías, casa de Jesúa. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:36–42; Nehemías 7:39–45
+- colectivo → Casa de Immer. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:36–42; Nehemías 7:39–45
+- colectivo → Casa de Pasur. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:36–42; Nehemías 7:39–45
+- colectivo → Casa de Harim (sacerdotes). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:36–42; Nehemías 7:39–45
+
+### Casa de Immer
+
+Cronología generacional no determinada; ubicación esquemática.
+
+1052 en ambos registros.
+
+
+### Casa de Pasur
+
+Cronología generacional no determinada; ubicación esquemática.
+
+1247 en ambos registros.
+
+
+### Casa de Harim (sacerdotes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+1017 en ambos registros.
+
+
+### Casas de Jesúa y Cadmiel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+74 en ambos registros; Hodavías en Esd 2:40 y Hodeva en Neh 7:43 KJV.
+
+
+### Levitas del retorno
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Casas de Jesúa y Cadmiel. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:36–42; Nehemías 7:39–45
+
+### Hijos de Asaf (retorno)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+128 en Esd 2:41; 148 en Neh 7:44. No son hijos inmediatos del cantor de David.
+
+
+### Cantores del retorno
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Hijos de Asaf (retorno). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:36–42; Nehemías 7:39–45
+
+### Casa de Salum (porteros)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Total conjunto: 139 en Esd 2:42; 138 en Neh 7:45. Sin cifra individual por casa.
+
+
+### Porteros del retorno
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Casa de Salum (porteros). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:36–42; Nehemías 7:39–45
+- colectivo → Casa de Ater (porteros). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:36–42; Nehemías 7:39–45
+- colectivo → Casa de Talmón (porteros). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:36–42; Nehemías 7:39–45
+- colectivo → Casa de Acub (porteros). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:36–42; Nehemías 7:39–45
+- colectivo → Casa de Hatita (porteros). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:36–42; Nehemías 7:39–45
+- colectivo → Casa de Sobai (porteros). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:36–42; Nehemías 7:39–45
+
+### Casa de Ater (porteros)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Total conjunto: 139 en Esd 2:42; 138 en Neh 7:45. Sin cifra individual por casa.
+
+
+### Casa de Talmón (porteros)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Total conjunto: 139 en Esd 2:42; 138 en Neh 7:45. Sin cifra individual por casa.
+
+
+### Casa de Acub (porteros)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Total conjunto: 139 en Esd 2:42; 138 en Neh 7:45. Sin cifra individual por casa.
+
+
+### Casa de Hatita (porteros)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Total conjunto: 139 en Esd 2:42; 138 en Neh 7:45. Sin cifra individual por casa.
+
+
+### Casa de Sobai (porteros)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Total conjunto: 139 en Esd 2:42; 138 en Neh 7:45. Sin cifra individual por casa.
+
+
+## G65 · Retorno: netineos y descendientes de siervos de Salomón
+
+Fuente: Esdras 2:43–58; Nehemías 7:46–60
+
+Cada nombre identifica una casa colectiva. El total conjunto es 392 en ambos registros, no 392 por casa. Las grafías KJV se mantienen para facilitar el cotejo. Las variantes no se convierten en hijos nuevos.
+
+Acontecimiento relacionado: E101 · Permiso y reconstrucción inicial (Primer año de Ciro; retorno).
+
+### Ziha
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Netineos del retorno
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Ziha. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Hasupha / Hashupha. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Tabbaoth. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Keros. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Siaha / Sia. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Padon. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Lebanah / Lebana. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Hagabah / Hagaba. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Akkub (netineos). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Hagab. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Shalmai. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Hanan. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Giddel (netineos). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Gahar. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Reaiah. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Rezin. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Nekoda (netineos). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Gazzam. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Uzza. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Paseah / Phaseah. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Besai. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Asnah. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Mehunim / Meunim. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Nephusim / Nephishesim. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Bakbuk. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Hakupha. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Harhur. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Bazluth / Bazlith. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Mehida. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Harsha. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Barkos. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Sisera (casa de netineos). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Thamah / Tamah. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Neziah. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Hatipha. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+
+### Hasupha / Hashupha
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Tabbaoth
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Keros
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Siaha / Sia
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Padon
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Lebanah / Lebana
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Hagabah / Hagaba
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Akkub (netineos)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Nombrada en Esdras 2; no tiene entrada nominal correspondiente en Nehemías 7.
+
+
+### Hagab
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Nombrada en Esdras 2; no tiene entrada nominal correspondiente en Nehemías 7.
+
+
+### Shalmai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Hanan
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Giddel (netineos)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Gahar
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Reaiah
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Rezin
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Nekoda (netineos)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Gazzam
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Uzza
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Paseah / Phaseah
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Besai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Asnah
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Nombrada en Esdras 2; no tiene entrada nominal correspondiente en Nehemías 7.
+
+
+### Mehunim / Meunim
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Nephusim / Nephishesim
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Bakbuk
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Hakupha
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Harhur
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Bazluth / Bazlith
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Mehida
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Harsha
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Barkos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Sisera (casa de netineos)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Thamah / Tamah
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Neziah
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Hatipha
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Casa de netineos; comparación de los registros.
+
+
+### Sotai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Descendencia o pertenencia colectiva; no se conocen aquí generaciones individuales.
+
+
+### Casas de los siervos de Salomón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Sotai. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Sophereth. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Peruda / Perida. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Jaalah / Jaala. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Darkon. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Giddel (siervos de Salomón). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Shephatiah. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Hattil. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Pochereth de Zebaim. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+- colectivo → Ami / Amon. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
+
+### Sophereth
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Descendencia o pertenencia colectiva; no se conocen aquí generaciones individuales.
+
+
+### Peruda / Perida
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Descendencia o pertenencia colectiva; no se conocen aquí generaciones individuales.
+
+
+### Jaalah / Jaala
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Descendencia o pertenencia colectiva; no se conocen aquí generaciones individuales.
+
+
+### Darkon
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Descendencia o pertenencia colectiva; no se conocen aquí generaciones individuales.
+
+
+### Giddel (siervos de Salomón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Descendencia o pertenencia colectiva; no se conocen aquí generaciones individuales.
+
+
+### Shephatiah
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Descendencia o pertenencia colectiva; no se conocen aquí generaciones individuales.
+
+
+### Hattil
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Descendencia o pertenencia colectiva; no se conocen aquí generaciones individuales.
+
+
+### Pochereth de Zebaim
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Descendencia o pertenencia colectiva; no se conocen aquí generaciones individuales.
+
+
+### Ami / Amon
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Descendencia o pertenencia colectiva; no se conocen aquí generaciones individuales.
+
+
+## G66 · Retorno: casas sin registro genealógico acreditado
+
+Fuente: Esdras 2:59–63; Nehemías 7:61–65
+
+Ausencia de registro no demuestra ausencia de ascendencia: el texto relata una dificultad documental. No se reconstruyen padres para suplirla. El parentesco de Barzilai se conserva por matrimonio.
+
+Acontecimiento relacionado: E101 · Permiso y reconstrucción inicial (Primer año de Ciro; retorno).
+
+### Delaía
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Total conjunto: 652 en Esd 2:60; 642 en Neh 7:62.
+
+
+### Casas sin ascendencia acreditada
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Delaía. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:59–63; Nehemías 7:61–65
+- colectivo → Tobías. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:59–63; Nehemías 7:61–65
+- colectivo → Nekoda (sin registro). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:59–63; Nehemías 7:61–65
+
+### Tobías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Total conjunto: 652 en Esd 2:60; 642 en Neh 7:62.
+
+
+### Nekoda (sin registro)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Total conjunto: 652 en Esd 2:60; 642 en Neh 7:62.
+
+
+### Habaía
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Excluidos del ejercicio sacerdotal mientras no se resolviera su condición; Esd 2:61–63.
+
+
+### Sacerdotes sin registro acreditado
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Habaía. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:59–63; Nehemías 7:61–65
+- colectivo → Cos. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:59–63; Nehemías 7:61–65
+- colectivo → Barzilai (casa sacerdotal). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:59–63; Nehemías 7:61–65
+
+### Cos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Excluidos del ejercicio sacerdotal mientras no se resolviera su condición; Esd 2:61–63.
+
+
+### Barzilai (casa sacerdotal)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Excluidos del ejercicio sacerdotal mientras no se resolviera su condición; Esd 2:61–63.
+
+
+### Barzilai galaadita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Hija de Barzilai (sin nombre).  Fuente: Esdras 2:61
+
+### Hija de Barzilai (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- union → Antepasado llamado Barzilai por matrimonio. Adopta el nombre de la familia de su esposa; no se lo identifica con su suegro. Fuente: Esdras 2:61
+
+### Antepasado llamado Barzilai por matrimonio
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- descendencia → Barzilai (casa sacerdotal). No se enumeran los eslabones hasta el retorno. Fuente: Esdras 2:61
+
+## G67 · Compañeros de Esdras: jefes y padres identificados
+
+Fuente: Esdras 8:1–20,33
+
+Los jefes se conectan con sus casas por descendencia, no como hijos inmediatos del fundador. Los dos jefes sin nombre de 8:5,10 KJV permanecen sin nombre. No se identifica al Joab de estas casas con el general de David.
+
+Elena G. White — PK 611.1; 616.2–617.1 · Prophets and Kings, cap. 50: White desarrolla la autorización para el regreso y la responsabilidad de quienes transportan y custodian los recursos del templo. No añade una lista genealógica de hijos a los efectivos del viaje.
+
+Acontecimiento relacionado: E105 · Esdras y decreto de Artajerjes (457 a. C. en GC).
+
+### Finés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- descendencia → Gersón (retornado). Generaciones no enumeradas aquí. Fuente: Esdras 8:2
+
+### Gersón (retornado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Itamar
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- descendencia → Daniel (retornado). Generaciones no enumeradas aquí. Fuente: Esdras 8:2
+
+### Daniel (retornado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### David
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- descendencia → Hatús (retornado). Generaciones no enumeradas aquí. Fuente: Esdras 8:2
+
+### Hatús (retornado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Paros
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- descendencia → Zacarías (casa de Paros). Procedencia familiar, sin cadena completa hasta el fundador. Fuente: Esdras 8:3
+
+### Zacarías (casa de Paros)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+150 varones. La mención de Secanías en 8:3 KJV requiere cautela de puntuación; no se inventa su paternidad inmediata.
+
+
+### Casa de Pahat-moab
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- descendencia → Elioenai (retornado). Procedencia familiar, sin cadena completa hasta el fundador. Fuente: Esdras 8:4
+
+### Elioenai (retornado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Con él: 200 varones según Esd 8:4; no implica 200 hijos propios.
+
+
+### Zeraías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Elioenai (retornado).  Fuente: Esdras 8:4
+
+### Casa de Secanías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- descendencia → Jefe sin nombre de 8:5. Procedencia familiar, sin cadena completa hasta el fundador. Fuente: Esdras 8:5
+
+### Jefe sin nombre de 8:5
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Con él: 300 varones según Esd 8:5; no implica 300 hijos propios.
+
+
+### Jahaziel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jefe sin nombre de 8:5.  Fuente: Esdras 8:5
+
+### Casa de Adín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- descendencia → Ebed. Procedencia familiar, sin cadena completa hasta el fundador. Fuente: Esdras 8:6
+
+### Ebed
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Con él: 50 varones según Esd 8:6; no implica 50 hijos propios.
+
+
+### Jonatán (padre de Ebed)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Ebed.  Fuente: Esdras 8:6
+
+### Casa de Elam
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- descendencia → Jesaías (casa de Elam). Procedencia familiar, sin cadena completa hasta el fundador. Fuente: Esdras 8:7
+
+### Jesaías (casa de Elam)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Con él: 70 varones según Esd 8:7; no implica 70 hijos propios.
+
+
+### Atalías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jesaías (casa de Elam).  Fuente: Esdras 8:7
+
+### Casa de Sefatías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- descendencia → Zebadías (retornado). Procedencia familiar, sin cadena completa hasta el fundador. Fuente: Esdras 8:8
+
+### Zebadías (retornado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Con él: 80 varones según Esd 8:8; no implica 80 hijos propios.
+
+
+### Micael (padre de Zebadías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Zebadías (retornado).  Fuente: Esdras 8:8
+
+### Casa de Joab (casa del retorno)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- descendencia → Obadías (retornado). Procedencia familiar, sin cadena completa hasta el fundador. Fuente: Esdras 8:9
+
+### Obadías (retornado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Con él: 218 varones según Esd 8:9; no implica 218 hijos propios.
+
+
+### Jehiel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Obadías (retornado).  Fuente: Esdras 8:9
+
+### Casa de Selomit
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- descendencia → Jefe sin nombre de 8:10. Procedencia familiar, sin cadena completa hasta el fundador. Fuente: Esdras 8:10
+
+### Jefe sin nombre de 8:10
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Con él: 160 varones según Esd 8:10; no implica 160 hijos propios.
+
+
+### Josifías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jefe sin nombre de 8:10.  Fuente: Esdras 8:10
+
+### Casa de Bebai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- descendencia → Zacarías (casa de Bebai). Procedencia familiar, sin cadena completa hasta el fundador. Fuente: Esdras 8:11
+
+### Zacarías (casa de Bebai)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Con él: 28 varones según Esd 8:11; no implica 28 hijos propios.
+
+
+### Bebai (padre de Zacarías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Zacarías (casa de Bebai).  Fuente: Esdras 8:11
+
+### Casa de Azgad
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- descendencia → Johanán (retornado). Procedencia familiar, sin cadena completa hasta el fundador. Fuente: Esdras 8:12
+
+### Johanán (retornado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Con él: 110 varones según Esd 8:12; no implica 110 hijos propios.
+
+
+### Hacatán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Johanán (retornado).  Fuente: Esdras 8:12
+
+### Casa de Adonicam
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- descendencia → Elifelet (retornado). Sesenta varones acompañan al grupo de tres jefes. Fuente: Esdras 8:13
+- descendencia → Jeiel (retornado). Sesenta varones acompañan al grupo de tres jefes. Fuente: Esdras 8:13
+- descendencia → Semaías (casa de Adonicam). Sesenta varones acompañan al grupo de tres jefes. Fuente: Esdras 8:13
+
+### Elifelet (retornado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jeiel (retornado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Semaías (casa de Adonicam)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Bigvai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- descendencia → Utai. Setenta varones acompañan a ambos. Fuente: Esdras 8:14
+- descendencia → Zabud. Setenta varones acompañan a ambos. Fuente: Esdras 8:14
+
+### Utai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zabud
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Urías (sacerdote)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Meremot.  Fuente: Esdras 8:33
+
+### Meremot
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Finés (padre de Eleazar retornado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Eleazar (retornado).  Fuente: Esdras 8:33
+
+### Eleazar (retornado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jesúa (padre de Jozabad)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jozabad (levita retornado).  Fuente: Esdras 8:33
+
+### Jozabad (levita retornado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Binúi
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Noadías.  Fuente: Esdras 8:33
+
+### Noadías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mahli
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- discutida → Serebías. La identificación del hombre entendido con Serebías depende de la lectura de la frase; si se identifican, expresa descendencia con lagunas, no filiación inmediata. Fuente: Esdras 8:18
+
+### Serebías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Hijos y hermanos de Serebías. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 8:1–20,33
+
+### Hijos y hermanos de Serebías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Dieciocho con él, según 8:18; no dieciocho hijos.
+
+
+### Merari
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- descendencia → Jesaías (levita retornado).  Fuente: Esdras 8:19
+
+### Jesaías (levita retornado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hasabías (levita retornado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Con Jesaías, hermanos e hijos: veinte (8:19).
+
+
+## G68 · Sacerdocio después del retorno: Jesúa hasta Jadúa
+
+Fuente: Nehemías 12:10–11,22–26; 13:28
+
+Se reproduce la filiación de 12:10–11. Johanán de 12:22–23 no se fusiona silenciosamente con Jonatán de 12:11. No se determina cuál Darío mediante el nombre solo ni se asignan fechas exactas a los nacimientos.
+
+Acontecimiento relacionado: E103 · Reanudación y terminación del segundo templo (Años 2–6 de Darío, en Esdras).
+
+Acontecimiento relacionado: E107 · Lectura, pacto y reformas (Comunidad restaurada).
+
+### Josadac
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Jesúa (sumo sacerdote).  Fuente: Nehemías 12:10–11,26
+
+### Jesúa (sumo sacerdote)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Joiacim.  Fuente: Nehemías 12:10–11,26
+
+### Joiacim
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Eliasib (sumo sacerdote).  Fuente: Nehemías 12:10–11,26
+
+### Eliasib (sumo sacerdote)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Joiada.  Fuente: Nehemías 12:10–11,26
+- genealogia → Johanán (Neh 12:23).  Fuente: Nehemías 12:23
+
+### Joiada
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Jonatán (lista de Neh 12:11).  Fuente: Nehemías 12:10–11,26
+- filiacion → Hijo de Joiada (yerno de Sanbalat).  Fuente: Nehemías 13:28
+
+### Jonatán (lista de Neh 12:11)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Jadúa.  Fuente: Nehemías 12:10–11,26
+
+### Jadúa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Johanán (Neh 12:23)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- discutida → Jonatán (lista de Neh 12:11). Variante o identificación discutida; se conservan ambas menciones. Fuente: Nehemías 12:11,22–23
+
+### Hijo de Joiada (yerno de Sanbalat)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Expulsado por Nehemías; no se le asigna un nombre tomado de otra fuente sin cotejo.
+
+- union → Hija de Sanbalat (sin nombre).  Fuente: Nehemías 13:28
+
+### Sanbalat horonita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Hija de Sanbalat (sin nombre). Inferida del parentesco de yerno; el versículo no da su nombre. Fuente: Nehemías 13:28
+
+### Hija de Sanbalat (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G69 · Nehemías 12: casas sacerdotales y sus jefes
+
+Fuente: Nehemías 12:1–21
+
+La relación significa jefe de una casa en días de Joiacim, no paternidad inmediata. Jedaías aparece en dos posiciones y se conserva calificado. Miniamín carece de jefe nombrado en 12:17 KJV.
+
+Acontecimiento relacionado: E101 · Permiso y reconstrucción inicial (Primer año de Ciro; retorno).
+
+Acontecimiento relacionado: E106 · Nehemías y los muros (Año 20 de Artajerjes).
+
+### Casa de Seraías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Meraías. Jefe de casa, no hijo inmediato demostrado. Fuente: Nehemías 12:12–21
+
+### Meraías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Jeremías (casa sacerdotal)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Hananías. Jefe de casa, no hijo inmediato demostrado. Fuente: Nehemías 12:12–21
+
+### Hananías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Esdras (casa sacerdotal)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Mesulam (casa de Esdras). Jefe de casa, no hijo inmediato demostrado. Fuente: Nehemías 12:12–21
+
+### Mesulam (casa de Esdras)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Amarías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Johanán. Jefe de casa, no hijo inmediato demostrado. Fuente: Nehemías 12:12–21
+
+### Johanán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Melicú
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Jonatán. Jefe de casa, no hijo inmediato demostrado. Fuente: Nehemías 12:12–21
+
+### Jonatán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Sebanías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → José. Jefe de casa, no hijo inmediato demostrado. Fuente: Nehemías 12:12–21
+
+### José
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Harim
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Adna. Jefe de casa, no hijo inmediato demostrado. Fuente: Nehemías 12:12–21
+
+### Adna
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Meraiot
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Helcai. Jefe de casa, no hijo inmediato demostrado. Fuente: Nehemías 12:12–21
+
+### Helcai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Iddo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Zacarías. Jefe de casa, no hijo inmediato demostrado. Fuente: Nehemías 12:12–21
+
+### Zacarías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Ginetón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Mesulam (casa de Ginetón). Jefe de casa, no hijo inmediato demostrado. Fuente: Nehemías 12:12–21
+
+### Mesulam (casa de Ginetón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Abías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Zicri. Jefe de casa, no hijo inmediato demostrado. Fuente: Nehemías 12:12–21
+
+### Zicri
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Moadías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Piltai. Jefe de casa, no hijo inmediato demostrado. Fuente: Nehemías 12:12–21
+
+### Piltai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Bilga
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Samúa. Jefe de casa, no hijo inmediato demostrado. Fuente: Nehemías 12:12–21
+
+### Samúa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Semaías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Jonatán / Jehonatán. Jefe de casa, no hijo inmediato demostrado. Fuente: Nehemías 12:12–21
+
+### Jonatán / Jehonatán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Joiarib
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Matenai. Jefe de casa, no hijo inmediato demostrado. Fuente: Nehemías 12:12–21
+
+### Matenai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Jedaías (primer grupo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Uzi. Jefe de casa, no hijo inmediato demostrado. Fuente: Nehemías 12:12–21
+
+### Uzi
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Salai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Calai. Jefe de casa, no hijo inmediato demostrado. Fuente: Nehemías 12:12–21
+
+### Calai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Amoc
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Heber. Jefe de casa, no hijo inmediato demostrado. Fuente: Nehemías 12:12–21
+
+### Heber
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Hilcías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Hasabías. Jefe de casa, no hijo inmediato demostrado. Fuente: Nehemías 12:12–21
+
+### Hasabías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Jedaías (segundo grupo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Natanael. Jefe de casa, no hijo inmediato demostrado. Fuente: Nehemías 12:12–21
+
+### Natanael
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Miniamín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Sin jefe nombrado en la KJV de 12:17.
+
+
+### Maluc (lista de Neh 12:1–7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Conservado en la primera lista; no se fuerza una equivalencia con cada nombre de 12:12–21.
+
+
+### Hatús (lista de Neh 12:1–7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Conservado en la primera lista; no se fuerza una equivalencia con cada nombre de 12:12–21.
+
+
+### Secanías (lista de Neh 12:1–7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Conservado en la primera lista; no se fuerza una equivalencia con cada nombre de 12:12–21.
+
+
+### Rehum (lista de Neh 12:1–7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Conservado en la primera lista; no se fuerza una equivalencia con cada nombre de 12:12–21.
+
+
+### Meremot (lista de Neh 12:1–7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Conservado en la primera lista; no se fuerza una equivalencia con cada nombre de 12:12–21.
+
+
+### Gineto (lista de Neh 12:1–7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Conservado en la primera lista; no se fuerza una equivalencia con cada nombre de 12:12–21.
+
+
+### Miamín (lista de Neh 12:1–7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Conservado en la primera lista; no se fuerza una equivalencia con cada nombre de 12:12–21.
+
+
+### Maadías (lista de Neh 12:1–7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Conservado en la primera lista; no se fuerza una equivalencia con cada nombre de 12:12–21.
+
+
+### Salu (lista de Neh 12:1–7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Conservado en la primera lista; no se fuerza una equivalencia con cada nombre de 12:12–21.
+
+
+## G70 · Nehemías, los levitas y la dedicación de los muros
+
+Fuente: Nehemías 1:1–2; 7:2; 12:8–9,24–26,35–36
+
+Hanani es hermano de Nehemías; no se dibuja una paternidad compartida explícita cuando solo se nombra al padre de Nehemías. El Asaf de la cadena se presenta genealógicamente, sin años individuales.
+
+Acontecimiento relacionado: E106 · Nehemías y los muros (Año 20 de Artajerjes).
+
+Acontecimiento relacionado: E107 · Lectura, pacto y reformas (Comunidad restaurada).
+
+### Hacalías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Nehemías (gobernador).  Fuente: Nehemías 1:1
+
+### Nehemías (gobernador)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- hermanos → Hanani (hermano de Nehemías).  Fuente: Nehemías 7:2
+
+### Hanani (hermano de Nehemías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Lleva noticias de Judá y después recibe responsabilidad sobre Jerusalén con Hananías (Neh 1:2; 7:2).
+
+
+### Asaf (ascendencia de Neh 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Zacur (ascendencia de Neh 12).  Fuente: Nehemías 12:35
+
+### Zacur (ascendencia de Neh 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Micaías.  Fuente: Nehemías 12:35
+
+### Micaías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Matanías.  Fuente: Nehemías 12:35
+
+### Matanías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Semaías (abuelo de Zacarías).  Fuente: Nehemías 12:35
+
+### Semaías (abuelo de Zacarías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Jonatán (padre de Zacarías).  Fuente: Nehemías 12:35
+
+### Jonatán (padre de Zacarías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Zacarías (músico de la dedicación).  Fuente: Nehemías 12:35
+
+### Zacarías (músico de la dedicación)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cadmiel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jesúa (levita de Neh 12:24).  Fuente: Nehemías 12:24
+
+### Jesúa (levita de Neh 12:24)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jesúa (levita de Neh 12:8)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Levita, cantor o portero nombrado en Neh 12:8–9,24–25; no se deduce una filiación por oficio.
+
+
+### Binúi
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Levita, cantor o portero nombrado en Neh 12:8–9,24–25; no se deduce una filiación por oficio.
+
+
+### Serebías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Levita, cantor o portero nombrado en Neh 12:8–9,24–25; no se deduce una filiación por oficio.
+
+
+### Judá (levita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Levita, cantor o portero nombrado en Neh 12:8–9,24–25; no se deduce una filiación por oficio.
+
+
+### Matanías (encargado de alabanza)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Levita, cantor o portero nombrado en Neh 12:8–9,24–25; no se deduce una filiación por oficio.
+
+
+### Bacbuquías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Levita, cantor o portero nombrado en Neh 12:8–9,24–25; no se deduce una filiación por oficio.
+
+
+### Uni
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Levita, cantor o portero nombrado en Neh 12:8–9,24–25; no se deduce una filiación por oficio.
+
+
+### Hasabías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Levita, cantor o portero nombrado en Neh 12:8–9,24–25; no se deduce una filiación por oficio.
+
+
+### Obadías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Levita, cantor o portero nombrado en Neh 12:8–9,24–25; no se deduce una filiación por oficio.
+
+
+### Mesulam
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Levita, cantor o portero nombrado en Neh 12:8–9,24–25; no se deduce una filiación por oficio.
+
+
+### Talmón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Levita, cantor o portero nombrado en Neh 12:8–9,24–25; no se deduce una filiación por oficio.
+
+
+### Acub
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Levita, cantor o portero nombrado en Neh 12:8–9,24–25; no se deduce una filiación por oficio.
+
+
+## G71 · Job: hijos, hijas y cuatro generaciones
+
+Fuente: Job 1:1–5,18–19; 2:9–11; 32:2; 42:10–17
+
+Ubicación orientativa en el entorno patriarcal; el libro no fija un año absoluto. No se identifica a Job con Jobab de Edom ni con Job hijo de Isacar. Los hijos anteriores a la catástrofe y los del desenlace son grupos distintos.
+
+Elena G. White — Ed 154.2–155.6 · Education, cap. 16, «The Testing of Job»: White sitúa la prueba de Job dentro del conflicto sobre el carácter de Dios y describe la pérdida de sus hijos e hijas. No proporciona aquí nombres ni años para completar su genealogía.
+
+### Job (libro de Job)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Después de la restauración vive 140 años y ve cuatro generaciones (42:16). Esa duración no establece su edad al comienzo ni un año a. C.
+
+- union → Esposa de Job (sin nombre).  Fuente: Job 2:9
+- colectivo → Siete hijos de Job antes de la catástrofe. Grupo; no una sola persona ni un hijo inmediato. Fuente: Job 1:1–5,18–19; 2:9–11; 32:2; 42:10–17
+- colectivo → Tres hijas de Job antes de la catástrofe. Grupo; no una sola persona ni un hijo inmediato. Fuente: Job 1:1–5,18–19; 2:9–11; 32:2; 42:10–17
+- colectivo → Siete hijos de Job en el desenlace. Grupo; no una sola persona ni un hijo inmediato. Fuente: Job 1:1–5,18–19; 2:9–11; 32:2; 42:10–17
+- filiacion → Jemima.  Fuente: Job 42:13–15
+- filiacion → Cesía.  Fuente: Job 42:13–15
+- filiacion → Keren-hapuc.  Fuente: Job 42:13–15
+- descendencia → Descendientes hasta cuatro generaciones. El texto no nombra ni distribuye los descendientes entre los hijos. Fuente: Job 42:16
+- hermanos → Hermanos y hermanas de Job. Grupo que lo visita; nombres y número desconocidos. Fuente: Job 42:11
+
+### Esposa de Job (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Siete hijos de Job antes de la catástrofe
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mueren en el derrumbe de la casa (1:18–19). Sin nombres.
+
+
+### Tres hijas de Job antes de la catástrofe
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mueren con sus hermanos (1:18–19). No se les atribuyen los nombres del capítulo 42.
+
+
+### Siete hijos de Job en el desenlace
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Job 42:13; sin nombres.
+
+
+### Jemima
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Recibe herencia entre sus hermanos (42:15). No se nombra esposo ni descendencia individual.
+
+
+### Cesía
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Recibe herencia entre sus hermanos (42:15). No se nombra esposo ni descendencia individual.
+
+
+### Keren-hapuc
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Recibe herencia entre sus hermanos (42:15). No se nombra esposo ni descendencia individual.
+
+
+### Descendientes hasta cuatro generaciones
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Grupo sin nombres; no un hijo inmediato.
+
+
+### Hermanos y hermanas de Job
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Baraquel buzita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Eliú (interlocutor de Job).  Fuente: Job 32:2
+
+### Eliú (interlocutor de Job)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de Ram
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Baraquel buzita. Pertenencia familiar; no se establece una cadena desde los patriarcas. Fuente: Job 32:2
+
+### Elifaz temanita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Amigo/interlocutor de Job (2:11), sin parentesco biológico con él afirmado. El gentilicio no autoriza una cadena individual completa.
+
+
+### Bildad suhita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Amigo/interlocutor de Job (2:11), sin parentesco biológico con él afirmado. El gentilicio no autoriza una cadena individual completa.
+
+
+### Zofar naamatita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Amigo/interlocutor de Job (2:11), sin parentesco biológico con él afirmado. El gentilicio no autoriza una cadena individual completa.
+
+
+## G72 · Anás, Caifás y parientes del entorno sacerdotal
+
+Fuente: Juan 18:10,13,26; Hechos 4:6
+
+Anás es suegro de Caifás. La hija se incorpora sin nombre, inferida del parentesco de yerno. Juan y Alejandro de Hechos 4 no se convierten en hijos de Anás. Malco es siervo, no pariente por su oficio.
+
+Elena G. White — DA 698.1–3 · The Desire of Ages, cap. 75: White describe la influencia de Anás como cabeza de la familia sacerdotal y el interrogatorio preliminar de Jesús antes del proceso ante el concilio. No añade en estos párrafos nombres de hijos.
+
+Acontecimiento relacionado: E127 · Autoridades religiosas y romanas (Procesos y condena).
+
+### Anás
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Hija de Anás (sin nombre). Deducida del parentesco de suegro; nombre no proporcionado. Fuente: Juan 18:13
+
+### Hija de Anás (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Caifás
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- union → Hija de Anás (sin nombre).  Fuente: Juan 18:13
+
+### Juan (entorno sacerdotal de Hch 4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Nombrado con Anás, Caifás y Alejandro en la reunión; grado exacto de parentesco no declarado.
+
+
+### Alejandro (entorno sacerdotal de Hch 4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+No se identifica con otros Alejandros ni se le asigna padre; Hch 4:6.
+
+
+### Malco
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- parentesco → Pariente de Malco (sin nombre). Siervo del sumo sacerdote que reconoce a Pedro; grado desconocido. Fuente: Juan 18:26
+
+### Pariente de Malco (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G73 · Pablo: hermana y sobrino que revela la conspiración
+
+Fuente: Hechos 23:16–22
+
+La hermana y su hijo carecen de nombre en el relato. No se inventa el padre del joven, su edad exacta ni la identidad de los padres de Pablo.
+
+Elena G. White — AA 414.2–415.2 · The Acts of the Apostles, cap. 38: White relata la intervención del hijo de la hermana de Pablo y la decisión de Lisias de trasladar al apóstol bajo escolta. Conserva al joven sin nombre.
+
+Acontecimiento relacionado: E141 · Defensas, naufragio y prisión (Arresto y viaje a Roma).
+
+### Pablo / Saulo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- hermanos → Hermana de Pablo (sin nombre).  Fuente: Hechos 23:16
+
+### Hermana de Pablo (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Sobrino de Pablo (sin nombre).  Fuente: Hechos 23:16
+
+### Sobrino de Pablo (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Descubre la emboscada, avisa a Pablo y explica el plan a Claudio Lisias; su intervención conduce a medidas de protección (Hch 23:16–24).
+
+
+## G74 · Felipe evangelista y sus cuatro hijas
+
+Fuente: Hechos 6:5; 21:8–9
+
+Felipe es el evangelista, uno de los siete, no se identifica aquí con el apóstol Felipe. Las hijas no reciben nombres ni esposos que el texto no proporciona.
+
+Acontecimiento relacionado: E140 · Comunidades del Mediterráneo (Segundo y tercer viajes).
+
+Acontecimiento relacionado: E141 · Defensas, naufragio y prisión (Arresto y viaje a Roma).
+
+### Cuatro hijas de Felipe
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Don profético; solteras en el momento de la visita narrada (Hch 21:9). Se conserva el número sin inventar cuatro identidades.
+
+
+### Felipe evangelista
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Cuatro hijas de Felipe. Grupo; no una sola persona ni un hijo inmediato. Fuente: Hechos 6:5; 21:8–9
+
+## G75 · Betania: Marta, María y Lázaro
+
+Fuente: Juan 11:1–3; 12:1–3
+
+Hermanos explícitos. No se identifican sus padres ni se fusiona a María de Betania con otras Marías mediante una suposición no documentada en esta ficha.
+
+Acontecimiento relacionado: E123 · Conflictos, enseñanza y Lázaro (Camino a Jerusalén y visitas finales).
+
+### María de Betania
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- hermanos → Marta.  Fuente: Juan 11:1
+- hermanos → Lázaro.  Fuente: Juan 11:2
+
+### Marta
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- hermanos → Lázaro.  Fuente: Juan 11:3
+
+### Lázaro
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Su enfermedad, muerte y resurrección conectan a esta familia con el conflicto final del ministerio de Jesús (Jn 11).
+
+
+## G76 · Familias en los milagros: Naín, Jairo y el oficial
+
+Fuente: Lucas 7:11–15; 8:41–56; Juan 4:46–54
+
+Casas distintas, sin parentesco entre ellas. Se conservan los progenitores y los hijos sin nombres cuando así aparecen en los relatos. La hija de Jairo tiene unos doce años; no se convierte esa edad en fecha absoluta.
+
+### Viuda de Naín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Hijo único de la viuda de Naín.  Fuente: Lucas 7:12
+
+### Hijo único de la viuda de Naín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Jesús interrumpe el cortejo y lo devuelve vivo a su madre (Lc 7:11–15).
+
+
+### Jairo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Hija única de Jairo.  Fuente: Lucas 8:41–42,51
+
+### Hija única de Jairo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Tiene unos doce años; Jesús la devuelve a la vida y ordena darle de comer (Lc 8:42,55).
+
+
+### Madre de la hija de Jairo (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Hija única de Jairo.  Fuente: Lucas 8:41–42,51
+
+### Oficial de Capernaúm (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Hijo del oficial (sin nombre).  Fuente: Juan 4:46–53
+
+### Hijo del oficial (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Sana mientras su padre habla con Jesús; el padre y su casa creen (Jn 4:50–53).
 
