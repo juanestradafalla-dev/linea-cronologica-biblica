@@ -1,0 +1,27 @@
+# Cronología bíblica
+
+Página estática de fondo claro. Línea horizontal por décadas desde 600 a. C. hasta el cierre en 70 d. C.; recorrido de las 15 etapas originales desde la rebelión celestial. Conserva las 148 fichas y enlaza al mural de 32 genealogías.
+
+## Uso
+
+Abrir `dist/index.html` en un navegador. No requiere instalación ni conexión para consultar el contenido. Las flechas avanzan una década o una etapa; cada ficha muestra fuentes y observaciones. El buscador consulta todos los campos del estudio.
+
+## Fechas
+
+Sólo se colocan en décadas los acontecimientos con año absoluto explícito en el estudio. No se inventan años para la creación, las generaciones o los años de reinado. Las fechas 457 a. C., 27, 31 y 34 d. C. conservan la atribución al modelo historicista de GC. La campaña de 67–69 figura en el intervalo 60–69; los periodos amplios muestran su referencia inicial, no una fecha para todos sus subacontecimientos.
+
+Las décadas a. C. avanzan 600–591, 590–581, etc. No existe año cero. El primer intervalo d. C. contiene 1–9 y el último sólo 70, por el límite del estudio. Las columnas identifican intervalos, no una escala proporcional para medir duración.
+
+## Publicación en GitHub y Vercel
+
+Subir el contenido de esta carpeta `web` como raíz de un repositorio nuevo. En Vercel, dentro del equipo `almacen-2787s-projects`, importar ese repositorio. Configuración: **Other**, sin comando de compilación, directorio de salida **dist**. `vercel.json` incluye estos ajustes.
+
+No subir la carpeta superior del estudio ni los PDF: la carpeta `web` contiene toda la página necesaria. Los originales y el respaldo permanecen fuera del proyecto de publicación.
+
+Documentación oficial: [configurar la compilación](https://vercel.com/docs/builds/configure-a-build) y [conectar GitHub](https://vercel.com/docs/git/vercel-for-github).
+
+## Actualizar
+
+`pagina-base.html` contiene diseño e interacciones. `preparar.py` genera `dist/index.html` desde los datos locales de `../estudio`, y copia el mural y el catálogo. Los archivos de `dist` están listos para publicar y no necesitan Python en Vercel.
+
+La colección documental todavía no está cotejada íntegramente. Esta edición de estudio no afirma exhaustividad ni resuelve todas las variantes genealógicas.
