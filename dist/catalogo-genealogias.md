@@ -6567,3 +6567,2308 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+
+## G33 · Casa de Elí: de Silo a Abiatar
+
+Fuente: 1 Samuel 4:4,19–22; 14:3; 22:9–23; 2 Samuel 15:27,36; 1 Crónicas 24:3,6
+
+Finés, hijo de Elí, no es Finés, hijo de Eleazar. Los Ahitub de otras casas sacerdotales no se fusionan. Ahías y Ahimelec se conservan separados: su identificación no queda resuelta por estos pasajes.
+
+### Elí
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Muere al conocer la captura del arca; tenía 98 años y había juzgado 40 años (1 S 4:15–18).
+
+- filiacion → Ofni.  Fuente: 1 Samuel 4:4
+- filiacion → Finés (hijo de Elí).  Fuente: 1 Samuel 4:4
+
+### Ofni
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Finés (hijo de Elí)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Icabod.  Fuente: 1 Samuel 4:19–22
+- filiacion → Ahitub (casa de Elí).  Fuente: 1 Samuel 14:3
+
+### Icabod
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Nace durante la crisis de la captura del arca; su madre muere. No se registra descendencia en los pasajes cotejados.
+
+
+### Esposa de Finés (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Icabod.  Fuente: 1 Samuel 4:19–22
+
+### Ahitub (casa de Elí)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- hermanos → Icabod.  Fuente: 1 Samuel 14:3
+- filiacion → Ahías (sacerdote de Saúl).  Fuente: 1 Samuel 14:3
+- filiacion → Ahimelec (sacerdote de Nob).  Fuente: 1 Samuel 22:9,11
+
+### Ahías (sacerdote de Saúl)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- discutida → Ahimelec (sacerdote de Nob). Posible identificación; no equivale a afirmar dos hermanos ni una misma persona. Fuente: 1 Samuel 4:4,19–22; 14:3; 22:9–23; 2 Samuel 15:27,36; 1 Crónicas 24:3,6
+
+### Ahimelec (sacerdote de Nob)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Abiatar.  Fuente: 1 Samuel 22:20
+
+### Abiatar
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Sobrevive a la matanza sacerdotal de Nob y huye a David (1 S 22:20–23).
+
+- filiacion → Jonatán (hijo de Abiatar).  Fuente: 2 Samuel 15:27,36
+- filiacion → Ahimelec (hijo de Abiatar). Se conserva la dirección de Crónicas; no se identifica automáticamente con el padre de Abiatar de 1 S 22:20. Fuente: 1 Crónicas 24:6
+
+### Jonatán (hijo de Abiatar)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mensajero durante la rebelión de Absalón; distinto de Jonatán, hijo de Saúl.
+
+
+### Ahimelec (hijo de Abiatar)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Itamar
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- descendencia → Ahimelec (hijo de Abiatar). Casa de Itamar; generaciones intermedias no enumeradas aquí. Fuente: 1 Crónicas 24:3,6
+
+## G34 · Asaf: ascendencia y casas de cantores
+
+Fuente: 1 Crónicas 6:39–43; 25:1–2,6–14
+
+La cadena reproduce la genealogía; no fija años ni presupone que todas las menciones de Asaf sean este cantor. Las variantes de nombres se señalan sin duplicar personas automáticamente.
+
+### Leví
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Gersón.  Fuente: 1 Crónicas 6:39–43
+
+### Gersón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Jahat.  Fuente: 1 Crónicas 6:39–43
+
+### Jahat
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Simei.  Fuente: 1 Crónicas 6:39–43
+
+### Simei
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Zima.  Fuente: 1 Crónicas 6:39–43
+
+### Zima
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Etán (antepasado de Asaf).  Fuente: 1 Crónicas 6:39–43
+
+### Etán (antepasado de Asaf)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Adaías.  Fuente: 1 Crónicas 6:39–43
+
+### Adaías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Zera.  Fuente: 1 Crónicas 6:39–43
+
+### Zera
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Etni.  Fuente: 1 Crónicas 6:39–43
+
+### Etni
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Malquías.  Fuente: 1 Crónicas 6:39–43
+
+### Malquías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Baasías.  Fuente: 1 Crónicas 6:39–43
+
+### Baasías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Micael.  Fuente: 1 Crónicas 6:39–43
+
+### Micael
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Simea.  Fuente: 1 Crónicas 6:39–43
+
+### Simea
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Berequías.  Fuente: 1 Crónicas 6:39–43
+
+### Berequías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Asaf.  Fuente: 1 Crónicas 6:39–43
+
+### Asaf
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Dirige a sus hijos bajo la orden del rey. Los 288 de 1 Cr 25:7 son el conjunto de cantores instruidos, no sus hijos biológicos.
+
+- filiacion → Zacur (hijo de Asaf).  Fuente: 1 Crónicas 25:2
+- filiacion → José (hijo de Asaf).  Fuente: 1 Crónicas 25:2
+- filiacion → Netanías (hijo de Asaf).  Fuente: 1 Crónicas 25:2
+- filiacion → Asarela.  Fuente: 1 Crónicas 25:2
+
+### Zacur (hijo de Asaf)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### José (hijo de Asaf)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Netanías (hijo de Asaf)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Asarela
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Forma Jesarela en la lista de turnos, 1 Cr 25:14; se indica la correspondencia de listas.
+
+
+## G35 · Hemán: catorce hijos y tres hijas
+
+Fuente: 1 Crónicas 25:4–6,18–31
+
+Complementa la ascendencia Coré–Samuel–Hemán de G19. Los turnos incluyen hijos y hermanos; no se convierten sus doce integrantes en doce hijos de cada jefe.
+
+### Hemán (cantor)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Buquías.  Fuente: 1 Crónicas 25:4–5
+- filiacion → Matanías (hijo de Hemán).  Fuente: 1 Crónicas 25:4–5
+- filiacion → Uziel (hijo de Hemán).  Fuente: 1 Crónicas 25:4–5
+- filiacion → Sebuel (hijo de Hemán).  Fuente: 1 Crónicas 25:4–5
+- filiacion → Jerimot (hijo de Hemán).  Fuente: 1 Crónicas 25:4–5
+- filiacion → Hananías (hijo de Hemán).  Fuente: 1 Crónicas 25:4–5
+- filiacion → Hanani (hijo de Hemán).  Fuente: 1 Crónicas 25:4–5
+- filiacion → Eliata.  Fuente: 1 Crónicas 25:4–5
+- filiacion → Gidalti.  Fuente: 1 Crónicas 25:4–5
+- filiacion → Romamti-ezer.  Fuente: 1 Crónicas 25:4–5
+- filiacion → Josbecasa.  Fuente: 1 Crónicas 25:4–5
+- filiacion → Maloti.  Fuente: 1 Crónicas 25:4–5
+- filiacion → Hotir.  Fuente: 1 Crónicas 25:4–5
+- filiacion → Mahaziot.  Fuente: 1 Crónicas 25:4–5
+- colectivo → Tres hijas de Hemán (sin nombres). Tres hijas; un nodo colectivo no equivale a una sola persona. Fuente: 1 Crónicas 25:5
+
+### Buquías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Matanías (hijo de Hemán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Uziel (hijo de Hemán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Azareel en la lista de turnos (1 Cr 25:18); correspondencia entre listas.
+
+
+### Sebuel (hijo de Hemán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Shubael en la KJV de 1 Cr 25:20; no es el descendiente de Moisés del mismo nombre.
+
+
+### Jerimot (hijo de Hemán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+La KJV alterna Jerimoth/Jeremoth entre 25:4 y 25:22.
+
+
+### Hananías (hijo de Hemán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hanani (hijo de Hemán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliata
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gidalti
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Romamti-ezer
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Josbecasa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Maloti
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hotir
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mahaziot
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tres hijas de Hemán (sin nombres)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+El texto da el número, no nombres ni matrimonios.
+
+
+## G36 · Jedutún y sus hijos: una lista de seis
+
+Fuente: 1 Crónicas 25:3,9–10,11,15,17,21
+
+1 Cr 25:3 KJV dice seis, pero enumera cinco nombres. Simei aparece en el décimo turno (v. 17); su filiación se representa como inferencia, no como afirmación explícita de v. 3. No se fusiona Jedutún con Etán.
+
+### Jedutún
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Gedalías (hijo de Jedutún).  Fuente: 1 Crónicas 25:3
+- filiacion → Zeri / Izri.  Fuente: 1 Crónicas 25:3
+- filiacion → Jesaías (hijo de Jedutún).  Fuente: 1 Crónicas 25:3
+- filiacion → Hasabías (hijo de Jedutún).  Fuente: 1 Crónicas 25:3
+- filiacion → Matatías (hijo de Jedutún).  Fuente: 1 Crónicas 25:3
+- discutida → Simei (décimo turno). Propuesto como sexto hijo al comparar las listas; no filiación expresa en v. 17. Fuente: 1 Crónicas 25:3,17
+
+### Gedalías (hijo de Jedutún)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zeri / Izri
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Zeri en 25:3; Izri en 25:11. Se conserva la variante.
+
+
+### Jesaías (hijo de Jedutún)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hasabías (hijo de Jedutún)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Matatías (hijo de Jedutún)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Simei (décimo turno)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G37 · Merari: ascendencia de Etán y ramas levíticas
+
+Fuente: 1 Crónicas 6:29–30,44–47; 23:21–23; 24:26–30
+
+Mahli, hijo de Merari, y Mahli, hijo de Musi, son nodos distintos. Las cadenas son genealógicas; su escala generacional absoluta no está determinada.
+
+### Leví
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Merari.  Fuente: 1 Crónicas 6:47
+
+### Merari
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Mahli (hijo de Merari).  Fuente: 1 Crónicas 23:21
+- filiacion → Musi.  Fuente: 1 Crónicas 23:21
+- descendencia → Jaazías. Rama merarita; no se agrega como hijo inmediato junto a Mahli y Musi. Fuente: 1 Crónicas 24:26–27
+
+### Mahli (hijo de Merari)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Libni.  Fuente: 1 Crónicas 6:29–30
+- filiacion → Eleazar (levita de Merari).  Fuente: 1 Crónicas 23:21
+- filiacion → Cis (levita de Merari).  Fuente: 1 Crónicas 23:21
+
+### Musi
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Mahli (hijo de Musi).  Fuente: 1 Crónicas 23:23
+- filiacion → Eder.  Fuente: 1 Crónicas 23:23
+- filiacion → Jerimot (hijo de Musi).  Fuente: 1 Crónicas 23:23
+
+### Mahli (hijo de Musi)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Samer.  Fuente: 1 Crónicas 6:44–47
+
+### Eder
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jerimot (hijo de Musi)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Samer
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Bani.  Fuente: 1 Crónicas 6:44–47
+
+### Bani
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Amsi.  Fuente: 1 Crónicas 6:44–47
+
+### Amsi
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Hilcías.  Fuente: 1 Crónicas 6:44–47
+
+### Hilcías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Amasías.  Fuente: 1 Crónicas 6:44–47
+
+### Amasías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Hasabías.  Fuente: 1 Crónicas 6:44–47
+
+### Hasabías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Maluc.  Fuente: 1 Crónicas 6:44–47
+
+### Maluc
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Abdi.  Fuente: 1 Crónicas 6:44–47
+
+### Abdi
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Quisi.  Fuente: 1 Crónicas 6:44–47
+
+### Quisi
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Etán (cantor).  Fuente: 1 Crónicas 6:44–47
+
+### Etán (cantor)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Libni
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Simei.  Fuente: 1 Crónicas 6:29–30
+
+### Simei
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Uza.  Fuente: 1 Crónicas 6:29–30
+
+### Uza
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Simea.  Fuente: 1 Crónicas 6:29–30
+
+### Simea
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Hagía.  Fuente: 1 Crónicas 6:29–30
+
+### Hagía
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Asaías.  Fuente: 1 Crónicas 6:29–30
+
+### Asaías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eleazar (levita de Merari)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Hijas de Eleazar (sin nombres).  Fuente: 1 Crónicas 23:22
+
+### Cis (levita de Merari)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Hijos de Cis (grupo).  Fuente: 1 Crónicas 23:22
+- filiacion → Jerameel (levita).  Fuente: 1 Crónicas 24:29
+
+### Hijas de Eleazar (sin nombres)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Eleazar no tuvo hijos varones; sus hijas se casaron con los hijos de Cis.
+
+
+### Hijos de Cis (grupo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- union → Hijas de Eleazar (sin nombres). Matrimonios entre grupos; no se conocen aquí parejas individuales ni número. Fuente: 1 Crónicas 23:22
+
+### Jerameel (levita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jaazías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Beno.  Fuente: 1 Crónicas 24:26–27
+- filiacion → Soham.  Fuente: 1 Crónicas 24:26–27
+- filiacion → Zacur (rama de Jaazías).  Fuente: 1 Crónicas 24:26–27
+- filiacion → Ibri.  Fuente: 1 Crónicas 24:26–27
+
+### Beno
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Se conserva como nombre de la KJV; la lectura del término como «su hijo» afecta la lista. No se resuelve esa variante aquí.
+
+
+### Soham
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zacur (rama de Jaazías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ibri
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G38 · Porteros: Meselemías, Obed-edom y Hosa
+
+Fuente: 1 Crónicas 26:1–19
+
+Los totales de 18, 62 y 13 incluyen hijos y hermanos; no son listas de hijos inmediatos. Las generaciones anteriores no reciben años estimados.
+
+### Coré (padre de Meselemías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Meselemías. Kore en KJV; no identificar automáticamente con el Coré de Números 16. Fuente: 1 Crónicas 26:1
+
+### Meselemías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Corahíta, de los hijos de Asaf según 26:1 KJV. No se enlaza con Asaf, cantor gersonita, por homonimia.
+
+- filiacion → Zacarías (hijo de Meselemías).  Fuente: 1 Crónicas 26:2–3
+- filiacion → Jediael.  Fuente: 1 Crónicas 26:2–3
+- filiacion → Zebadías.  Fuente: 1 Crónicas 26:2–3
+- filiacion → Jatniel.  Fuente: 1 Crónicas 26:2–3
+- filiacion → Elam.  Fuente: 1 Crónicas 26:2–3
+- filiacion → Johanán.  Fuente: 1 Crónicas 26:2–3
+- filiacion → Elioenai.  Fuente: 1 Crónicas 26:2–3
+
+### Zacarías (hijo de Meselemías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jediael
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zebadías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jatniel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elam
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Johanán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elioenai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Obed-edom (portero)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Semaías (hijo de Obed-edom).  Fuente: 1 Crónicas 26:4–5
+- filiacion → Jozabad.  Fuente: 1 Crónicas 26:4–5
+- filiacion → Joa.  Fuente: 1 Crónicas 26:4–5
+- filiacion → Sacar.  Fuente: 1 Crónicas 26:4–5
+- filiacion → Natanael.  Fuente: 1 Crónicas 26:4–5
+- filiacion → Amiel.  Fuente: 1 Crónicas 26:4–5
+- filiacion → Isacar.  Fuente: 1 Crónicas 26:4–5
+- filiacion → Peultai.  Fuente: 1 Crónicas 26:4–5
+
+### Semaías (hijo de Obed-edom)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Otni.  Fuente: 1 Crónicas 26:6–7
+- filiacion → Rafael.  Fuente: 1 Crónicas 26:6–7
+- filiacion → Obed (hijo de Semaías).  Fuente: 1 Crónicas 26:6–7
+- filiacion → Elzabad.  Fuente: 1 Crónicas 26:6–7
+- parentesco → Eliú (portero). Se nombran entre sus hermanos/parientes capaces; el antecedente exacto no se fuerza como filiación inmediata. Fuente: 1 Crónicas 26:7
+- parentesco → Semaquías. Se nombran entre sus hermanos/parientes capaces; el antecedente exacto no se fuerza como filiación inmediata. Fuente: 1 Crónicas 26:7
+
+### Jozabad
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sacar
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Natanael
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Amiel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Isacar
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Peultai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Otni
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rafael
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Obed (hijo de Semaías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elzabad
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliú (portero)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Semaquías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Merari
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- descendencia → Hosa. De los hijos de Merari; generaciones no enumeradas. Fuente: 1 Crónicas 26:10
+
+### Hosa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Simri.  Fuente: 1 Crónicas 26:10–11
+- filiacion → Hilcías (hijo de Hosa).  Fuente: 1 Crónicas 26:10–11
+- filiacion → Tebalías.  Fuente: 1 Crónicas 26:10–11
+- filiacion → Zacarías (hijo de Hosa).  Fuente: 1 Crónicas 26:10–11
+
+### Simri
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Su padre lo puso por jefe aunque no era el primogénito (26:10).
+
+
+### Hilcías (hijo de Hosa)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tebalías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zacarías (hijo de Hosa)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G39 · Moisés y los administradores del tesoro
+
+Fuente: 1 Crónicas 23:15–17; 26:20–28
+
+Las referencias a descendientes de Moisés en tiempos de David no proporcionan una cronología continua de nacimientos. Sebuel no se representa como contemporáneo inmediato de Moisés.
+
+### Moisés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Gersón (hijo de Moisés).  Fuente: 1 Crónicas 23:15
+- filiacion → Eliezer (hijo de Moisés).  Fuente: 1 Crónicas 23:15
+
+### Gersón (hijo de Moisés)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- descendencia → Sebuel (tesorero). «Hijo de» en lista genealógica; no se determina número de generaciones intermedias. Fuente: 1 Crónicas 23:16; 26:24
+
+### Eliezer (hijo de Moisés)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Rehabías.  Fuente: 1 Crónicas 23:17
+
+### Sebuel (tesorero)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rehabías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Jesaías (rama de Moisés).  Fuente: 1 Crónicas 26:25
+
+### Jesaías (rama de Moisés)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Joram (rama de Moisés).  Fuente: 1 Crónicas 26:25
+
+### Joram (rama de Moisés)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Zicri.  Fuente: 1 Crónicas 26:25
+
+### Zicri
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Selomit (tesorero).  Fuente: 1 Crónicas 26:25
+
+### Selomit (tesorero)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Con sus hermanos custodia lo dedicado por David, jefes, Samuel, Saúl, Abner y Joab (26:26–28).
+
+
+### Gersón (hijo de Leví)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- descendencia → Laadán. Laadán es gersonita; no es descendiente del Gersón de Moisés por compartir nombre. Fuente: 1 Crónicas 26:21
+
+### Laadán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Jehieli.  Fuente: 1 Crónicas 26:21–22
+
+### Jehieli
+
+Cronología generacional no determinada; ubicación esquemática.
+
+1 Cr 26:22 presenta a Zetam y Joel como hijos de Jehieli; 23:8 los enumera con Jehiel entre los hijos de Laadán. Se conserva la lista de 26 sin imponer generaciones inmediatas a ambas.
+
+- filiacion → Zetam.  Fuente: 1 Crónicas 26:22
+- filiacion → Joel (tesorero).  Fuente: 1 Crónicas 26:22
+
+### Zetam
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joel (tesorero)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G40 · Caleb hijo de Jefone, Acsa y Otoniel
+
+Fuente: 1 Crónicas 4:13–15; Josué 15:13–19
+
+No se fusiona a Caleb hijo de Jefone con Caleb hijo de Hezrón. Jos 15:17 admite discusión sobre el referente de «hermano de Caleb»; se conserva el parentesco sin inventar otro padre.
+
+### Jefone
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Caleb (hijo de Jefone).  Fuente: 1 Crónicas 4:15
+
+### Caleb (hijo de Jefone)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Iru.  Fuente: 1 Crónicas 4:15
+- filiacion → Ela (hijo de Caleb).  Fuente: 1 Crónicas 4:15
+- filiacion → Naam.  Fuente: 1 Crónicas 4:15
+- filiacion → Acsa.  Fuente: Josué 15:16–19
+- parentesco → Otoniel. Parentesco expresado mediante «hermano»; no se fuerza aquí la ambigüedad de su referente. Fuente: Josué 15:17
+
+### Iru
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ela (hijo de Caleb)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Cenaz (nieto de Caleb).  Fuente: 1 Crónicas 4:15
+
+### Naam
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cenaz (nieto de Caleb)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Acsa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Solicita las fuentes superiores e inferiores después de recibir tierra del Neguev (Jos 15:18–19).
+
+
+### Cenaz (padre de Otoniel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Otoniel.  Fuente: 1 Crónicas 4:13
+- filiacion → Seraías (hermano de Otoniel).  Fuente: 1 Crónicas 4:13
+
+### Otoniel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Hatat.  Fuente: 1 Crónicas 4:13
+- union → Acsa. El pasaje no declara que Acsa sea madre de Hatat; no se agrega esa filiación. Fuente: Josué 15:17
+
+### Seraías (hermano de Otoniel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Joab (padre de artesanos).  Fuente: 1 Crónicas 4:14
+
+### Hatat
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joab (padre de artesanos)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Relacionado con el valle de los artesanos; distinto de Joab hijo de Sarvia.
+
+
+### Meonotai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Ofra (hijo de Meonotai). No se completa la ascendencia de Meonotai mediante una filiación no explícita. Fuente: 1 Crónicas 4:14
+
+### Ofra (hijo de Meonotai)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G41 · Simeón: ramas y jefes de la expedición a Seir
+
+Fuente: 1 Crónicas 4:24–43
+
+No se asignan fechas a los eslabones sin año conocido. Los jefes del v. 42 no se conectan a una rama concreta de Simeón mediante generaciones inventadas.
+
+### Simeón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Nemuel.  Fuente: 1 Crónicas 4:24
+- filiacion → Jamín.  Fuente: 1 Crónicas 4:24
+- filiacion → Jarib.  Fuente: 1 Crónicas 4:24
+- filiacion → Zera (hijo de Simeón).  Fuente: 1 Crónicas 4:24
+- filiacion → Saúl (hijo de Simeón).  Fuente: 1 Crónicas 4:24
+
+### Nemuel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jamín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jarib
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zera (hijo de Simeón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Saúl (hijo de Simeón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Salum.  Fuente: 1 Crónicas 4:25–26
+
+### Salum
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Mibsam.  Fuente: 1 Crónicas 4:25–26
+
+### Mibsam
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Misma.  Fuente: 1 Crónicas 4:25–26
+
+### Misma
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Hamuel.  Fuente: 1 Crónicas 4:25–26
+
+### Hamuel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Zacur.  Fuente: 1 Crónicas 4:25–26
+
+### Zacur
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Simei (rama de Simeón).  Fuente: 1 Crónicas 4:25–26
+
+### Simei (rama de Simeón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → 16 hijos y 6 hijas (sin nombres). Número explícito; no se inventan identidades. Fuente: 1 Crónicas 4:27
+
+### 16 hijos y 6 hijas (sin nombres)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Asiel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Seraías (antepasado de Jehú).  Fuente: 1 Crónicas 4:35
+
+### Seraías (antepasado de Jehú)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Josibías.  Fuente: 1 Crónicas 4:35
+
+### Josibías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Jehú (jefe simeonita).  Fuente: 1 Crónicas 4:35
+
+### Jehú (jefe simeonita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Semaías (antepasado de Ziza)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Simri.  Fuente: 1 Crónicas 4:37
+
+### Simri
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Jedaías.  Fuente: 1 Crónicas 4:37
+
+### Jedaías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Alón.  Fuente: 1 Crónicas 4:37
+
+### Alón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Sifi.  Fuente: 1 Crónicas 4:37
+
+### Sifi
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Ziza.  Fuente: 1 Crónicas 4:37
+
+### Ziza
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Isi (padre de cuatro capitanes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Sus cuatro hijos encabezan a 500 simeonitas hacia Seir; allí destruyen el remanente amalecita (4:42–43). No se identifica con otros Isi de Crónicas.
+
+- filiacion → Pelatías.  Fuente: 1 Crónicas 4:42
+- filiacion → Nearías.  Fuente: 1 Crónicas 4:42
+- filiacion → Refaías.  Fuente: 1 Crónicas 4:42
+- filiacion → Uziel (capitán simeonita).  Fuente: 1 Crónicas 4:42
+
+### Pelatías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nearías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Refaías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Uziel (capitán simeonita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G42 · Ester, Mardoqueo y la casa de Amán
+
+Fuente: Ester 2:5–7,15–17; 3:1; 5:10,14; 9:7–10
+
+No se identifica a Cis con el padre de Saúl ni se deduce el nacimiento de Mardoqueo del antecedente discutido de 2:6. Ester no es presentada como madre de Artajerjes. Amán agagueo no recibe una cadena biológica inventada desde Agag.
+
+### Cis (antepasado de Mardoqueo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Simei (antepasado de Mardoqueo).  Fuente: Ester 2:5
+
+### Simei (antepasado de Mardoqueo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Jair.  Fuente: Ester 2:5
+
+### Jair
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Mardoqueo.  Fuente: Ester 2:5
+
+### Mardoqueo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- legal → Ester / Hadasa. La cría como hija tras morir sus padres; son parientes, no padre e hija biológicos. Fuente: Ester 2:7
+
+### Abihail (padre de Ester)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Ester / Hadasa.  Fuente: Ester 2:15
+- parentesco → Mardoqueo. Tío de Mardoqueo; no se fija aquí si el vínculo procede del padre o de la madre. Fuente: Ester 2:15
+
+### Ester / Hadasa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Madre de Ester (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Ester / Hadasa.  Fuente: Ester 2:7
+
+### Asuero
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- union → Ester / Hadasa.  Fuente: Ester 2:16–17
+
+### Hamedata
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Amán.  Fuente: Ester 3:1
+
+### Amán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- union → Zeres.  Fuente: Ester 5:10,14
+- filiacion → Parsandata.  Fuente: Ester 9:7–10
+- filiacion → Dalfón.  Fuente: Ester 9:7–10
+- filiacion → Aspata.  Fuente: Ester 9:7–10
+- filiacion → Porata.  Fuente: Ester 9:7–10
+- filiacion → Adalía.  Fuente: Ester 9:7–10
+- filiacion → Aridata.  Fuente: Ester 9:7–10
+- filiacion → Parmasta.  Fuente: Ester 9:7–10
+- filiacion → Arisai.  Fuente: Ester 9:7–10
+- filiacion → Aridai.  Fuente: Ester 9:7–10
+- filiacion → Vaizata.  Fuente: Ester 9:7–10
+
+### Zeres
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Esposa de Amán. La lista de los diez hijos no nombra a su madre; no se agrega automáticamente su maternidad.
+
+
+### Parsandata
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Dalfón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aspata
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Porata
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Adalía
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aridata
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Parmasta
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Arisai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aridai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Vaizata
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G43 · Herodes: esposas, hijos y sucesores
+
+Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+Fuente histórica externa identificada. Los nombres Herodes, Salomé, Mariamne y Aristóbulo corresponden a varias personas. Filiación no significa sucesión en el trono; la posición no fija años de nacimiento.
+
+### Herodes el Grande
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Alejandro (hijo de Mariamne I).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Aristóbulo (padre de Agripa I).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Salampsio.  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Cipros (hija de Herodes).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Antípatro (hijo de Doris).  Fuente: Josefo, Antigüedades XIV.12.1; XVII.1.3
+- filiacion → Herodes (primer esposo de Herodías).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Antipas.  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Arquelao.  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Olimpia.  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Herodes (hijo de Cleopatra).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Felipe (tetrarca).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Fasael (hijo de Herodes).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Roxana.  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Salomé (hija de Herodes).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Alejandro (hijo de Mariamne I)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mariamne I
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Alejandro (hijo de Mariamne I).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- materna → Aristóbulo (padre de Agripa I).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- materna → Salampsio.  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- materna → Cipros (hija de Herodes).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Aristóbulo (padre de Agripa I)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Salampsio
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cipros (hija de Herodes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Antípatro (hijo de Doris)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Hijo mayor de Herodes; participa en los conflictos sucesorios narrados en Antigüedades XVII. No confundir con sus parientes homónimos.
+
+
+### Doris
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Antípatro (hijo de Doris).  Fuente: Josefo, Antigüedades XIV.12.1; XVII.1.3
+
+### Herodes (primer esposo de Herodías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Josefo lo llama Herodes; se suele distinguir como Herodes II o Herodes Felipe I. No fusionarlo con Felipe tetrarca por el nombre Felipe en los Evangelios.
+
+
+### Mariamne II
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Herodes (primer esposo de Herodías).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Simón (sumo sacerdote)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Mariamne II.  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Antipas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Tetrarca de Galilea (Lucas 3:1); relacionado con Juan el Bautista y con el interrogatorio de Jesús (Marcos 6; Lucas 23).
+
+
+### Maltace (esposa samaritana)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+XVII.1.3 enumera sus hijos sin nombrarla; XVII.10.1 la identifica como madre de Arquelao.
+
+- materna → Antipas.  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- materna → Arquelao.  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- materna → Olimpia.  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Arquelao
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Su gobierno en Judea se menciona en Mateo 2:22; no confundir con Arquelao de Capadocia.
+
+
+### Olimpia
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Herodes (hijo de Cleopatra)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cleopatra de Jerusalén
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Herodes (hijo de Cleopatra).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- materna → Felipe (tetrarca).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Felipe (tetrarca)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Tetrarca de Iturea y Traconítide en Lucas 3:1; no es el primer marido de Herodías de esta reconstrucción de Josefo.
+
+
+### Fasael (hijo de Herodes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Palas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Fasael (hijo de Herodes).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Roxana
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Fedra
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Roxana.  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Salomé (hija de Herodes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elpis
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Salomé (hija de Herodes).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+## G44 · Agripa, Herodías y Salomé: generaciones cruzadas
+
+Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+Las uniones entre parientes se conservan sin fusionar homónimos. Salomé, hija de Herodías, recibe su nombre de Josefo; Marcos 6 no la nombra. Los hijos de su segundo matrimonio no se atribuyen al tetrarca Felipe.
+
+### Herodes el Grande
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- hermanos → Salomé (hermana de Herodes).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- hermanos → Fasael (hermano de Herodes).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- hermanos → José (hermano de Herodes).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Olimpia.  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Cipros (hija de Herodes).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Aristóbulo (padre de Agripa I).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Salampsio.  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Salomé (hermana de Herodes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Antípatro (esposo de Cipros).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- materna → Berenice (madre de Agripa I).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Fasael (hermano de Herodes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Fasael (esposo de Salampsio).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### José (hermano de Herodes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → José (esposo de Olimpia).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### José (esposo de Olimpia)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Mariamne (hija de Olimpia).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Olimpia
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Mariamne (hija de Olimpia).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Cipros (hija de Herodes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Cipros (hija de Antípatro).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Antípatro (esposo de Cipros)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Cipros (hija de Antípatro).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Cipros (hija de Antípatro)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Cipros (hija de Alexas Selcias).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Alexas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Alexas Selcias.  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Alexas Selcias
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Cipros (hija de Alexas Selcias).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Cipros (hija de Alexas Selcias)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Costobaro
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Berenice (madre de Agripa I).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Berenice (madre de Agripa I)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Agripa I.  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- materna → Herodes de Calcis.  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- materna → Aristóbulo (hermano de Agripa I).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- materna → Herodías.  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- materna → Segunda hija de Aristóbulo (no identificada aquí).  Fuente: Josefo, Antigüedades XVII.1.2
+
+### Aristóbulo (padre de Agripa I)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+XVII.1.2 menciona tres hijos y dos hijas; aquí se conservan los cuatro nombres de XVIII.5.4 y una segunda hija sin identificación añadida.
+
+- filiacion → Agripa I.  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Herodes de Calcis.  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Aristóbulo (hermano de Agripa I).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Herodías.  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Segunda hija de Aristóbulo (no identificada aquí).  Fuente: Josefo, Antigüedades XVII.1.2
+
+### Mariamne I
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Aristóbulo (padre de Agripa I).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- materna → Salampsio.  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Salampsio
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Antípatro (hijo de Salampsio).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- materna → Herodes (hijo de Salampsio).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- materna → Alejandro (hijo de Salampsio).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- materna → Alejandra (hija de Salampsio).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- materna → Cipros (esposa de Agripa I).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Agripa I
+
+Cronología generacional no determinada; ubicación esquemática.
+
+El Herodes rey de Hechos 12 se identifica históricamente con Agripa I; no es Antipas.
+
+- filiacion → Agripa II.  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Druso (hijo de Agripa I).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Berenice (hija de Agripa I).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Mariamne (hija de Agripa I).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Drusila.  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Herodes de Calcis
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Aristóbulo (esposo de Salomé).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Aristóbulo (hermano de Agripa I)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jotape (hija de Aristóbulo).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Herodías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Salomé (hija de Herodías).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- union → Antipas. Segundo matrimonio; Antipas no se presenta como padre biológico de Salomé. Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Segunda hija de Aristóbulo (no identificada aquí)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Fasael (esposo de Salampsio)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Antípatro (hijo de Salampsio).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Herodes (hijo de Salampsio).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Alejandro (hijo de Salampsio).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Alejandra (hija de Salampsio).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Cipros (esposa de Agripa I).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Antípatro (hijo de Salampsio)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Herodes (hijo de Salampsio)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Alejandro (hijo de Salampsio)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Alejandra (hija de Salampsio)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cipros (esposa de Agripa I)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Agripa II.  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- materna → Druso (hijo de Agripa I).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- materna → Berenice (hija de Agripa I).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- materna → Mariamne (hija de Agripa I).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- materna → Drusila.  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Agripa II
+
+Cronología generacional no determinada; ubicación esquemática.
+
+El Agripa ante quien habla Pablo en Hechos 25–26 se identifica históricamente con Agripa II.
+
+
+### Druso (hijo de Agripa I)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Josefo indica que murió antes de alcanzar la pubertad; sin año asignado.
+
+
+### Berenice (hija de Agripa I)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Acompaña a Agripa en Hechos 25:13,23; no es su madre Berenice.
+
+
+### Mariamne (hija de Agripa I)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Drusila
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Félix
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- union → Drusila.  Fuente: Hechos 24:24
+
+### Herodes (primer esposo de Herodías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Salomé (hija de Herodías).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Salomé (hija de Herodías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- union → Felipe (tetrarca). Primer matrimonio de Salomé; Josefo dice que Felipe murió sin hijos. Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- materna → Herodes (hijo de Salomé).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- materna → Agripa (hijo de Salomé).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- materna → Aristóbulo (hijo de Salomé).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- union → Aristóbulo (esposo de Salomé). Segundo matrimonio de Salomé. Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Antipas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Felipe (tetrarca)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aristóbulo (esposo de Salomé)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Herodes (hijo de Salomé).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Agripa (hijo de Salomé).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Aristóbulo (hijo de Salomé).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Mariamne (hija de Olimpia)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Aristóbulo (esposo de Salomé).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Herodes (hijo de Salomé)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Agripa (hijo de Salomé)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aristóbulo (hijo de Salomé)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sampsigéramo (rey de Emesa)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jotape (esposa de Aristóbulo).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Jotape (esposa de Aristóbulo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Jotape (hija de Aristóbulo).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Jotape (hija de Aristóbulo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G45 · Alejandro y los descendientes herodianos en Armenia
+
+Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+Rama secundaria con nietos y bisnietos relevantes. No se asignan nacimientos sin evidencia. La carrera posterior al año 70 de los descendientes queda fuera del cierre del mural.
+
+### Herodes el Grande
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Alejandro (hijo de Herodes).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Alejandro (hijo de Herodes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Alejandro (hijo de Glafira).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- filiacion → Tigranes (hijo de Glafira).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Mariamne I
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Alejandro (hijo de Herodes).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Arquelao (rey de Capadocia)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Glafira.  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Glafira
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Alejandro (hijo de Glafira).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+- materna → Tigranes (hijo de Glafira).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Alejandro (hijo de Glafira)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Tigranes (designado por Nerón).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Tigranes (hijo de Glafira)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Rey de Armenia; Josefo declara que murió sin hijos.
+
+
+### Tigranes (designado por Nerón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Recibe el reino de Armenia de Nerón; distinto de su tío homónimo.
+
+- filiacion → Alejandro (hijo de Tigranes).  Fuente: Flavio Josefo, Antigüedades judías XVII.1.2–3; XVIII.5.4. Texto: https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+### Alejandro (hijo de Tigranes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G46 · Zamaris, Jacim y Felipe: una familia de Batanea
+
+Fuente: Josefo, Antigüedades XVII.2.1–3. https://www.gutenberg.org/files/2848/2848-h/2848-h.htm
+
+Rama histórica de tres generaciones. No es una genealogía bíblica ni se identifica a su Felipe con el tetrarca. Fechas de nacimiento no proporcionadas en el pasaje.
+
+### Zamaris
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Establecido en Batanea por Herodes; su comunidad protege el tránsito de judíos procedentes de Babilonia.
+
+- filiacion → Jacim.  Fuente: Josefo, Antigüedades XVII.2.3
+
+### Jacim
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Organiza y adiestra jinetes que sirven como guardia de los reyes.
+
+- filiacion → Felipe (hijo de Jacim).  Fuente: Josefo, Antigüedades XVII.2.3
+
+### Felipe (hijo de Jacim)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Jefe militar vinculado al rey Agripa; la continuidad familiar explica su posición en la región.
+
