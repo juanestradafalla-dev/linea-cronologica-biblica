@@ -1,6 +1,6 @@
 # Cronología bíblica
 
-Página estática de fondo claro. Línea horizontal por décadas desde 600 a. C. hasta el cierre en 70 d. C.; recorrido de las 15 etapas originales desde la rebelión celestial. Conserva las 148 fichas y enlaza al mural de 463 fichas de familias y episodios, con 6.696 apariciones de personas o grupos y 2.902 relaciones. Las apariciones repetidas no son personas únicas.
+Página estática de fondo claro. Línea horizontal por décadas desde 600 a. C. hasta el cierre en 70 d. C.; recorrido de las 15 etapas originales desde la rebelión celestial. Conserva las 148 fichas y enlaza al mural de 483 fichas de familias y episodios, con 6.885 apariciones de personas o grupos y 2.916 relaciones. Las apariciones repetidas no son personas únicas.
 
 La ampliación anterior completó los ocho bloques identificados: familias de jueces, ramas tribales, Safán, Baruc y su entorno, recabitas, casas del retorno, Job y parentescos del Nuevo Testamento. Las notas de Elena G. White distinguen obra, capítulo y referencia de página/párrafo en la edición inglesa consultada. Las familias enlazan a los acontecimientos relacionados y las fichas de acontecimientos permiten regresar a esas familias. El catálogo descargable documenta la cobertura y las incertidumbres.
 
@@ -103,3 +103,8 @@ Completada una pasada bíblica de personajes por los 24 capítulos y 658 versíc
 ## Génesis: revisión continua de personajes
 
 Completada una pasada continua de personajes por Génesis 1–50, 1.533 versículos KJV. Se añaden 28 fichas G436–G463 / R383–R410, 273 apariciones y 50 relaciones: total de 463 fichas, 6.696 apariciones de personas o grupos y 2.902 relaciones. Las apariciones incluyen colectivos y repeticiones, no personas únicas. Se conservan las 435 fichas anteriores y los 148 acontecimientos. Se incorporan descendencias anónimas, variantes de las esposas de Esaú, auxiliares de los patriarcas y generaciones conocidas por José, con cronologías no determinadas expresamente señaladas. PP 173.2 y 196.3 se consultaron puntualmente para las identificaciones de Eliezer y del visitante de Jacob; se atribuyen a White. Variantes, paralelos y contraste integral con White siguen abiertos. Próximo libro: Éxodo.
+
+
+## Éxodo: revisión continua de personajes
+
+Completada una pasada continua de personajes por Éxodo 1–40, 1.213 versículos KJV, más Números 26:59 y 2 Timoteo 3:8. Se añaden 20 fichas G464–G483 / R411–R430, 189 apariciones y 14 relaciones: total de 483 fichas, 6.885 apariciones y 2.916 relaciones. Las apariciones incluyen colectivos, categorías normativas y repeticiones; no son personas únicas. Se conservan las 463 fichas anteriores y los 148 acontecimientos. Se incorporan parteras, casa de la hija del faraón, hermanas de Séfora, madre de Jocabed, uniones levíticas, auxiliares y trabajadores del santuario. Las cronologías desconocidas y las diferencias entre adopción, filiación y pertenencia tribal quedan explícitas. PP 251.2 y 255.5 se consultaron puntualmente, con atribución a White de los detalles correspondientes. Siguen abiertos variantes, cronologías e identificación de anónimos y el contraste integral con White. Próximo libro: Levítico.
