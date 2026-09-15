@@ -4,6 +4,10 @@ Filiaciones, genealogías, parentescos, sucesiones y pertenencia a pueblos se di
 
 Estado: ampliación documentada, no inventario exhaustivo de todos los personajes bíblicos ni lectura íntegra de los 120 PDF. Las apariciones repetidas no equivalen a personas únicas.
 
+## Rut: cotejo de personajes de los cuatro capítulos
+
+Completada una pasada bíblica de personajes por los cuatro capítulos y 85 versículos de Rut en la KJV aportada, con 18 versículos adicionales de Mateo 1:1–6 y 1 Crónicas 2:4–15. Se añaden cuatro fichas G418–G421 / R365–R368, 39 apariciones y seis relaciones. Total: 421 fichas, 6.245 apariciones de personas o grupos y 2.845 relaciones. Las apariciones incluyen colectivos y repeticiones; no son personas únicas. Las 417 fichas anteriores y los 148 acontecimientos permanecen intactos. Se incorporan padres anónimos, encargado de segadores, pariente prioritario, testigos y cuidado de Obed por Noemí. Cotejos puntuales COL 290.1; 301.1 y DA 327.3, sin lectura íntegra de esas obras. Variantes, cronología generacional y contraste integral con White siguen abiertos. Próximo libro propuesto: Josué.
+
 ## Jueces: cotejo de personajes de los veintiún capítulos
 
 Completada una pasada bíblica de personajes por los 21 capítulos y 618 versículos de Jueces en la KJV aportada. Se añaden 15 fichas G403–G417 / R350–R364, 195 apariciones y 17 relaciones. Total: 417 fichas, 6.206 apariciones de personas o grupos y 2.839 relaciones. Las apariciones incluyen colectivos y repeticiones; no son personas únicas. Las 402 fichas anteriores y los 148 acontecimientos permanecen intactos. Se incorporan Gera–Aod, madre de Sísara, auxiliares de Gedeón, abuelo y tíos maternos de Abimelec, nueras de Ibzán y familias anónimas del cierre. La respuesta por medio de un profeta se atribuye expresamente a White, PP 557.3; también se cotejan PP 556.3 y 560.2–4. Siguen abiertos variantes, cronologías y contraste integral con White. Próximo libro propuesto: Rut.
@@ -50220,6 +50224,321 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 ### Mujeres de Silo raptadas durante la fiesta
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G418 · Rut 1–2: padres de Rut, madre de Orfa y nombre Mara
+
+Fuente: Rut 1; 2:11; 4:10
+
+G22 conserva Elimelec–Noemí, Mahlón–Rut y Quelión–Orfa. El capítulo 1 no asigna cada esposa por nombre a cada hijo; 4:10 identifica expresamente a Rut como esposa de Mahlón y permite el cotejo del otro matrimonio. Noemí pide que cada nuera vuelva a la casa de su madre (1:8), y Booz menciona además al padre y la madre de Rut (2:11). Se registran los tres progenitores anónimos, sin asignarles realeza, nombres tradicionales o una cadena particular hasta Moab. G07 mantiene el origen moabita como pertenencia a un pueblo, no filiación inmediata desde el hijo de Lot. Mara es el nombre que Noemí pide que le den en su amargura; no otra mujer. Los hijos futuros y un nuevo marido que Noemí plantea hipotéticamente en 1:11–13 no existieron por el solo hecho de mencionarlos. Orfa regresa a su pueblo: no se inventan su segundo esposo, hijos o una ascendencia hacia Goliat. Los aproximadamente diez años en Moab y la llegada al inicio de la siega de cebada no fijan año absoluto, edades o juez reinante.
+
+Elena G. White — Christ’s Object Lessons, COL 290.1; 301.1 (PDF aportado, páginas 70 y 73): White presenta a Rut como moabita que se une al pueblo de Dios y destaca su afecto filial. No identifica a sus padres ni establece nuevas generaciones. Cotejo puntual de estos párrafos.
+
+Acontecimiento relacionado: E69 · Crisis tribal y familia de Rut (Durante los jueces; ubicación interna no fijada).
+
+### Elimelec (esposo de Noemí)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Noemí / Mara (una sola mujer)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mahlón (primer esposo de Rut)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Quelión (hijo de Elimelec)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rut (moabita, nuera de Noemí)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Orfa (nuera que regresa a su pueblo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Padre de Rut (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Rut (moabita, nuera de Noemí).  Fuente: Rut 2:11
+
+### Madre de Rut (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Rut (moabita, nuera de Noemí).  Fuente: Rut 1:8; 2:11
+
+### Madre de Orfa (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Orfa (nuera que regresa a su pueblo). La casa de su madre se menciona al despedir a las dos nueras; sin nombre ni fecha. Fuente: Rut 1:8
+
+### Habitantes de Belén que reconocen a Noemí
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G419 · Rut 2: encargado de los segadores y parentesco de Booz con Elimelec
+
+Fuente: Rut 2
+
+El criado encargado de los segadores informa a Booz sobre Rut y su trabajo; no tiene nombre ni se identifica como hijo suyo. Las criadas, jóvenes que sacan agua y segadores son grupos funcionales que pueden superponerse: no se suman como personas distintas conocidas. Booz ordena proteger a Rut, permite que recoja entre las gavillas y dispone que le dejen espigas. Llamarla «hija mía» expresa trato protector, no paternidad; «sierva» es el modo en que Rut se presenta, no una genealogía o contrato de esclavitud añadido. Booz pertenece a la familia de Elimelec (2:1,3), pero no se precisa aquí si es hermano, primo o sobrino. Se dibuja parentesco sin generaciones intermedias inventadas. Rut vive con Noemí y espiga hasta terminar las cosechas de cebada y trigo, sin fechas de calendario añadidas.
+
+Acontecimiento relacionado: E69 · Crisis tribal y familia de Rut (Durante los jueces; ubicación interna no fijada).
+
+### Booz (propietario de los campos)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elimelec (pariente de Booz)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- parentesco → Booz (propietario de los campos). Familia del esposo de Noemí; grado de parentesco no especificado. Fuente: Rut 2:1,3,20
+
+### Rut (espiga en los campos)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Noemí (recibe el alimento)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Criado encargado de los segadores (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Segadores del campo de Booz
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Criadas con quienes espiga Rut
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jóvenes que sacan agua y dejan espigas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G420 · Rut 3–4: pariente más cercano y diez ancianos de la puerta
+
+Fuente: Rut 3; 4:1–12
+
+El pariente con prioridad sobre Booz no es nombrado; «fulano» o la fórmula de llamada de 4:1 no son nombres propios. Acepta inicialmente redimir la parcela y luego renuncia al conocer la condición relativa a Rut y a la herencia. Su preocupación por perjudicar su propia heredad no permite inventar esposa o hijos suyos. «Nuestro hermano Elimelec» no establece por sí solo tres hermanos biológicos; se conserva el parentesco sin grado exacto. Los diez ancianos son testigos designados, distintos como función del conjunto de personas de la puerta, aunque pertenezcan a él. Los jóvenes pobres o ricos que Rut no siguió (3:10) son una comparación de Booz, no pretendientes identificados. No se convierte la escena nocturna de la era en un segundo matrimonio o en una concepción allí narrada: la unión y el nacimiento se relatan en 4:13. La retirada del calzado confirma la transacción según el propio libro; no se agrega una ceremonia o descendencia que el pasaje no describa.
+
+Elena G. White — The Desire of Ages, DA 327.3 (PDF aportado, página 104): White cita Rut 2:20 junto a las leyes de redención para ilustrar la relación de Cristo con quienes redime. Es una aplicación teológica atribuida a White, no un nombre para el pariente anónimo ni una filiación biológica nueva en esta familia.
+
+Acontecimiento relacionado: E69 · Crisis tribal y familia de Rut (Durante los jueces; ubicación interna no fijada).
+
+### Booz (asume la redención)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pariente más cercano que renuncia (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elimelec (difunto de cuya familia procede el derecho)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- parentesco → Pariente más cercano que renuncia (sin nombre). Prioridad respecto de Booz; no se determina hermano, primo u otra relación concreta. Fuente: Rut 3:12; 4:3–6
+
+### Rut (viuda de Mahlón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Noemí (vinculada a la parcela)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Diez ancianos convocados por Booz
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Personas de la puerta que dan testimonio
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G421 · Rut 4: Noemí cuidadora, vecinas y genealogía hasta David
+
+Fuente: Rut 4:11–22; cotejo con 1 Crónicas 2:4–15 y Mateo 1:1–6
+
+Rut da a luz a Obed después de casarse con Booz. Noemí lo toma en su regazo y lo cuida; el anuncio de las vecinas «ha nacido un hijo a Noemí» no reemplaza a Rut como madre biológica ni prueba una adopción formal. Las vecinas dan el nombre Obed; no se presentan como madres o parientes identificadas. «Mejor que siete hijos» elogia a Rut y no añade siete hijos a Noemí. Raquel, Lea, Tamar y Judá pertenecen a la bendición que recuerda a los antepasados, no a los testigos vivos de la boda. La lista final es Pérez–Hezrón–Ram–Aminadab–Naasón–Salmón–Booz–Obed–Isaí–David, ya trazada en G15 y prolongada en G23, G26 y G29. Crónicas escribe Salma; Mateo conserva formas como Esrom y Aram y añade a Rahab como madre de Booz. Esa maternidad procede de Mateo 1:5, no de una afirmación del libro de Rut. La lista de diez nombres no aporta edades o duración de cada generación ni resuelve aquí posibles saltos. «En días de los jueces» no permite identificar sin otra evidencia a Booz con Ibzán.
+
+Acontecimiento relacionado: E69 · Crisis tribal y familia de Rut (Durante los jueces; ubicación interna no fijada).
+
+### Rut (madre de Obed)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Booz (padre de Obed)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Obed (hijo nacido en Belén)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Noemí (cuidadora de Obed)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- crianza → Obed (hijo nacido en Belén). Cuidado explícito; no maternidad biológica ni adopción formal afirmada. Fuente: Rut 4:16–17
+
+### Isaí (hijo de Obed)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### David (hijo de Isaí)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pérez (encabezado de la genealogía)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hezrón (hijo de Pérez)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ram (hijo de Hezrón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aminadab (hijo de Ram)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Naasón (hijo de Aminadab)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Salmón (padre de Booz)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mujeres que bendicen a Noemí
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Vecinas que llaman Obed al niño
 
 Cronología generacional no determinada; ubicación esquemática.
 
