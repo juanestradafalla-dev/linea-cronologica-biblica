@@ -1,6 +1,6 @@
 # Cronología bíblica
 
-Página estática de fondo claro. Línea horizontal por décadas desde 600 a. C. hasta el cierre en 70 d. C.; recorrido de las 15 etapas originales desde la rebelión celestial. Conserva las 148 fichas y enlaza al mural de 435 fichas de familias y episodios, con 6.423 apariciones de personas o grupos y 2.852 relaciones. Las apariciones repetidas no son personas únicas.
+Página estática de fondo claro. Línea horizontal por décadas desde 600 a. C. hasta el cierre en 70 d. C.; recorrido de las 15 etapas originales desde la rebelión celestial. Conserva las 148 fichas y enlaza al mural de 463 fichas de familias y episodios, con 6.696 apariciones de personas o grupos y 2.902 relaciones. Las apariciones repetidas no son personas únicas.
 
 La ampliación anterior completó los ocho bloques identificados: familias de jueces, ramas tribales, Safán, Baruc y su entorno, recabitas, casas del retorno, Job y parentescos del Nuevo Testamento. Las notas de Elena G. White distinguen obra, capítulo y referencia de página/párrafo en la edición inglesa consultada. Las familias enlazan a los acontecimientos relacionados y las fichas de acontecimientos permiten regresar a esas familias. El catálogo descargable documenta la cobertura y las incertidumbres.
 
@@ -98,3 +98,8 @@ Completada una pasada bíblica de personajes por los cuatro capítulos y 85 vers
 ## Josué: cotejo de personajes de los veinticuatro capítulos
 
 Completada una pasada bíblica de personajes por los 24 capítulos y 658 versículos de Josué en la KJV aportada, con dos versículos adicionales de paralelos. Se añaden 14 fichas G422–G435 / R369–R382, 178 apariciones y siete relaciones. Total: 435 fichas, 6.423 apariciones de personas o grupos y 2.852 relaciones. Las apariciones incluyen colectivos y repeticiones; no son personas únicas. Las 421 fichas anteriores y los 148 acontecimientos permanecen intactos. Se incorporan hijos e hijas de Acán, Arba–Anac, Bohán, auxiliares y registro completo de 31 reyes, sin convertir lugares en personas. La identificación del Príncipe del ejército del Señor como Cristo se atribuye a White, PP 487.3; también se coteja PP 493.1. Siguen abiertas cronologías, variantes e identidades y el contraste integral con White. Próximo libro propuesto: Génesis.
+
+
+## Génesis: revisión continua de personajes
+
+Completada una pasada continua de personajes por Génesis 1–50, 1.533 versículos KJV. Se añaden 28 fichas G436–G463 / R383–R410, 273 apariciones y 50 relaciones: total de 463 fichas, 6.696 apariciones de personas o grupos y 2.902 relaciones. Las apariciones incluyen colectivos y repeticiones, no personas únicas. Se conservan las 435 fichas anteriores y los 148 acontecimientos. Se incorporan descendencias anónimas, variantes de las esposas de Esaú, auxiliares de los patriarcas y generaciones conocidas por José, con cronologías no determinadas expresamente señaladas. PP 173.2 y 196.3 se consultaron puntualmente para las identificaciones de Eliezer y del visitante de Jacob; se atribuyen a White. Variantes, paralelos y contraste integral con White siguen abiertos. Próximo libro: Éxodo.
