@@ -6,7 +6,7 @@ Estado: ampliación documentada, no inventario exhaustivo de todos los personaje
 
 ## 1 Crónicas: cotejo de personajes de los veintinueve capítulos
 
-Completada una pasada bíblica de personajes por los 942 versículos de 1 Crónicas en la KJV aportada: 858 leídos en esta tanda, además de los 84 de los capítulos 9 y 12 cotejados anteriormente. Dieciocho fichas adicionales (G285–G302; R232–R249): variantes genealógicas, jefes de Simeón, músicos y servidores del arca, turnos sacerdotales y militares y familiares secundarios. Total: 302 fichas, 4.540 apariciones de personas o grupos y 2.715 relaciones; las apariciones no son personas únicas. Se conservan las 284 fichas anteriores y los 148 acontecimientos. Las variantes, identificaciones, cronologías y el contraste completo con Elena G. White siguen abiertos.
+Completada una pasada bíblica de personajes por los 942 versículos de 1 Crónicas en la KJV aportada: 858 leídos en esta tanda, además de los 84 de los capítulos 9 y 12 cotejados anteriormente. Diecinueve fichas adicionales (G285–G303; R232–R250): variantes genealógicas, jefes de Simeón, músicos y servidores del arca, turnos sacerdotales y militares y familiares secundarios. Total: 303 fichas, 4.546 apariciones de personas o grupos y 2.720 relaciones; las apariciones no son personas únicas. Se conservan las 284 fichas anteriores y los 148 acontecimientos. Las variantes, identificaciones, cronologías y el contraste completo con Elena G. White siguen abiertos.
 
 ## Nehemías: cotejo de personajes de los trece capítulos
 
@@ -37414,6 +37414,59 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 ### Sacerdotes y levitas para el servicio
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G303 · 1 Crónicas 7: Neftalí y la forma Salum de su descendencia
+
+Fuente: 1 Crónicas 7:13; comparación con Génesis 46:24–25
+
+G14 conserva Jahzeel, Guni, Jezer y Silem de Génesis 46. KJV 1 Crónicas 7:13 imprime Jahziel y Shallum: se conservan como Jahziel y Salum, sin sustituirlos silenciosamente por las formas de Génesis ni contarlos automáticamente como otros dos hijos. «Hijos de Bilha» identifica la rama materna; no hace de Bilha la madre inmediata de los cuatro nietos. No hay años de nacimiento de estos descendientes.
+
+### Bilha (rama materna)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Neftalí (7:13).  Fuente: Génesis 46:24–25
+
+### Neftalí (7:13)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jahziel (7:13 KJV).  Fuente: 1 Crónicas 7:13
+- filiacion → Guni (7:13).  Fuente: 1 Crónicas 7:13
+- filiacion → Jezer (7:13).  Fuente: 1 Crónicas 7:13
+- filiacion → Salum / Shallum (7:13 KJV).  Fuente: 1 Crónicas 7:13
+
+### Jahziel (7:13 KJV)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Guni (7:13)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jezer (7:13)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Salum / Shallum (7:13 KJV)
 
 Cronología generacional no determinada; ubicación esquemática.
 
