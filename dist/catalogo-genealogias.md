@@ -4,6 +4,10 @@ Filiaciones, genealogías, parentescos, sucesiones y pertenencia a pueblos se di
 
 Estado: ampliación documentada, no inventario exhaustivo de todos los personajes bíblicos ni lectura íntegra de los 120 PDF. Las apariciones repetidas no equivalen a personas únicas.
 
+## 2 Reyes: cotejo de personajes de los veinticinco capítulos
+
+Completada una pasada bíblica de personajes por los 25 capítulos y 719 versículos de 2 Reyes en la KJV aportada. Se añaden 22 fichas G342–G363 / R289–R310, 365 apariciones y 16 relaciones. Total: 363 fichas, 5.488 apariciones de personas o grupos y 2.788 relaciones. Las apariciones incluyen colectivos y repeticiones; no son personas únicas. Se conservan las 341 fichas anteriores y los 148 acontecimientos. Descendientes sin nombres, auxiliares, familias de reyes y continuidad hasta el exilio incluyen fuentes y cautelas. Siguen pendientes identidades, sincronismos, variantes y el contraste completo con Elena G. White. Próximo libro propuesto: 1 Samuel.
+
 ## 1 Reyes: cotejo de personajes de los veintidós capítulos
 
 Completada una pasada bíblica de personajes por los 816 versículos de 1 Reyes en la KJV aportada. Quince fichas adicionales (G327–G341; R274–R288): 200 apariciones y 15 relaciones. Se conservan personas anónimas, familias de adversarios, profetas, servidores y conexiones posteriores de los hijos de Nabot y la tumba del hombre de Dios. Total: 341 fichas, 5.123 apariciones de personas o grupos y 2.772 relaciones; las apariciones no son personas únicas. Las 326 fichas previas y los 148 acontecimientos permanecen intactos. Siguen abiertos los paralelos, identidades discutidas, cronologías y el contraste completo con Elena G. White.
@@ -41894,6 +41898,2771 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 ### Siervos ofrecidos por Ocozías para la flota
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G342 · 2 Reyes 1: Ocozías, tres capitanes y sucesión sin hijo
+
+Fuente: 2 Reyes 1
+
+Ocozías es el rey de Israel, distinto del homónimo de Judá. El versículo 17 explica que Joram lo sucede porque Ocozías no tenía hijo; no se crea una filiación entre ambos. Los tres capitanes y sus respectivas cincuentenas se distinguen: las dos primeras son consumidas por fuego; el tercero suplica y acompaña a Elías. El ángel no recibe nombre. Baal-zebub es la divinidad consultada, no un antepasado humano. El sincronismo de 1:17 con Joram de Judá se conserva frente al de 3:1 con Josafat: no se inventa una corregencia para resolverlo.
+
+Acontecimiento relacionado: E84 · Elías, Eliseo y conflictos regionales (Sucesión profética).
+
+### Ocozías (rey de Israel, sin hijo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joram (sucesor en Israel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joram (rey de Judá, sincronismo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elías (mensajero profético)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Primer capitán de cincuenta (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Segundo capitán de cincuenta (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tercer capitán de cincuenta (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Primera cincuentena
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Segunda cincuentena
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tercera cincuentena
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mensajeros enviados a Ecrón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Moabitas que se rebelan
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ángel que habla a Elías (2 Reyes 1)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G343 · 2 Reyes 2: discípulos, testigos y jóvenes de Betel
+
+Fuente: 2 Reyes 2
+
+Los hijos de los profetas son una comunidad profética, no hijos biológicos de Elías o Eliseo. Los cincuenta observadores y los cincuenta buscadores se conservan como menciones sin afirmar que sean cien individuos distintos. «Padre mío» es el tratamiento de Eliseo a Elías, no filiación; G130 conserva a Safat como padre de Eliseo. El carro y los caballos de fuego los separan y Elías sube en un torbellino: no se añade que viajara montado en el carro. Las dos osas despedazan a cuarenta y dos jóvenes; no se deduce su edad exacta ni que el texto declare muertos a todos. Padres, nombres y generaciones de esos jóvenes son desconocidos.
+
+Acontecimiento relacionado: E84 · Elías, Eliseo y conflictos regionales (Sucesión profética).
+
+### Elías (traslado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliseo (sucesor profético)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos de los profetas de Betel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos de los profetas de Jericó
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cincuenta observadores junto al Jordán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cincuenta buscadores durante tres días
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombres de Jericó que piden sanear el agua
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cuarenta y dos jóvenes atacados cerca de Betel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G344 · 2 Reyes 3: Mesa y su primogénito en la guerra de Moab
+
+Fuente: 2 Reyes 3
+
+Mesa/Mesha, rey de Moab, ofrece en el muro a su primogénito destinado a sucederle. El hijo y su madre no tienen nombre; no se reconstruyen generaciones hasta Moab hijo de Lot. El rey de Edom tampoco es nombrado. El servidor del rey de Israel recomienda a Eliseo hijo de Safat y se llama a un músico: ninguno recibe identidad por tradición. Los setecientos hombres de la tentativa de ruptura son soldados, no descendientes de Mesa. No se atribuye la indignación final a una divinidad que el pasaje no identifica.
+
+Acontecimiento relacionado: E84 · Elías, Eliseo y conflictos regionales (Sucesión profética).
+
+### Joram (hijo de Acab, rey de Israel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Acab (padre de Joram)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Josafat (rey de Judá)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rey de Edom (coalición, sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mesa / Mesha (rey de Moab)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Primogénito de Mesa (sucesor previsto, sin nombre).  Fuente: 2 Reyes 3:26–27
+
+### Primogénito de Mesa (sucesor previsto, sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliseo (profeta de la campaña)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Safat (padre de Eliseo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Eliseo (profeta de la campaña).  Fuente: 2 Reyes 3:11
+
+### Servidor que recomienda a Eliseo (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Músico llamado por Eliseo (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ejércitos de los tres reyes
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Moabitas movilizados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Setecientos espadachines de Mesa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G345 · 2 Reyes 4: auxiliares de las familias y comidas de Eliseo
+
+Fuente: 2 Reyes 4
+
+G103 conserva al profeta fallecido, su viuda y dos hijos, y a la sunamita, esposo e hijo. No se llama Abdías al esposo fallecido ni se asigna nombre al niño resucitado. Giezi/Gehazi es servidor de Eliseo. El muchacho que lleva al niño desde los segadores y el criado que conduce a la madre son menciones de servicio, sin afirmar identidad o diferencia personal segura. Tampoco se identifica automáticamente a Giezi con quien cocina o distribuye la comida. El hombre de Baal-salisa trae veinte panes de cebada y primicias; los cien alimentados son un colectivo, no una genealogía.
+
+Acontecimiento relacionado: E84 · Elías, Eliseo y conflictos regionales (Sucesión profética).
+
+### Eliseo (aceite, resurrección y alimentos)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Giezi / Gehazi (servidor de Eliseo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Viuda del profeta (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Profeta fallecido (esposo sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sunamita (anfitriona sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Esposo anciano de la sunamita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijo resucitado de la sunamita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Acreedor de la viuda (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Muchacho que lleva al niño a su madre
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Criado que conduce a la sunamita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Servidor encargado de la olla
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Recolector de calabazas silvestres
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombre de Baal-salisa (donante)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Servidor que distribuye los panes
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Dos hijos de la viuda
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Vecinos que prestan vasijas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Segadores con el padre del niño
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos de los profetas en Gilgal
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cien hombres alimentados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G346 · 2 Reyes 5: servidores de Naamán y descendencia de Giezi
+
+Fuente: 2 Reyes 5
+
+G131 conserva la esposa de Naamán y la muchacha israelita cautiva; no se inventan sus padres ni su destino posterior. Los reyes de Siria e Israel quedan sin nombre en este capítulo. El informante de 5:4 y el mensajero de Eliseo no se identifican automáticamente con personajes conocidos. Los dos visitantes proféticos que Giezi invoca para pedir bienes forman parte de su mentira, no un registro de visitantes reales. Sus descendientes aparecen en la sentencia de 5:27, sin nombres, número ni fechas. Los servidores llaman «padre mío» a Naamán como tratamiento, no como hijos biológicos. Rimón es una divinidad del culto sirio, no el padre humano de nadie en esta ficha.
+
+Acontecimiento relacionado: E84 · Elías, Eliseo y conflictos regionales (Sucesión profética).
+
+### Naamán (capitán sirio sanado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Esposa de Naamán (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Muchacha israelita cautiva (informante)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Informante ante su señor (5:4, sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rey de Siria (carta, sin nombre en el capítulo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rey de Israel (receptor de la carta, sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliseo (profeta)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mensajero de Eliseo ante Naamán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Giezi / Gehazi (bienes ocultados)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- descendencia → Descendencia de Giezi mencionada en la sentencia. Descendencia sin eslabones enumerados; no hijos inmediatos identificados. Fuente: 2 Reyes 5:27
+
+### Servidores que aconsejan a Naamán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Dos criados de Naamán que llevan los bienes
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Descendencia de Giezi mencionada en la sentencia
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G347 · 2 Reyes 6–7: servidores, madres del asedio y cuatro leprosos
+
+Fuente: 2 Reyes 6–7
+
+El servidor de Dotán no se identifica con Giezi. El solicitante de la construcción y quien pierde el hacha se registran como menciones sin asegurar que sean dos personas. Dos madres y dos hijos figuran en la acusación de 6:28–29: la primera declara que comieron a su hijo y que la segunda ocultó al suyo; no se añaden nombres. Los cuatro leprosos de la puerta no se identifican con Giezi y sus hijos. Los reyes hititas y egipcios son una explicación que los sirios imaginan al oír el estruendo, no aliados cuya llegada esté afirmada. El oficial incrédulo que muere atropellado es el mismo del anuncio de 7:2. «Padre mío» dirigido por el rey a Eliseo no es parentesco.
+
+Acontecimiento relacionado: E84 · Elías, Eliseo y conflictos regionales (Sucesión profética).
+
+### Eliseo (Dotán y asedio)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Solicitante de la construcción junto al Jordán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Prestatario que pierde el hacha
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Servidor de Eliseo en Dotán (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Informante del rey sirio (6:12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rey de Siria de las emboscadas (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rey de Israel del asedio (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ben-adad (rey del asedio, 6:24)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Primera madre del litigio del asedio
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Hijo comido según la declaración. Vínculo expresado por la mujer en su denuncia. Fuente: 2 Reyes 6:28–29
+
+### Segunda madre del litigio del asedio
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Hijo ocultado según la declaración. Vínculo atribuido en el relato de la primera mujer. Fuente: 2 Reyes 6:28–29
+
+### Hijo comido según la declaración
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijo ocultado según la declaración
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mensajero enviado contra Eliseo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Oficial incrédulo encargado de la puerta
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Portero que recibe la noticia
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Servidor que propone explorar
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos de los profetas constructores
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tropa siria conducida a Samaria y alimentada
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ancianos sentados con Eliseo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cuatro leprosos que descubren el campamento vacío
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Porteros que informan a la casa real
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mensajeros que exploran hasta el Jordán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pueblo que recoge el botín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G348 · 2 Reyes 8: regreso de la sunamita y cambio de rey en Siria
+
+Fuente: 2 Reyes 8
+
+La sunamita y su hijo reaparecen tras siete años en tierra filistea; no se crea una segunda familia. Giezi cuenta la resurrección al rey: el orden literario respecto de su lepra no permite inventar aquí una curación o fechar con precisión el episodio. El funcionario restituye bienes y rentas, no es un pariente. Hazael sucede a Ben-adad después de su muerte causada con un paño mojado: la sucesión no acredita filiación. «Tu hijo Ben-adad» es tratamiento ante Eliseo. Los Joram de Israel y Judá se distinguen. Ocozías de Judá tiene veintidós años en 8:26 frente a cuarenta y dos en 2 Crónicas 22:2 KJV, como ya advierte G311. La hija de Acab de 8:18 y Atalía llamada hija de Omri en 8:26 conservan sus formulaciones sin suprimir generaciones.
+
+Acontecimiento relacionado: E84 · Elías, Eliseo y conflictos regionales (Sucesión profética).
+
+Acontecimiento relacionado: E85 · Jehú y restauración de Joás (Cambios dinásticos).
+
+### Sunamita (reclamante de bienes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijo de la sunamita (testigo vivo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Giezi / Gehazi (relator ante el rey)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rey de Israel (restitución, sin nombre aquí)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Funcionario de la restitución (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliseo (visitante en Damasco)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ben-adad (rey enfermo de Siria)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hazael (servidor y sucesor)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joram (hijo de Acab, Israel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joram (hijo de Josafat, Judá)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Josafat (sincronismo de Judá)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ocozías (hijo de Joram de Judá)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Atalía (madre de Ocozías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rey elegido por Edom (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de la sunamita emigrada
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jóvenes, niños y embarazadas en el anuncio sobre Hazael
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sirios que hieren a Joram
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G349 · 2 Reyes 9: mensajeros de la unción y testigos de la caída omrida
+
+Fuente: 2 Reyes 9
+
+G136 conserva Nimsi–Josafat–Jehú; Josafat padre de Jehú no es automáticamente el rey de Judá. El joven profeta enviado por Eliseo no tiene nombre y no se identifica con Jonás. «Hermanos» entre los capitanes no crea una fratría. El vigía y los dos jinetes son tres funciones anónimas diferenciadas. Bidcar recuerda con Jehú el oráculo sobre Nabot; G340 conserva a Nabot y sus hijos por 9:26. Los eunucos son «dos o tres», no una cifra exacta resuelta. El sincronismo de Ocozías es año once en 9:29 y doce en 8:25: se advierte la diferencia. Su muerte en Meguido según 9:27 se conserva frente a la secuencia de 2 Crónicas 22:9, sin inventar un itinerario de armonización. La mención de Zimri por Jezabel alude al pasado, no a otro presente.
+
+Acontecimiento relacionado: E85 · Jehú y restauración de Joás (Cambios dinásticos).
+
+### Eliseo (envía al ungidor)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joven profeta que unge a Jehú (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jehú (ungido rey)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Josafat (padre de Jehú)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nimsi (abuelo de Jehú)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joram (rey de Israel abatido)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ocozías (rey de Judá abatido)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hazael (guerra de Ramot)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Vigía de la torre de Jezreel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Primer jinete enviado
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Segundo jinete enviado
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bidcar (capitán de Jehú)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nabot (víctima recordada)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jezabel (muere en Jezreel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos de Nabot recordados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Capitanes que proclaman a Jehú
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Servidores que trasladan a Ocozías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Dos o tres eunucos de Jezabel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Servidores enviados a sepultar a Jezabel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G350 · 2 Reyes 10: setenta hijos de Acab, parientes de Ocozías y Jonadab
+
+Fuente: 2 Reyes 10
+
+Los setenta hijos de Acab se preservan como grupo dinástico sin inventar setenta nombres ni madres. Los tutores que los crían no son sus padres. Los cuarenta y dos hombres se llaman hermanos de Ocozías en 10:13–14; 2 Crónicas 22:8 habla de hijos de sus hermanos. Se conserva el parentesco general sin convertir el paralelo en otra matanza independiente o una lista de hijos de Atalía. G62 enlaza a Jonadab hijo de Recab con su casa posterior; no se identifica a Recab con todos sus homónimos. El encargado de las vestiduras y los ochenta guardias no reciben nombres. La promesa de cuatro generaciones de Jehú conecta con Joacaz, Joás, Jeroboam y Zacarías en G27; no son cuatro hijos inmediatos.
+
+Acontecimiento relacionado: E85 · Jehú y restauración de Joás (Cambios dinásticos).
+
+### Jehú (purga y gobierno)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Acab (casa dinástica recordada)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- descendencia → Setenta hijos de Acab en Samaria. Colectivo dinástico llamado hijos; no reconstrucción de cada grado generacional. Fuente: 2 Reyes 10:1–7
+
+### Ocozías (parentesco de los cuarenta y dos)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- parentesco → Cuarenta y dos parientes de Ocozías. Hermanos en Reyes e hijos de hermanos en Crónicas; grado no resuelto aquí. Fuente: 2 Reyes 10:13–14; 2 Crónicas 22:8
+
+### Recab (padre de Jonadab)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jonadab / Jonadab hijo de Recab (acompañante)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Encargado de la casa real en Samaria
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Encargado de la ciudad de Samaria
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mensajero que anuncia las cabezas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Encargado de las vestiduras de Baal
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hazael (conquistas orientales)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joacaz (hijo y sucesor de Jehú)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Setenta hijos de Acab en Samaria
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ancianos y tutores de los hijos de Acab
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cuarenta y dos parientes de Ocozías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Parientes, grandes y sacerdotes de la casa de Acab
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Profetas, sacerdotes y adoradores de Baal convocados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ochenta hombres que custodian la salida
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Guardia y capitanes ejecutores
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gaditas, rubenitas y manasitas afectados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G351 · 2 Reyes 11–12: rescate de Joás, guardias y reparación del templo
+
+Fuente: 2 Reyes 11–12
+
+G80 conserva a Josaba hija de Joram, hermana de Ocozías y esposa de Joiada por Crónicas; no se deduce que Atalía sea su madre. La nodriza anónima cuida a Joás, no es su madre: Sibia de Beerseba figura en G79. Seis años oculto y proclamación a los siete no dan una fecha absoluta. Matán es sacerdote de Baal, distinto de homónimos. G312 conserva los cinco capitanes nombrados únicamente en el paralelo de Crónicas. El escriba real y los trabajadores de 12 no reciben nombres. G140 preserva Jozacar hijo de Simeat y Jozabad hijo de Somer frente a Zabad/Simrit en Crónicas. Joás de Judá no es Joás de Israel.
+
+Acontecimiento relacionado: E85 · Jehú y restauración de Joás (Cambios dinásticos).
+
+### Atalía (usurpación)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Josaba (rescatadora de Joás)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joás / Joás de Judá (niño y rey)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ocozías (padre de Joás)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joram (padre de Josaba)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nodriza de Joás (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joiada (sacerdote)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sibia de Beerseba (madre de Joás)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Matán (sacerdote de Baal)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Escriba real de la recaudación (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hazael (amenaza a Jerusalén)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jozacar (hijo de Simeat)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jozabad (hijo de Somer)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Amasías (sucesor de Joás)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos del rey atacados por Atalía
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Capitanes de centenas y guardia del pacto
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Príncipes y trompeteros de la proclamación
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sacerdotes porteros y administradores
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Carpinteros, albañiles y canteros de la reparación
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G352 · 2 Reyes 13: Hazael, su hijo Ben-adad y últimas escenas de Eliseo
+
+Fuente: 2 Reyes 13
+
+Ben-adad hijo de Hazael es explícito; no se confunde con Ben-adad, el señor a quien Hazael sucede en 8. El libertador de 13:5 no recibe nombre en ese versículo: se conserva sin identificarlo de modo seguro con un monarca extranjero o con Joás. Joás de Israel visita al profeta enfermo; «padre mío» no es una filiación. El difunto que revive al tocar los huesos de Eliseo, sus sepultureros y los invasores moabitas quedan sin nombres. Abraham, Isaac y Jacob se recuerdan por el pacto, no son contemporáneos del episodio.
+
+Acontecimiento relacionado: E85 · Jehú y restauración de Joás (Cambios dinásticos).
+
+Acontecimiento relacionado: E86 · Recuperación y crisis (Último siglo de Israel).
+
+### Joacaz (hijo de Jehú, rey de Israel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joás (hijo de Joacaz, rey de Israel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joás (rey de Judá del sincronismo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jeroboam (sucesor israelita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hazael (rey de Siria)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Ben-adad (hijo de Hazael).  Fuente: 2 Reyes 13:3,24–25
+
+### Ben-adad (hijo de Hazael)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Libertador de Israel (13:5, sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliseo (última enfermedad y muerte)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Difunto revivido junto a los huesos de Eliseo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sepultureros que depositan al difunto
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bandas moabitas invasoras
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cincuenta jinetes y diez mil infantes restantes de Joacaz
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G353 · 2 Reyes 14: hijos perdonados, Jonás y recuperación de Israel
+
+Fuente: 2 Reyes 14
+
+Amasías ejecuta a los asesinos de su padre y no a sus hijos: el colectivo de descendientes se registra sin distribuirlos entre Jozacar y Jozabad ni inventar nombres. La hija y el hijo del relato del cardo y el cedro pertenecen a una fábula; no constituyen una boda dinástica real. Jonás hijo de Amitai, de Gat-hefer, interviene mediante su palabra sobre la frontera restaurada por Jeroboam; su ascendencia ya está documentada entre los profetas. Jeroboam hijo de Joás es Jeroboam II, distinto de Jeroboam hijo de Nabat. Azarías es el rey también llamado Uzías, no un nuevo hijo de Amasías. G79 conserva a Joadán y las madres de los reyes.
+
+Acontecimiento relacionado: E86 · Recuperación y crisis (Último siglo de Israel).
+
+### Amasías (rey de Judá)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joadán (madre de Amasías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joás (padre de Amasías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joás (rey de Israel, hijo de Joacaz)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joacaz (padre del rey israelita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jehú (abuelo del rey israelita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Azarías / Uzías (hijo de Amasías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jeroboam II (hijo de Joás de Israel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Amitai (padre de Jonás)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jonás (profeta de Gat-hefer)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zacarías (hijo de Jeroboam II)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos de los asesinos de Joás perdonados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mensajeros del desafío
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rehenes llevados a Samaria
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Conspiradores que persiguen a Amasías hasta Laquis
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Servidores que trasladan a Amasías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G354 · 2 Reyes 15: Argob, Arieh y víctimas entre los últimos reyes del norte
+
+Fuente: 2 Reyes 15
+
+G27 y G143 conservan las sucesiones y los padres Jabes, Gadi, Remalías y Ela: no se convierte cada sucesor en hijo del rey anterior. Argob y Arieh se conservan como nombres de 15:25 asociados al asesinato de Pekaía, sin resolver mediante la traducción su papel preciso ni inventar parentescos. Los cincuenta galaaditas son acompañantes de Peka. Pul y Tiglat-pileser se mantienen como formas del texto; esta lectura bíblica no constituye un estudio histórico que resuelva su identidad. Las embarazadas de Tifsa son víctimas sin nombres. El año veinte de Jotam de 15:30 y sus dieciséis años de 15:33 no se armonizan inventando fechas absolutas. La cuarta generación de Jehú culmina en Zacarías; G27 ya conserva los eslabones.
+
+Acontecimiento relacionado: E86 · Recuperación y crisis (Último siglo de Israel).
+
+Acontecimiento relacionado: E87 · Últimos reyes de Israel (Crisis asiria).
+
+Acontecimiento relacionado: E88 · Jotam, Acaz y Ezequías (Judá durante y después de la crisis).
+
+### Azarías / Uzías (rey de Judá)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jecolía (madre de Azarías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jotam (regente y rey de Judá)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jerusa (madre de Jotam)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sadoc (padre de Jerusa)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zacarías (última generación real de Jehú)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Salum (hijo de Jabes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Manahem (hijo de Gadi)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pekaía (hijo de Manahem)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Peka (hijo de Remalías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Argob (mención de 15:25)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Arieh (mención de 15:25)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Oseas (hijo de Ela)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pul (rey asirio, forma de 15:19)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tiglat-pileser (rey asirio, 15:29)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rezín (rey de Siria)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Acaz (sucesor de Jotam)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cincuenta galaaditas con Peka
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Habitantes y embarazadas de Tifsa atacados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombres ricos gravados por Manahem
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cautivos de las conquistas asirias
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G355 · 2 Reyes 16–17: Urías, So y generaciones de los pobladores de Samaria
+
+Fuente: 2 Reyes 16–17
+
+Urías es el sacerdote que construye el altar de Acaz; no se le fusiona con el esposo de Betsabé ni con el profeta hijo de Semaías. Acaz llama padre al rey asirio al declararse su siervo e hijo: es dependencia política, no filiación. El hijo que pasa por el fuego no recibe nombre ni se identifica con Ezequías. So es la forma del rey egipcio en 17:4; no se sustituye por una identificación histórica no demostrada aquí. El sacerdote deportado que vuelve a Betel queda anónimo. Los pobladores, sus hijos y nietos conservan continuidad generacional colectiva, sin nombres ni nacimientos conocidos. Adramelec, divinidad de Sefarvaim, no es el hijo de Senaquerib. La caída de Samaria no cierra la cronología en Jerusalén del año 70.
+
+Acontecimiento relacionado: E87 · Últimos reyes de Israel (Crisis asiria).
+
+Acontecimiento relacionado: E88 · Jotam, Acaz y Ezequías (Judá durante y después de la crisis).
+
+### Acaz (rey de Judá)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Hijo de Acaz pasado por el fuego (sin nombre).  Fuente: 2 Reyes 16:3
+
+### Hijo de Acaz pasado por el fuego (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rezín (rey de Siria)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Peka (hijo de Remalías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tiglat-pileser (rey de Asiria)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Urías / Urijah (sacerdote del altar)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ezequías (sucesor de Acaz)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Oseas (último rey de Israel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Salmanasar (rey de Asiria)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### So (rey de Egipto)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sacerdote deportado que vuelve a Betel (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mensajeros de Acaz a Asiria
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Judíos expulsados de Elat
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Habitantes de Damasco deportados a Kir
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mensajeros de Oseas a So
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Israelitas deportados desde Samaria
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pobladores de Babilonia, Cuta, Ava, Hamat y Sefarvaim
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- descendencia → Hijos de los pobladores de Samaria. Continuidad colectiva; sin distribución de hijos por hogares. Fuente: 2 Reyes 17:24,41
+
+### Hijos de los pobladores de Samaria
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- descendencia → Nietos de los pobladores de Samaria. Segunda generación colectiva mencionada; fechas desconocidas. Fuente: 2 Reyes 17:41
+
+### Nietos de los pobladores de Samaria
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sacerdotes de los altos de las nuevas comunidades
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos e hijas pasados por el fuego
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G356 · 2 Reyes 18–19: delegaciones asirias, Tirhaca y audiencia de Jerusalén
+
+Fuente: 2 Reyes 18–19
+
+Eliaquim hijo de Hilcías, Sebna y Joa hijo de Asaf ya figuran en la ficha de la delegación de Ezequías; no se identifica a sus padres con otros homónimos. Tartán, Rabsaris y Rabsaces son las designaciones de los enviados asirios; no se toman por una genealogía ni se fuerzan nombres personales. Tirhaca es llamado rey de Etiopía en 19:9; el pasaje informa que sale a combatir, no describe aquí el resultado de su batalla. El faraón del discurso no recibe nombre. La hija de Sion es personificación de Jerusalén, no una hija humana nueva. G149 conserva a los tres hijos de Senaquerib. El ángel que mata a 185.000 asirios no recibe nombre; no se asigna a Gabriel o Miguel por conjetura.
+
+Acontecimiento relacionado: E88 · Jotam, Acaz y Ezequías (Judá durante y después de la crisis).
+
+### Ezequías (rey de Judá)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abi (madre de Ezequías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zacarías (padre de Abi)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Senaquerib (rey asirio)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Salmanasar (asedio anterior de Samaria)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tartán (designación del enviado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rabsaris (designación del enviado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rabsaces (portavoz asirio)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliaquim (hijo de Hilcías, mayordomo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sebna (escriba)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joa (hijo de Asaf, cronista)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Isaías (hijo de Amoz)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tirhaca (rey de Etiopía)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Faraón mencionado en el discurso (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Adramelec (hijo de Senaquerib)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sarezer (hijo de Senaquerib)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Esar-hadón (hijo y sucesor de Senaquerib)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ancianos de los sacerdotes enviados a Isaías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Habitantes de la muralla que guardan silencio
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mensajeros de la carta de Senaquerib
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Reyes vencidos recordados por el portavoz
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Campamento asirio abatido
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Remanente de Judá y Jerusalén
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ángel del Señor en el campamento asirio (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G357 · 2 Reyes 20: Berodac-baladán y descendientes anunciados de Ezequías
+
+Fuente: 2 Reyes 20; Isaías 39:1
+
+G150 conserva a Baladán y Merodac-baladán por Isaías. Aquí se registra la forma Berodac-baladán de Reyes, con el mismo padre y contexto de embajada, sin multiplicar automáticamente monarcas. Los descendientes de Ezequías destinados al palacio babilónico son anunciados para el futuro; no se convierten en hijos inmediatos identificados ni se afirma que Daniel y sus compañeros sean esos hijos por este pasaje. Manasés es el hijo sucesor explícito. Los quince años añadidos a la vida del rey no dan una fecha absoluta para cada episodio de los capítulos 18–20.
+
+Acontecimiento relacionado: E88 · Jotam, Acaz y Ezequías (Judá durante y después de la crisis).
+
+### Ezequías (enfermedad y embajada)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- descendencia → Descendientes anunciados para el palacio de Babilonia. Anuncio de generaciones posteriores sin eslabones enumerados. Fuente: 2 Reyes 20:18
+
+### Isaías (profeta de la señal)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Amoz (padre de Isaías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Baladán (padre del rey babilónico)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Berodac-baladán (forma de Reyes).  Fuente: 2 Reyes 20:12
+
+### Berodac-baladán (forma de Reyes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Manasés (hijo y sucesor de Ezequías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Auxiliares que aplican la masa de higos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Embajadores babilónicos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Descendientes anunciados para el palacio de Babilonia
+
+Futuros respecto de Ezequías; años y generaciones intermedias no determinados por 2 Reyes 20:18.
+
+
+
+
+## G358 · 2 Reyes 21: hijo de Manasés, víctimas y conspiradores de Amón
+
+Fuente: 2 Reyes 21
+
+G79 conserva a Hepsiba, madre de Manasés, y a Mesulemet hija de Haruz, madre de Amón. El hijo de Manasés pasado por el fuego queda anónimo y no se identifica con Amón. Los profetas que denuncian el reinado y las víctimas de sangre inocente no reciben nombres en este capítulo; no se añade aquí una muerte de Isaías que el pasaje no narra. Los servidores que asesinan a Amón y el pueblo que los ejecuta son grupos distintos. El jardín de Uza es una designación del lugar funerario, no prueba de un parentesco nuevo.
+
+Acontecimiento relacionado: E89 · Manasés, Amón y Josías (Después de Ezequías).
+
+### Manasés (rey de Judá)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Hijo de Manasés pasado por el fuego (sin nombre).  Fuente: 2 Reyes 21:6
+
+### Hepsiba (madre de Manasés)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijo de Manasés pasado por el fuego (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Amón (hijo y sucesor de Manasés)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mesulemet (madre de Amón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Haruz de Jotba (padre de Mesulemet)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Josías (hijo de Amón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Profetas que denuncian a Manasés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Víctimas de sangre inocente
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Adivinos y practicantes de los cultos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Servidores que conspiran contra Amón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pueblo que castiga a los asesinos y proclama a Josías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G359 · 2 Reyes 22: embajada a Hulda y continuidad de la casa de Safán
+
+Fuente: 2 Reyes 22
+
+G59 conserva Mesulam–Azalías–Safán–Ahicam, cuyo hijo Gedalías reaparece tras la destrucción en 25:22. G61 conserva Harhas–Ticva–Salum, esposo de Hulda, y Micaías–Acbor. La delegación incluye a Hilcías, Ahicam, Acbor, Safán y Asaías. No se hace a Hilcías padre de Jeremías ni de Eliaquim por coincidencia de nombre. G323 conserva las diferencias Hasra/Harhas, Ticvat/Ticva y Abdón hijo de Micaías frente a Acbor del paralelo de Crónicas. No se infieren hijos de Hulda porque tenga esposo. «En paz» en 22:20 se conserva junto a su muerte narrada en 23:29–30 sin eliminar ninguno de los textos.
+
+Acontecimiento relacionado: E89 · Manasés, Amón y Josías (Después de Ezequías).
+
+### Josías (rey que recibe el libro)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jedida (madre de Josías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Adaía de Boscat (padre de Jedida)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mesulam (abuelo de Safán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Azalías (padre de Safán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Safán (escriba y lector)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahicam (hijo de Safán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Micaías (padre de Acbor)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Acbor (delegado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Asaías (siervo del rey)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hilcías (sumo sacerdote)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hulda (profetisa)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Salum (esposo de Hulda)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ticva (padre de Salum)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Harhas (abuelo de Salum)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Porteros que recaudan
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Supervisores, carpinteros, albañiles y canteros
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G360 · 2 Reyes 23: Josué gobernador, Natán-melec y casas de los últimos reyes
+
+Fuente: 2 Reyes 23
+
+Josué gobernador de la ciudad no se confunde con Josué hijo de Nun o el sumo sacerdote del retorno. Natán-melec es un funcionario cuya cámara se menciona junto al acceso del templo; no se le atribuye descendencia. G332 conserva a los dos profetas cuyas tumbas respeta Josías: son fallecidos de otra época. Las mujeres tejedoras, servidores de culto y sacerdotes retirados se distinguen de los sacerdotes de los altos de Samaria ejecutados. Reyes dice que Josías fue llevado muerto desde Meguido; G325 conserva el relato de Crónicas sin forzar su secuencia. G79 conserva Hamutal–Joacaz y Zebuda–Joacim con sus padres. Jeremías de Libna, abuelo materno, no se identifica automáticamente con el profeta. Eliaquim renombrado Joacim es una persona, no dos hermanos.
+
+Acontecimiento relacionado: E89 · Manasés, Amón y Josías (Después de Ezequías).
+
+Acontecimiento relacionado: E90 · Muerte de Josías y últimos reyes (Crisis egipcio-babilónica).
+
+### Josías (reforma y muerte)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hilcías (sumo sacerdote)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Josué (gobernador de la ciudad)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Natán-melec (funcionario de la cámara)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Faraón Necao (intervención egipcia)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joacaz (hijo de Josías deportado a Egipto)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hamutal (madre de Joacaz)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jeremías de Libna (padre de Hamutal)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliaquim / Joacim (hijo de Josías renombrado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zebuda (madre de Joacim)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pedaías de Ruma (padre de Zebuda)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ancianos, sacerdotes, profetas y pueblo del pacto
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sacerdotes de segundo orden y porteros
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sacerdotes de altos apartados en Judá
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mujeres que tejían para el culto de Asera
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Servidores de culto de las casas demolidas (23:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Habitantes que explican la tumba en Betel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sacerdotes de los altos de Samaria ejecutados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Participantes de la Pascua
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Servidores que trasladan a Josías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Contribuyentes del tributo egipcio
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G361 · 2 Reyes 24: esposas y corte deportada de Joaquín
+
+Fuente: 2 Reyes 24
+
+G26 y G79 conservan a Joaquín hijo de Joacim y Nehusta hija de Elnatán. Sus esposas son deportadas, pero no reciben nombres ni se distribuyen entre ellas los descendientes posteriores de G28. Joaquín tiene dieciocho años en 24:8 frente a ocho en 2 Crónicas 36:9 KJV; la diferencia sigue visible en G326. Matanías es hermano del padre de Joaquín y por ello su tío; renombrarlo Sedequías no crea otra persona. Hamutal es madre de Sedequías y de Joacaz. Los diez mil cautivos, siete mil guerreros y mil artesanos no se suman automáticamente como dieciocho mil individuos distintos: las categorías pueden estar incluidas en el total. La madre del rey no es una esposa suya.
+
+Acontecimiento relacionado: E90 · Muerte de Josías y últimos reyes (Crisis egipcio-babilónica).
+
+Acontecimiento relacionado: E93 · Deportación de Joaquín (597 a. C., anclaje histórico).
+
+Acontecimiento relacionado: E94 · Jeremías y Ezequiel (Exilio y últimos años de Judá).
+
+### Joacim (rey rebelde)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joaquín / Jeconías (rey deportado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nehusta (madre de Joaquín)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elnatán de Jerusalén (padre de Nehusta)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nabucodonosor (rey de Babilonia)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Matanías / Sedequías (tío y sucesor de Joaquín)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hamutal (madre de Sedequías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jeremías de Libna (padre de Hamutal)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rey de Egipto (24:7, sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Esposas de Joaquín deportadas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Príncipes, oficiales y servidores deportados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Diez mil cautivos del recuento
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Siete mil hombres de guerra deportados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mil artesanos y herreros deportados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pobres que permanecen en la tierra
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bandas caldeas, sirias, moabitas y amonitas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G362 · 2 Reyes 25: hijos de Sedequías y cautivos ejecutados en Ribla
+
+Fuente: 2 Reyes 25:1–21; Jeremías 52:12,25
+
+Los hijos de Sedequías son ejecutados delante de él y permanecen sin nombres ni edades; no se inventa su número. Seraías es sumo sacerdote y Sofonías segundo sacerdote, sin hacerlos parientes por servir juntos. Los tres porteros, el oficial militar, cinco allegados del rey, escriba del ejército y sesenta hombres de la tierra son categorías del texto. Jeremías 52:25 cuenta siete allegados frente a cinco aquí; se conserva la diferencia, no se suman como doce. La llegada de Nabuzaradán ocurre el día siete del quinto mes en 25:8 frente al diez en Jeremías 52:12: no se corrige silenciosamente. Esta destrucción babilónica es anterior al cierre romano del proyecto en 70 d. C.
+
+Acontecimiento relacionado: E95 · Primera destrucción de Jerusalén y del templo (Año 11 de Sedequías; 587 a. C. en Livius).
+
+### Sedequías (rey capturado y cegado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Hijos de Sedequías ejecutados.  Fuente: 2 Reyes 25:7
+
+### Nabucodonosor (rey que juzga en Ribla)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nabuzaradán (capitán de la guardia)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Seraías (sumo sacerdote cautivo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sofonías (segundo sacerdote cautivo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Oficial encargado de los hombres de guerra
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Escriba principal del ejército
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos de Sedequías ejecutados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tres porteros del templo cautivos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cinco allegados del rey cautivos (Reyes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sesenta hombres de la tierra capturados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ejército caldeo del asedio
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Soldados de Judá dispersados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Habitantes y desertores deportados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pobres dejados como viñadores y labradores
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G363 · 2 Reyes 25: Jaazanías macateo, asesinato de Gedalías y liberación de Joaquín
+
+Fuente: 2 Reyes 25:22–30; Jeremías 40:8; 52:31
+
+G59 conserva Safán–Ahicam–Gedalías, y G61 Elisama–Netanías–Ismael, Carea–Johanán y Tanhumet–Seraías. Jaazanías hijo de un macateo se conserva frente a Jezanías de Jeremías 40:8: el padre no tiene nombre y no es Maaca como nombre propio deducido de su procedencia. No se lo fusiona con Jaazanías hijo de Safán o el recabita. Ismael es de estirpe real, pero el capítulo no enumera el camino hasta David. Los diez acompañantes del asesinato son hombres de Ismael, no hijos suyos. Evil-merodac libera a Joaquín en su trigésimo séptimo año de cautividad; no se añade su padre por este pasaje. La fecha es día veintisiete del mes doce en Reyes y veinticinco en Jeremías 52:31. Los otros reyes presos quedan anónimos.
+
+Acontecimiento relacionado: E93 · Deportación de Joaquín (597 a. C., anclaje histórico).
+
+Acontecimiento relacionado: E96 · Gedalías y huida a Egipto (Después de la destrucción).
+
+### Gedalías (gobernador asesinado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahicam (padre de Gedalías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Safán (abuelo de Gedalías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ismael (asesino de estirpe real)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Netanías (padre de Ismael)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elisama (abuelo de Ismael)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Johanán (hijo de Carea)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Carea (padre de Johanán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Seraías (hijo de Tanhumet, netofatita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tanhumet (padre de Seraías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jaazanías (hijo de un macateo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Padre macateo de Jaazanías (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jaazanías (hijo de un macateo). Gentilicio paterno explícito; nombre y cronología generacional desconocidos. Fuente: 2 Reyes 25:23
+
+### Joaquín (liberado en Babilonia)
+
+Año 37 de su cautividad, posterior al asesinato de Gedalías; no acontecimiento simultáneo por compartir ficha.
+
+
+
+
+### Evil-merodac (rey liberador)
+
+Primer año de su reinado, coincidente con el año 37 de cautividad de Joaquín según 2 Reyes 25:27.
+
+
+
+
+### Hombres de los capitanes reunidos en Mizpa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Diez acompañantes de Ismael
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Judíos y caldeos muertos con Gedalías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pueblo y capitanes que huyen a Egipto
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Reyes cautivos con Joaquín en Babilonia
 
 Cronología generacional no determinada; ubicación esquemática.
 
