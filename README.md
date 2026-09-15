@@ -1,6 +1,6 @@
 # Cronología bíblica
 
-Página estática de fondo claro. Línea horizontal por décadas desde 600 a. C. hasta el cierre en 70 d. C.; recorrido de las 15 etapas originales desde la rebelión celestial. Conserva las 148 fichas y enlaza al mural de 236 fichas de familias y episodios, con 3.138 apariciones de personas o grupos y 2.322 relaciones. Las apariciones repetidas no son personas únicas.
+Página estática de fondo claro. Línea horizontal por décadas desde 600 a. C. hasta el cierre en 70 d. C.; recorrido de las 15 etapas originales desde la rebelión celestial. Conserva las 148 fichas y enlaza al mural de 245 fichas de familias y episodios, con 3.344 apariciones de personas o grupos y 2.418 relaciones. Las apariciones repetidas no son personas únicas.
 
 La ampliación anterior completó los ocho bloques identificados: familias de jueces, ramas tribales, Safán, Baruc y su entorno, recabitas, casas del retorno, Job y parentescos del Nuevo Testamento. Las notas de Elena G. White distinguen obra, capítulo y referencia de página/párrafo en la edición inglesa consultada. Las familias enlazan a los acontecimientos relacionados y las fichas de acontecimientos permiten regresar a esas familias. El catálogo descargable documenta la cobertura y las incertidumbres.
 
@@ -36,8 +36,12 @@ Se añaden 39 fichas documentadas (R098–R136): 204 apariciones y 30 relaciones
 
 ## Quinta ampliación
 
-R137–R157 incorporados: 21 fichas, 125 apariciones y 10 relaciones adicionales. Total actual: 210 fichas, 3.138 apariciones y 2.322 relaciones; 157 hallazgos incorporados. Las 189 fichas anteriores y los 148 acontecimientos originales permanecen idénticos. Se mantienen las cautelas de identidad, cronología y parentesco. La revisión integral permanece pendiente.
+R137–R157 incorporados: 21 fichas, 125 apariciones y 10 relaciones adicionales. Total actual: 210 fichas, 3.344 apariciones y 2.418 relaciones; 157 hallazgos incorporados. Las 189 fichas anteriores y los 148 acontecimientos originales permanecen idénticos. Se mantienen las cautelas de identidad, cronología y parentesco. La revisión integral permanece pendiente.
 
 ## Sexta incorporación: personajes
 
 26 listas y grupos con fuentes explícitas y cautelas de identidad. Las 210 fichas anteriores y los 148 acontecimientos se conservan. Continúa pendiente el cotejo integral de personajes; no se declara cerrado el inventario.
+
+## Personajes de 1 Crónicas 9 y 12
+
+Se cotejaron sus 84 versículos y se añadieron nueve fichas con 206 apariciones y 96 relaciones. No equivalen a 206 personas nuevas. Las 236 fichas previas y los acontecimientos permanecen intactos. El resto del libro continúa pendiente.
