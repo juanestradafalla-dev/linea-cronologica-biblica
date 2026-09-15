@@ -4,6 +4,10 @@ Filiaciones, genealogías, parentescos, sucesiones y pertenencia a pueblos se di
 
 Estado: ampliación documentada, no inventario exhaustivo de todos los personajes bíblicos ni lectura íntegra de los 120 PDF. Las apariciones repetidas no equivalen a personas únicas.
 
+## Josué: cotejo de personajes de los veinticuatro capítulos
+
+Completada una pasada bíblica de personajes por los 24 capítulos y 658 versículos de Josué en la KJV aportada, con dos versículos adicionales de paralelos. Se añaden 14 fichas G422–G435 / R369–R382, 178 apariciones y siete relaciones. Total: 435 fichas, 6.423 apariciones de personas o grupos y 2.852 relaciones. Las apariciones incluyen colectivos y repeticiones; no son personas únicas. Las 421 fichas anteriores y los 148 acontecimientos permanecen intactos. Se incorporan hijos e hijas de Acán, Arba–Anac, Bohán, auxiliares y registro completo de 31 reyes, sin convertir lugares en personas. La identificación del Príncipe del ejército del Señor como Cristo se atribuye a White, PP 487.3; también se coteja PP 493.1. Siguen abiertas cronologías, variantes e identidades y el contraste integral con White. Próximo libro propuesto: Génesis.
+
 ## Rut: cotejo de personajes de los cuatro capítulos
 
 Completada una pasada bíblica de personajes por los cuatro capítulos y 85 versículos de Rut en la KJV aportada, con 18 versículos adicionales de Mateo 1:1–6 y 1 Crónicas 2:4–15. Se añaden cuatro fichas G418–G421 / R365–R368, 39 apariciones y seis relaciones. Total: 421 fichas, 6.245 apariciones de personas o grupos y 2.845 relaciones. Las apariciones incluyen colectivos y repeticiones; no son personas únicas. Las 417 fichas anteriores y los 148 acontecimientos permanecen intactos. Se incorporan padres anónimos, encargado de segadores, pariente prioritario, testigos y cuidado de Obed por Noemí. Cotejos puntuales COL 290.1; 301.1 y DA 327.3, sin lectura íntegra de esas obras. Variantes, cronología generacional y contraste integral con White siguen abiertos. Próximo libro propuesto: Josué.
@@ -50539,6 +50543,1375 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 ### Vecinas que llaman Obed al niño
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G422 · Josué 1–4: oficiales, portadores del arca y doce hombres del memorial
+
+Fuente: Josué 1–4
+
+G21 conserva a Nun y Josué con la ascendencia de Crónicas. Moisés ya ha muerto al comenzar el libro; las referencias a sus órdenes no son apariciones de un personaje vivo. Los oficiales transmiten las instrucciones y los sacerdotes levitas portan el arca. Los doce hombres seleccionados, uno por tribu, trasladan las piedras: no son automáticamente los doce espías de Números ni doce hijos de Josué. Las mujeres y pequeños de las tribus orientales permanecen en su tierra mientras unos cuarenta mil armados cruzan. Las futuras preguntas de hijos a padres describen transmisión de memoria, no una lista de nacimientos ocurridos. Adán de 3:16 es una ciudad, no el primer hombre. El día diez del primer mes y los tres días de preparación se conservan como referencias relativas, sin adjudicar año absoluto o sumar intervalos solapados.
+
+Acontecimiento relacionado: E61 · Jordán, Gilgal y Jericó (Entrada en Canaán).
+
+### Josué (hijo de Nun, sucesor de Moisés)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nun (padre de Josué)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Moisés (fallecido, instrucciones recordadas)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Oficiales que recorren el campamento
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sacerdotes levitas que llevan el arca
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Doce hombres que transportan las piedras
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Unos cuarenta mil guerreros de las tribus orientales
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Esposas y pequeños que quedan al este del Jordán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Israel que cruza el río
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Generaciones futuras destinatarias del memorial
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G423 · Josué 2 y 6: espías, rey de Jericó y rescate de la casa de Rahab
+
+Fuente: Josué 2; 6; 1 Reyes 16:34
+
+G99 conserva al padre, madre, hermanos y hermanas de Rahab, todos sin nombres. El rescate de 6:23–25 incluye su parentela y casa paterna; «todo lo suyo» no enumera cónyuges o hijos concretos. Los dos espías no reciben nombres: no se identifica a uno con Salmón, Caleb o Finés sin evidencia. Los enviados y perseguidores del rey de Jericó son auxiliares diferentes por función; el rey permanece anónimo. La salida alegada por Rahab forma parte de su encubrimiento, mientras los espías están escondidos en el techo. Los hombres, mujeres, jóvenes y ancianos de la ciudad son víctimas del relato, no familiares de Rahab por proximidad. G128 conserva Hiel y sus hijos Abiram y Segub: 1 Reyes 16:34 aplica a esa reedificación la advertencia de 6:26. No se sitúan Hiel y sus hijos como contemporáneos de Josué. La maternidad de Rahab en la genealogía de Booz se atribuye a Mateo en G15, no a una afirmación de Josué.
+
+Acontecimiento relacionado: E61 · Jordán, Gilgal y Jericó (Entrada en Canaán).
+
+### Rahab (anfitriona de los espías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rey de Jericó (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Padre de Rahab (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Madre de Rahab (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Josué (ordena el rescate)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Dos espías que vuelven a rescatar a Rahab
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Enviados del rey a la casa de Rahab
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Perseguidores que buscan hacia los vados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hermanos y hermanas de Rahab
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Resto de la parentela rescatada con Rahab
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombres, mujeres, jóvenes y ancianos de Jericó
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G424 · Josué 5–6: Príncipe del ejército del Señor y siete sacerdotes
+
+Fuente: Josué 5–6
+
+El visitante armado se presenta como Príncipe o Capitán del ejército del Señor; el texto no le da un nombre personal. White lo identifica expresamente como Cristo en PP 487.3 y describe una hueste de ángeles no visible a la congregación en PP 493.1. Se distinguen esos detalles de White de los personajes explícitos de Josué. Los siete sacerdotes con trompetas y los portadores del arca tienen funciones diferenciadas; el texto no enumera sus nombres ni dice que sean siete hijos de Eleazar. La generación circuncidada nació durante la travesía; «segunda vez» no exige una segunda circuncisión de cada individuo. La Pascua del día catorce y las vueltas de seis días más el séptimo no se convierten aquí en un año absoluto o en fechas de nacimientos.
+
+Elena G. White — Patriarchs and Prophets, PP 487.3; 493.1 (PDF aportado, páginas 168 y 169): White identifica al visitante como Cristo y describe ángeles bajo su mando que la congregación no veía. No se crean nombres o parentescos para esos ángeles. Consulta puntual de ambos párrafos.
+
+Acontecimiento relacionado: E61 · Jordán, Gilgal y Jericó (Entrada en Canaán).
+
+### Josué (recibe las instrucciones)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Varones nacidos durante la travesía y circuncidados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Siete sacerdotes que llevan trompetas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sacerdotes portadores del arca en Jericó
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombres armados de la vanguardia
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Retaguardia de la marcha
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Congregación que guarda silencio y luego aclama
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Príncipe del ejército del Señor (visitante de Josué 5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G425 · Josué 7–8: hijos e hijas de Acán y auxiliares de Hai
+
+Fuente: Josué 7–8; 22:20; 1 Crónicas 2:7
+
+G15 conserva Zera–Zabdi–Carmi–Acán. La forma Acar de 1 Crónicas 2:7 se coteja sin fabricar otro hijo de Carmi; «hijo de Zera» de 7:24 y 22:20 abrevia la ascendencia de 7:1,18. Se añaden sus hijos e hijas, sin nombres, número o edades. La confesión de Acán no incluye una declaración individual de cada hijo; el relato los lleva al valle y alterna singular y plural al describir el castigo. No se inventan confesiones, participación concreta en el robo ni una esposa no mencionada. «Hijo mío» de Josué a Acán es trato de exhortación, no paternidad. Los espías de Hai y los mensajeros enviados a la tienda son funciones distintas. El rey de Hai queda anónimo. Los 30.000 de 8:3 y 5.000 de 8:12 se mantienen con la dificultad de su relación; no se suman como personas únicas. Los 36 caídos de la primera derrota y los 12.000 habitantes muertos del segundo episodio son colectivos sin nombres. La asamblea de Ebal incluye mujeres, pequeños y extranjeros.
+
+Acontecimiento relacionado: E62 · Hai, Gabaón y herencias (Campañas y reparto).
+
+### Acán / Acar (hijo de Carmi)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Hijos varones de Acán (sin nombres).  Fuente: Josué 7:24
+- filiacion → Hijas de Acán (sin nombres).  Fuente: Josué 7:24
+
+### Carmi (padre de Acán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zabdi (abuelo de Acán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zera (antepasado de Acán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Josué (investiga la transgresión)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rey de Hai (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos varones de Acán (sin nombres)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijas de Acán (sin nombres)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Espías que examinan Hai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Treinta y seis israelitas caídos en la primera derrota
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ancianos que se lamentan ante el arca
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mensajeros que recuperan lo escondido en la tienda
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Combatientes y emboscados de la conquista de Hai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Doce mil hombres y mujeres muertos en Hai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mujeres, pequeños y extranjeros de la asamblea en Ebal
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G426 · Josué 9: embajadores gabaonitas y servicio de sus comunidades
+
+Fuente: Josué 9; 10:6; cotejo con 2 Samuel 21
+
+Los emisarios alegan venir de lejos, pero representan ciudades vecinas: Gabaón, Cafira, Beerot y Quiriat-jearim. La supuesta larga travesía no se registra como procedencia histórica verdadera. Sus ancianos aparecen en lo que los emisarios cuentan de su encargo, sin nombres. Josué y los príncipes mantienen el juramento y les asignan cortar leña y sacar agua para la congregación y el altar. Es continuidad de comunidades, no una genealogía de trabajadores individuales. Los mensajeros de Gabaón piden ayuda en 10:6. La casa de Saúl y el conflicto posterior con los gabaonitas están tratados en G132 y G401; no se inventa una cadena de padres entre ambos episodios ni se identifica a todo servidor del templo con un descendiente de estos emisarios.
+
+Acontecimiento relacionado: E62 · Hai, Gabaón y herencias (Campañas y reparto).
+
+### Josué (acuerda y mantiene el pacto)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Emisarios gabaonitas que aparentan venir de lejos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ancianos y habitantes mencionados por los emisarios
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Príncipes de Israel que juran respetar sus vidas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Congregación que protesta ante sus príncipes
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Comunidades de Gabaón, Cafira, Beerot y Quiriat-jearim
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cortadores de leña y aguadores asignados al servicio
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mensajeros de Gabaón que solicitan auxilio
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G427 · Josué 10–12: Horam y registro de los treinta y un reyes
+
+Fuente: Josué 10–12
+
+G196 conserva Adonisedec de Jerusalén, Hoham de Hebrón, Piram de Jarmut, Jafía de Laquis y Debir de Eglón; G215 conserva Jabín de Hazor, Jobab de Madón y los reyes anónimos de Simrón y Acsaf. Se añade Horam de Gezer (10:33). El listado de 12:9–24 es un resumen de reyes por ciudad, no otros 31 gobernantes adicionales a los de las campañas. Los nombres conocidos se cotejan por ciudad sin inventar nombres para los restantes. Debir ciudad no es Debir rey de Eglón; Eglón ciudad no es el rey moabita de Jueces. La repetición de un rey de Hebrón después de morir Hoham no permite inventar un sucesor nombrado o una filiación. El libro de Jaser no identifica un autor personal. Sol y luna no son personas del árbol. El resumen de dominio y reposo de 11 convive con territorios pendientes de 13 y pueblos no expulsados: no se eliminan estas diferencias ni se deduce que todos los habitantes de cada pueblo desaparecieran para siempre. Sehón y Og de 12:1–6 fueron vencidos en tiempos de Moisés y se distinguen del listado occidental.
+
+Acontecimiento relacionado: E62 · Hai, Gabaón y herencias (Campañas y reparto).
+
+### Horam (rey de Gezer)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Josué (jefe de las campañas)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sehón (rey amorreo, campaña anterior)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Og (rey de Basán, campaña anterior)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Informantes que descubren a los cinco reyes en la cueva
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Guardias de la cueva de Maceda
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Capitanes que ponen los pies sobre los cuellos de los reyes
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tropas de las coaliciones del sur y del norte
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Supervivientes que alcanzan ciudades fortificadas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Anaceos restantes en Gaza, Gat y Asdod
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rey de Jericó (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de Hai junto a Betel (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de Jerusalén (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de Hebrón (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de Jarmut (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de Laquis (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de Eglón (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de Gezer (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de Debir (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de Geder (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de Horma (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de Arad (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de Libna (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de Adulam (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de Maceda (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de Betel (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de Tapúa (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de Hefer (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de Afec (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de Lasarón (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de Madón (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de Hazor (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de Simrón-merón (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de Acsaf (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de Taanac (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de Meguido (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de Cedes (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de Jocneam del Carmelo (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de Dor (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de naciones de Gilgal (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+### Rey de Tirsa (registro de Josué 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mención del resumen, no una persona adicional segura respecto del rey de la misma ciudad en los relatos anteriores.
+
+
+## G428 · Josué 13: príncipes de Madián recordados y familias orientales
+
+Fuente: Josué 13
+
+Evi, Requem, Zur, Hur y Reba son los cinco príncipes madianitas recordados como dependientes de Sehón; G214 conserva su cotejo con Números y la casa de Zur. No son hijos de Sehón ni aparecen vivos durante este reparto. Balaam hijo de Beor también pertenece al recuerdo de los caídos; su familia está en G213 y no se confunde a Beor con el padre de Bela de Edom. Las sesenta ciudades de Jair no equivalen a sesenta hijos suyos ni hacen de ese Jair el juez de G50. Los descendientes de Maquir hijo de Manasés reciben territorios como familias, no como un único individuo vivo llamado Maquir. Los cinco príncipes filisteos se identifican por comunidades, sin nombres propios. Gesureos, maacateos, aveos, giblitas y sidonios son pueblos, no antepasados nuevos añadidos a familias israelitas.
+
+Acontecimiento relacionado: E59 · Balaam, Peor y preparación (Llanuras de Moab).
+
+Acontecimiento relacionado: E62 · Hai, Gabaón y herencias (Campañas y reparto).
+
+### Evi (príncipe madianita recordado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Requem (príncipe madianita recordado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zur (príncipe madianita recordado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hur (príncipe madianita recordado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Reba (príncipe madianita recordado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sehón (soberano recordado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Balaam (hijo de Beor, muerte recordada)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jair (referencia a sus ciudades)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familias de Rubén y Gad del reparto oriental
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familias de Maquir de la media tribu de Manasés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cinco príncipes filisteos identificados por sus ciudades
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gesureos y maacateos que permanecen
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aveos, giblitas y sidonios de los territorios pendientes
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G429 · Josué 14–15 y 21: Arba–Anac y continuidad de la casa de Caleb
+
+Fuente: Josué 14–15; 21:11–12; cotejo con Jueces 1
+
+G403 conserva Anac y sus tres hijos Sesai, Ahimán y Talmai. Se añade Arba, descrito como padre de Anac en 15:13 y 21:11 y hombre destacado entre los anaceos en 14:15. No se hace de Arba un rey nombrado en la lista de 31 ni se confunde a Talmai con el padre de Maaca de Gesur. G40 conserva Jefone–Caleb, Acsa, Cenaz–Otoniel y las prolongaciones de Crónicas; la expresión «hermano de Caleb» conserva su cautela de referente. Caleb tenía cuarenta años cuando fue enviado a explorar y declara ochenta y cinco, cuarenta y cinco años después: son edades y lapso explícitos, sin adjudicar aquí fecha absoluta a la conquista. Los «hermanos» exploradores no son todos hijos de Jefone. Acsa obtiene fuentes además del terreno del sur; no se inventa otra esposa o hijos para Otoniel. Hebrón y sus alrededores sacerdotales se distinguen de los campos y aldeas de Caleb en 21:11–12.
+
+Acontecimiento relacionado: E62 · Hai, Gabaón y herencias (Campañas y reparto).
+
+### Arba (padre de Anac)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Anac (padre de los tres de Hebrón).  Fuente: Josué 15:13; 21:11
+
+### Anac (padre de los tres de Hebrón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sesai (hijo de Anac)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahimán (hijo de Anac)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Talmai (hijo de Anac)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Caleb (hijo de Jefone, ochenta y cinco años)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jefone (padre de Caleb)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Acsa (hija de Caleb)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Otoniel (hijo de Cenaz)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Descendencia de Caleb a la que se promete heredad
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G430 · Josué 15 y 18: Bohán y la referencia al hijo de Hinom
+
+Fuente: Josué 15:6,8; 18:16–17
+
+La piedra de Bohán hijo de Rubén figura como hito en dos recorridos fronterizos. «Hijo de Rubén» puede designar pertenencia rubenita: no se lo añade sin cautela como quinto hijo inmediato del patriarca contra sus listas familiares. No se conoce su fecha, padre inmediato o participación en una campaña. El valle del hijo de Hinom conserva una referencia de parentesco en el topónimo, pero no aporta nombre al hijo, generaciones o biografía de Hinom; no se presenta a ambos como habitantes comprobados del tiempo de Josué. Los demás nombres de los límites y ciudades —incluidos Caín, Naama, Hezrón, Adar y otros homónimos según cada lista— no se convierten en personas por compartir forma con nombres genealógicos. Se preservan los datos territoriales en la evidencia del capítulo, sin fabricar familias para cada lugar.
+
+Acontecimiento relacionado: E62 · Hai, Gabaón y herencias (Campañas y reparto).
+
+### Bohán (referencia de la piedra, llamado hijo de Rubén)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hinom (referencia del nombre del valle)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- parentesco → Hijo de Hinom (sin nombre en el topónimo). Relación contenida en la designación del valle; biografía y datación no determinadas. Fuente: Josué 15:8; 18:16
+
+### Hijo de Hinom (sin nombre en el topónimo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Rubén (adscripción de Bohán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- pertenencia → Bohán (referencia de la piedra, llamado hijo de Rubén). Se conserva la fórmula hijo de Rubén sin resolver filiación inmediata o descendencia tribal. Fuente: Josué 15:6; 18:17
+
+## G431 · Josué 16–17: casas de Manasés y herencia de las cinco hijas
+
+Fuente: Josué 16–17
+
+G20 conserva Manasés–Maquir–Galaad–Hefer–Zelofehad y Maala, Noa, Hogla, Milca y Tirsa. Las cinco comparecen ante Eleazar, Josué y los príncipes para recibir herencia; no son esposas o hijas de esos funcionarios. Las casas de Abiezer, Helec, Asriel, Siquem, Hefer y Semida se llaman familias de Manasés; no se dibujan por ello seis paternidades inmediatas desde el patriarca. Abiezer se coteja con Jeezer de Números y con las dificultades de Crónicas conservadas en G57, sin borrar las formas. Siquem de esta casa no se fusiona con el hijo de Hamor. Los diez lotes incluyen el arreglo de herencia descrito; no son diez hijas de Zelofehad. La queja de la casa de José habla por Efraín y Manasés como tribus, no por los hijos del patriarca vivos en la reunión. Los cananeos de Gezer y de los valles que quedan bajo tributo permanecen como comunidades, sin genealogías nuevas.
+
+Acontecimiento relacionado: E62 · Hai, Gabaón y herencias (Campañas y reparto).
+
+### Josué (responde a la casa de José)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eleazar (sacerdote del reparto)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zelofehad (padre de las herederas)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Maala (hija de Zelofehad)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Noa (hija de Zelofehad)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hogla (hija de Zelofehad)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Milca (hija de Zelofehad)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tirsa (hija de Zelofehad)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Abiezer (lista de Josué)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Helec
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Asriel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Siquem de Manasés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Hefer
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Semida
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Representantes de Efraín y Manasés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cananeos de Gezer y de los valles no expulsados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G432 · Josué 18–19: encargados de describir la tierra y familias del reparto
+
+Fuente: Josué 18–19; cotejo con Jueces 18
+
+Josué pide tres hombres por tribu para recorrer y describir las ciudades en un libro dividido en siete partes; no se dan sus nombres. No se identifica a estos comisionados con los doce portadores de piedras ni con los espías de Jericó. Eleazar, Josué y los jefes de casas participan del reparto en Silo. Simeón recibe dentro de la porción de Judá; esto no cambia su ascendencia de Jacob. Las listas de Benjamín, Simeón, Zabulón, Isacar, Aser, Neftalí y Dan son ciudades y límites, no hijos sucesivos de cada tribu. La conquista de Lesem renombrada Dan se coteja con Lais en Jueces 18 (G415), sin duplicar automáticamente migración o generaciones. Dan es el antepasado recordado, no un guerrero presente. Josué recibe Timnat-sera y edifica allí; este pasaje no nombra esposa ni hijos suyos.
+
+Acontecimiento relacionado: E62 · Hai, Gabaón y herencias (Campañas y reparto).
+
+### Josué (recibe Timnat-sera)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eleazar (sacerdote que participa del reparto)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tres hombres por tribu encargados de describir la tierra
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jefes de las casas paternas que reparten en Silo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familias de Benjamín del reparto
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familias de Simeón dentro de Judá
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familias de Zabulón del reparto
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familias de Isacar del reparto
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familias de Aser del reparto
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familias de Neftalí del reparto
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familias de Dan que reciben tierras
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Danitas que toman Lesem y la llaman Dan
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G433 · Josué 20–21: casas levíticas y personas previstas en el refugio
+
+Fuente: Josué 20–21
+
+Las familias de Aarón dentro de Coat reciben trece ciudades; los demás coatitas diez, los gersonitas trece y los meraritas doce: cuarenta y ocho en total, no cuarenta y ocho hijos o clanes nombrados. G17–G18 conservan la ascendencia levítica y sacerdotal. Las seis ciudades de refugio están dentro de la distribución; no se suman como otras seis ciudades. El homicida involuntario, vengador de sangre, víctima y sumo sacerdote de 20 son funciones de una disposición aplicable a casos futuros, no cuatro personas anónimas que el capítulo narre actuando en un caso concreto. La protección incluye a israelitas y extranjeros. Se conserva este alcance en la nota sin fabricar una familia de víctima y vengador. La lista de ciudades se coteja como geografía, no como genealogía; las variantes frente a Crónicas necesitan estudio propio. La ausencia de una provincia territorial levítica no significa ausencia de casas o lugares de residencia.
+
+Acontecimiento relacionado: E62 · Hai, Gabaón y herencias (Campañas y reparto).
+
+### Josué (hijo de Nun, asignación de ciudades)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eleazar (sacerdote que recibe la solicitud)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jefes de las casas levíticas que solicitan ciudades
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familias sacerdotales de Aarón, trece ciudades
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Resto de familias coatitas, diez ciudades
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familias gersonitas, trece ciudades
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familias meraritas, doce ciudades
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jefes tribales que entregan las ciudades
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G434 · Josué 22: Finés, diez príncipes y generaciones a ambos lados del Jordán
+
+Fuente: Josué 22
+
+G154 conserva a Finés hijo de Eleazar, los diez dirigentes y las tres comunidades orientales. Los príncipes son jefes de casas, no diez hijos de Finés; no se identifican automáticamente con una lista anterior de comisionados. El altar suscita una acusación de rebelión que la explicación desmiente; el relato termina sin la guerra proyectada. El temor de que futuras generaciones excluyan a otras es hipotético, no prueba de una generación ya nacida o de un conflicto futuro fechado. Peor y Acán son recuerdos usados en la discusión, no hechos que ocurran otra vez. Ed es la designación del altar como testigo en la KJV, no el nombre de su constructor. La herencia a ambos lados del Jordán no convierte a Manasés en dos personas distintas.
+
+Acontecimiento relacionado: E63 · Renovación en Siquem (Cierre de Josué).
+
+### Josué (despide a las tropas orientales)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Finés (hijo de Eleazar, jefe de la delegación)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eleazar (padre de Finés)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Diez príncipes enviados con Finés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rubenitas que regresan
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gaditas que regresan
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Media tribu oriental de Manasés que regresa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Asamblea de Silo que prepara y desiste de la guerra
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Generaciones futuras evocadas de ambas orillas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G435 · Josué 23–24: casa de Josué, hijos de Hamor y sepulturas del cierre
+
+Fuente: Josué 23–24
+
+Josué convoca ancianos, jefes, jueces y oficiales. Taré padre de Abraham y Nacor, Isaac, Jacob, Esaú, Moisés, Aarón, Balac hijo de Zipor y Balaam hijo de Beor pertenecen al recuerdo histórico; las ramas están en G06, G08, G10, G13, G17 y G213. No se sitúan vivos en Siquem ni se agrega una guerra distinta por cada recapitulación. «Yo y mi casa» no enumera esposa o hijos de Josué. Los matrimonios con pueblos vecinos se advierten como posibilidad, no como bodas ya celebradas. Josué muere a los 110 años, sin año absoluto suministrado; los ancianos que lo sobreviven no reciben edades. La sepultura de los huesos de José es traslado de restos, no otra muerte. Jacob había comprado a los hijos de Hamor el terreno; Siquem es hijo de Hamor, sin asignar nombres a los demás miembros del grupo vendedor. Eleazar hijo de Aarón muere y es sepultado en el terreno de su hijo Finés; G18 conserva esa continuidad, distinta de Finés hijo de Elí. La piedra que «oye» y testimonia es una figura, no un personaje.
+
+Acontecimiento relacionado: E63 · Renovación en Siquem (Cierre de Josué).
+
+### Josué (muere a los ciento diez años)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nun (padre de Josué)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### José (restos sepultados en Siquem)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jacob (comprador recordado del terreno)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hamor (padre de Siquem)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Siquem (hijo de Hamor).  Fuente: Josué 24:32
+- descendencia → Hijos de Hamor que venden el terreno a Jacob. Grupo designado hijos de Hamor; no se enumeran todos los individuos o generaciones. Fuente: Josué 24:32
+
+### Siquem (hijo de Hamor)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eleazar (hijo de Aarón, muerte al cierre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Finés (hijo de Eleazar, terreno funerario)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos de Hamor que venden el terreno a Jacob
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Josué que él compromete al servicio
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ancianos que sobreviven a Josué
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jefes, jueces y oficiales de las asambleas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pueblo que renueva el pacto en Siquem
 
 Cronología generacional no determinada; ubicación esquemática.
 
