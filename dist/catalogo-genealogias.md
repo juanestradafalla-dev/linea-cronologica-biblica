@@ -4,6 +4,10 @@ Filiaciones, genealogías, parentescos, sucesiones y pertenencia a pueblos se di
 
 Estado: ampliación documentada, no inventario exhaustivo de todos los personajes bíblicos ni lectura íntegra de los 120 PDF. Las apariciones repetidas no equivalen a personas únicas.
 
+## Nehemías: cotejo de personajes de los trece capítulos
+
+Completada una pasada de cotejo de personajes por los 406 versículos de Nehemías en la KJV aportada: 338 en esta revisión y 68 de los capítulos 3 y 11 anteriormente. Diecisiete fichas adicionales (G268–G284; R215–R231). Total: 284 fichas, 4.174 apariciones y 2.653 relaciones. Se conservan las 267 fichas anteriores y los 148 acontecimientos. Las variantes, identificaciones, cronologías discutidas y contraste con White siguen abiertos.
+
 ## Esdras: cotejo de personajes de los diez capítulos
 
 Completada una pasada de cotejo de personajes por los 280 versículos de Esdras en la KJV aportada: 1–9 en esta revisión y 10 en la anterior. Diez fichas adicionales (G258–G267; R205–R214). Total: 267 fichas, 3.839 apariciones y 2.639 relaciones. Se conservan las 257 fichas anteriores y los 148 acontecimientos. Las identificaciones discutidas, variantes, paralelos y el contraste con White siguen abiertos.
@@ -32135,6 +32139,2507 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 ### Amorreos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G268 · Nehemías 1–2 y 7: corte, familiares y responsables de Jerusalén
+
+Fuente: Nehemías 1:1–11; 2:1–20; 7:1–4
+
+Complementa G70: Hacalías es padre de Nehemías y Hanani es su hermano; no se inventa una madre ni se atribuye expresamente Hacalías como padre de Hanani. La reina de 2:6 queda sin nombre, sin identificarla con Ester. Asaf es guardián del bosque real, no el cantor por coincidencia de nombre. Hanani y Hananías de 7:2 son dos menciones distintas. No se confunde al gobernador Nehemías con el hijo de Azbuc o el dirigente del primer retorno.
+
+Acontecimiento relacionado: E106 · Nehemías y los muros (Año 20 de Artajerjes).
+
+Acontecimiento relacionado: E107 · Lectura, pacto y reformas (Comunidad restaurada).
+
+### Hacalías (padre del gobernador)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Nehemías (copero y gobernador).  Fuente: Nehemías 1:1
+
+### Nehemías (copero y gobernador)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- hermanos → Hanani (hermano de Nehemías).  Fuente: Nehemías 1:2; 7:2
+
+### Hanani (hermano de Nehemías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Artajerjes (rey de Nehemías 2)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Reina junto a Artajerjes (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Asaf (guardián del bosque real)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hananías (jefe de la fortaleza)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombres de Judá que traen noticias
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gobernadores del otro lado del río
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Capitanes y jinetes de la escolta real
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañeros de la inspección nocturna
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Guardias elegidos entre los habitantes
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Porteros, cantores y levitas designados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G269 · Nehemías 4: constructores, guardias y trompetista
+
+Fuente: Nehemías 4:1–23
+
+Las familias se organizan para la defensa, pero no se da una lista de padres, esposas e hijos individuales. El trompetista junto a Nehemías permanece sin nombre. Judá en 4:10 es un colectivo, no un nuevo hombre llamado Judá. Las amenazas de matar a los obreros se atribuyen a los adversarios; no se presentan como muertes ocurridas.
+
+Acontecimiento relacionado: E106 · Nehemías y los muros (Año 20 de Artajerjes).
+
+### Nehemías (organización de la defensa)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sanbalat (burla y oposición)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tobías amonita (oposición)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Trompetista junto a Nehemías (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hermanos de Sanbalat y ejército de Samaria
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Árabes, amonitas y asdoditas aliados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Trabajadores de Judá agotados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Judíos vecinos que avisan del peligro
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Constructores y cargadores armados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familias, esposas, hijos e hijas por defender
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nobles y gobernantes junto al pueblo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hermanos, criados y guardia de Nehemías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G270 · Nehemías 5: familias endeudadas, autoridades y comensales
+
+Fuente: Nehemías 5:1–19
+
+El capítulo describe grupos sin nombres individuales. No se inventan identidades de acreedores, padres, hijas sometidas a servidumbre o gobernadores anteriores. Los 150 judíos y gobernantes de la mesa no son hijos de Nehemías. El periodo del año veinte al treinta y dos de Artajerjes se conserva como marco del servicio del gobernador, no como fecha de nacimiento de estas personas.
+
+Acontecimiento relacionado: E107 · Lectura, pacto y reformas (Comunidad restaurada).
+
+### Nehemías (gobernador de Judá)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Artajerjes (marco del gobierno)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pueblo y esposas que reclaman
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Padres que buscan alimento o hipotecan sus bienes
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos e hijas sometidos a servidumbre
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nobles y gobernantes reprendidos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sacerdotes ante el juramento
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hermanos y criados del gobernador
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gobernadores anteriores y sus criados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Judíos y gobernantes a la mesa (150)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Visitantes de los pueblos vecinos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Congregación que acepta la restitución
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G271 · Nehemías 6: cartas, amenazas y alianzas de los adversarios
+
+Fuente: Nehemías 2:19; 6:1–19
+
+G162 conserva a Semaías, su ascendencia y Noadías; G117 documenta los matrimonios de Tobías y su hijo. Gesem y Gasmu se conservan como formas de las menciones de 6:1 y 6:6, sin añadirles genealogía. Los profetas que supuestamente proclamaban rey a Nehemías pertenecen a una acusación que él niega: no se registran como colaboradores comprobados. Los mensajeros permanecen anónimos.
+
+Acontecimiento relacionado: E106 · Nehemías y los muros (Año 20 de Artajerjes).
+
+### Nehemías (destinatario de las amenazas)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sanbalat (cartas e invitaciones)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tobías (correspondencia)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gesem / Gasmu (menciones del opositor árabe)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Criado de Sanbalat con carta abierta (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Semaías (propuesta de refugio)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Noadías (profetisa)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mensajeros de Nehemías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Otros profetas que trataban de intimidarlo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nobles de Judá que escriben a Tobías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Juramentados de Tobías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pueblos vecinos que observan la terminación
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G272 · Nehemías 7: dirigentes del registro encontrado y colectivos
+
+Fuente: Nehemías 7:5–73
+
+Es un registro del primer retorno hallado por Nehemías; sus dirigentes no se sitúan todos en el momento de hallazgo. Se conserva la lista propia frente a Esdras 2: Azarías, Raamías, Nahamani, Misperet y Nehum no se sustituyen por formas del paralelo. El Nehemías de 7:7 y Mardoqueo no se identifican automáticamente con los protagonistas de otros libros. G63–G66 conservan casas, poblaciones y dificultades de acreditación. Los 245 cantores y cantoras se distinguen de los 200 de Esdras 2.
+
+Acontecimiento relacionado: E101 · Permiso y reconstrucción inicial (Primer año de Ciro; retorno).
+
+Acontecimiento relacionado: E107 · Lectura, pacto y reformas (Comunidad restaurada).
+
+### Nabucodonosor (cautiverio recordado en 7:6)
+
+Persona de una época anterior recordada por el texto; no contemporánea de la asamblea o de la obra de Nehemías.
+
+
+
+
+### Zorobabel (registro de Nehemías 7)
+
+Mención en el registro del primer retorno citado por Nehemías; no fecha de nacimiento ni contemporaneidad automática con el hallazgo del registro.
+
+
+
+
+### Jesúa (registro de Nehemías 7)
+
+Mención en el registro del primer retorno citado por Nehemías; no fecha de nacimiento ni contemporaneidad automática con el hallazgo del registro.
+
+
+
+
+### Nehemías (dirigente de 7:7)
+
+Mención en el registro del primer retorno citado por Nehemías; no fecha de nacimiento ni contemporaneidad automática con el hallazgo del registro.
+
+
+
+
+### Azarías (dirigente de 7:7)
+
+Mención en el registro del primer retorno citado por Nehemías; no fecha de nacimiento ni contemporaneidad automática con el hallazgo del registro.
+
+
+
+
+### Raamías
+
+Mención en el registro del primer retorno citado por Nehemías; no fecha de nacimiento ni contemporaneidad automática con el hallazgo del registro.
+
+
+
+
+### Nahamani
+
+Mención en el registro del primer retorno citado por Nehemías; no fecha de nacimiento ni contemporaneidad automática con el hallazgo del registro.
+
+
+
+
+### Mardoqueo (registro de 7:7)
+
+Mención en el registro del primer retorno citado por Nehemías; no fecha de nacimiento ni contemporaneidad automática con el hallazgo del registro.
+
+
+
+
+### Bilsán (registro de 7:7)
+
+Mención en el registro del primer retorno citado por Nehemías; no fecha de nacimiento ni contemporaneidad automática con el hallazgo del registro.
+
+
+
+
+### Misperet
+
+Mención en el registro del primer retorno citado por Nehemías; no fecha de nacimiento ni contemporaneidad automática con el hallazgo del registro.
+
+
+
+
+### Bigvai (dirigente de 7:7)
+
+Mención en el registro del primer retorno citado por Nehemías; no fecha de nacimiento ni contemporaneidad automática con el hallazgo del registro.
+
+
+
+
+### Nehum
+
+Mención en el registro del primer retorno citado por Nehemías; no fecha de nacimiento ni contemporaneidad automática con el hallazgo del registro.
+
+
+
+
+### Baana (dirigente de 7:7)
+
+Mención en el registro del primer retorno citado por Nehemías; no fecha de nacimiento ni contemporaneidad automática con el hallazgo del registro.
+
+
+
+
+### Tirsata (título del gobernador en el registro)
+
+Mención en el registro del primer retorno citado por Nehemías; no fecha de nacimiento ni contemporaneidad automática con el hallazgo del registro.
+
+
+
+
+### Descendientes de Hodeva: casas levíticas de 7:43
+
+Mención en el registro del primer retorno citado por Nehemías; no fecha de nacimiento ni contemporaneidad automática con el hallazgo del registro.
+
+
+
+
+### Congregación del registro (42.360)
+
+Mención en el registro del primer retorno citado por Nehemías; no fecha de nacimiento ni contemporaneidad automática con el hallazgo del registro.
+
+
+
+
+### Siervos y siervas (7.337)
+
+Mención en el registro del primer retorno citado por Nehemías; no fecha de nacimiento ni contemporaneidad automática con el hallazgo del registro.
+
+
+
+
+### Cantores y cantoras (245)
+
+Mención en el registro del primer retorno citado por Nehemías; no fecha de nacimiento ni contemporaneidad automática con el hallazgo del registro.
+
+
+
+
+### Jefes de casas y resto del pueblo que donan
+
+Mención en el registro del primer retorno citado por Nehemías; no fecha de nacimiento ni contemporaneidad automática con el hallazgo del registro.
+
+
+
+
+## G273 · Nehemías 8: quienes acompañan a Esdras en la plataforma
+
+Fuente: Nehemías 8:1–6,9–18
+
+Se conservan los seis nombres a la derecha y siete a la izquierda de Esdras, sin parentescos por proximidad. Matatías y los demás homónimos no se fusionan con integrantes de otras listas. Josué hijo de Nun y Moisés son recuerdos anteriores; no son participantes contemporáneos. Tirsata es el título aplicado aquí a Nehemías, no otro hombre.
+
+Acontecimiento relacionado: E107 · Lectura, pacto y reformas (Comunidad restaurada).
+
+### Esdras (lector de la Ley)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Matatías (derecha, 8:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sema (derecha, 8:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Anaías (derecha, 8:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Urías (derecha, 8:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hilcías (derecha, 8:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Maasías (derecha, 8:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pedaías (izquierda, 8:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Misael (izquierda, 8:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Malquías (izquierda, 8:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hasum (izquierda, 8:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hasbadana (izquierda, 8:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zacarías (izquierda, 8:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mesulam (izquierda, 8:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nehemías (Tirsata)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Moisés (Ley recordada)
+
+Persona de una época anterior recordada por el texto; no contemporánea de la asamblea o de la obra de Nehemías.
+
+
+
+
+### Nun (padre de Josué)
+
+Persona de una época anterior recordada por el texto; no contemporánea de la asamblea o de la obra de Nehemías.
+
+
+
+- filiacion → Josué / Jesúa hijo de Nun (8:17).  Fuente: Nehemías 8:17
+
+### Josué / Jesúa hijo de Nun (8:17)
+
+Persona de una época anterior recordada por el texto; no contemporánea de la asamblea o de la obra de Nehemías.
+
+
+
+
+### Hombres, mujeres y quienes podían comprender
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jefes, sacerdotes y levitas que estudian al segundo día
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Personas sin porción preparada y quienes comparten con ellas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G274 · Nehemías 8: maestros que ayudan a comprender la Ley
+
+Fuente: Nehemías 8:7–12
+
+La lista nombra a trece ayudantes y menciona a los levitas. No se establecen padres, matrimonios ni identidades con otros Jesúa, Bani, Maasías o Azarías. Quelita no se fusiona aquí con una figura de Esdras por mera coincidencia; aquel pasaje conserva su propia equivalencia Celaías/Quelita.
+
+Acontecimiento relacionado: E107 · Lectura, pacto y reformas (Comunidad restaurada).
+
+### Jesúa (maestro, 8:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bani (maestro, 8:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Serebías (maestro, 8:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jamín (maestro, 8:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Acub (maestro, 8:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sabetai (maestro, 8:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hodías (maestro, 8:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Maasías (maestro, 8:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Quelita (maestro, 8:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Azarías (maestro, 8:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jozabad (maestro, 8:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hanán (maestro, 8:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pelaías (maestro, 8:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Levitas que explican la lectura
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G275 · Nehemías 9: dos listas de levitas que dirigen la confesión
+
+Fuente: Nehemías 9:1–5,38
+
+Se conservan por separado las dos enumeraciones. Bani aparece dos veces en 9:4 y una en 9:5; no se determina si son homónimos o repeticiones. Los nombres compartidos entre versos siguen identificados por mención; no representan necesariamente personas diferentes. La función litúrgica no acredita parentesco.
+
+Acontecimiento relacionado: E107 · Lectura, pacto y reformas (Comunidad restaurada).
+
+### Jesúa (9:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bani (primera mención de 9:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cadmiel (9:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sebanías (9:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Buni (9:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Serebías (9:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bani (segunda mención de 9:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Quenani (9:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jesúa (9:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cadmiel (9:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bani (9:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hasabnías (9:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Serebías (9:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hodías (9:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sebanías (9:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Petaías (9:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Asamblea que confiesa y escucha
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Príncipes, levitas y sacerdotes que sellan el compromiso
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G276 · Nehemías 9: personajes y pueblos recordados en la oración
+
+Fuente: Nehemías 9:6–38
+
+Son referencias históricas dentro de una oración, no contemporáneos de Nehemías. Abram y Abraham son los nombres que el pasaje relaciona expresamente. El faraón y el capitán mencionado en 9:17 no reciben nombres. La designación rey de Hesbón se conserva en la referencia territorial sin crear un segundo rey identificado por conjetura. Los profetas y libertadores quedan como colectivos sin completar sus nombres desde otros relatos.
+
+Acontecimiento relacionado: E107 · Lectura, pacto y reformas (Comunidad restaurada).
+
+### Abram / Abraham (nombre cambiado, 9:7)
+
+Persona de una época anterior recordada por el texto; no contemporánea de la asamblea o de la obra de Nehemías.
+
+
+
+
+### Faraón (sin nombre en 9:10)
+
+Persona de una época anterior recordada por el texto; no contemporánea de la asamblea o de la obra de Nehemías.
+
+
+
+
+### Moisés (9:14)
+
+Persona de una época anterior recordada por el texto; no contemporánea de la asamblea o de la obra de Nehemías.
+
+
+
+
+### Capitán para regresar a la servidumbre (sin nombre, 9:17)
+
+Persona de una época anterior recordada por el texto; no contemporánea de la asamblea o de la obra de Nehemías.
+
+
+
+
+### Sehón (referencia territorial de 9:22)
+
+Persona de una época anterior recordada por el texto; no contemporánea de la asamblea o de la obra de Nehemías.
+
+
+
+
+### Og (rey de Basán, 9:22)
+
+Persona de una época anterior recordada por el texto; no contemporánea de la asamblea o de la obra de Nehemías.
+
+
+
+
+### Antepasados y descendientes de Israel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Siervos del faraón y pueblo de Egipto
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cananeos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Heteos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Amorreos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ferezeos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jebuseos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gergeseos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Reyes y habitantes de la tierra
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Profetas perseguidos y muertos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Libertadores concedidos al pueblo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Reyes de Asiria y reyes dominantes recordados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Reyes, príncipes y sacerdotes de Israel recordados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G277 · Nehemías 10: gobernador y nombres sacerdotales del pacto
+
+Fuente: Nehemías 10:1–8
+
+La lista registra nombres que sellan el pacto; no crea una cadena de padres e hijos ni resuelve si algunos nombres representan casas. Sedequías de 10:1 no se identifica con el rey de Judá. Jeremías, Daniel y Baruc no se equiparan por homonimia con autores de otros libros. El encabezado sacerdotal se conserva para la sección de 10:2–8, sin atribuir un oficio no explícito a Sedequías.
+
+Acontecimiento relacionado: E107 · Lectura, pacto y reformas (Comunidad restaurada).
+
+### Hacalías (padre de Nehemías, 10:1)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Nehemías (Tirsata, 10:1).  Fuente: Nehemías 10:1
+
+### Nehemías (Tirsata, 10:1)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sedequías (firmante, 10:1)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Seraías (10:2)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Azarías (10:2)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jeremías (10:2)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pasur (10:3)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Amarías (10:3)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Malquías (10:3)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hatús (10:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sebanías (10:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Maluc (10:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Harim (10:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Meremot (10:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Obadías (10:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Daniel (10:6)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ginetón (10:6)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Baruc (10:6)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mesulam (10:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abías (10:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mijamín (10:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Maazías (10:8)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bilgai (10:8)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Semaías (10:8)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G278 · Nehemías 10: nombres levíticos del pacto
+
+Fuente: Nehemías 10:9–13
+
+Sebanías y Hodías aparecen en dos posiciones cada uno. Se conservan sin fusionarlos ni inventar padres para distinguirlos. Jesúa es hijo de Azanías; Binúi pertenece a los hijos de Henadad, sin generaciones intermedias fijadas. Los hermanos de la lista no se convierten en hijos de una pareja común.
+
+Acontecimiento relacionado: E107 · Lectura, pacto y reformas (Comunidad restaurada).
+
+### Azanías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jesúa (hijo de Azanías).  Fuente: Nehemías 10:9
+
+### Jesúa (hijo de Azanías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Henadad (linaje de Binúi)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Binúi (10:9). De los hijos de Henadad; no número de generaciones precisado. Fuente: Nehemías 10:9
+
+### Binúi (10:9)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cadmiel (10:9)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sebanías (10:10)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hodías (10:10)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Quelita (10:10)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pelaías (10:10)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hanán (10:10)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mica (10:11)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rehob (10:11)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hasabías (10:11)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zacur (10:12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Serebías (10:12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sebanías (10:12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hodías (10:13)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bani (10:13)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Beninu
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G279 · Nehemías 10: jefes del pueblo y familias que aceptan el pacto
+
+Fuente: Nehemías 10:14–39
+
+Los nombres se conservan como representantes de la lista, sin equipararlos automáticamente con fundadores de casas o personajes de otros siglos. Hanán figura en 10:22 y 10:26; se mantienen ambas menciones. Esposas, hijos e hijas que comprenden el compromiso no reciben nombres inventados. Las obligaciones futuras de matrimonio, ofrendas y servicio no prueban matrimonios o nacimientos individuales ya ocurridos.
+
+Acontecimiento relacionado: E107 · Lectura, pacto y reformas (Comunidad restaurada).
+
+### Paros (10:14)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pahat-moab (10:14)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elam (10:14)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zatu (10:14)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bani (10:14)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Buni (10:15)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Azgad (10:15)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bebai (10:15)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Adonías (10:16)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bigvai (10:16)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Adín (10:16)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ater (10:17)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ezequías (10:17)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Azur (10:17)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hodías (10:18)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hasum (10:18)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bezai (10:18)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Harif (10:19)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Anatot (10:19)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nebai (10:19)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Magpías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mesulam (10:20)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hezir
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mesezabeel (10:21)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sadoc (10:21)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jadúa (10:21)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pelatías (10:22)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hanán (10:22)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Anaías (10:22)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Oseas (10:23)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hananías (10:23)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hasub (10:23)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Halohes (10:24)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pilha
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sobec
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rehum (10:25)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hasabna
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Maasías (10:25)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahías (10:26)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hanán (10:26)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Anán (10:26)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Maluc (10:27)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Harim (10:27)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Baana (10:27)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Esposas, hijos e hijas que comprenden el pacto
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Resto del pueblo, sacerdotes, levitas, porteros, cantores y servidores
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sacerdotes descendientes de Aarón y levitas del servicio
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G280 · Nehemías 12: primera lista sacerdotal y marco del registro
+
+Fuente: Nehemías 12:1–9,22–26
+
+G69 conserva las casas y sus jefes posteriores; esta ficha explicita los nombres de la primera lista. Jedaías aparece en dos posiciones. Esdras de 12:1 no se identifica automáticamente con el escriba de una etapa posterior. La lista pertenece a los días de Jesúa y al retorno con Zorobabel, no necesariamente a la dedicación del muro. Las diferencias Secanías/Sebanías, Rehum/Harim y otras se conservan por fuente, sin convertirlas en parentescos. Darío el persa pertenece al marco posterior del registro de 12:22; no se determina cuál Darío por el nombre solo ni se lo sitúa en el primer retorno.
+
+Acontecimiento relacionado: E101 · Permiso y reconstrucción inicial (Primer año de Ciro; retorno).
+
+Acontecimiento relacionado: E107 · Lectura, pacto y reformas (Comunidad restaurada).
+
+### Darío el persa (marco del registro, 12:22)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Salatiel (12:1)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Zorobabel (retorno, 12:1). Vínculo textual; variantes de filiación conservadas en G28. Fuente: Nehemías 12:1
+
+### Zorobabel (retorno, 12:1)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jesúa (dirigente del retorno, 12:1)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Seraías (12:1)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jeremías (12:1)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Esdras (sacerdote del retorno, 12:1)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Amarías (12:2)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Maluc (12:2)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hatús (12:2)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Secanías (12:3)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rehum (12:3)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Meremot (12:3)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Iddo (12:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gineto (12:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abías (12:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Miamín (12:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Maadías (12:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bilga (12:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Semaías (12:6)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joiarib (12:6)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jedaías (primera mención, 12:6)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Salu (12:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Amoc (12:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hilcías (12:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jedaías (segunda mención, 12:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hermanos de los jefes sacerdotales
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Levitas, cantores y guardias de 12:8–9
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Sus nombres se conservan en G70: Jesúa, Binúi, Cadmiel, Serebías, Judá, Matanías, Bacbuquías y Uni.
+
+
+## G281 · Nehemías 12: primera comitiva de la dedicación y músicos
+
+Fuente: Nehemías 12:27–37
+
+La genealogía del músico Zacarías ya está en G70. Esta ficha añade los participantes de su comitiva. Esdras de 12:33 se conserva por mención frente a Esdras el escriba de 12:36, sin decidir su identidad. Los Semaías, Judá y otros nombres repetidos se califican por versículo. Sus hermanos no significa que todos compartan los mismos padres. David es una referencia anterior de instrumentos y lugares.
+
+Acontecimiento relacionado: E107 · Lectura, pacto y reformas (Comunidad restaurada).
+
+### Nehemías (organiza las comitivas)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hosaías (encabeza parte de los príncipes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Azarías (12:33)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Esdras (mención de 12:33)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mesulam (12:33)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Judá (12:34)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Benjamín (12:34)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Semaías (12:34)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jeremías (12:34)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zacarías (músico, 12:35)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Semaías (músico, 12:36)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Azarael (músico)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Milalai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gilalai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Maai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Natanael (músico, 12:36)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Judá (músico, 12:36)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hanani (músico, 12:36)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Esdras (escriba delante de la comitiva)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### David (instrumentos y lugares recordados)
+
+Persona de una época anterior recordada por el texto; no contemporánea de la asamblea o de la obra de Nehemías.
+
+
+
+
+### Mitad de los príncipes de Judá
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos de sacerdotes con trompetas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cantores reunidos de las aldeas y campos vecinos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Levitas, sacerdotes y pueblo que se purifican
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G282 · Nehemías 12: segunda comitiva, trompetistas y cantores
+
+Fuente: Nehemías 12:38–47
+
+Se conservan las dos menciones de Maasías y de otros nombres por sección. Izrahías dirige el canto; el pasaje no aporta su padre. Los sacerdotes de 12:41 y los participantes de 12:42 no se fusionan por homonimia. Las mujeres y niños participan en la alegría sin lista de nombres. David, Asaf y Salomón son referencias anteriores; Zorobabel y Nehemías aparecen como marcos del sostenimiento del servicio, no como contemporáneos obligados.
+
+Acontecimiento relacionado: E107 · Lectura, pacto y reformas (Comunidad restaurada).
+
+### Nehemías (segunda comitiva)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliaquim (trompetista, 12:41)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Maasías (trompetista, 12:41)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Miniamín (trompetista)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Micaías (trompetista)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elioenai (trompetista)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zacarías (trompetista, 12:41)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hananías (trompetista)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Maasías (12:42)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Semaías (12:42)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eleazar (12:42)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Uzi (12:42)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Johanán (12:42)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Malquías (12:42)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elam (12:42)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ezer (12:42)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Izrahías (director de cantores)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### David (ordenanzas recordadas)
+
+Persona de una época anterior recordada por el texto; no contemporánea de la asamblea o de la obra de Nehemías.
+
+
+
+- filiacion → Salomón (hijo de David, 12:45).  Fuente: Nehemías 12:45
+
+### Salomón (hijo de David, 12:45)
+
+Persona de una época anterior recordada por el texto; no contemporánea de la asamblea o de la obra de Nehemías.
+
+
+
+
+### Asaf (tiempos antiguos, 12:46)
+
+Persona de una época anterior recordada por el texto; no contemporánea de la asamblea o de la obra de Nehemías.
+
+
+
+
+### Zorobabel (sostenimiento del servicio recordado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mitad del pueblo y gobernantes con Nehemías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mujeres y niños que se alegran
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Responsables de cámaras y provisiones
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cantores, porteros, levitas y descendientes de Aarón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G283 · Nehemías 13: Eliasib, Tobías y administradores de los depósitos
+
+Fuente: Nehemías 13:4–14
+
+Eliasib es el sacerdote encargado de la cámara; no se presupone aquí su identidad con cada Eliasib del libro. Su alianza con Tobías no especifica el grado de parentesco. Selemías, Sadoc y Pedaías son administradores nombrados; Hanán tiene la ascendencia Zacur–Matanías. No se identifican con los homónimos de otras listas. Artajerjes es llamado rey de Babilonia en 13:6: el título no crea un rey adicional.
+
+Acontecimiento relacionado: E107 · Lectura, pacto y reformas (Comunidad restaurada).
+
+### Nehemías (regreso a Jerusalén)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Artajerjes (rey de Babilonia en 13:6)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliasib (sacerdote encargado de la cámara)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- discutida → Tobías (beneficiario de la cámara). Alianza o relación mencionada; grado de parentesco no especificado. Fuente: Nehemías 13:4
+
+### Tobías (beneficiario de la cámara)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Selemías (sacerdote administrador)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sadoc (escriba administrador)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pedaías (levita administrador)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Matanías (abuelo de Hanán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Zacur (padre de Hanán).  Fuente: Nehemías 13:13
+
+### Zacur (padre de Hanán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Hanán (colaborador de los administradores).  Fuente: Nehemías 13:13
+
+### Hanán (colaborador de los administradores)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Levitas y cantores que regresaron a sus campos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gobernantes reprendidos y hermanos que reciben las porciones
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G284 · Nehemías 13: familias, comerciantes y personajes recordados
+
+Fuente: Nehemías 13:1–3,15–31
+
+La casa del hijo de Joiada y su matrimonio con una hija de Sanbalat ya se conserva en G68; el hijo permanece sin nombre. No se lo identifica con una figura posterior de Josefo por conjetura. Los hijos de las familias mixtas no reciben nombres ni padres individuales; la observación lingüística se conserva como descripción del pasaje. Las medidas de Nehemías se atribuyen al relato, no como instrucciones para el presente. Balaam, Moisés y Salomón son recuerdos anteriores.
+
+Acontecimiento relacionado: E107 · Lectura, pacto y reformas (Comunidad restaurada).
+
+### Nehemías (reformas finales)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Moisés (libro leído)
+
+Persona de una época anterior recordada por el texto; no contemporánea de la asamblea o de la obra de Nehemías.
+
+
+
+
+### Balaam (maldición recordada)
+
+Persona de una época anterior recordada por el texto; no contemporánea de la asamblea o de la obra de Nehemías.
+
+
+
+
+### Salomón (ejemplo recordado)
+
+Persona de una época anterior recordada por el texto; no contemporánea de la asamblea o de la obra de Nehemías.
+
+
+
+
+### Joiada (padre del yerno de Sanbalat)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Hijo de Joiada (yerno de Sanbalat, sin nombre).  Fuente: Nehemías 13:28
+
+### Eliasib (sumo sacerdote, 13:28)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Joiada (padre del yerno de Sanbalat).  Fuente: Nehemías 13:28
+
+### Hijo de Joiada (yerno de Sanbalat, sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sanbalat horonita (13:28)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- parentesco → Hijo de Joiada (yerno de Sanbalat, sin nombre). Suegro y yerno; la esposa sin nombre y su padre se representan en G68. Fuente: Nehemías 13:28
+
+### Amonitas y moabitas recordados en la lectura
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Comerciantes de Tiro y vendedores de provisiones
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cargadores y trabajadores de lagares
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nobles de Judá reprendidos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Criados y levitas que guardan las puertas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Judíos con esposas de Asdod, Amón y Moab
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Esposas y niños de esas familias sin nombres
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sacerdotes y levitas asignados a sus servicios
 
 Cronología generacional no determinada; ubicación esquemática.
 
