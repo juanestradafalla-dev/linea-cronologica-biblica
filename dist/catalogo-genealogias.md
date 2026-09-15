@@ -4,6 +4,10 @@ Filiaciones, genealogías, parentescos, sucesiones y pertenencia a pueblos se di
 
 Estado: ampliación documentada, no inventario exhaustivo de todos los personajes bíblicos ni lectura íntegra de los 120 PDF. Las apariciones repetidas no equivalen a personas únicas.
 
+## Jueces: cotejo de personajes de los veintiún capítulos
+
+Completada una pasada bíblica de personajes por los 21 capítulos y 618 versículos de Jueces en la KJV aportada. Se añaden 15 fichas G403–G417 / R350–R364, 195 apariciones y 17 relaciones. Total: 417 fichas, 6.206 apariciones de personas o grupos y 2.839 relaciones. Las apariciones incluyen colectivos y repeticiones; no son personas únicas. Las 402 fichas anteriores y los 148 acontecimientos permanecen intactos. Se incorporan Gera–Aod, madre de Sísara, auxiliares de Gedeón, abuelo y tíos maternos de Abimelec, nueras de Ibzán y familias anónimas del cierre. La respuesta por medio de un profeta se atribuye expresamente a White, PP 557.3; también se cotejan PP 556.3 y 560.2–4. Siguen abiertos variantes, cronologías y contraste integral con White. Próximo libro propuesto: Rut.
+
 ## 2 Samuel: cotejo de personajes de los veinticuatro capítulos
 
 Completada una pasada bíblica de personajes por los 24 capítulos y 695 versículos de 2 Samuel en la KJV aportada. Se añaden 17 fichas G386–G402 / R333–R349, 239 apariciones y 15 relaciones. Total: 402 fichas, 6.011 apariciones de personas o grupos y 2.822 relaciones. Las apariciones incluyen colectivos y repeticiones; no son personas únicas. Las 385 fichas anteriores y los 148 acontecimientos permanecen intactos. Se incorporan padres anónimos, nodriza de Mefiboset, Amiud–Talmai, variantes de los oficiales y auxiliares de las crisis de David. Se distinguen parábolas, acusaciones y genealogías documentadas. PP 735.3 se coteja puntualmente para Ahitofel y Betsabé, con atribución explícita a Elena G. White. Variantes, cronologías y contraste integral con White siguen abiertos. Próximo libro propuesto: Jueces.
@@ -48704,6 +48708,1518 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 ### Servidores del rey que llegan con él ante Arauna
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G403 · Jueces 1: Adoni-bezec, hijos de Anac y familia salvada de Luz
+
+Fuente: Jueces 1
+
+Judá y Simeón actúan como tribus; el diálogo entre hermanos no sitúa vivos a los hijos de Jacob. Adoni-bezec no se identifica con Adonisedec de Josué 10. Los setenta reyes mutilados son víctimas recordadas por él, no hijos suyos. Sesai, Ahimán y Talmai se vinculan con los tres hijos de Anac de 1:20; Talmai no es el rey de Gesur padre de Maaca. G40 conserva Caleb–Acsa, Cenaz–Otoniel y sus prolongaciones de Crónicas. La frase «hermano menor de Caleb» conserva la cautela sobre su referente; no se fuerza un nuevo padre. El hombre que muestra la entrada de Betel/Luz y toda su familia son librados; construye otra Luz en tierra de los heteos. No se nombran su esposa, hijos o padres. Los descendientes del suegro ceneo de Moisés de 1:16 se conservan como grupo sin generaciones enumeradas, junto al cotejo de G104. Los cananeos tributarios y pueblos no expulsados no se convierten en descendientes particulares de los conquistadores.
+
+Acontecimiento relacionado: E62 · Hai, Gabaón y herencias (Campañas y reparto).
+
+Acontecimiento relacionado: E64 · Otoniel, Aod y Samgar (Ciclos iniciales).
+
+### Adoni-bezec (rey vencido)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Anac (padre de los tres de Hebrón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Sesai (hijo de Anac).  Fuente: Jueces 1:10,20
+- filiacion → Ahimán (hijo de Anac).  Fuente: Jueces 1:10,20
+- filiacion → Talmai (hijo de Anac).  Fuente: Jueces 1:10,20
+
+### Sesai (hijo de Anac)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahimán (hijo de Anac)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Talmai (hijo de Anac)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Caleb (padre de Acsa)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Acsa (solicita las fuentes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Otoniel (toma Debir)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombre de Luz que muestra la entrada (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- parentesco → Familia del hombre salvado de Luz. Familia completa sin composición detallada; no paternidad inmediata de todos sus miembros. Fuente: Jueces 1:24–26
+
+### Familia del hombre salvado de Luz
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Setenta reyes mutilados recordados por Adoni-bezec
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Espías de la casa de José
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Descendientes del suegro ceneo de Moisés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tribus de Judá y Simeón aliadas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jebuseos y otros pueblos que permanecen en sus ciudades
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Amorreos que restringen a Dan
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G404 · Jueces 2–3: generaciones, Boquim y Cusan-risataim
+
+Fuente: Jueces 2; 3:1–11
+
+El regreso narrativo a Josué y los ancianos en 2:6–10 no representa otra muerte de Josué posterior a los hechos de 1. Josué hijo de Nun muere a los 110 años; la generación siguiente es un colectivo, no una lista de hijos biológicos suyos. El ángel del Señor de Boquim no recibe nombre propio ni una ascendencia. Los jueces del resumen de 2 no son una lista adicional a los jueces nombrados después. Los matrimonios entre pueblos de 3:6 se describen colectivamente, sin esposas o descendientes individualizados. Cusan-risataim gobierna Mesopotamia y oprime ocho años; Otoniel hijo de Cenaz libera a Israel y la tierra reposa cuarenta. Las duraciones se conservan sin fijar años absolutos ni sumar automáticamente todos los ciclos como periodos nacionales consecutivos.
+
+Acontecimiento relacionado: E63 · Renovación en Siquem (Cierre de Josué).
+
+Acontecimiento relacionado: E64 · Otoniel, Aod y Samgar (Ciclos iniciales).
+
+### Josué (hijo de Nun, muerte recordada)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nun (padre de Josué)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cusan-risataim (rey de Mesopotamia)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Otoniel (hijo de Cenaz, libertador)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ancianos que sobreviven a Josué
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Generación posterior que no conoció sus obras
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Asamblea que llora en Boquim
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jueces descritos en el resumen de los ciclos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cinco príncipes filisteos de 3:3
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pueblos cananeos y vecinos de Israel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos e hijas vinculados por matrimonios entre pueblos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ángel del Señor en Boquim (sin nombre propio)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G405 · Jueces 3: Gera–Aod, servidores de Eglón y Samgar
+
+Fuente: Jueces 3:12–31
+
+Aod es hijo de Gera, benjaminita y zurdo. No se identifica a su padre con Gera padre de Simei ni se fusiona al juez con Aod hijo de Bilhán o la casa de Geba de G53–G54. Eglón es rey de Moab, distinto de la ciudad de Eglón; no se le atribuye aquí parentesco con Rut. Los portadores del tributo y los servidores que descubren el cadáver son auxiliares diferentes. Los amonitas y amalecitas se alían con Eglón, sin vínculo genealógico nuevo entre sus reyes. Los dieciocho años de servidumbre y ochenta de reposo son duraciones del relato, no edades de Aod. G155 conserva Anat–Samgar; la breve noticia de seiscientos filisteos vencidos no aporta duración de su gobierno, esposa o hijos.
+
+Acontecimiento relacionado: E64 · Otoniel, Aod y Samgar (Ciclos iniciales).
+
+### Gera (padre de Aod el juez)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Aod (juez benjaminita).  Fuente: Jueces 3:15
+
+### Aod (juez benjaminita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eglón (rey de Moab)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Samgar (hijo de Anat)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Portadores del tributo de Israel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Servidores de Eglón que abren la cámara
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Amonitas y amalecitas aliados con Moab
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Israelitas que ocupan los vados del Jordán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Diez mil moabitas vencidos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Seiscientos filisteos de la noticia de Samgar
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G406 · Jueces 4–5: madre de Sísara, consejeras y casas de Débora y Jael
+
+Fuente: Jueces 4–5
+
+G100 conserva Débora–Lapidot y Abinoam–Barac; G104 conserva Heber–Jael y la descendencia cenea de Hobab, sin filiación inmediata inventada. Jabín de Hazor en este episodio no se iguala automáticamente al Jabín de Josué. La madre de Sísara y sus damas sabias aparecen en la escena poética de espera; sus conjeturas sobre muchachas cautivas no prueban que Sísara volviera con ese botín. No se añaden esposas o hijas a Sísara a partir de esas palabras. Débora se llama madre en Israel como figura de su liderazgo, no madre biológica de todo el pueblo. Las estrellas que combaten no reciben nombres de ángeles. Meroz es una población y sus habitantes son reprendidos, no un personaje individual. Maquir, Galaad y los nombres tribales del cántico representan grupos; no prueban que sus antepasados estuvieran vivos. Se mantienen los veinte años de opresión, diez mil convocados y cuarenta de reposo sin fechas absolutas.
+
+Acontecimiento relacionado: E65 · Victoria sobre Sísara (Ciclo de Débora).
+
+### Débora (jueza y profetisa)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Lapidot (esposo de Débora)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Barac (hijo de Abinoam)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abinoam (padre de Barac)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jabín (rey de Hazor en Jueces)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sísara (capitán de Jabín)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Madre de Sísara (sin nombre, escena del cántico)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Sísara (capitán de Jabín). Parentesco expreso dentro de la escena poética; sin nombre materno. Fuente: Jueces 5:28–30
+
+### Heber el ceneo (esposo de Jael)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jael (mata a Sísara)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Damas sabias de la madre de Sísara
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Informantes de Sísara
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Diez mil de Zabulón y Neftalí
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gobernantes y voluntarios elogiados en el cántico
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tribus que participan o permanecen apartadas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Reyes cananeos de la batalla del cántico
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Habitantes de Meroz reprendidos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ángel del Señor que reprende a Meroz (cántico)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G407 · Jueces 6–7: profeta anónimo, Fura y los dos hombres del sueño
+
+Fuente: Jueces 6–7
+
+G47 conserva Joás–Gedeón y la casa de Abiezer en Manasés. Gedeón y Jerobaal son el mismo hombre (7:1). El profeta de 6:8 no recibe nombre y no se fusiona con el ángel de 6:11; tampoco se identifica sin fuente con Finés. Los diez servidores que ayudan a derribar el altar pertenecen a la casa de Gedeón, no son sus diez hijos. Fura acompaña a Gedeón al campamento; es servidor, sin parentesco indicado. El hombre que cuenta el sueño y su compañero que lo interpreta son personas diferentes y anónimas. Los 22.000 despedidos, 10.000 restantes y 300 seleccionados son fases de selección, no tres ejércitos sumables; los 300 se dividen en tres compañías. Oreb y Zeeb son príncipes muertos por Efraín, distintos de los reyes Zeba y Zalmuna del capítulo siguiente. Los mensajeros de la convocatoria no reciben nombres.
+
+Acontecimiento relacionado: E66 · Madián y Abimelec (Gedeón y su casa).
+
+### Gedeón / Jerobaal (una persona)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joás (padre de Gedeón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Profeta enviado a Israel (6:8, sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Fura / Phurah (servidor de Gedeón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombre del campamento que cuenta el sueño
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañero que interpreta el sueño
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Oreb (príncipe madianita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zeeb (príncipe madianita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Diez servidores que derriban el altar
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombres de la ciudad que reclaman a Gedeón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mensajeros enviados a las tribus
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Veintidós mil hombres que regresan
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Diez mil que quedan antes de la segunda selección
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Trescientos seleccionados, repartidos en tres compañías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombres de Neftalí, Aser y Manasés que persiguen
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Efraimitas que toman los pasos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Madianitas, amalecitas y orientales del campamento
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ángel del Señor ante Gedeón (sin nombre propio)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G408 · Jueces 8: joven de Sucot, hermanos de Gedeón y primogénito Jeter
+
+Fuente: Jueces 8
+
+G47 conserva a la madre anónima de Gedeón, sus hermanos maternos muertos en Tabor y Jeter su primogénito. Zeba y Zalmuna confirman que mataron a aquellos hombres; compararlos con hijos de rey no les asigna padre real. Jeter rehúsa ejecutar a los reyes porque aún es joven, sin edad exacta. El joven de Sucot identifica a 77 príncipes y ancianos; no recibe nombre ni se hace hijo del gobernante local. Los 15.000 supervivientes y 120.000 caídos del ejército oriental son cifras de fases del combate. La propuesta de gobierno para Gedeón, su hijo y su nieto no documenta un nieto concreto o una dinastía efectivamente aceptada. Los muchos matrimonios y la concubina de Siquem figuran en G47; no se dan nombres a sus mujeres ni se duplica a los hijos nombrados al contar el conjunto de setenta. El efod posterior y la falta de gratitud hacia su casa explican la continuidad del relato, sin añadir descendientes desconocidos.
+
+Acontecimiento relacionado: E66 · Madián y Abimelec (Gedeón y su casa).
+
+### Gedeón (persigue a los reyes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zeba (rey de Madián)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zalmuna (rey de Madián)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jeter (primogénito de Gedeón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Madre de Gedeón (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joven de Sucot que identifica a sus dirigentes
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hermanos maternos de Gedeón muertos en Tabor
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Setenta y siete príncipes y ancianos de Sucot
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombres de Peniel castigados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Israelitas que proponen una dinastía a Gedeón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mujeres de Gedeón no nombradas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Gedeón afectada por el efod y el olvido
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G409 · Jueces 9: abuelo y tíos maternos de Abimelec, Gaal y Zebul
+
+Fuente: Jueces 9
+
+G47 conserva a la concubina de Gedeón en Siquem y su hijo Abimelec. Se desglosan ahora el padre de esa madre y los hermanos de ella mencionados en 9:1, todos anónimos. «Es nuestro hermano» expresa el parentesco local y no convierte a todos los habitantes de Siquem en hijos de la misma mujer. Jotam, el menor, escapa: no se le registra entre los muertos; las fórmulas de setenta de 9:5,18,24,56 se mantienen junto a esa excepción. La fábula del olivo, higuera, vid y zarza no genera personas o genealogías históricas. Ebed es padre de Gaal; sus hermanos quedan como grupo sin nombres. Hamor, padre de Siquem, es invocado en el discurso de Gaal, no un combatiente contemporáneo. Zebul es gobernador, no pariente confirmado de Abimelec. La casa de Milo no se convierte en padre llamado Milo. La mujer de Tebes que arroja la piedra y el escudero que remata a Abimelec son distintos y anónimos; el episodio reaparece en 2 Samuel 11:21 (G393).
+
+Elena G. White — Patriarchs and Prophets, PP 556.3 (PDF aportado, página 193): White resume la matanza de los hijos de Gedeón con un sobreviviente. La referencia no da nombres al abuelo o a los tíos maternos de Abimelec ni añade una descendencia de Jotam.
+
+Acontecimiento relacionado: E66 · Madián y Abimelec (Gedeón y su casa).
+
+### Abuelo materno de Abimelec (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Madre de Abimelec (concubina de Gedeón).  Fuente: Jueces 9:1
+
+### Madre de Abimelec (concubina de Gedeón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Abimelec (hijo de Gedeón).  Fuente: Jueces 8:31; 9:1
+
+### Abimelec (hijo de Gedeón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jotam (hijo menor que escapa)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ebed (padre de Gaal)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Gaal (adversario de Abimelec).  Fuente: Jueces 9:26
+
+### Gaal (adversario de Abimelec)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- hermanos → Hermanos de Gaal.  Fuente: Jueces 9:26,41
+
+### Zebul (gobernador de Siquem)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mujer de Tebes que arroja la piedra (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Escudero de Abimelec (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hermanos de la madre de Abimelec
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- hermanos → Madre de Abimelec (concubina de Gedeón). Hermanos de ella; no se desglosan nombres ni se presupone un mismo padre para cada uno. Fuente: Jueces 9:1
+
+### Casa del abuelo materno de Abimelec
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombres contratados por Abimelec
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hermanos de Gaal
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Milo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Emboscadores que asaltan a los viajeros
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mensajeros de Zebul
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Unos mil hombres y mujeres muertos en la torre de Siquem
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombres y mujeres refugiados en la torre de Tebes
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G410 · Jueces 10–12: auxiliares de Jefté y respuesta profética atribuida por White
+
+Fuente: Jueces 10–12:7
+
+G50 conserva Dodo–Fúa–Tola y Jair con treinta hijos. G48 conserva Galaad–Jefté, su madre, la esposa de Galaad, hermanos paternos y su hija única. El padre Galaad no se identifica con el antepasado hijo de Maquir. El rey amonita es anónimo; no es automáticamente Nahas. Los reyes de Edom y Moab, Sehón y Balac hijo de Zipor pertenecen al recuerdo diplomático del pasado, no al ejército actual de Jefté. Los trescientos años de 11:26 se registran como argumento del discurso, sin convertirlos aquí en una fecha absoluta. Las compañeras de la hija y las hijas de Israel que la conmemoran son grupos distintos; los dos meses y cuatro días anuales no proporcionan su edad. Se conserva el voto de holocausto y la afirmación de su cumplimiento sin inventar esposo, descendencia o nombre para ella. Los 42.000 efraimitas caídos y el episodio de Shibolet pertenecen al conflicto entre tribus, no a una genealogía. Jefté juzga seis años. En 10:11 habla el Señor; White describe la respuesta como transmitida por un profeta, sin nombrarlo.
+
+Elena G. White — Patriarchs and Prophets, PP 557.3 (PDF aportado, página 193): White afirma que el Señor respondió por medio de uno de sus profetas. Se registra como detalle de esta fuente, sin identificarlo con el profeta anónimo de Jueces 6.
+
+Acontecimiento relacionado: E67 · Tola, Jair y Jefté (Otros jueces).
+
+### Jefté (juez galaadita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rey de Amón que recibe los emisarios (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hija única de Jefté (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañeros que se reúnen con Jefté en Tob
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ancianos que llaman de nuevo a Jefté
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mensajeros de las negociaciones con Amón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañeras de la hija de Jefté
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijas de Israel que la conmemoran
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Efraimitas que reclaman a Jefté
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Galaaditas que controlan los vados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cuarenta y dos mil efraimitas caídos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pueblos opresores recordados en la respuesta
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Profeta intermediario de la respuesta (atribución de White)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+PP 557.3 presenta un intermediario profético; Jueces 10:11 no lo nombra ni explicita ese intermediario.
+
+
+## G411 · Jueces 12: nueras de Ibzán y generaciones de Abdón
+
+Fuente: Jueces 12:8–15; 10:1–5
+
+G50 conserva los treinta hijos y treinta hijas de Ibzán, los cuarenta hijos y treinta nietos de Abdón y sus ascendientes. Se añaden las treinta mujeres traídas de fuera para los hijos de Ibzán; no son otras treinta hijas biológicas. Sus lugares de origen, padres, nombres y parejas individuales no se enumeran. No se identifica a Ibzán con Booz por tradición ni se determina por este pasaje cuál Belén es. La KJV usa nephews para la generación de Abdón: se conserva esa forma antigua junto a «nietos» de G50, sin fabricar treinta sobrinos adicionales ni asignar cada descendiente a un hijo particular. Elón juez zabulonita no es el hijo del patriarca Zabulón. Los años de Tola (23), Jair (22), Ibzán (7), Elón (10) y Abdón (8) son duraciones de gobierno, no edades ni fechas de las generaciones.
+
+Acontecimiento relacionado: E67 · Tola, Jair y Jefté (Otros jueces).
+
+### Ibzán (juez de Belén)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elón (juez zabulonita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abdón (hijo de Hilel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tola (hijo de Fúa y nieto de Dodo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jair (juez galaadita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Treinta hijos de Ibzán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- union → Treinta nueras de Ibzán traídas de fuera. Conjunto de matrimonios; no una unión múltiple entre todos los individuos ni parejas identificadas. Fuente: Jueces 12:9
+
+### Treinta hijas de Ibzán enviadas fuera
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Treinta nueras de Ibzán traídas de fuera
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cuarenta hijos de Abdón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Treinta descendientes de segunda generación de Abdón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Treinta hijos de Jair con sus ciudades
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G412 · Jueces 13: madre de Sansón y apariciones a la casa de Manoa
+
+Fuente: Jueces 13
+
+G49 conserva a Manoa, su esposa sin nombre y Sansón, de familia danita. La primera aparición es a la mujer; la segunda comienza cuando ella está en el campo y luego avisa a Manoa. El hombre de Dios, el mensajero y el ángel del relato no se cuentan como tres visitantes distintos. El visitante no comunica un nombre personal que pueda añadirse al árbol. «Hemos visto a Dios» es la conclusión expresada por Manoa; no se transforma en filiación biológica divina de Sansón. La promesa es que Sansón comenzará la liberación: no afirma que concluya por sí solo toda dominación filistea. Los cuarenta años de opresión no son su edad al nacer. No se nombra a la madre con tradiciones externas ni se le atribuyen padres o hijos adicionales a partir de esta escena.
+
+Elena G. White — Patriarchs and Prophets, PP 560.2–4 (PDF aportado, página 194): White relata el anuncio a la esposa de Manoa y la petición de instrucción de ambos padres. No aporta nombre a la madre ni genealogía adicional. Cotejo puntual, sin revisión completa del capítulo de Sansón.
+
+Acontecimiento relacionado: E68 · Sansón (Dominio filisteo).
+
+### Manoa (padre de Sansón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Esposa de Manoa (madre sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sansón (hijo anunciado y nacido)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familia de los danitas en Zora
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Israel bajo la opresión filistea
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ángel del Señor que aparece a la casa de Manoa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G413 · Jueces 14–15: esposa de Timnat, hermana ofrecida y participantes del banquete
+
+Fuente: Jueces 14–15
+
+G49 conserva al padre de la esposa de Timnat, ambas hermanas y el compañero de Sansón. La hermana menor es ofrecida como sustituta, pero no se narra un matrimonio efectivo con Sansón. La esposa de Timnat no es Dalila ni la mujer de Gaza. Los treinta compañeros del banquete no se igualan a los treinta hombres de Ascalón muertos para obtener sus prendas. La amenaza contra la mujer y su casa precede a la revelación del enigma; posteriormente los filisteos matan a la mujer y a su padre. «Arar con mi novilla» es una figura del reproche de Sansón, no otra persona. Los tres mil hombres de Judá lo entregan tras prometer no matarlo ellos; no son hijos suyos. Los veinte años de judicatura de 15:20 se repiten al final de 16, sin sumarlos en cuarenta.
+
+Acontecimiento relacionado: E68 · Sansón (Dominio filisteo).
+
+### Sansón (esposo de la mujer de Timnat)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Esposa de Sansón en Timnat (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Padre de la esposa de Timnat (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hermana menor ofrecida a Sansón (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañero al que entregan la esposa (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Manoa (asiste al proceso matrimonial)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Madre de Sansón (se opone al enlace)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Treinta compañeros del banquete
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Treinta hombres de Ascalón muertos por sus prendas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Filisteos que queman a la esposa y su padre
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tres mil hombres de Judá que atan a Sansón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mil filisteos caídos en Lehi
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G414 · Jueces 16: mujer de Gaza, cortador del cabello y muchacho de las columnas
+
+Fuente: Jueces 16
+
+La prostituta de Gaza, Dalila de Sorec y la esposa de Timnat son mujeres diferentes. El texto no llama esposa a Dalila ni da nombre a la mujer de Gaza. Los príncipes prometen cada uno 1.100 piezas de plata; no se equipara esa suma con el dinero de la madre de Micaía de 17 ni se identifica a esta con Dalila. El hombre llamado para cortar los cabellos y el muchacho que conduce al prisionero hasta las columnas son auxiliares anónimos diferentes. Los emboscados en casa de Dalila y los que esperan en la puerta de Gaza no son automáticamente el mismo grupo. Los unos tres mil hombres y mujeres en el techo no representan necesariamente el total de presentes en todo el edificio. Los hermanos y la casa paterna recuperan el cuerpo; «hermanos» se conserva con la amplitud del término, sin inventar nombres ni atribuirlos a la misma madre. No se registran hijos de Sansón. La escena de su muerte no identifica por nombre a cada príncipe filisteo.
+
+Acontecimiento relacionado: E68 · Sansón (Dominio filisteo).
+
+### Sansón (prisionero en Gaza)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mujer prostituta de Gaza (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Dalila (mujer de Sorec)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombre llamado para cortar el cabello de Sansón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Muchacho que guía a Sansón a las columnas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gazatitas que esperan en la puerta
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Príncipes filisteos que pagan a Dalila
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombres emboscados en casa de Dalila
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Capturadores y guardianes de Sansón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombres y mujeres dentro del edificio
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Unos tres mil hombres y mujeres sobre el techo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hermanos y casa paterna que sepultan a Sansón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G415 · Jueces 17–18: fundidor, casa de Micaía y expedición danita
+
+Fuente: Jueces 17–18
+
+G101 conserva la madre de Micaía y al hijo que consagra sacerdote; el fundidor recibe doscientos de los 1.100 siclos devueltos, sin nombre ni parentesco. El joven levita contratado después no es ese hijo: «como uno de sus hijos» y «padre y sacerdote» describen trato o función. El nombre Jonatán del cierre se relaciona con el sacerdote del episodio; las dos menciones no representan dos sacerdotes distintos seguros. G105 conserva Jonatán–Gersón–Manasés según 18:30 KJV y sus hijos sacerdotes; la variante Moisés/Manasés permanece abierta sin unión automática a otra familia. La procedencia de Belén de Judá no borra la condición levítica del joven. Los cinco exploradores y seiscientos hombres armados se distinguen de los pequeños que viajan delante. Dan hijo de Israel es antepasado recordado en el cambio de nombre de Lais, no comandante vivo de la expedición. Los vecinos que ayudan a Micaía y los habitantes de Lais atacados no se confunden con familias sacerdotales. «Hasta la cautividad» no fija por sí sola aquí un año o una generación exacta; estos capítulos finales no se fechan automáticamente después de Sansón.
+
+Acontecimiento relacionado: E69 · Crisis tribal y familia de Rut (Durante los jueces; ubicación interna no fijada).
+
+### Micaía (dueño de la casa de culto)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Madre de Micaía (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijo de Micaía consagrado sacerdote (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Fundidor que hace las imágenes (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joven levita contratado por Micaía
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jonatán (sacerdote de Dan, nombre de 18:30)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Otros hijos de Micaía implícitos en 17:5
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cinco exploradores danitas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Seiscientos danitas armados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pequeños de las familias danitas que viajan delante
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Vecinos que acompañan a Micaía en la persecución
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Habitantes de Lais atacados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos de Jonatán, sacerdotes de Dan
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G416 · Jueces 19: concubina del levita, padre, criado y familia del anfitrión
+
+Fuente: Jueces 19; 20:4–6
+
+El levita de este episodio no se identifica con el sacerdote contratado por Micaía. Su concubina, el padre de ella en Belén, el criado del viaje, el anciano anfitrión de Gabaa y la hija de este permanecen sin nombres. El anciano procede de la región de Efraín aunque reside entre benjaminitas: residencia no determina filiación tribal. Su ofrecimiento de ambas mujeres no implica que la hija haya sido entregada: el relato describe la entrega y agresión de la concubina. Se registra la violencia sin presentarla como matrimonio o culpa justificada de la víctima. La KJV describe la separación inicial con una acusación de infidelidad; no se añaden amantes ni hijos. El capítulo 19 relata su falta de respuesta y el desmembramiento; 20:4–6 la presenta como muerta. No se inventa un momento clínico exacto. «Hijos de Belial» califica a los agresores, sin padre llamado Belial. Los cuatro meses en casa paterna y los días de visita son duraciones, no una cronología absoluta.
+
+Acontecimiento relacionado: E69 · Crisis tribal y familia de Rut (Durante los jueces; ubicación interna no fijada).
+
+### Levita del viaje a Gabaa (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- union → Concubina del levita (sin nombre). Relación de concubinato del relato; los agresores no son cónyuges. Fuente: Jueces 19:1–3
+
+### Concubina del levita (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Padre de la concubina en Belén (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Concubina del levita (sin nombre).  Fuente: Jueces 19:2–4
+
+### Criado que acompaña al levita (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Anciano de Efraín que hospeda en Gabaa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Hija del anciano anfitrión (sin nombre).  Fuente: Jueces 19:24
+
+### Hija del anciano anfitrión (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Agresores que rodean la casa en Gabaa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Destinatarios del mensaje enviado a las tribus
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G417 · Jueces 20–21: Finés, sobrevivientes de Benjamín y mujeres de Jabes y Silo
+
+Fuente: Jueces 20–21
+
+Finés hijo de Eleazar, hijo de Aarón, ministra ante el arca: no es Finés hijo de Elí. Su presencia impide fechar estos capítulos sencillamente por su posición al final del libro, sin examinar el marco temprano. Los 400.000 israelitas, 26.000 benjaminitas, 700 de Gabaa y 700 zurdos son descripciones de contingentes; no se suman los dos grupos de 700 como si su independencia estuviera probada. Los resúmenes y detalles de las bajas del tercer día se superponen, no son batallas adicionales. Seiscientos benjaminitas sobreviven cuatro meses en Rimón. La matanza de Jabes incluye familias; cuatrocientas jóvenes son preservadas y entregadas como esposas. El rapto de las bailarinas de Silo se narra como acto de los sobrevivientes por consejo de los ancianos, no como consentimiento de las mujeres. Los padres y hermanos que pueden reclamar se mencionan en la respuesta anticipada de los ancianos, sin nombres ni un reclamo individual narrado. No se inventan parejas, hijos o una cadena desde una de estas mujeres hasta Saúl. La continuidad de Benjamín y la reaparición de Jabes no prueba esos enlaces. El libro cierra describiendo la falta de rey, sin aprobar moralmente todos los actos relatados.
+
+Acontecimiento relacionado: E69 · Crisis tribal y familia de Rut (Durante los jueces; ubicación interna no fijada).
+
+### Aarón (antepasado de Finés)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Eleazar (padre de Finés).  Fuente: Jueces 20:28
+
+### Eleazar (padre de Finés)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Finés (sacerdote ante el arca).  Fuente: Jueces 20:28
+
+### Finés (sacerdote ante el arca)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Levita que declara ante la asamblea
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jefes y asamblea de Israel en Mizpa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mensajeros que piden entregar a los agresores
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Proveedores del ejército israelita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Combatientes de Israel y de Benjamín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Setecientos zurdos expertos en la honda
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Emboscados que incendian Gabaa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Seiscientos benjaminitas refugiados en Rimón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Doce mil enviados contra Jabes de Galaad
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familias de Jabes muertas en la matanza
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cuatrocientas jóvenes de Jabes preservadas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mensajeros de paz a los sobrevivientes
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ancianos que planean obtener esposas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mujeres de Silo raptadas durante la fiesta
 
 Cronología generacional no determinada; ubicación esquemática.
 
