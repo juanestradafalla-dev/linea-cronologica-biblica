@@ -1,6 +1,6 @@
 # Cronología bíblica
 
-Página estática de fondo claro. Línea horizontal por décadas desde 600 a. C. hasta el cierre en 70 d. C.; recorrido de las 15 etapas originales desde la rebelión celestial. Conserva las 148 fichas y enlaza al mural de 326 fichas de familias y episodios, con 4.923 apariciones de personas o grupos y 2.757 relaciones. Las apariciones repetidas no son personas únicas.
+Página estática de fondo claro. Línea horizontal por décadas desde 600 a. C. hasta el cierre en 70 d. C.; recorrido de las 15 etapas originales desde la rebelión celestial. Conserva las 148 fichas y enlaza al mural de 341 fichas de familias y episodios, con 5.123 apariciones de personas o grupos y 2.772 relaciones. Las apariciones repetidas no son personas únicas.
 
 La ampliación anterior completó los ocho bloques identificados: familias de jueces, ramas tribales, Safán, Baruc y su entorno, recabitas, casas del retorno, Job y parentescos del Nuevo Testamento. Las notas de Elena G. White distinguen obra, capítulo y referencia de página/párrafo en la edición inglesa consultada. Las familias enlazan a los acontecimientos relacionados y las fichas de acontecimientos permiten regresar a esas familias. El catálogo descargable documenta la cobertura y las incertidumbres.
 
@@ -62,10 +62,15 @@ Se completa una pasada por los 406 versículos en KJV (338 en esta revisión y 6
 
 ## 1 Crónicas: cotejo de personajes de los veintinueve capítulos
 
-Completada una pasada bíblica de personajes por los 942 versículos de 1 Crónicas en la KJV aportada: 858 leídos en esta tanda, además de los 84 de los capítulos 9 y 12 cotejados anteriormente. Diecinueve fichas adicionales (G285–G303; R232–R250): variantes genealógicas, jefes de Simeón, músicos y servidores del arca, turnos sacerdotales y militares y familiares secundarios. Total: 303 fichas, 4.923 apariciones de personas o grupos y 2.757 relaciones; las apariciones no son personas únicas. Se conservan las 284 fichas anteriores y los 148 acontecimientos. Las variantes, identificaciones, cronologías y el contraste completo con Elena G. White siguen abiertos.
+Completada una pasada bíblica de personajes por los 942 versículos de 1 Crónicas en la KJV aportada: 858 leídos en esta tanda, además de los 84 de los capítulos 9 y 12 cotejados anteriormente. Diecinueve fichas adicionales (G285–G303; R232–R250): variantes genealógicas, jefes de Simeón, músicos y servidores del arca, turnos sacerdotales y militares y familiares secundarios. Total: 303 fichas, 5.123 apariciones de personas o grupos y 2.772 relaciones; las apariciones no son personas únicas. Se conservan las 284 fichas anteriores y los 148 acontecimientos. Las variantes, identificaciones, cronologías y el contraste completo con Elena G. White siguen abiertos.
 
 
 ## 2 Crónicas: cotejo de personajes de los treinta y seis capítulos
 
 Completada una pasada bíblica de personajes por los 822 versículos de 2 Crónicas en la KJV aportada. Se añaden 23 fichas (G304–G326; R251–R273), con 377 apariciones de personas o grupos y 37 relaciones: maestros y capitanes de Josafat, servidores de las reformas, familias y colaboradores secundarios, y variantes entre Crónicas y Reyes. Total: 326 fichas, 4.923 apariciones y 2.757 relaciones. Las apariciones incluyen repeticiones y colectivos; no equivalen a personas únicas. Las 303 fichas previas y los 148 acontecimientos permanecen intactos. Siguen pendientes las identificaciones discutidas, cronologías y el contraste completo con Elena G. White.
+
+
+## 1 Reyes: cotejo de personajes de los veintidós capítulos
+
+Completada una pasada bíblica de personajes por los 816 versículos de 1 Reyes en la KJV aportada. Quince fichas adicionales (G327–G341; R274–R288): 200 apariciones y 15 relaciones. Se conservan personas anónimas, familias de adversarios, profetas, servidores y conexiones posteriores de los hijos de Nabot y la tumba del hombre de Dios. Total: 341 fichas, 5.123 apariciones de personas o grupos y 2.772 relaciones; las apariciones no son personas únicas. Las 326 fichas previas y los 148 acontecimientos permanecen intactos. Siguen abiertos los paralelos, identidades discutidas, cronologías y el contraste completo con Elena G. White.
 
