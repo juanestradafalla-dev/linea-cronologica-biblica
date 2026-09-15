@@ -1,6 +1,6 @@
 # Cronología bíblica
 
-Página estática de fondo claro. Línea horizontal por décadas desde 600 a. C. hasta el cierre en 70 d. C.; recorrido de las 15 etapas originales desde la rebelión celestial. Conserva las 148 fichas y enlaza al mural de 189 fichas de familias y episodios, con 2.723 apariciones de personas o grupos y 2.225 relaciones. Las apariciones repetidas no son personas únicas.
+Página estática de fondo claro. Línea horizontal por décadas desde 600 a. C. hasta el cierre en 70 d. C.; recorrido de las 15 etapas originales desde la rebelión celestial. Conserva las 148 fichas y enlaza al mural de 210 fichas de familias y episodios, con 2.848 apariciones de personas o grupos y 2.235 relaciones. Las apariciones repetidas no son personas únicas.
 
 La ampliación anterior completó los ocho bloques identificados: familias de jueces, ramas tribales, Safán, Baruc y su entorno, recabitas, casas del retorno, Job y parentescos del Nuevo Testamento. Las notas de Elena G. White distinguen obra, capítulo y referencia de página/párrafo en la edición inglesa consultada. Las familias enlazan a los acontecimientos relacionados y las fichas de acontecimientos permiten regresar a esas familias. El catálogo descargable documenta la cobertura y las incertidumbres.
 
@@ -33,3 +33,7 @@ La colección documental todavía no está cotejada íntegramente. Esta edición
 ## Incorporación de la revisión por libros
 
 Se añaden 39 fichas documentadas (R098–R136): 204 apariciones y 30 relaciones explícitas. Las 150 fichas previas y los 148 acontecimientos permanecen idénticos. Total: 189 fichas, 2.723 apariciones y 2.225 relaciones; 136 hallazgos incorporados. El buscador del mural también encuentra títulos de familias y episodios. Las fichas nuevas explican relato, fuentes y marco temporal; no se inventan fechas o parentescos para compañeros de misión. La revisión integral continúa pendiente.
+
+## Quinta ampliación
+
+R137–R157 incorporados: 21 fichas, 125 apariciones y 10 relaciones adicionales. Total actual: 210 fichas, 2.848 apariciones y 2.235 relaciones; 157 hallazgos incorporados. Las 189 fichas anteriores y los 148 acontecimientos originales permanecen idénticos. Se mantienen las cautelas de identidad, cronología y parentesco. La revisión integral permanece pendiente.
