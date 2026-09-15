@@ -1,6 +1,6 @@
 # Cronología bíblica
 
-Página estática de fondo claro. Línea horizontal por décadas desde 600 a. C. hasta el cierre en 70 d. C.; recorrido de las 15 etapas originales desde la rebelión celestial. Conserva las 148 fichas y enlaza al mural de 302 fichas de familias y episodios, con 4.540 apariciones de personas o grupos y 2.715 relaciones. Las apariciones repetidas no son personas únicas.
+Página estática de fondo claro. Línea horizontal por décadas desde 600 a. C. hasta el cierre en 70 d. C.; recorrido de las 15 etapas originales desde la rebelión celestial. Conserva las 148 fichas y enlaza al mural de 303 fichas de familias y episodios, con 4.546 apariciones de personas o grupos y 2.720 relaciones. Las apariciones repetidas no son personas únicas.
 
 La ampliación anterior completó los ocho bloques identificados: familias de jueces, ramas tribales, Safán, Baruc y su entorno, recabitas, casas del retorno, Job y parentescos del Nuevo Testamento. Las notas de Elena G. White distinguen obra, capítulo y referencia de página/párrafo en la edición inglesa consultada. Las familias enlazan a los acontecimientos relacionados y las fichas de acontecimientos permiten regresar a esas familias. El catálogo descargable documenta la cobertura y las incertidumbres.
 
@@ -62,5 +62,5 @@ Se completa una pasada por los 406 versículos en KJV (338 en esta revisión y 6
 
 ## 1 Crónicas: cotejo de personajes de los veintinueve capítulos
 
-Completada una pasada bíblica de personajes por los 942 versículos de 1 Crónicas en la KJV aportada: 858 leídos en esta tanda, además de los 84 de los capítulos 9 y 12 cotejados anteriormente. Dieciocho fichas adicionales (G285–G302; R232–R249): variantes genealógicas, jefes de Simeón, músicos y servidores del arca, turnos sacerdotales y militares y familiares secundarios. Total: 302 fichas, 4.540 apariciones de personas o grupos y 2.715 relaciones; las apariciones no son personas únicas. Se conservan las 284 fichas anteriores y los 148 acontecimientos. Las variantes, identificaciones, cronologías y el contraste completo con Elena G. White siguen abiertos.
+Completada una pasada bíblica de personajes por los 942 versículos de 1 Crónicas en la KJV aportada: 858 leídos en esta tanda, además de los 84 de los capítulos 9 y 12 cotejados anteriormente. Diecinueve fichas adicionales (G285–G303; R232–R250): variantes genealógicas, jefes de Simeón, músicos y servidores del arca, turnos sacerdotales y militares y familiares secundarios. Total: 303 fichas, 4.546 apariciones de personas o grupos y 2.720 relaciones; las apariciones no son personas únicas. Se conservan las 284 fichas anteriores y los 148 acontecimientos. Las variantes, identificaciones, cronologías y el contraste completo con Elena G. White siguen abiertos.
 
