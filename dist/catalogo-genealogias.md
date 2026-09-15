@@ -4,6 +4,10 @@ Filiaciones, genealogías, parentescos, sucesiones y pertenencia a pueblos se di
 
 Estado: ampliación documentada, no inventario exhaustivo de todos los personajes bíblicos ni lectura íntegra de los 120 PDF. Las apariciones repetidas no equivalen a personas únicas.
 
+## Éxodo: cotejo de personajes de los cuarenta capítulos
+
+Completada una pasada continua de personajes por Éxodo 1–40, 1.213 versículos KJV, más Números 26:59 y 2 Timoteo 3:8. Se añaden 20 fichas G464–G483 / R411–R430, 189 apariciones y 14 relaciones: total de 483 fichas, 6.885 apariciones y 2.916 relaciones. Las apariciones incluyen colectivos, categorías normativas y repeticiones; no son personas únicas. Se conservan las 463 fichas anteriores y los 148 acontecimientos. Se incorporan parteras, casa de la hija del faraón, hermanas de Séfora, madre de Jocabed, uniones levíticas, auxiliares y trabajadores del santuario. Las cronologías desconocidas y las diferencias entre adopción, filiación y pertenencia tribal quedan explícitas. PP 251.2 y 255.5 se consultaron puntualmente, con atribución a White de los detalles correspondientes. Siguen abiertos variantes, cronologías e identificación de anónimos y el contraste integral con White. Próximo libro: Levítico.
+
 ## Génesis: cotejo de personajes de los cincuenta capítulos
 
 Completada una pasada continua de personajes por Génesis 1–50, 1.533 versículos KJV. Se añaden 28 fichas G436–G463 / R383–R410, 273 apariciones y 50 relaciones: total de 463 fichas, 6.696 apariciones de personas o grupos y 2.902 relaciones. Las apariciones incluyen colectivos y repeticiones, no personas únicas. Se conservan las 435 fichas anteriores y los 148 acontecimientos. Se incorporan descendencias anónimas, variantes de las esposas de Esaú, auxiliares de los patriarcas y generaciones conocidas por José, con cronologías no determinadas expresamente señaladas. PP 173.2 y 196.3 se consultaron puntualmente para las identificaciones de Eliezer y del visitante de Jacob; se atribuyen a White. Variantes, paralelos y contraste integral con White siguen abiertos. Próximo libro: Éxodo.
@@ -54145,6 +54149,1513 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 ### Mensajero del pedido de perdón de los hermanos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G464 · Éxodo 1: Sifra, Fúa y las familias bajo la opresión
+
+Fuente: Éxodo 1
+
+G13–G14 conservan a los hijos de Jacob; José y aquella generación ya han muerto al comenzar la nueva opresión. Se incorporan Sifra y Fúa, también transcrita Puá, como dos parteras nombradas. El pasaje no las identifica con Jocabed y Miriam ni enumera cónyuges o hijos. Las casas que Dios les hace en 1:21 no autorizan nombres de descendientes. El nuevo rey no tiene nombre personal; Pitón y Ramesés son ciudades y no prueba suficiente para identificarlo con un faraón concreto. Los capataces egipcios se distinguen de los oficiales hebreos de 5. La orden de matar a los varones y dejar vivir a las niñas no constituye una lista de víctimas identificadas.
+
+Acontecimiento relacionado: E48 · Opresión y nacimiento de Moisés (Generaciones posteriores a José).
+
+### Sifra (partera)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Fúa / Puá (partera)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rey de Egipto que no conoció a José
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Capataces de la opresión
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mujeres hebreas asistidas por las parteras
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Niños hebreos preservados por las parteras
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Niñas hebreas mencionadas en la orden real
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pueblo egipcio que recibe la orden de arrojar niños al río
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familias israelitas sometidas a trabajos forzados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G465 · Éxodo 2: hija del faraón, nodriza y testigos de la juventud de Moisés
+
+Fuente: Éxodo 2:1–15; 6:20; 15:20; Números 26:59
+
+Éxodo 2 no nombra a los padres ni a la hermana del niño; se cotejan Amram y Jocabed con 6:20, y Miriam con 15:20 y Números 26:59. La madre biológica es también la nodriza contratada; no se duplica como otra mujer. La hija del faraón adopta a Moisés y le da su nombre; permanece anónima, sin identificación automática con Bitia de Crónicas. Se distinguen sus doncellas y la criada enviada por la cesta como funciones posiblemente solapadas. El egipcio muerto, el hebreo golpeado y los dos hebreos que riñen no reciben nombres; no se identifican estos últimos con Datán y Abiram desde Éxodo. Tres meses es el tiempo que se oculta al niño; el capítulo no fija su edad exacta al pasar a la casa real ni al huir.
+
+Acontecimiento relacionado: E48 · Opresión y nacimiento de Moisés (Generaciones posteriores a José).
+
+### Moisés (niño rescatado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jocabed (madre y nodriza por cotejo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Miriam (hermana por cotejo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Faraón (padre de la princesa, sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Hija del faraón que adopta a Moisés.  Fuente: Éxodo 2:5
+
+### Hija del faraón que adopta a Moisés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- legal → Moisés (niño rescatado). Filiación adoptiva; no maternidad biológica. Fuente: Éxodo 2:10
+
+### Criada enviada a recoger la cesta
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Doncellas de la hija del faraón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Egipcio muerto por Moisés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hebreo golpeado por el egipcio
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Dos hebreos que riñen al día siguiente
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G466 · Éxodo 2–4 y 18: siete hijas del sacerdote de Madián
+
+Fuente: Éxodo 2:16–23; 3:1; 4:18–20; 18:1–7
+
+El sacerdote de Madián tiene siete hijas; Séfora recibe nombre y las otras seis se conservan como colectivo. Reuel es llamado padre en 2:18 y Jetro suegro en 3:1; G09 conserva ese cotejo, sin confundir automáticamente a Hobab con ambos. No se conocen nombres de las seis hermanas, su madre, cónyuges o descendientes. Los pastores que las expulsan del pozo son auxiliares anónimos. Gersón y Eliezer son los dos hijos de Moisés y Séfora nombrados en 18; Gersón no es el hijo de Leví. El relato de 4:20 habla de hijos sin nombrar al segundo allí. Séfora había sido enviada de vuelta antes de la reunión de 18; no se inventa una fecha exacta para ese retorno. La muerte del rey en 2:23 impide tratar sin explicación a todos los faraones del libro como un solo individuo.
+
+Acontecimiento relacionado: E49 · Madián y llamamiento (Antes del éxodo).
+
+### Reuel / Jetro (sacerdote de Madián)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Seis hermanas de Séfora (sin nombres). Seis además de Séfora; siete en total, sin genealogías posteriores registradas. Fuente: Éxodo 2:16–21
+
+### Séfora
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Seis hermanas de Séfora (sin nombres)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pastores que expulsan a las hijas del sacerdote
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Moisés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gersón (hijo de Moisés)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliezer (hijo de Moisés)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G467 · Éxodo 3–4: llamamiento y circuncisión durante el regreso
+
+Fuente: Éxodo 3–4
+
+El ángel del Señor aparece en la zarza y Dios habla desde ella; no se inventa un nombre angélico personal. White describe al interlocutor como el Ángel del pacto en PP 251.2. Aarón es hermano y portavoz de Moisés: la comparación con boca o con Dios de 4:16 no altera su naturaleza ni su parentesco. En 4:24–26 hay pronombres de interpretación discutida; Séfora circuncida a su hijo, cuyo nombre no se comunica. White especifica que era el menor y presenta a Moisés como amenazado por un ángel (PP 255.5); se atribuyen esos detalles a ella, sin imprimir Eliezer como nombre explícito en Éxodo 4. Los patriarcas Abraham, Isaac y Jacob son recordados, no contemporáneos vivos del encuentro.
+
+Elena G. White — Patriarchs and Prophets, PP 251.2 (PDF aportado, página 84): White llama Ángel del pacto al interlocutor de la zarza. Consulta puntual, sin atribuir a Éxodo un nombre personal que allí no se da.
+
+Elena G. White — Patriarchs and Prophets, PP 255.5 (PDF aportado, página 85): White describe a un ángel amenazando a Moisés y dice que Séfora circuncida al hijo menor. Especificación atribuida a White, no identificación nominal expresa de Éxodo 4.
+
+Acontecimiento relacionado: E49 · Madián y llamamiento (Antes del éxodo).
+
+### Moisés (recibe el llamamiento)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aarón (hermano y portavoz)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Séfora (realiza la circuncisión)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Hijo circuncidado por Séfora (sin nombre en Éxodo 4). Reaparición de un hijo de la familia, no un tercer hijo añadido a Gersón y Eliezer. Fuente: Éxodo 4:25
+
+### Hijo circuncidado por Séfora (sin nombre en Éxodo 4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ancianos reunidos por Moisés y Aarón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ángel del Señor en la zarza
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ángel que amenaza a Moisés (detalle de White)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+PP 255.5; atribución explícita, no nombre o descripción literal de Éxodo 4.
+
+
+## G468 · Éxodo 5: capataces egipcios y oficiales hebreos golpeados
+
+Fuente: Éxodo 5
+
+Se distinguen los capataces que imponen la cuota de ladrillos de los oficiales de los hijos de Israel que son golpeados, reclaman al faraón y reprochan a Moisés y Aarón. No se asignan nombres a sus portavoces ni se identifica a los oficiales con los setenta ancianos por mera semejanza de función. Los trabajadores deben buscar rastrojo sin reducción de la cuota; no se inventan familias individuales entre ellos. La petición de tres días de camino expresa lo solicitado en la audiencia, no toda la duración posterior de la peregrinación.
+
+Acontecimiento relacionado: E50 · Confrontación y diez plagas (Moisés, 80; Aarón, 83).
+
+### Moisés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aarón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Faraón de la confrontación
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Capataces que exigen la cuota de ladrillos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Oficiales hebreos golpeados que reclaman al faraón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Trabajadores dispersos que recogen rastrojo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Servidores del faraón mencionados en el reproche
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G469 · Éxodo 6: uniones levíticas y madre anónima de Jocabed
+
+Fuente: Éxodo 6:14–27; Números 26:59
+
+G14 conserva las ramas de Rubén y Simeón; G17 todos los nombres levíticos de este capítulo, incluidos Nefeg, Zicri, Misael, Elzafán y Sitri, y los tres hijos de Coré. Se explicitan las uniones Amram–Jocabed, Aarón–Eliseba y Eleazar–hija de Putiel, y la relación de Eliseba con Naasón. KJV llama a Jocabed hermana del padre de Amram: se conserva como tía paterna sin inventar su edad. Números 26:59 menciona la madre que dio a luz a Jocabed para Leví en Egipto; se añade sin nombre y sin identificarla con una esposa conocida por tradición. Putiel no se identifica con Jetro o José. Las vidas de Leví (137), Coat (133) y Amram (137) no se suman como generaciones sucesivas sin solapamiento ni fijan por sí solas los 430 años. Miriam se nombra en el paralelo de Números; no se presenta como nombre explícito de Éxodo 6.
+
+Acontecimiento relacionado: E48 · Opresión y nacimiento de Moisés (Generaciones posteriores a José).
+
+Acontecimiento relacionado: E50 · Confrontación y diez plagas (Moisés, 80; Aarón, 83).
+
+Acontecimiento relacionado: E55 · Tabernáculo y sacerdocio (Año 2, mes 1, día 1).
+
+### Leví
+
+Vida registrada: 137 años (Éxodo 6). Nacimiento y cronología absoluta no fijados aquí.
+
+
+
+
+### Coat
+
+Vida registrada: 133 años (Éxodo 6). Nacimiento y cronología absoluta no fijados aquí.
+
+
+
+- hermanos → Jocabed. Hermana del padre de Amram en KJV. Fuente: Éxodo 6:18,20
+
+### Amram
+
+Vida registrada: 137 años (Éxodo 6). Nacimiento y cronología absoluta no fijados aquí.
+
+
+
+- union → Jocabed.  Fuente: Éxodo 6:20
+
+### Jocabed
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Madre de Jocabed (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Jocabed. Abuela materna de Moisés, Aarón y Miriam; cronología individual desconocida. Fuente: Números 26:59
+
+### Aarón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- union → Eliseba / Elisabet (esposa de Aarón).  Fuente: Éxodo 6:23
+
+### Eliseba / Elisabet (esposa de Aarón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Naasón (hermano de Eliseba)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- hermanos → Eliseba / Elisabet (esposa de Aarón).  Fuente: Éxodo 6:23
+
+### Eleazar (hijo de Aarón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- union → Hija de Putiel (esposa de Eleazar).  Fuente: Éxodo 6:25
+
+### Hija de Putiel (esposa de Eleazar)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Putiel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G470 · Éxodo 7–10: magos, servidores y respuestas a las plagas
+
+Fuente: Éxodo 7–10; 2 Timoteo 3:8
+
+Moisés tiene ochenta años y Aarón ochenta y tres al hablar al faraón (7:7). Los sabios, hechiceros y magos aparecen por función, sin lista personal en Éxodo. Janes y Jambres son nombrados como opositores de Moisés en 2 Timoteo 3:8: se añaden con esa procedencia, sin afirmar que Éxodo les dé nombre, que fueran hermanos o que solo hubiera dos magos. Se distinguen los servidores que refugian a sus siervos y ganado ante el granizo de quienes desoyen la advertencia. Otros servidores piden al faraón que deje salir a los hombres. Las negociaciones sobre varones, pequeños y ganado no son salidas parciales ya consumadas. Los siete días después de herir el río y los tres de oscuridad se conservan como intervalos explícitos; no se inventan duraciones para todas las plagas.
+
+Acontecimiento relacionado: E50 · Confrontación y diez plagas (Moisés, 80; Aarón, 83).
+
+### Moisés (80 años ante el faraón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aarón (83 años ante el faraón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Faraón de las plagas (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Janes (nombrado en 2 Timoteo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jambres (nombrado en 2 Timoteo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sabios, hechiceros y magos de Egipto
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Egipcios que cavan buscando agua
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Enviados del faraón que comprueban el ganado de Israel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Servidores del faraón que temen la advertencia del granizo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Servidores que dejan hombres y ganado en el campo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Siervos puestos a resguardo del granizo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Servidores que aconsejan permitir la salida
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G471 · Éxodo 11–13: primogénitos, hogares de Pascua y multitud mixta
+
+Fuente: Éxodo 11–13
+
+El primogénito del faraón no tiene nombre, edad o madre identificada. La fórmula de 11:5 llega hasta el primogénito de la sierva del molino y 12:29 hasta el del cautivo; se conservan como referencias a hogares de distinta condición, sin fabricar individuos nombrados. El destructor de 12:23 no recibe nombre personal. Los hogares, vecinos, ancianos y descendencias futuras de la enseñanza pascual no forman una genealogía única. Los cerca de seiscientos mil varones, además de niños, no equivalen a la población total; la multitud mixta no recibe lista nominal ni se identifica enteramente con egipcios. Las condiciones para siervos comprados, jornaleros, extranjeros y residentes son categorías normativas, no listas de nuevas familias. KJV 12:40–41 conserva 430 años de estancia: su relación con otras formulaciones necesita cotejo y no se resuelve sumando edades de G17. Moisés lleva los huesos de José, ya muerto; no se añade otra muerte.
+
+Acontecimiento relacionado: E51 · Liberación de Egipto (Primer mes; Pascua y partida).
+
+### Faraón (padre del primogénito muerto)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Primogénito del faraón (sin nombre).  Fuente: Éxodo 11:5; 12:29
+
+### Primogénito del faraón (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Primogénitos de hogares egipcios, de la sierva del molino y del cautivo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familias que celebran la Pascua
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Vecinos egipcios que entregan objetos y vestidos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ancianos que reciben las instrucciones de Pascua
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Multitud mixta que sale de Egipto
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Varones y pequeños que salen de Egipto
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos y generaciones futuras destinatarios del memorial
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### José (huesos trasladados por Moisés)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Destructor (Éxodo 12:23)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Sin nombre personal en el texto.
+
+
+## G472 · Éxodo 14–15: ejército perseguidor, Miriam y mujeres del cántico
+
+Fuente: Éxodo 14–15
+
+Se incorporan informantes de la huida, capitanes, carros, jinetes y ejército perseguidor como colectivos. Seiscientos carros escogidos no son seiscientos hijos del faraón ni el número total de sus soldados. El relato afirma que no queda ninguno del ejército que entra tras Israel; no proporciona nombre real, dinastía ni una fecha absoluta. El ángel de Dios que cambia de posición en 14:19 no recibe nombre personal. Miriam es llamada profetisa y hermana de Aarón; las mujeres que la siguen con panderos no reciben nombres. Los jefes de Edom, poderosos de Moab y habitantes de Canaán del cántico son pueblos que oirán lo ocurrido, no participantes presentes en la orilla. Mara y Elim son lugares, no personas añadidas.
+
+Acontecimiento relacionado: E52 · Mar y primeras pruebas (Tras la salida).
+
+### Moisés (guía y cantor)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Miriam (profetisa, hermana de Aarón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aarón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Faraón (persecución)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Informantes que anuncian la huida al rey
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Capitanes del ejército perseguidor
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jinetes y soldados que entran al mar
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mujeres que siguen a Miriam con panderos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Israel que cruza y canta
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jefes de Edom, poderosos de Moab y habitantes de Canaán evocados en el cántico
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ángel de Dios que se sitúa detrás del campamento
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G473 · Éxodo 16–17: recolectores del maná, Hur y combatientes de Josué
+
+Fuente: Éxodo 16–17
+
+Se distinguen los recolectores por familias, quienes guardan maná indebidamente y quienes salen a buscarlo el séptimo día; no se inventan nombres para ellos. Los dirigentes informan de la doble porción. La fecha de 16:1 es día quince del segundo mes; los cuarenta años del maná en 16:35 son una recapitulación, no cuarenta años transcurridos antes de Refidim. Los ancianos acompañan a Moisés a la roca. Josué dirige a los escogidos contra Amalec y Aarón y Hur sostienen las manos de Moisés. Éxodo 17 no dice que Hur sea esposo de Miriam ni acredita allí identidad con el abuelo de Bezalel; se mantiene distinguible de los homónimos de G15 y de Madián. Amalec designa al adversario colectivo sin identificar a un rey o al antepasado de Génesis como combatiente vivo. Meriba de este episodio no se fusiona sin explicación con la crisis posterior de Números.
+
+Acontecimiento relacionado: E52 · Mar y primeras pruebas (Tras la salida).
+
+### Moisés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aarón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hur (colaborador de Moisés en Refidim)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Josué (jefe de los combatientes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Recolectores del maná por hogares
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Personas que guardan maná contra la instrucción
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Personas que buscan maná el séptimo día
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Dirigentes que informan de la doble porción
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ancianos que acompañan a la roca de Horeb
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Combatientes escogidos por Josué
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Amalecitas que atacan en Refidim
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G474 · Éxodo 18: reunión familiar y jueces de miles, centenas, cincuentenas y decenas
+
+Fuente: Éxodo 18
+
+G09 conserva a Moisés, Séfora, Gersón y Eliezer; G466 las otras hijas del sacerdote. Jetro llega con la familia, ofrece sacrificios y come con Aarón y los ancianos. Los dos hijos pertenecen a Moisés y Séfora, no se convierten en hijos biológicos de Jetro por la formulación de 18:5. Se incorporan litigantes y responsables designados sobre miles, centenas, cincuentenas y decenas. Son cuatro ámbitos de función, no cuatro personas únicas ni genealogías de jueces. El libro no da sus nombres ni identifica automáticamente estos cargos con los setenta de 24. No se calcula un número total de jueces dividiendo una población supuesta. El orden narrativo de la visita no basta para fijar una fecha absoluta.
+
+Acontecimiento relacionado: E52 · Mar y primeras pruebas (Tras la salida).
+
+Acontecimiento relacionado: E53 · Sinaí y pacto (Tercer mes desde Egipto).
+
+### Jetro (consejero de Moisés)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Moisés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aarón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Séfora
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gersón (hijo de Moisés)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliezer (hijo de Moisés)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ancianos que comen con Jetro
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Litigantes que esperan ante Moisés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jueces sobre miles
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jueces sobre centenas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jueces sobre cincuentenas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jueces sobre decenas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G475 · Éxodo 19–20: asamblea del Sinaí y miembros de los hogares
+
+Fuente: Éxodo 19–20
+
+Moisés transmite las palabras a los ancianos y al pueblo; Aarón recibe acceso junto con él. Los sacerdotes mencionados en 19:22,24 no reciben nombres y no se convierten automáticamente en los cuatro hijos de Aarón antes de la consagración narrada después. El reino de sacerdotes es designación del pueblo, no una filiación sacerdotal de cada individuo. En los mandamientos aparecen padre, madre, hijo, hija, siervo, sierva, vecino y extranjero como destinatarios o relaciones normativas. La tercera y cuarta generación de 20:5 no permite inventar un árbol de cuatro generaciones culpables. Se conserva el tercer mes desde la salida y la preparación para el tercer día, sin fijar cumpleaños o nacimientos de asistentes.
+
+Acontecimiento relacionado: E53 · Sinaí y pacto (Tercer mes desde Egipto).
+
+### Moisés (mediador en Sinaí)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aarón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ancianos que reciben las palabras del pacto
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pueblo que responde y oye los mandamientos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sacerdotes mencionados antes de la consagración aarónica
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos, hijas, siervos, siervas y extranjeros incluidos en el descanso
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Categorías normativas; no personas nuevas identificadas.
+
+
+## G476 · Éxodo 21–23: familias y personas protegidas en las normas del pacto
+
+Fuente: Éxodo 21–23
+
+Estos capítulos formulan casos legales; no narran bodas, nacimientos, homicidios o juicios de personas identificadas. Se representan sus categorías como colectivos normativos, sin aristas de parentesco ni hechos fechados. Se incluyen siervos y sus familias, hijas entregadas en servicio, padres, embarazadas, víctimas, jueces, pobres, extranjeros, viudas y huérfanos. La amenaza de que esposas e hijos queden viudas y huérfanos no registra muertes efectivas. El hijo de la sierva en 23:12 es una categoría incluida en el descanso, no un nuevo hijo de una mujer conocida. Los seis pueblos de 23:23 son adversarios futuros, sin nombres de reyes concretos. El Ángel prometido como guía lleva el nombre divino según 23:21; no recibe un nombre personal independiente. Los avispones son parte del anuncio, no seres humanos o genealogías.
+
+Acontecimiento relacionado: E53 · Sinaí y pacto (Tercer mes desde Egipto).
+
+### Siervos hebreos, esposas e hijos de los casos legales
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijas vendidas en servicio y hogares previstos por la norma
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Padres y madres protegidos por las normas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Víctimas de homicidio, secuestro y lesiones
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mujeres embarazadas y sus hijos en el caso de lesiones
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Amos y propietarios responsables de daños
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jueces, litigantes y testigos de los casos legales
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Doncellas y padres del caso de seducción
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Viudas y huérfanos protegidos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pobres, deudores y extranjeros protegidos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos de siervas incluidos en el descanso
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Amorreos, hititas, ferezeos, cananeos, heveos y jebuseos del anuncio
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ángel prometido como guía (Éxodo 23:20–23)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G477 · Éxodo 24: setenta ancianos y jóvenes de los sacrificios
+
+Fuente: Éxodo 24
+
+Moisés, Aarón, Nadab, Abiú y setenta ancianos aparecen como participantes diferenciados; no se añade a Eleazar e Itamar a la subida por ser también hijos de Aarón. Los nobles de 24:11 no se cuentan automáticamente como otro grupo adicional a los anteriores. Los jóvenes que ofrecen sacrificios no reciben nombres ni se identifican con los cuatro hijos de Aarón. Las doce columnas representan a las tribus, no doce personas nuevas. Josué acompaña como servidor; Aarón y Hur quedan para atender asuntos. Hur no recibe filiación aquí. Se conservan seis días de nube, llamado al séptimo y cuarenta días y noches; la relación exacta de esos intervalos se deja al cotejo cronológico, sin convertirlos en edades o años absolutos.
+
+Acontecimiento relacionado: E53 · Sinaí y pacto (Tercer mes desde Egipto).
+
+### Moisés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aarón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nadab (hijo de Aarón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abiú (hijo de Aarón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Josué (servidor de Moisés)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hur (encargado con Aarón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Setenta ancianos del pacto
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jóvenes que ofrecen sacrificios
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pueblo que acepta el libro del pacto
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G478 · Éxodo 25–30: artífices, sacerdotes y generaciones de servicio
+
+Fuente: Éxodo 25–30
+
+Los capítulos describen el modelo y los preparativos; no introducen un nuevo artesano por cada verbo de fabricación. Los querubines de oro o bordados son representaciones, no dos ángeles vivos identificados. Urim y Tumim, piedras, utensilios y ornamentos no son personas. G17 conserva a Aarón y sus cuatro hijos; los futuros sucesores de 29:29–30 son una previsión de servicio, no hijos adicionales ni una sucesión ya ocurrida. Se registran donantes, artífices de vestiduras, sacerdotes y contribuyentes mayores de veinte años como colectivos o funciones según el pasaje. La ofrenda igual de ricos y pobres no fija su parentesco. Los siete días de consagración están prescritos y no autorizan situar aquí la muerte posterior de Nadab y Abiú. Las medidas y cantidades se conservan en la evidencia del texto para la fase de acontecimientos y santuario.
+
+Acontecimiento relacionado: E55 · Tabernáculo y sacerdocio (Año 2, mes 1, día 1).
+
+### Moisés (recibe el modelo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aarón (sacerdote)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nadab (hijo de Aarón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abiú (hijo de Aarón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eleazar (hijo de Aarón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Itamar (hijo de Aarón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Donantes voluntarios previstos para el santuario
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Artífices sabios que preparan las vestiduras
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Contribuyentes de veinte años o más, ricos y pobres
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Descendencia sacerdotal futura prevista por las normas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G479 · Éxodo 31: Bezalel, Aholiab y sus familias de origen
+
+Fuente: Éxodo 31:1–11; 35:30–35; 38:22–23
+
+G15 y G110 conservan Hur–Uri–Bezalel con el cotejo de Crónicas; G97 conserva Ahisamac–Aholiab. Se muestra aquí la relación con las tribus de Judá y Dan como pertenencia, sin hacer a los artesanos hijos inmediatos de los patriarcas. No hay edades de Bezalel, Aholiab o Uri en Éxodo ni nombres de sus esposas e hijos. Ser dotados de habilidad y capacidad de enseñar no implica parentesco entre ellos. La mención del Espíritu de Dios se distingue de una genealogía. Los trabajadores hábiles forman un equipo: no se atribuye a cada artesano toda fabricación individualmente ni se crean personas nuevas por la repetición de 35 y 38.
+
+Acontecimiento relacionado: E55 · Tabernáculo y sacerdocio (Año 2, mes 1, día 1).
+
+### Bezalel (hijo de Uri)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Uri (padre de Bezalel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hur (abuelo de Bezalel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aholiab (hijo de Ahisamac)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahisamac
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tribu de Judá (origen de Bezalel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- pertenencia → Bezalel (hijo de Uri). Pertenencia tribal; generaciones intermedias no enumeradas en este pasaje. Fuente: Éxodo 31:2
+
+### Tribu de Dan (origen de Aholiab)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- pertenencia → Aholiab (hijo de Ahisamac). Pertenencia tribal, no paternidad inmediata de Dan. Fuente: Éxodo 31:6
+
+### Artífices dotados de habilidad para el santuario
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G480 · Éxodo 32: participantes del becerro y levitas convocados
+
+Fuente: Éxodo 32
+
+La multitud pide a Aarón que haga dioses; él solicita pendientes de esposas, hijos e hijas y fabrica el becerro. No se inventan nombres de cabecillas ni se atribuye desde Éxodo toda la iniciativa a un grupo étnico específico. La explicación posterior de Aarón sobre el becerro salido del fuego no reemplaza la descripción de su fabricación de 32:4. Josué oye el ruido y cree que es guerra; eso no constituye una segunda batalla real. Los hijos de Leví que acuden son levitas colectivos, no solo los tres hijos inmediatos del patriarca. Caen unos tres mil hombres, sin lista nominal ni genealogías individuales. La orden referida a hijo, hermano, compañero y vecino no permite identificar a cada ejecutado con un pariente concreto. La propuesta de hacer de Moisés una gran nación no se representa como descendencia efectivamente nacida. Abraham, Isaac e Israel son recordados en la intercesión.
+
+Acontecimiento relacionado: E54 · Becerro y renovación (Estancia en Sinaí).
+
+### Moisés (intercede)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aarón (fabrica el becerro)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Josué (oye el ruido)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Multitud que exige y celebra el becerro
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Esposas, hijos e hijas cuyos pendientes se solicitan
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Levitas que responden al llamado de Moisés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Unos tres mil hombres muertos sin nombres
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pueblo afectado por la plaga posterior
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G481 · Éxodo 33–34: Josué hijo de Nun y asamblea del pacto renovado
+
+Fuente: Éxodo 33–34
+
+G21 conserva la genealogía de Josué; aquí 33:11 lo identifica como hijo de Nun y servidor joven de Moisés, sin edad numérica. La tienda situada fuera del campamento en 33 no se fecha automáticamente como la erección del santuario de 40. Se distinguen quienes buscan al Señor, los que adoran desde sus tiendas y los dirigentes que se acercan a Moisés cuando su rostro resplandece. La expresión cara a cara de 33:11 y la restricción de ver el rostro de 33:20 se conservan en su contexto, sin resolverlas mediante personajes distintos inventados. Los matrimonios con hijas de los pueblos en 34:16 son una advertencia, no bodas narradas. Las generaciones de 34:7 no son un árbol nominal. Los cuarenta días y noches de 34:28 corresponden a este episodio de renovación; no se altera la cronología original del mural.
+
+Acontecimiento relacionado: E54 · Becerro y renovación (Estancia en Sinaí).
+
+### Moisés (rostro resplandeciente)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Josué (hijo de Nun)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nun (padre de Josué)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Josué (hijo de Nun).  Fuente: Éxodo 33:11
+
+### Aarón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Personas que buscan al Señor fuera del campamento
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pueblo que se despoja de ornamentos y adora
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Dirigentes que vuelven a acercarse a Moisés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G482 · Éxodo 35–36: hilanderas, donantes y maestros del santuario
+
+Fuente: Éxodo 35–36
+
+Se incorporan mujeres que hilan lino y materiales de colores, mujeres que hilan pelo de cabra, hombres y mujeres que ofrecen, dirigentes que aportan piedras, especias y aceite, y trabajadores que informan de la abundancia. Son grupos por actividad posiblemente solapados; no se suman como personas únicas ni se inventan nombres. Bezalel y Aholiab tienen capacidad de enseñar, pero no se crea una genealogía entre maestros y aprendices. Moisés ordena detener las aportaciones porque sobran materiales. La construcción no autoriza omitir el descanso prescrito en 35:1–3. Los querubines de las cortinas siguen siendo motivos tejidos, no personajes nuevos. Las cantidades y dimensiones se han leído y quedan en la evidencia; esta ampliación se limita a personajes.
+
+Acontecimiento relacionado: E55 · Tabernáculo y sacerdocio (Año 2, mes 1, día 1).
+
+### Moisés (recibe y limita las ofrendas)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bezalel (artesano y maestro)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aholiab (artesano y maestro)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombres y mujeres donantes voluntarios
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mujeres que hilan lino y materiales de colores
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mujeres que hilan pelo de cabra
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Dirigentes que aportan piedras, especias y aceite
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Trabajadores que avisan de materiales sobrantes
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Encargados de proclamar el cese de las ofrendas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G483 · Éxodo 37–40: mujeres de los espejos, Itamar y cierre del santuario
+
+Fuente: Éxodo 37–40
+
+Bezalel figura en la fabricación; 38 vuelve a nombrar a Aholiab y sus padres, sin nuevas identidades. Se incorporan las mujeres reunidas a la entrada cuyos espejos sirven para la fuente. El texto no da sus nombres, un cargo sacerdotal ni parentesco con los artesanos. Itamar hijo de Aarón dirige el servicio levítico asociado al cómputo de materiales; no es otro personaje distinto del hijo de G17. Los 603.550 contribuyentes de veinte años o más son un total censal, no 603.550 nodos ni una población completa que incluya a todos los niños. Los nombres de las doce tribus grabados en piedras son un memorial, no patriarcas vivos. Moisés inspecciona y bendice la obra; el santuario se levanta el día primero del primer mes del segundo año. La gloria impide su entrada en ese momento y la nube guía las marchas; no se concluye que termine toda la peregrinación al cerrar el libro.
+
+Acontecimiento relacionado: E55 · Tabernáculo y sacerdocio (Año 2, mes 1, día 1).
+
+### Bezalel (fabricación del mobiliario)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aholiab (artesano colaborador)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Itamar (hijo de Aarón, responsable del servicio)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Moisés (inspecciona y levanta el santuario)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aarón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mujeres cuyos espejos se usan para la fuente
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Levitas del servicio y cómputo de materiales
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### 603.550 contribuyentes del registro
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Artífices que entregan la obra terminada
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos de Aarón preparados para el servicio
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Israel guiada por la nube
 
 Cronología generacional no determinada; ubicación esquemática.
 
