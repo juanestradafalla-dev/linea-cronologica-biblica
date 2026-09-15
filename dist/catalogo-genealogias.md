@@ -4,6 +4,10 @@ Filiaciones, genealogías, parentescos, sucesiones y pertenencia a pueblos se di
 
 Estado: ampliación documentada, no inventario exhaustivo de todos los personajes bíblicos ni lectura íntegra de los 120 PDF. Las apariciones repetidas no equivalen a personas únicas.
 
+## 1 Crónicas: cotejo de personajes de los veintinueve capítulos
+
+Completada una pasada bíblica de personajes por los 942 versículos de 1 Crónicas en la KJV aportada: 858 leídos en esta tanda, además de los 84 de los capítulos 9 y 12 cotejados anteriormente. Dieciocho fichas adicionales (G285–G302; R232–R249): variantes genealógicas, jefes de Simeón, músicos y servidores del arca, turnos sacerdotales y militares y familiares secundarios. Total: 302 fichas, 4.540 apariciones de personas o grupos y 2.715 relaciones; las apariciones no son personas únicas. Se conservan las 284 fichas anteriores y los 148 acontecimientos. Las variantes, identificaciones, cronologías y el contraste completo con Elena G. White siguen abiertos.
+
 ## Nehemías: cotejo de personajes de los trece capítulos
 
 Completada una pasada de cotejo de personajes por los 406 versículos de Nehemías en la KJV aportada: 338 en esta revisión y 68 de los capítulos 3 y 11 anteriormente. Diecisiete fichas adicionales (G268–G284; R215–R231). Total: 284 fichas, 4.174 apariciones y 2.653 relaciones. Se conservan las 267 fichas anteriores y los 148 acontecimientos. Las variantes, identificaciones, cronologías discutidas y contraste con White siguen abiertos.
@@ -34640,6 +34644,2776 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 ### Sacerdotes y levitas asignados a sus servicios
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G285 · 1 Crónicas 1: formas propias de las genealogías antiguas
+
+Fuente: 1 Crónicas 1:17–23,29–42,50–54
+
+Complementa G03–G12. Se conservan las formas KJV de Crónicas frente a las listas de Génesis: Mesec/Mas, Ebal/Obal, Hadad/Hadar, Zefi/Zefo, Homam/Hemam, Alián/Alván, Sefi/Sefo, Amram/Hemdán y Jaacán/Acán. La correspondencia textual no establece dos personas ni resuelve cada identidad. Timna figura dentro de la enumeración de 1:36; Génesis 36:12 la llama concubina de Elifaz y madre de Amalec: aquí no se dibuja como hijo varón de Elifaz. Los jefes de Edom son una lista, no una cadena padre-hijo. Alía (KJV Aliah) de 1:51 no se sustituye silenciosamente por Alvá de Génesis 36:40.
+
+### Mesec (1:17, KJV Meshech)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ebal (1:22)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hadad (hijo de Ismael, 1:30)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zefi (1:36)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Timna (enumeración de 1:36)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Homam (1:39)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Alián (1:40)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sefi (1:40)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Amram (1:41)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jaacán (1:42)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hadad (rey, 1:50–51)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- union → Mehetabel (esposa del rey).  Fuente: 1 Crónicas 1:17–23,29–42,50–54
+
+### Mehetabel (esposa del rey)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Matred
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Mehetabel (esposa del rey).  Fuente: 1 Crónicas 1:17–23,29–42,50–54
+
+### Mezahab
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Matred.  Fuente: 1 Crónicas 1:17–23,29–42,50–54
+
+### Timna (jefe, 1:51)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Alía / Aliah (jefe, 1:51)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jetet
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aholibama (jefe, 1:52)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ela (jefe)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pinón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cenaz (jefe, 1:53)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Temán (jefe)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mibzar
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Magdiel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Iram
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G286 · 1 Crónicas 2–3: filiaciones y menciones secundarias de Judá
+
+Fuente: 1 Crónicas 2:7–8; 3:5–9,15–16
+
+Etán de 2:8 y su hijo Azarías no se fusionan con los levitas homónimos. Acar de 2:7 corresponde a la forma del relato de Acán, conservada en G15. Amiel es padre de Betsúa; la comparación con Eliam y Betsabé de 2 Samuel 11:3 queda explícitamente abierta. Sedequías de 3:16 se conserva como la mención «su hijo» después de Jeconías, sin confundirla por defecto con el hijo de Josías de 3:15 ni convertir la ambigüedad en filiación segura. Los hijos de concubinas no reciben nombres adicionales.
+
+Acontecimiento relacionado: E77 · Betsabé y rebelión de Absalón (Crisis de la casa de David).
+
+### Etán (2:8)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Azarías (hijo de Etán).  Fuente: 1 Crónicas 2:8
+
+### Azarías (hijo de Etán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Carmi (2:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Acar (2:7).  Fuente: 1 Crónicas 2:7
+
+### Acar (2:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Amiel (padre de Betsúa)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Betsúa (hija de Amiel).  Fuente: 1 Crónicas 3:5
+
+### Betsúa (hija de Amiel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Samúa (3:5).  Fuente: 1 Crónicas 3:5
+- materna → Sobab (3:5).  Fuente: 1 Crónicas 3:5
+- materna → Natán (3:5).  Fuente: 1 Crónicas 3:5
+- materna → Salomón (3:5).  Fuente: 1 Crónicas 3:5
+
+### David (3:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Samúa (3:5).  Fuente: 1 Crónicas 3:5
+- filiacion → Sobab (3:5).  Fuente: 1 Crónicas 3:5
+- filiacion → Natán (3:5).  Fuente: 1 Crónicas 3:5
+- filiacion → Salomón (3:5).  Fuente: 1 Crónicas 3:5
+
+### Samúa (3:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sobab (3:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Natán (3:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Salomón (3:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sedequías (mención de 3:16)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos de las concubinas de David (3:9)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tamar (hermana, 3:9)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G287 · 1 Crónicas 4: jefes de Simeón y familias que se extendieron
+
+Fuente: 1 Crónicas 4:34–43
+
+Complementa G41 con los jefes de 4:34–37. No se hacen hijos de Simeón por filiación inmediata ni hermanos entre sí por aparecer juntos. Las cadenas de Jehú y Ziza ya están en G41. Quinientos hombres acompañan a los cuatro hijos de Isi; no son quinientos hijos suyos. El marco de Ezequías se aplica a la expedición de 4:41, no a los nacimientos de todas estas generaciones.
+
+### Mesobab
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jamlec
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Amasías (padre de Josa)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Josa (hijo de Amasías).  Fuente: 1 Crónicas 4:35
+
+### Josa (hijo de Amasías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joel (4:35)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jehú (4:35)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elioenai (4:36)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jaacoba
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jesohaía
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Asaías (4:36)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Adiel (4:36)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jesimiel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Benaía (4:36)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ziza (4:37)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ezequías (rey, 4:41)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Isi (4:42)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Pelatías (hijo de Isi).  Fuente: 1 Crónicas 4:42
+- filiacion → Nearías (hijo de Isi).  Fuente: 1 Crónicas 4:42
+- filiacion → Refaías (hijo de Isi).  Fuente: 1 Crónicas 4:42
+- filiacion → Uziel (hijo de Isi).  Fuente: 1 Crónicas 4:42
+
+### Pelatías (hijo de Isi)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nearías (hijo de Isi)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Refaías (hijo de Isi)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Uziel (hijo de Isi)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familias de los jefes que aumentaron
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Quinientos simeonitas que marchan a Seir
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Habitantes de Cam y meunim del territorio
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Resto de amalecitas de Seir
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G288 · 1 Crónicas 5: pueblos vecinos, registros y deportación oriental
+
+Fuente: 1 Crónicas 5:10,17–26
+
+Las genealogías de Rubén, Gad y Manasés están en G55–G56. Jetur, Nafis y Nodab se registran como pueblos de la campaña, sin crear individuos contemporáneos a partir de los ancestros de la tabla de naciones. Pul y Tilgat-pilneser se conservan como designaciones del texto; no se afirma que sean dos reyes diferentes. Jotam y Jeroboam son referencias del registro de 5:17, no fechas de nacimiento para toda la lista.
+
+### Saúl (marco recordado, 5:10)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jotam (rey de Judá, 5:17)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jeroboam (rey de Israel, 5:17)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pul (designación asiria de 5:26)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tilgat-pilneser (designación asiria de 5:26)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Agarenos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jetur (pueblo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nafis (pueblo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nodab (pueblo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rubén, Gad y medio Manasés en campaña
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familias deportadas de las tribus orientales
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G289 · 1 Crónicas 6: cadena de Gersón antes de los cantores
+
+Fuente: 1 Crónicas 6:20–21
+
+Se conserva esta cadena en sus formas propias: Joah, Iddo, Zera y Jeatrai. No se sustituye por la ascendencia de Asaf de 6:39–43 ni se hace contemporáneos de David a todos los eslabones. Las fechas de las generaciones no están determinadas.
+
+### Gersón (6:20)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Libni (6:20).  Fuente: 1 Crónicas 6:20–21
+
+### Libni (6:20)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Jahat (6:20).  Fuente: 1 Crónicas 6:20–21
+
+### Jahat (6:20)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Zima (6:20).  Fuente: 1 Crónicas 6:20–21
+
+### Zima (6:20)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Joah (6:21).  Fuente: 1 Crónicas 6:20–21
+
+### Joah (6:21)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Iddo (6:21).  Fuente: 1 Crónicas 6:20–21
+
+### Iddo (6:21)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Zera (6:21).  Fuente: 1 Crónicas 6:20–21
+
+### Zera (6:21)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Jeatrai (6:21).  Fuente: 1 Crónicas 6:20–21
+
+### Jeatrai (6:21)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G290 · 1 Crónicas 6: cadenas coatitas y nombres de los hijos de Samuel
+
+Fuente: 1 Crónicas 6:22–28
+
+Los segmentos se mantienen separados donde se repite Elcana. No se añade un enlace entre Ahimot y Elcana de 6:26 por proximidad. Asir aparece en dos niveles de 6:22–23; no se elimina uno. Aminadab, Uriel, Uzías, Saúl, Zofai, Nahat y Eliab se conservan sin sustituirlos por nombres de 6:33–38. KJV 6:28 imprime Vashni como primogénito de Samuel; 6:33 y 1 Samuel 8:2 tienen Joel. Se registra la dificultad textual, sin inventar un tercer hijo seguro de Samuel.
+
+### Coat (6:22)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Aminadab (6:22).  Fuente: 1 Crónicas 6:22–28
+
+### Aminadab (6:22)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Coré (6:22).  Fuente: 1 Crónicas 6:22–28
+
+### Coré (6:22)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Asir (primer nivel, 6:22).  Fuente: 1 Crónicas 6:22–28
+
+### Asir (primer nivel, 6:22)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Elcana (6:23).  Fuente: 1 Crónicas 6:22–28
+
+### Elcana (6:23)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Ebiasaf (6:23).  Fuente: 1 Crónicas 6:22–28
+
+### Ebiasaf (6:23)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Asir (segundo nivel, 6:23).  Fuente: 1 Crónicas 6:22–28
+
+### Asir (segundo nivel, 6:23)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Tahat (6:24).  Fuente: 1 Crónicas 6:22–28
+
+### Tahat (6:24)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Uriel (6:24).  Fuente: 1 Crónicas 6:22–28
+
+### Uriel (6:24)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Uzías (6:24).  Fuente: 1 Crónicas 6:22–28
+
+### Uzías (6:24)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Saúl (6:24).  Fuente: 1 Crónicas 6:22–28
+
+### Saúl (6:24)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elcana (padre de 6:25)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Amasai (6:25).  Fuente: 1 Crónicas 6:25
+- filiacion → Ahimot (6:25).  Fuente: 1 Crónicas 6:25
+
+### Amasai (6:25)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahimot (6:25)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elcana (6:26)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Zofai.  Fuente: 1 Crónicas 6:26–27
+
+### Zofai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Nahat (6:26).  Fuente: 1 Crónicas 6:26–27
+
+### Nahat (6:26)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Eliab (6:27).  Fuente: 1 Crónicas 6:26–27
+
+### Eliab (6:27)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Jeroham (6:27).  Fuente: 1 Crónicas 6:26–27
+
+### Jeroham (6:27)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Elcana (6:27).  Fuente: 1 Crónicas 6:26–27
+
+### Elcana (6:27)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Samuel (6:28)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- discutida → Vashni (lectura KJV, 6:28). Lectura textual impresa por KJV; identificación y segmentación no resueltas. No acredita un tercer hijo seguro. Fuente: 1 Crónicas 6:22–28
+- filiacion → Abías (6:28).  Fuente: 1 Crónicas 6:28
+
+### Vashni (lectura KJV, 6:28)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abías (6:28)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G291 · 1 Crónicas 10–11: caída de Saúl y combatientes anónimos
+
+Fuente: 1 Crónicas 10:1–14; 11:1–9,17–25
+
+G24 y G241 conservan descendientes de la casa de Saúl: «toda su casa» de 10:6 no se usa para borrar a todo descendiente vivo. El escudero permanece sin nombre. La consulta a una evocadora se recuerda en 10:13, no ocurre después de la muerte del rey. G216–G217 ya contienen las listas de valientes; aquí se complementan sus adversarios sin inventar parentescos ni nombres.
+
+Acontecimiento relacionado: E74 · Endor y Gilboa (Fin de Saúl).
+
+Acontecimiento relacionado: E75 · Reino de Judá y reunificación (David: 7 años y 6 meses en Hebrón).
+
+### Saúl (10:1–14)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jonatán (muerto en batalla)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abinadab (hijo de Saúl)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Malquisúa (hijo de Saúl)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Escudero de Saúl (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Evocadora consultada por Saúl (recuerdo, sin nombre aquí)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### David (11:1–9)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joab (conquista de Jerusalén)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Benaía (hazañas, 11:22–25)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Egipcio de cinco codos (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Filisteos y arqueros de la batalla
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Valientes de Jabes de Galaad que recuperan los cuerpos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ancianos de Israel ante David
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jebuseos de Jerusalén
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tres valientes que llevan agua
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Dos guerreros de Moab (11:22)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G292 · 1 Crónicas 13–14: custodia del arca y formas de los hijos de David
+
+Fuente: 1 Crónicas 13:1–14; 14:1–17
+
+G102 conserva Abinadab, Uza y Ahío; G25 conserva la lista de 1 Crónicas 3. Se documenta completa la lista propia de 14:4–7: Elisúa, Elpelet y Beeliada no se reemplazan sin nota por Elisama, Elifelet y Eliada de los paralelos. No se suman automáticamente como hijos distintos. Quidón identifica la era en 13:9: no se fabrica un propietario con genealogía. Obed-edom geteo y su casa no se identifican por defecto con cada Obed-edom levita posterior.
+
+Acontecimiento relacionado: E76 · Ciudad, arca y pacto davídico (Jerusalén como capital).
+
+### David (13–14)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abinadab (13:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Uza (13:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahío (13:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Obed-edom geteo (13:13)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hiram (rey de Tiro, 14:1)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Samúa (14:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sobab (14:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Natán (14:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Salomón (14:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ibhar (14:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elisúa (14:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elpelet (14:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Noga (14:6)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nefeg (14:6)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jafía (14:6)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elisama (14:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Beeliada (14:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elifelet (14:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Obed-edom geteo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Esposas de David en Jerusalén
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos e hijas nacidos en Jerusalén
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mensajeros, albañiles y carpinteros de Hiram
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G293 · 1 Crónicas 15: seis jefes levíticos del traslado del arca
+
+Fuente: 1 Crónicas 15:1–15
+
+Cada cifra corresponde a los hermanos que acompañan al jefe de una casa, no a hijos biológicos suyos. Uriel de Coat, Asaías de Merari, Joel de Gersón, Semaías de Elizafán, Eliel de Hebrón y Aminadab de Uziel no se fusionan con los antepasados homónimos de 1 Crónicas 6. Sadoc y Abiatar son convocados junto con estos seis jefes.
+
+Acontecimiento relacionado: E76 · Ciudad, arca y pacto davídico (Jerusalén como capital).
+
+### David (15:1–15)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sadoc (15:11)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abiatar (15:11)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Uriel (jefe coatita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Asaías (jefe merarita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joel (jefe gersonita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Semaías (casa de Elizafán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliel (casa de Hebrón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aminadab (casa de Uziel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hermanos de Uriel (120)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hermanos de Asaías (220)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hermanos de Joel (130)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hermanos de Semaías (200)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hermanos de Eliel (80)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hermanos de Aminadab (112)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Levitas que llevan el arca sobre los hombros
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G294 · 1 Crónicas 15: músicos, porteros y sacerdotes de las trompetas
+
+Fuente: 1 Crónicas 15:16–29
+
+Se distingue función, mención y familia. Etán es hijo de Cusaías aquí; no se sustituye por Kisi de 6:44 ni se identifica automáticamente con Jedutún. Ben de 15:18 se conserva como nombre impreso en KJV. Jaaziel de 15:18 y Aziel de 15:20 son formas de la lista que no prueban dos individuos. Jehías de 15:24 no se reemplaza por Jeiel. Quenanías dirige el canto y no se identifica sin prueba con el funcionario de 26:29. La coincidencia Benaía entre músicos y sacerdotes no demuestra identidad.
+
+Acontecimiento relacionado: E76 · Ciudad, arca y pacto davídico (Jerusalén como capital).
+
+### Joel (padre de Hemán, 15:17)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Hemán (15:17).  Fuente: 1 Crónicas 15:17
+
+### Hemán (15:17)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Berequías (padre de Asaf)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Asaf (15:17).  Fuente: 1 Crónicas 15:17
+
+### Asaf (15:17)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cusaías (padre de Etán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Etán (15:17).  Fuente: 1 Crónicas 15:17
+
+### Etán (15:17)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zacarías (15:18)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ben (15:18)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jaaziel (15:18)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Siramot (15:18)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jehiel (15:18)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Uni (15:18)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliab (15:18)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Benaía (músico, 15:18)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Maasías (15:18)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Matatías (15:18)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elifelehu (15:18)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Micnías (15:18)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Obed-edom (portero, 15:18)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jeiel (15:18)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aziel (forma de 15:20)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Azazías (15:21)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Quenanías (director del canto)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Berequías (portero, 15:23)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elcana (portero, 15:23)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sebanías (sacerdote)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Josafat (sacerdote)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Natanael (sacerdote)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Amasai (sacerdote)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zacarías (sacerdote, 15:24)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Benaía (sacerdote, 15:24)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliezer (sacerdote)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jehías (portero, 15:24)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mical (hija de Saúl)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### David (celebración del traslado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G295 · 1 Crónicas 16: servicio ante el arca y en Gabaón
+
+Fuente: 1 Crónicas 16:1–43
+
+Jeiel aparece dos veces en 16:5 KJV: se guardan las dos menciones sin afirmar que sean dos personas diferentes. Jahaziel sacerdote de 16:6 no se convierte en Jaaziel de 15:18. Obed-edom hijo de Jedutún se conserva con su filiación expresa; la identidad con Obed-edom geteo queda abierta. Los 68 hermanos de 16:38 no son 68 hijos. Abraham, Isaac y Jacob son personajes recordados en el cántico, no participantes contemporáneos de David.
+
+Acontecimiento relacionado: E76 · Ciudad, arca y pacto davídico (Jerusalén como capital).
+
+### David (16)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Asaf (16:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zacarías (16:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jeiel (primera mención, 16:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Siramot (16:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jehiel (16:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Matatías (16:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliab (16:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Benaía (músico, 16:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Obed-edom (16:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jeiel (segunda mención, 16:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Benaía (sacerdote, 16:6)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jahaziel (sacerdote, 16:6)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abraham (recordado, 16:16)
+
+Antepasado recordado por el cántico; no contemporáneo del traslado del arca.
+
+
+
+
+### Isaac (recordado, 16:16)
+
+Antepasado recordado por el cántico; no contemporáneo del traslado del arca.
+
+
+
+
+### Jacob / Israel (recordado, 16:17)
+
+Antepasado recordado por el cántico; no contemporáneo del traslado del arca.
+
+
+
+
+### Obed-edom (16:38, primera mención)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jedutún (padre de Obed-edom)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Obed-edom (hijo de Jedutún).  Fuente: 1 Crónicas 16:38
+
+### Obed-edom (hijo de Jedutún)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hosa (portero)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sadoc (servicio en Gabaón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hemán (16:41)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jedutún (músico, 16:41)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sesenta y ocho hermanos de Obed-edom
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sacerdotes de Gabaón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Escogidos designados por nombre, sin lista aquí
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos de Jedutún en la puerta
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G296 · 1 Crónicas 18–20: corte, embajadas y adversarios de David
+
+Fuente: 1 Crónicas 18:1–17; 19:1–19; 20:1–8
+
+Tou y Hadoram se conservan frente a Toi y Joram de 2 Samuel 8. Abimelec hijo de Abiatar es la lectura de 18:16 KJV; no se reemplaza silenciosamente por Ahimelec de 24:6. Savsa es el escriba aquí. Sofac y Sipai conservan las formas de Crónicas frente a Sobac y Saf de Samuel, sin sumar automáticamente personas distintas. El rey de Maaca permanece sin nombre. G126 conserva Nahas y Hanún; G148 contiene las familias de los combatientes contra Gat.
+
+Acontecimiento relacionado: E76 · Ciudad, arca y pacto davídico (Jerusalén como capital).
+
+### David (18–20)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- hermanos → Simea (hermano de David).  Fuente: 1 Crónicas 20:7
+
+### Hadad-ezer (rey de Soba)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tou (rey de Hamat)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Hadoram (hijo de Tou).  Fuente: 1 Crónicas 18:1–17; 19:1–19; 20:1–8
+
+### Hadoram (hijo de Tou)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joab (jefe militar)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abisai (hijo de Sarvia)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahilud
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Josafat (cronista).  Fuente: 1 Crónicas 18:1–17; 19:1–19; 20:1–8
+
+### Josafat (cronista)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahitob (padre de Sadoc)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Sadoc (sacerdote).  Fuente: 1 Crónicas 18:1–17; 19:1–19; 20:1–8
+
+### Sadoc (sacerdote)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abiatar (padre en 18:16)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Abimelec (18:16 KJV).  Fuente: 1 Crónicas 18:1–17; 19:1–19; 20:1–8
+
+### Abimelec (18:16 KJV)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Savsa (escriba)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joiada (padre de Benaía)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Benaía (jefe de la guardia).  Fuente: 1 Crónicas 18:1–17; 19:1–19; 20:1–8
+
+### Benaía (jefe de la guardia)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nahas (19:1)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Hanún (19:2).  Fuente: 1 Crónicas 18:1–17; 19:1–19; 20:1–8
+
+### Hanún (19:2)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rey de Maaca (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sofac (jefe del ejército de Hadad-ezer)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sibecai husatita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sipai (20:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jair (20:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Elhanán (20:5).  Fuente: 1 Crónicas 18:1–17; 19:1–19; 20:1–8
+
+### Elhanán (20:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Lahmi (hermano de Goliat)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- hermanos → Goliat (20:5).  Fuente: 1 Crónicas 20:5
+
+### Goliat (20:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Simea (hermano de David)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jonatán (hijo de Simea).  Fuente: 1 Crónicas 18:1–17; 19:1–19; 20:1–8
+
+### Jonatán (hijo de Simea)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombre de seis dedos por extremidad (20:6)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Quereteos y peleteos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mensajeros humillados por Hanún
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Príncipes amonitas que aconsejan a Hanún
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos de David en el gobierno
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G297 · 1 Crónicas 21: Ornán, sus cuatro hijos y los participantes del censo
+
+Fuente: 1 Crónicas 21:1–30
+
+Ornán se registra con sus cuatro hijos anónimos, que se esconden al ver al ángel. No se dan edades ni nombres. El paralelo de Arauna no justifica duplicar su familia como personas distintas. Satanás y el ángel se distinguen de los humanos; no se trazan filiaciones angelicales. El relato menciona 70.000 muertos de Israel, un colectivo de víctimas, no una nómina recuperable. El rey compra el lugar por 600 siclos de oro según este pasaje, sin armonizar silenciosamente la cifra del paralelo.
+
+Acontecimiento relacionado: E78 · Censo, altar y sucesión (Final de David).
+
+### David (censo y altar)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joab (encargado del censo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gad (vidente)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ornán jebuseo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Cuatro hijos de Ornán (sin nombres).  Fuente: 1 Crónicas 21:20
+
+### Cuatro hijos de Ornán (sin nombres)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ancianos vestidos de cilicio
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Setenta mil muertos de Israel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Levitas y benjaminitas no contados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Satanás (21:1)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ángel de Jehová (sin nombre, 21)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G298 · 1 Crónicas 24: los veinticuatro turnos sacerdotales
+
+Fuente: 1 Crónicas 24:1–19
+
+Los nombres de los turnos se conservan en orden de sorteo. Se representan como casas de servicio, no como 24 hermanos ni como nacimientos contemporáneos. No se identifican automáticamente con los firmantes de Nehemías o con otros homónimos. Dieciséis cabezas corresponden a Eleazar y ocho a Itamar; el pasaje no asigna individualmente aquí cada turno a una de esas ramas. Semaías hijo de Natanael registra el sorteo. Nadab y Abiú murieron sin hijos según 24:2; no se les crean descendientes.
+
+Acontecimiento relacionado: E78 · Censo, altar y sucesión (Final de David).
+
+Acontecimiento relacionado: E79 · Sabiduría y templo (Reinado de Salomón).
+
+### Aarón (antepasado recordado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nadab (sin hijos, 24:2)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abiú (sin hijos, 24:2)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eleazar (rama sacerdotal)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Itamar (rama sacerdotal)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### David (organización)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sadoc (rama de Eleazar)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahimelec (rama de Itamar)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abiatar (padre de Ahimelec, 24:6)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Ahimelec (rama de Itamar).  Fuente: 1 Crónicas 24:6
+
+### Natanael (padre del escriba)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Semaías (escriba levita).  Fuente: 1 Crónicas 24:6
+
+### Semaías (escriba levita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Turno 01: Joiarib
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Posición 1 en el sorteo de 1 Crónicas 24:7–18; no filiación.
+
+
+### Turno 02: Jedaías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Posición 2 en el sorteo de 1 Crónicas 24:7–18; no filiación.
+
+
+### Turno 03: Harim
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Posición 3 en el sorteo de 1 Crónicas 24:7–18; no filiación.
+
+
+### Turno 04: Seorim
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Posición 4 en el sorteo de 1 Crónicas 24:7–18; no filiación.
+
+
+### Turno 05: Malquías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Posición 5 en el sorteo de 1 Crónicas 24:7–18; no filiación.
+
+
+### Turno 06: Mijamín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Posición 6 en el sorteo de 1 Crónicas 24:7–18; no filiación.
+
+
+### Turno 07: Cos / Hakkoz
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Posición 7 en el sorteo de 1 Crónicas 24:7–18; no filiación.
+
+
+### Turno 08: Abías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Posición 8 en el sorteo de 1 Crónicas 24:7–18; no filiación.
+
+
+### Turno 09: Jesúa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Posición 9 en el sorteo de 1 Crónicas 24:7–18; no filiación.
+
+
+### Turno 10: Secanías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Posición 10 en el sorteo de 1 Crónicas 24:7–18; no filiación.
+
+
+### Turno 11: Eliasib
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Posición 11 en el sorteo de 1 Crónicas 24:7–18; no filiación.
+
+
+### Turno 12: Jaquim
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Posición 12 en el sorteo de 1 Crónicas 24:7–18; no filiación.
+
+
+### Turno 13: Hupa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Posición 13 en el sorteo de 1 Crónicas 24:7–18; no filiación.
+
+
+### Turno 14: Jesebeab
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Posición 14 en el sorteo de 1 Crónicas 24:7–18; no filiación.
+
+
+### Turno 15: Bilga
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Posición 15 en el sorteo de 1 Crónicas 24:7–18; no filiación.
+
+
+### Turno 16: Imer
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Posición 16 en el sorteo de 1 Crónicas 24:7–18; no filiación.
+
+
+### Turno 17: Hezir
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Posición 17 en el sorteo de 1 Crónicas 24:7–18; no filiación.
+
+
+### Turno 18: Afses
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Posición 18 en el sorteo de 1 Crónicas 24:7–18; no filiación.
+
+
+### Turno 19: Petaías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Posición 19 en el sorteo de 1 Crónicas 24:7–18; no filiación.
+
+
+### Turno 20: Ezequiel / Jehezekel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Posición 20 en el sorteo de 1 Crónicas 24:7–18; no filiación.
+
+
+### Turno 21: Jaquín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Posición 21 en el sorteo de 1 Crónicas 24:7–18; no filiación.
+
+
+### Turno 22: Gamul
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Posición 22 en el sorteo de 1 Crónicas 24:7–18; no filiación.
+
+
+### Turno 23: Delaías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Posición 23 en el sorteo de 1 Crónicas 24:7–18; no filiación.
+
+
+### Turno 24: Maazías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Posición 24 en el sorteo de 1 Crónicas 24:7–18; no filiación.
+
+
+## G299 · 1 Crónicas 25: orden de las veinticuatro compañías musicales
+
+Fuente: 1 Crónicas 25:1–31
+
+G34–G36 conservan los padres y descendientes de Asaf, Hemán y Jedutún. Aquí se añade el orden completo del sorteo y las formas propias de los jefes: Jesarela frente a Asarela, Azareel frente a Uziel, Subael frente a Sebuel y Jeremot frente a Jerimot. Cada compañía reúne doce entre el jefe, sus hijos y hermanos: no doce hijos de cada jefe. Las veinticuatro suman 288 músicos instruidos. El problema de los seis hijos de Jedutún y cinco nombres de 25:3 permanece explicado en G36.
+
+Acontecimiento relacionado: E78 · Censo, altar y sucesión (Final de David).
+
+Acontecimiento relacionado: E79 · Sabiduría y templo (Reinado de Salomón).
+
+### Compañía 01: José (12 integrantes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañía 02: Gedalías (12 integrantes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañía 03: Zacur (12 integrantes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañía 04: Izri (12 integrantes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañía 05: Netanías (12 integrantes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañía 06: Buquías (12 integrantes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañía 07: Jesarela (12 integrantes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañía 08: Jesaías (12 integrantes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañía 09: Matanías (12 integrantes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañía 10: Simei (12 integrantes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañía 11: Azareel (12 integrantes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañía 12: Hasabías (12 integrantes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañía 13: Subael (12 integrantes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañía 14: Matatías (12 integrantes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañía 15: Jeremot (12 integrantes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañía 16: Hananías (12 integrantes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañía 17: Josbecasa (12 integrantes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañía 18: Hanani (12 integrantes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañía 19: Maloti (12 integrantes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañía 20: Eliata (12 integrantes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañía 21: Hotir (12 integrantes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañía 22: Gidalti (12 integrantes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañía 23: Mahaziot (12 integrantes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañía 24: Romamti-ezer (12 integrantes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G300 · 1 Crónicas 26: porteros, tesoreros y oficiales judiciales
+
+Fuente: 1 Crónicas 26:1–32
+
+G38 conserva las familias de porteros y G39 las de tesoreros. Selemías de 26:14 se guarda como forma de la lista frente a Meselemías de 26:1. Supim de 26:16 no se fusiona con un benjaminita homónimo. Ahías es la lectura KJV de 26:20. Quenanías y sus hijos atienden asuntos exteriores como oficiales y jueces; no se identifica automáticamente con el director del canto de 15:22. Los 1.700 de Hasabías y 2.700 de Jerías son hermanos/capaces de las casas, no hijos biológicos de estos jefes.
+
+Acontecimiento relacionado: E78 · Censo, altar y sucesión (Final de David).
+
+Acontecimiento relacionado: E79 · Sabiduría y templo (Reinado de Salomón).
+
+### Selemías (forma de 26:14)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zacarías (consejero, 26:14)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Supim (26:16)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hosa (26:16)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahías (tesoros, 26:20)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Quenanías (oficial y juez)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hasabías (hebronita, 26:30)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jerías (jefe hebronita, 26:31)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos de Quenanías (oficiales y jueces)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mil setecientos hebronitas al occidente
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Dos mil setecientos capaces destinados al oriente
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casas de porteros y tesoreros ya documentadas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G301 · 1 Crónicas 27: doce divisiones mensuales y sus relevos
+
+Fuente: 1 Crónicas 27:1–15
+
+Complementa G116 con el orden completo. Cada división tiene 24.000 hombres, no descendientes inmediatos del capitán. Dodai y Miclot se conservan tal como aparecen en el segundo turno; no se sustituye Dodai por Eleazar hijo de Dodo sin nota. Samhut izraíta y Heldai de Otoniel conservan formas y adscripciones propias frente a las listas de valientes. Benaía hijo de Joiada y Benaía piratonita tienen calificadores distintos. El relevo de Asael por su hijo Zebadías está documentado en G116.
+
+Acontecimiento relacionado: E78 · Censo, altar y sucesión (Final de David).
+
+### Jasobeam (mes 1, de Pérez)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Dodai ahohíta (mes 2)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Miclot (oficial, mes 2)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Benaía hijo de Joiada (mes 3)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Amisabad (bajo Benaía, mes 3)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Asael (mes 4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zebadías hijo de Asael (relevo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Samhut izraíta (mes 5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ira hijo de Iques (mes 6)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Helez pelonita, de Efraín (mes 7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sibecai husatita, de Zera (mes 8)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abiezer anatotita, de Benjamín (mes 9)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Maharai netofatita, de Zera (mes 10)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Benaía piratonita, de Efraín (mes 11)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Heldai netofatita, de Otoniel (mes 12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Doce divisiones de 24.000 hombres cada una
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G302 · 1 Crónicas 17, 22 y 28–29: profetas, sucesión y aportantes del templo
+
+Fuente: 1 Crónicas 17:1–27; 22:1–19; 28:1–21; 29:1–30
+
+Natán transmite la promesa a David; no se transforma el lenguaje de padre e hijo de 17:13 en genealogía humana de Dios. Salomón recibe el encargo de edificar. Jehiel gersonita recibe las piedras preciosas de 29:8; no se decide su identidad con otros Jehiel. Samuel, Natán y Gad se citan al final como autores de registros: esto no prueba que Samuel viviera en la sucesión de David ni que esos registros se conserven hoy como obras independientes identificadas. No se añaden acontecimientos nuevos al catálogo de 148.
+
+Acontecimiento relacionado: E76 · Ciudad, arca y pacto davídico (Jerusalén como capital).
+
+Acontecimiento relacionado: E78 · Censo, altar y sucesión (Final de David).
+
+Acontecimiento relacionado: E79 · Sabiduría y templo (Reinado de Salomón).
+
+### David (preparativos y sucesión)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Natán (profeta de 17)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Salomón (encargo y sucesión)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jehiel gersonita (receptor de piedras preciosas)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sadoc (sacerdote, 29:22)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Isaí (padre recordado, 29:26)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Samuel (registro citado, 29:29)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gad (registro citado, 29:29)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Extranjeros residentes convocados para la obra
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Canteros y otros artesanos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sidonios y tirios que proveen cedro
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Príncipes, jefes y oficiales de David
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jefes de casas y aportantes voluntarios
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos de David que se someten a Salomón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sacerdotes y levitas para el servicio
 
 Cronología generacional no determinada; ubicación esquemática.
 
