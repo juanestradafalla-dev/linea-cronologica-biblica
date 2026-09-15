@@ -1,6 +1,6 @@
 # Cronología bíblica
 
-Página estática de fondo claro. Línea horizontal por décadas desde 600 a. C. hasta el cierre en 70 d. C.; recorrido de las 15 etapas originales desde la rebelión celestial. Conserva las 148 fichas y enlaza al mural de 385 fichas de familias y episodios, con 5.772 apariciones de personas o grupos y 2.807 relaciones. Las apariciones repetidas no son personas únicas.
+Página estática de fondo claro. Línea horizontal por décadas desde 600 a. C. hasta el cierre en 70 d. C.; recorrido de las 15 etapas originales desde la rebelión celestial. Conserva las 148 fichas y enlaza al mural de 402 fichas de familias y episodios, con 6.011 apariciones de personas o grupos y 2.822 relaciones. Las apariciones repetidas no son personas únicas.
 
 La ampliación anterior completó los ocho bloques identificados: familias de jueces, ramas tribales, Safán, Baruc y su entorno, recabitas, casas del retorno, Job y parentescos del Nuevo Testamento. Las notas de Elena G. White distinguen obra, capítulo y referencia de página/párrafo en la edición inglesa consultada. Las familias enlazan a los acontecimientos relacionados y las fichas de acontecimientos permiten regresar a esas familias. El catálogo descargable documenta la cobertura y las incertidumbres.
 
@@ -82,3 +82,7 @@ Completada una pasada bíblica de personajes por los 25 capítulos y 719 versíc
 ## 1 Samuel: pasada de personajes completa
 
 Completada una pasada bíblica de personajes por los 31 capítulos y 810 versículos de 1 Samuel en la KJV aportada. Se añaden 22 fichas G364–G385 / R311–R332, 284 apariciones y 19 relaciones. Total: 385 fichas, 5.772 apariciones de personas o grupos y 2.807 relaciones. Las apariciones incluyen colectivos y repeticiones; no son personas únicas. Las 363 fichas anteriores y los 148 acontecimientos permanecen intactos. Se incorporan ascendencias con sus formas propias, custodios del arca, madres y servidores anónimos, ramas y reapariciones. Se cotejan puntualmente PP 679.3; 680.1 y 714.1–2 para Endor y Nahas, con atribución explícita a Elena G. White. Siguen pendientes variantes, cronologías y el contraste completo con su corpus. Próximo libro propuesto: 2 Samuel.
+
+## 2 Samuel: cotejo de personajes de los veinticuatro capítulos
+
+Completada una pasada bíblica de personajes por los 24 capítulos y 695 versículos de 2 Samuel en la KJV aportada. Se añaden 17 fichas G386–G402 / R333–R349, 239 apariciones y 15 relaciones. Total: 402 fichas, 6.011 apariciones de personas o grupos y 2.822 relaciones. Las apariciones incluyen colectivos y repeticiones; no son personas únicas. Las 385 fichas anteriores y los 148 acontecimientos permanecen intactos. Se incorporan padres anónimos, nodriza de Mefiboset, Amiud–Talmai, variantes de los oficiales y auxiliares de las crisis de David. Se distinguen parábolas, acusaciones y genealogías documentadas. PP 735.3 se coteja puntualmente para Ahitofel y Betsabé, con atribución explícita a Elena G. White. Variantes, cronologías y contraste integral con White siguen abiertos. Próximo libro propuesto: Jueces.
