@@ -4,6 +4,10 @@ Filiaciones, genealogías, parentescos, sucesiones y pertenencia a pueblos se di
 
 Estado: ampliación documentada, no inventario exhaustivo de todos los personajes bíblicos ni lectura íntegra de los 120 PDF. Las apariciones repetidas no equivalen a personas únicas.
 
+## 2 Samuel: cotejo de personajes de los veinticuatro capítulos
+
+Completada una pasada bíblica de personajes por los 24 capítulos y 695 versículos de 2 Samuel en la KJV aportada. Se añaden 17 fichas G386–G402 / R333–R349, 239 apariciones y 15 relaciones. Total: 402 fichas, 6.011 apariciones de personas o grupos y 2.822 relaciones. Las apariciones incluyen colectivos y repeticiones; no son personas únicas. Las 385 fichas anteriores y los 148 acontecimientos permanecen intactos. Se incorporan padres anónimos, nodriza de Mefiboset, Amiud–Talmai, variantes de los oficiales y auxiliares de las crisis de David. Se distinguen parábolas, acusaciones y genealogías documentadas. PP 735.3 se coteja puntualmente para Ahitofel y Betsabé, con atribución explícita a Elena G. White. Variantes, cronologías y contraste integral con White siguen abiertos. Próximo libro propuesto: Jueces.
+
 ## 1 Samuel: cotejo de personajes de los treinta y un capítulos
 
 Completada una pasada bíblica de personajes por los 31 capítulos y 810 versículos de 1 Samuel en la KJV aportada. Se añaden 22 fichas G364–G385 / R311–R332, 284 apariciones y 19 relaciones. Total: 385 fichas, 5.772 apariciones de personas o grupos y 2.807 relaciones. Las apariciones incluyen colectivos y repeticiones; no son personas únicas. Las 363 fichas anteriores y los 148 acontecimientos permanecen intactos. Se incorporan ascendencias con sus formas propias, custodios del arca, madres y servidores anónimos, ramas y reapariciones. Se cotejan puntualmente PP 679.3; 680.1 y 714.1–2 para Endor y Nahas, con atribución explícita a Elena G. White. Siguen pendientes variantes, cronologías y el contraste completo con su corpus. Próximo libro propuesto: 2 Samuel.
@@ -46868,6 +46872,1840 @@ Cronología generacional no determinada; ubicación esquemática.
 ### Hombres de David que guardan duelo
 
 Después de la muerte de Saúl, en Siclag, según 2 Samuel 1:1–16; no participante atestiguado en la escena de 1 Samuel 31 por esta ficha.
+
+
+
+
+## G386 · 2 Samuel 1–2: duelo, coronaciones y padre anónimo de Asael
+
+Fuente: 2 Samuel 1–2
+
+G385 conserva al mensajero amalecita y a su padre; su declaración sobre la muerte de Saúl se distingue de 1 Samuel 31. El lamento llama hermano a Jonatán por su amistad, sin convertirlo en hijo de Isaí. Las hijas de Israel son destinatarias del duelo; el deseo de que no triunfen las hijas filisteas no documenta una celebración concreta. El libro de Jaser no proporciona aquí el nombre de un autor. G23 conserva a Joab, Abisai y Asael, hijos de Sarvia. La sepultura de su padre en Belén (2:32) permite registrar al padre anónimo de Asael; no se extiende automáticamente esa paternidad a sus hermanos. Los doce de cada bando en Gabaón no son doce parejas de hermanos. Los 19 hombres de David y Asael son veinte caídos de ese bando. Los siete años y seis meses de David en Hebrón, los cuarenta años de Is-boset al comenzar y sus dos de reinado no se fuerzan a una sincronización absoluta.
+
+Acontecimiento relacionado: E74 · Endor y Gilboa (Fin de Saúl).
+
+Acontecimiento relacionado: E75 · Reino de Judá y reunificación (David: 7 años y 6 meses en Hebrón).
+
+### David (rey en Hebrón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Is-boset (rey sobre Israel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abner (hijo de Ner)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joab (hijo de Sarvia)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abisai (hermano de Joab)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Asael (muerto por Abner)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sarvia (madre de los tres hermanos)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Padre de Asael (sepultura en Belén, sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Asael (muerto por Abner). Padre recordado por su sepultura; nombre y generaciones anteriores no determinados. Fuente: 2 Samuel 2:32
+
+### Ahinoam (esposa de David)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abigail (esposa de David)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijas de Israel interpeladas en el lamento
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familias que acompañan a David a Hebrón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombres de Judá que ungen a David
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mensajeros a Jabes de Galaad
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Doce combatientes de Benjamín en Gabaón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Doce servidores de David en Gabaón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Diecinueve hombres de David caídos además de Asael
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Trescientos sesenta hombres del bando de Abner caídos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G387 · 2 Samuel 3: Rizpa acusada, restitución de Mical y muerte de Abner
+
+Fuente: 2 Samuel 3
+
+G25 conserva los seis hijos nacidos en Hebrón con sus madres y a Talmai padre de Maaca. G132 conserva Aja–Rizpa; Is-boset acusa a Abner de haberse unido a la concubina de Saúl, pero la acusación no se convierte en una unión genealógica confirmada ni en hijos nuevos. G24 conserva a Mical y Paltiel hijo de Lais, llamado Palti en 1 Samuel 25:44. El precio de cien prepucios mencionado aquí remite a la exigencia del matrimonio y no borra los doscientos entregados en 1 Samuel 18. Los veinte compañeros del banquete no reciben nombres. Joab mata a Abner y 3:30 incluye a Abisai en la responsabilidad; la maldición sobre la casa paterna de Joab no enumera descendientes realmente enfermos. David participa del duelo, no de la emboscada según el relato.
+
+Acontecimiento relacionado: E75 · Reino de Judá y reunificación (David: 7 años y 6 meses en Hebrón).
+
+### David (reclama a Mical)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Is-boset (acusa a Abner)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abner (negocia y muere)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rizpa (hija de Aja, concubina de Saúl)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mical (hija de Saúl)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Paltiel (hijo de Lais)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joab (mata a Abner)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abisai (incluido en 3:30)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mensajeros de Abner y David
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ancianos de Israel consultados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Benjaminitas consultados por Abner
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Veinte compañeros de Abner en el banquete
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mensajeros de Joab que hacen volver a Abner
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pueblo que acompaña el entierro de Abner
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G388 · 2 Samuel 4 y 9: nodriza de Mefiboset y continuidad de la casa de Jonatán
+
+Fuente: 2 Samuel 4; 9
+
+La nodriza de Mefiboset huye al llegar la noticia de la muerte de Saúl y Jonatán; el niño cae y queda impedido de ambos pies. No se identifica a la nodriza con su madre. Tenía cinco años al llegar aquella noticia: es una evocación del pasado, no su edad durante el asesinato de Is-boset o la acogida posterior por David. G102 conserva Rimón de Beerot–Baana/Recab. G127 conserva Amiel–Maquir de Lodebar, anfitrión de Mefiboset. G24 conserva Jonatán–Mefiboset–Mica/Micaía y la prolongación de Crónicas, así como los quince hijos y veinte servidores de Siba. Comer como uno de los hijos del rey expresa honor, no paternidad biológica de David. Este Mefiboset es nieto de Saúl, distinto del hijo de Saúl y Rizpa de 21:8.
+
+Acontecimiento relacionado: E75 · Reino de Judá y reunificación (David: 7 años y 6 meses en Hebrón).
+
+Acontecimiento relacionado: E76 · Ciudad, arca y pacto davídico (Jerusalén como capital).
+
+### Jonatán (padre de Mefiboset)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mefiboset (hijo de Jonatán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nodriza de Mefiboset (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- crianza → Mefiboset (hijo de Jonatán). Cuidadora anónima; no filiación materna. Fuente: 2 Samuel 4:4
+
+### Mica / Micha (hijo de Mefiboset)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Maquir (hijo de Amiel, anfitrión)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Siba (servidor de la casa de Saúl)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### David (acoge a Mefiboset)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Is-boset (asesinado en su cama)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Baana (hijo de Rimón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Recab (hijo de Rimón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Beerotitas refugiados en Gitaim
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jóvenes que ejecutan a los asesinos de Is-boset
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Quince hijos de Siba
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Veinte servidores de Siba
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G389 · 2 Samuel 5–6: nombres de los hijos de Jerusalén y servidores del arca
+
+Fuente: 2 Samuel 5–6; comparación con 1 Crónicas 3; 13
+
+La lista de 5:14–16 enumera once nombres: Samúa, Sobab, Natán, Salomón, Ibhar, Elisúa, Nefeg, Jafía, Elisama, Eliada y Elifelet. G25 conserva la lista más extensa de Crónicas. Samúa/Shammua y Elisúa/Elishua se mantienen como formas de Samuel sin reemplazar Simea o Elisama de Crónicas ni afirmar hijos adicionales seguros. Las mujeres, concubinas e hijas no enumeradas no reciben nombres. Hiram de Tiro envía artesanos: no es Hiram el trabajador del templo de Salomón. Uza y Ahío son hijos de Abinadab en G102; Eleazar custodio se conserva en G366. La era de Nacón/Nachon es una designación del lugar, sin construir una familia de su presunto propietario ni resolver su relación con Quidón de Crónicas. Obed-edom el geteo y su casa reciben el arca tres meses; no se fusionan por ello todos los Obed-edom de otras listas. La ausencia de hijos de Mical hasta su muerte (6:23) se mantiene junto a la dificultad de 21:8, tratada en G132.
+
+Acontecimiento relacionado: E76 · Ciudad, arca y pacto davídico (Jerusalén como capital).
+
+### David (rey en Jerusalén)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Samúa / Shammua (forma de 5:14)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elisúa / Elishua (forma de 5:15)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hiram de Tiro (rey que envía materiales)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Uza (hijo de Abinadab)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahío (hijo de Abinadab)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Obed-edom el geteo (anfitrión del arca)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mical (hija de Saúl, observa el traslado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Esposas y concubinas de David no enumeradas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijas de David no enumeradas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ancianos de las tribus que pactan con David
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jebuseos de Jerusalén
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mensajeros, carpinteros y canteros de Hiram
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Treinta mil escogidos del primer traslado
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Músicos y participantes del traslado
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Obed-edom bendecida
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Portadores del arca del segundo traslado
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombres y mujeres que reciben alimentos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Criadas mencionadas en el diálogo con Mical
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G390 · 2 Samuel 7, 22 y 23: promesa dinástica y personajes de los cánticos
+
+Fuente: 2 Samuel 7; 22; 23:1–7
+
+Natán el profeta no es Natán hijo de David. Su consejo inicial en 7:3 es seguido por la palabra recibida de noche. El descendiente que edificará la casa no recibe nombre en este capítulo; la continuidad real está en G26 y la mesiánica en G29–G30. «Yo le seré a él padre» es lenguaje de la promesa divina, no una filiación biológica añadida al árbol. Los antepasados y Saúl recordados en oraciones y encabezamientos no son asistentes vivos. El querubín de 22:11 pertenece a una imagen poética de la manifestación divina, sin nombre ni identificación con Lucifer. «Hijos de Belial» en 23:6 no aporta un padre genealógico. El cántico de 22 y las últimas palabras de 23:1–7 se registran como textos poéticos; su colocación no fecha todos los acontecimientos al final del reinado.
+
+Acontecimiento relacionado: E76 · Ciudad, arca y pacto davídico (Jerusalén como capital).
+
+Acontecimiento relacionado: E78 · Censo, altar y sucesión (Final de David).
+
+### David (orante y autor presentado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Natán (profeta de la promesa)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Isaí (padre recordado en 23:1)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Saúl (adversario recordado en el encabezamiento)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Descendiente prometido (sin nombre en 7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de David y descendencia de la promesa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Israel recordado en la oración
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Enemigos evocados en el cántico
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Impíos comparados con espinos en 23
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G391 · 2 Samuel 8: Rehob, Toi, Joram y formas de los oficiales
+
+Fuente: 2 Samuel 8; comparación con 1 Crónicas 18
+
+Rehob es padre de Hadad-ezer de Soba; Toi de Hamat envía a su hijo Joram a David. Joram no se fusiona con los reyes homónimos de Israel o Judá. Crónicas presenta Tou–Hadoram: G296 conserva esas formas y aquí se conserva Toi–Joram, sin fabricar una segunda familia segura. Samuel nombra a Seraías como escriba y a Ahimelec hijo de Abiatar como sacerdote; no se sustituyen silenciosamente por Savsa y Abimelec de 1 Crónicas 18. Ahimelec hijo de Abiatar no es, por inversión, Ahimelec padre de Abiatar de Nob. Josafat hijo de Ahilud no es el futuro rey de Judá; Benaía hijo de Joiada no es el Benaía piratonita. Los hijos de David llamados principales no se convierten por ese cargo en levitas. Las cifras militares de Samuel y Crónicas se conservan en sus respectivas fuentes; no se suman como campañas o personas adicionales.
+
+Acontecimiento relacionado: E76 · Ciudad, arca y pacto davídico (Jerusalén como capital).
+
+### Rehob (padre de Hadad-ezer)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Hadad-ezer (rey de Soba).  Fuente: 2 Samuel 8:3
+
+### Hadad-ezer (rey de Soba)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Toi (rey de Hamat, forma de Samuel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Joram (hijo de Toi).  Fuente: 2 Samuel 8:9–10
+
+### Joram (hijo de Toi)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### David (receptor de presentes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Seraías (escriba de 8:17)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abiatar (padre del Ahimelec de 8:17)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Ahimelec (hijo de Abiatar, forma de Samuel). Forma de Samuel frente a Abimelec de 1 Crónicas 18:16. Fuente: 2 Samuel 8:17
+
+### Ahimelec (hijo de Abiatar, forma de Samuel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sadoc (hijo de Ahitub)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Josafat (hijo de Ahilud)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Benaía (hijo de Joiada)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joab (hijo de Sarvia)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sirios de Damasco que ayudan a Hadad-ezer
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Moabitas vencidos y tributarios
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Guarniciones y servidores de la administración
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cereteos y peleteos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos de David que ejercen cargos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G392 · 2 Samuel 10: Hanún, consejeros, emisarios humillados y Sobac
+
+Fuente: 2 Samuel 10; comparación con 1 Crónicas 19
+
+G126 conserva Nahas–Hanún y a Sobi hijo de Nahas; G369 documenta el cotejo puntual de White sobre el padre de Hanún y el Nahas de Jabes. Los príncipes aconsejan desconfiar de los emisarios y Hanún los humilla. David les permite esperar en Jericó; no tienen nombres propios. El rey de Maaca es un varón anónimo designado por su reino, no una mujer llamada Maaca. Is-tob designa un contingente/lugar, no un antepasado. Sobac/Shobach manda el ejército de Hadad-ezer y muere; G296 conserva Sofac/Shophach en Crónicas, sin convertir la diferencia de nombre en dos generales seguros. Abisai es hermano de Joab; la separación táctica de sus tropas no crea ramas familiares nuevas.
+
+Acontecimiento relacionado: E76 · Ciudad, arca y pacto davídico (Jerusalén como capital).
+
+### Hanún (hijo de Nahas)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nahas (padre fallecido de Hanún)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### David (envía condolencias)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joab (dirige la campaña)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abisai (dirige contra los amonitas)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hadad-ezer (reúne a los sirios)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sobac / Shobach (general de los sirios)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rey de Maaca (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Príncipes amonitas que aconsejan a Hanún
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Emisarios de David humillados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Enviados que encuentran a los emisarios
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Amonitas y tropas mercenarias de Bet-rehob y Soba
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Contingentes de Maaca e Is-tob
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Reyes sujetos a Hadad-ezer que hacen paz
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G393 · 2 Samuel 11–12: auxiliares de Urías y Salomón llamado Jedidías
+
+Fuente: 2 Samuel 11–12
+
+G77 conserva Eliam–Betsabé–Urías y el cotejo de Eliam hijo de Ahitofel en 23:34. El informante que identifica a Betsabé, los emisarios que la traen y el mensajero militar de Joab quedan anónimos. G141 conserva al primer hijo de David y Betsabé: muere al séptimo día de la enfermedad relatada, no se le asignan siete días de edad. Salomón recibe también el nombre Jedidías mediante Natán; es el mismo hijo, no un hermano añadido. La parábola del rico y el pobre no se registra como familia histórica: los hijos del pobre, la corderita comparada con una hija y el viajero son elementos de esa exposición. El recuerdo de Abimelec hijo de Jerubeset y de la mujer de Tebes pertenece a una guerra anterior, no a los combatientes de Rabá. Las esposas del señor entregadas «en tu seno» en 12:8 no permiten atribuir a David matrimonios nuevos con mujeres concretas sin nombrar. Las víctimas y habitantes de Rabá no se convierten en descendientes del rey.
+
+Acontecimiento relacionado: E77 · Betsabé y rebelión de Absalón (Crisis de la casa de David).
+
+### David (ordena el regreso y la exposición de Urías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Salomón / Jedidías (un solo hijo). Un hijo con dos nombres; se corresponde con Salomón de G25. Fuente: 2 Samuel 12:24–25
+
+### Betsabé (hija de Eliam)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Salomón / Jedidías (un solo hijo).  Fuente: 2 Samuel 12:24–25
+
+### Urías el heteo (muere en campaña)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joab (recibe las órdenes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Natán (reprende y comunica el nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Salomón / Jedidías (un solo hijo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijo fallecido de David y Betsabé (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Informante que identifica a Betsabé (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mensajero militar de Joab (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mensajeros que traen a Betsabé
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Servidores a cuya puerta duerme Urías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Guerreros que caen junto a Urías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ancianos que intentan levantar a David
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Servidores que observan la enfermedad y muerte del niño
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Habitantes de Rabá afectados por la conquista
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G394 · 2 Samuel 13: Amiud–Talmai y auxiliares en la tragedia de Tamar
+
+Fuente: 2 Samuel 13; 3:3
+
+Talmai rey de Gesur es hijo de Amiud (13:37) y padre de Maaca, madre de Absalón (3:3): se prolonga la rama ya conservada en G25. No se conoce aquí la fecha de nacimiento de esas generaciones. Tamar hermana de Absalón es distinta de Tamar hija de Absalón; la agresión de Amnón no se dibuja como matrimonio. G124 conserva a Jonadab hijo de Simea, hermano de David; no es Jonadab de la casa de Recab. El joven de Amnón que expulsa a Tamar, los servidores que matan a Amnón y el vigía que ve regresar a los príncipes quedan anónimos. La noticia inicial de que todos los hijos del rey han muerto es corregida: muere Amnón. Transcurren dos años antes de la venganza y tres de refugio en Gesur, sin años absolutos añadidos.
+
+Acontecimiento relacionado: E77 · Betsabé y rebelión de Absalón (Crisis de la casa de David).
+
+### Amiud (padre de Talmai de Gesur)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Talmai (rey de Gesur).  Fuente: 2 Samuel 13:37; 3:3
+
+### Talmai (rey de Gesur)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Maaca (hija de Talmai).  Fuente: 2 Samuel 13:37; 3:3
+
+### Maaca (hija de Talmai)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Absalón (hijo de Maaca).  Fuente: 2 Samuel 3:3
+
+### Absalón (hijo de Maaca)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tamar (hija de David, hermana de Absalón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Amnón (agresor de Tamar)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jonadab (hijo de Simea)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### David (padre de los príncipes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joven servidor de Amnón que expulsa a Tamar
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Vigía que ve regresar a los hijos del rey
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Servidores de Absalón que matan a Amnón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos del rey que escapan del banquete
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Siervos de David que reciben la primera noticia
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G395 · 2 Samuel 14: mujer sabia de Tecoa y descendencia de Absalón
+
+Fuente: 2 Samuel 14; 18:18
+
+La mujer sabia de Tecoa actúa siguiendo las palabras de Joab. La viudez, el esposo fallecido, los dos hijos enfrentados y la familia que pide al sobreviviente forman la petición construida para presentar al rey; no se incorporan como su genealogía histórica comprobada. Es distinta de la mujer sabia de Abel de 20. G25 conserva los tres hijos varones sin nombre y Tamar hija de Absalón (14:27). La declaración de no tener hijo que preserve su nombre junto al monumento (18:18) no permite inventar nombres, muertes infantiles ni una fecha de erección que resuelva automáticamente la dificultad. Absalón permanece dos años en Jerusalén sin ver al rey. Sus servidores incendian el campo de Joab; ni ellos ni los servidores de Joab son nuevos hijos de sus amos.
+
+Acontecimiento relacionado: E77 · Betsabé y rebelión de Absalón (Crisis de la casa de David).
+
+### Mujer sabia de Tecoa (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joab (instruye a la mujer)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### David (autoriza el regreso)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Absalón (regresa de Gesur)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tamar (hija de Absalón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tres hijos varones de Absalón (sin nombres)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Servidores de Absalón que queman el campo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Servidores de Joab que informan del incendio
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G396 · 2 Samuel 15–16 y 20: partidarios, invitados inocentes y diez concubinas
+
+Fuente: 2 Samuel 15–16; 20:3
+
+Los cincuenta corredores de Absalón, los espías enviados por las tribus y los doscientos invitados que van sin conocer el complot son grupos diferentes: no se acusa a los doscientos de conspiración consciente. G190 conserva a Itai el geteo y a su gente con sus pequeños, sin hacerlos todos hijos biológicos de Itai. G191 conserva las dos parejas sacerdotales padre–hijo de la red de información. Las diez concubinas que David deja al cuidado de la casa son el mismo grupo expuesto públicamente por Absalón y mantenido después apartado en 20:3; no se añaden treinta mujeres ni nombres o hijos desconocidos. La conducta de Absalón no se convierte en matrimonios. G327 conserva Gera–Simei. La acusación de Siba contra Mefiboset se coteja con la defensa de este en 19; no se registra una traición probada. Los cuarenta años de 15:7 se conservan como lectura KJV, no como edad de Absalón ni fecha absoluta resuelta.
+
+Acontecimiento relacionado: E77 · Betsabé y rebelión de Absalón (Crisis de la casa de David).
+
+### David (sale de Jerusalén)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Absalón (usurpa la corte)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahitofel (consejero de Absalón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Husai el arquita (vuelve para ayudar a David)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Itai el geteo (acompaña a David)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Simei (hijo de Gera)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Siba (acusa a Mefiboset)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cincuenta corredores de Absalón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Espías enviados por las tribus
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Doscientos invitados que ignoran el complot
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Diez concubinas dejadas en Jerusalén
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Seiscientos geteos y acompañantes de Itai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Levitas que llevan y devuelven el arca
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Partidarios que suben llorando el monte de los Olivos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G397 · 2 Samuel 17: padre de Ahitofel y continuidad hacia Betsabé
+
+Fuente: 2 Samuel 17:1–23; 11:3; 23:34
+
+Ahitofel arregla su casa, se ahorca y es sepultado en el sepulcro de su padre, cuyo nombre no se da. G77 conserva el enlace Eliam–Betsabé y a Eliam hijo de Ahitofel en la lista de guerreros: el enlace entre ambos Eliam es un cotejo entre pasajes, no una genealogía seguida en 17. White llama expresamente nieta de Ahitofel a Betsabé y atribuye la deserción a la venganza por la afrenta familiar (PP 735.3); esta motivación se atribuye a White, no a una declaración de 2 Samuel 17. Los doce mil hombres propuestos por Ahitofel pertenecen a un plan rechazado, no a un ejército que salió bajo sus órdenes. G191 conserva la criada, el joven que descubre a los mensajeros y la mujer que los esconde; no se supone matrimonio entre ella y el dueño de la casa de Bahurim.
+
+Elena G. White — Patriarchs and Prophets, PP 735.3 (PDF aportado, página 256): White identifica a Betsabé como nieta de Ahitofel y atribuye su deserción al deseo de vengar la afrenta familiar. Se distingue esa atribución del relato de 2 Samuel. Consulta puntual del párrafo, sin revisión íntegra de la obra.
+
+Acontecimiento relacionado: E77 · Betsabé y rebelión de Absalón (Crisis de la casa de David).
+
+### Padre de Ahitofel (sepultura familiar, sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Ahitofel (consejero que se suicida).  Fuente: 2 Samuel 17:23
+
+### Ahitofel (consejero que se suicida)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Eliam (hijo de Ahitofel en 23:34).  Fuente: 2 Samuel 23:34
+
+### Eliam (hijo de Ahitofel en 23:34)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Betsabé (hija de Eliam en 11:3). Enlace por cotejo del nombre Eliam entre pasajes, explicitado como parentesco de nieta por White en PP 735.3. Fuente: 2 Samuel 11:3; 23:34
+
+### Betsabé (hija de Eliam en 11:3)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Husai (su consejo es aceptado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Absalón (acepta el consejo de Husai)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sadoc (recibe información)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abiatar (recibe información)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahimaas (mensajero hijo de Sadoc)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jonatán (mensajero hijo de Abiatar)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ancianos de Israel consultados por Absalón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa de Ahitofel que deja en orden
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G398 · 2 Samuel 17 y 19: padres de Barzilai y auxiliares del regreso
+
+Fuente: 2 Samuel 17:24–29; 19
+
+G23 conserva a Amasa hijo de Itra israelita y Abigail hija de Nahas, hermana de Sarvia, frente a Jeter ismaelita y las relaciones de Crónicas; no se elimina la variante. Sobi hijo de Nahas de Rabá, Maquir hijo de Amiel y Barzilai de Rogelim abastecen a David: G126–G127 conservan sus familias. Maquir ya hospedaba a Mefiboset en 9. Barzilai tiene ochenta años y pide morir junto a la sepultura de su padre y su madre; ambos quedan anónimos. G125 conserva sus hijos y a Quimham, pero 19 no declara expresamente a Quimham hijo biológico suyo. Los cantores y cantoras de 19:35 forman una comparación del anciano, no un concierto documentado con nombres. Mefiboset llamado hijo de Saúl en 19:24 es el nieto por Jonatán del contexto; su defensa y la acusación de Siba permanecen diferenciadas. La división real de la propiedad no resuelve explícitamente toda la disputa. La casa de José invocada por Simei no lo hace hijo biológico de José.
+
+Acontecimiento relacionado: E77 · Betsabé y rebelión de Absalón (Crisis de la casa de David).
+
+### Padre de Barzilai galaadita (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Barzilai galaadita (ochenta años).  Fuente: 2 Samuel 19:37
+
+### Madre de Barzilai galaadita (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Barzilai galaadita (ochenta años).  Fuente: 2 Samuel 19:37
+
+### Barzilai galaadita (ochenta años)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Quimham (acompaña al rey)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sobi (hijo de Nahas de Rabá)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Maquir (hijo de Amiel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Amasa (hijo de Itra y Abigail)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### David (regresa al reino)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joab (amonesta a David)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mefiboset (hijo de Jonatán, presenta su defensa)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Siba (servidor acusado de engaño)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Simei (solicita perdón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abisai (solicita castigo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mil benjaminitas que acompañan a Simei
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Quince hijos y veinte siervos de Siba en el regreso
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombres de Judá e Israel que disputan por el regreso
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G399 · 2 Samuel 18: testigo de Absalón, escuderos, Cusi y vigilantes
+
+Fuente: 2 Samuel 18
+
+Joab, Abisai e Itai dirigen tres divisiones. El hombre que descubre a Absalón rehúsa matarlo pese a la recompensa; queda sin nombre. El texto dice que su cabeza queda prendida en la encina: no se sustituye por el cabello como detalle explícito de este versículo. Joab lo hiere y diez escuderos lo rematan. Cusi/Cushi se conserva como forma KJV y posible designación de origen, sin enlazarlo con Cus de Génesis ni con el padre homónimo de Jeremías 36. Ahimaas hijo de Sadoc y Cusi son mensajeros distintos; «hijo mío» de Joab a Ahimaas no implica paternidad de Joab. El atalaya que identifica al corredor y el portero son auxiliares diferentes. Los veinte mil caídos no se desglosan en personas inventadas. La dificultad entre los tres hijos de Absalón y su monumento se trata en G395.
+
+Acontecimiento relacionado: E77 · Betsabé y rebelión de Absalón (Crisis de la casa de David).
+
+### David (espera noticias de su hijo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Absalón (muere en el bosque)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joab (hiere a Absalón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abisai (jefe de una división)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Itai (jefe de una división)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombre que encuentra a Absalón (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cusi / Cushi (mensajero de la muerte)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahimaas (hijo de Sadoc, corredor)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Atalaya que observa a los corredores
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Portero que recibe el aviso del atalaya
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Diez escuderos de Joab que matan a Absalón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Combatientes caídos en el bosque
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombres que sepultan a Absalón bajo piedras
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G400 · 2 Samuel 20: mujer sabia de Abel, servidor de Joab y oficiales
+
+Fuente: 2 Samuel 20
+
+G157 conserva Bicri–Seba y a la mujer sabia de Abel, distinta de la mujer de Tecoa de 14. «Madre en Israel» describe aquí la ciudad, no una madre biológica de todo Israel. Joab mata a Amasa; un servidor de Joab retira el cuerpo que detiene a los soldados. Las diez concubinas de 20:3 son las de 15–16, conservadas en G396. La lista de oficiales nombra a Adoram sobre los tributos, Josafat hijo de Ahilud como cronista, Seva/Sheva como escriba, Sadoc y Abiatar sacerdotes e Ira jairita como principal junto a David. Seva no se convierte automáticamente en otro nombre de Seraías; Adoram no se fusiona sin examen con Adoniram/Hadoram. Ira jairita es distinto de Ira hijo de Iques e Ira itrita de 23; el gentilicio no autoriza una filiación directa desde Jair. Los beritas de 20:14 son un colectivo, sin antepasado inventado.
+
+Acontecimiento relacionado: E77 · Betsabé y rebelión de Absalón (Crisis de la casa de David).
+
+### Seba (hijo de Bicri, benjaminita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mujer sabia de Abel (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joab (mata a Amasa)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Amasa (muerto durante la movilización)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abisai (recibe la orden de perseguir a Seba)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Servidor de Joab que retira el cuerpo de Amasa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### David (ordena la persecución)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Adoram (encargado de tributos)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Josafat (hijo de Ahilud, cronista)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Seva / Sheva (escriba de 20:25)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sadoc (sacerdote)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abiatar (sacerdote)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ira jairita (oficial de David)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Benaía (hijo de Joiada)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pueblo de Abel que ejecuta a Seba
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Beritas y otros seguidores reunidos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Guardia y hombres que persiguen a Seba
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G401 · 2 Samuel 21: víctimas de la casa de Saúl, Rizpa y combatientes gigantes
+
+Fuente: 2 Samuel 21
+
+G132 conserva Aja–Rizpa, sus hijos Armoni y Mefiboset de Saúl, y los cinco hijos de Adriel hijo de Barzilai meholatita. La KJV dice que Mical crió a los cinco; 1 Samuel 18 presenta a Merab como esposa de Adriel y 2 Samuel 6:23 declara a Mical sin hijos. Se preserva la dificultad sin asignar cinco nuevos hijos biológicos a Mical. Mefiboset hijo de Jonatán es perdonado y no es la víctima homónima. La vigilancia de Rizpa va desde la cosecha hasta las lluvias, sin un número exacto de días calculado aquí. Los restos de Saúl y Jonatán vuelven al sepulcro de Cis en Zela. G148 conserva Isbi-benob, Saf, las formas de Elhanán hijo de Jaare-oregim y el gigante de seis dedos vencido por Jonatán hijo de Simea. La relación con Goliat/Lahmi se conserva con su dificultad de traducción frente a Crónicas, sin ocultar las palabras suplidas en KJV. La hambruna de tres años pertenece a los días de David, sin fecha absoluta ni secuencia automática posterior a la rebelión de Seba.
+
+Acontecimiento relacionado: E77 · Betsabé y rebelión de Absalón (Crisis de la casa de David).
+
+Acontecimiento relacionado: E78 · Censo, altar y sucesión (Final de David).
+
+### David (consulta por la hambruna)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rizpa (hija de Aja, vigila los cuerpos)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Armoni (hijo de Saúl y Rizpa)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mefiboset (hijo de Saúl y Rizpa, ejecutado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mefiboset (hijo de Jonatán, perdonado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Adriel (hijo de Barzilai meholatita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abisai (salva a David de Isbi-benob)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sibecai husatita (vence a Saf)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elhanán (hijo de Jaare-oregim, forma de Samuel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jonatán (hijo de Simea, vence al gigante)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cinco hijos de Adriel entregados a los gabaonitas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gabaonitas sobrevivientes de la persecución de Saúl
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombres de Jabes que habían recuperado los cuerpos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Recolectores y sepultureros de los restos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Servidores que impiden a David seguir en primera línea
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G402 · 2 Samuel 23–24: víctimas de Benaía, censo y cautelas del cierre
+
+Fuente: 2 Samuel 23:8–39; 24; comparación con 1 Crónicas 11; 21
+
+G216 conserva completa la lista de guerreros de 23:8–39 con sus padres y auxiliares; G217 mantiene por separado las formas de Crónicas. Se añaden las dos víctimas moabitas descritas como hombres semejantes a leones y el guerrero egipcio vencido por Benaía, sin nombres o ascendencias tradicionales. Los tres que traen agua de Belén son anónimos: no se igualan automáticamente al primer trío de la lista. «Treinta y siete» no cuenta los padres y colectivos añadidos al mural ni prueba que todos vivieran simultáneamente; Asael y Urías ya han muerto en el relato. Natán de Soba padre de Igal no es automáticamente el profeta o el hijo de David; los Dodo homónimos y la secuencia de Jasén/Jonatán conservan sus cautelas en G216. G297 conserva Ornan y sus cuatro hijos de Crónicas; Samuel lo llama Arauna y no nombra esos hijos. «Como un rey» no establece una dinastía jebusea. El ángel de la peste no recibe nombre. Los nueve meses y veinte días son duración del recorrido del censo. Las cifras censales, siete/tres años de hambre propuestos y cincuenta siclos de plata/seiscientos de oro de los paralelos no se armonizan mediante sumas o fechas inventadas. La atribución del impulso al censo en Samuel se distingue de Satanás en Crónicas. Las ovejas de 24:17 son una metáfora del pueblo.
+
+Acontecimiento relacionado: E78 · Censo, altar y sucesión (Final de David).
+
+### Benaía (hijo de Joiada, guerrero)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Guerrero egipcio vencido por Benaía (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### David (ordena el censo y levanta el altar)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joab (objeta y dirige el censo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gad (profeta que presenta las alternativas)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Arauna / Araunah (jebuseo de Samuel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Dos guerreros moabitas vencidos por Benaía
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tres guerreros anónimos que traen agua de Belén
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Capitanes que recorren el país para el censo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Setenta mil israelitas muertos por la peste
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Servidores del rey que llegan con él ante Arauna
+
+Cronología generacional no determinada; ubicación esquemática.
 
 
 
