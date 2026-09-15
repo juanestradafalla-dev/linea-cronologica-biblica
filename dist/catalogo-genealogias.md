@@ -4,6 +4,10 @@ Filiaciones, genealogías, parentescos, sucesiones y pertenencia a pueblos se di
 
 Estado: ampliación documentada, no inventario exhaustivo de todos los personajes bíblicos ni lectura íntegra de los 120 PDF. Las apariciones repetidas no equivalen a personas únicas.
 
+## Sexta incorporación: personajes
+
+26 listas y grupos adicionales (G211–G236; R158–R183): guerreros de David, administración de Salomón, reyes, autoridades y discípulos. Total: 236 fichas, 3.138 apariciones y 2.322 relaciones. Las apariciones no equivalen a personas únicas. Se conservan variantes y fechas desconocidas. La revisión integral de personajes continúa pendiente; no se amplían los 148 acontecimientos en esta tanda.
+
 # Quinta ampliación publicada
 
 Se incorporan R137–R157: **21 fichas nuevas, 125 apariciones y 10 relaciones**. Total: **210 fichas, 2.848 apariciones de personas o grupos y 2.235 relaciones**. Las apariciones no equivalen a personas únicas. Se conservan las 189 fichas anteriores y los 148 acontecimientos originales.
@@ -24282,6 +24286,2345 @@ Orden relativo en la etapa; fechas personales y año absoluto no determinados po
 ### Felipe evangelista
 
 Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+## G211 · Reyes de las coaliciones de Génesis 14
+
+Fuente: Génesis 14:1-3
+
+Son cargos y alianzas, no parentescos. No identificar Amrafel con un rey mesopotámico concreto por conjetura, ni al rey de Bela con Bela hijo de Beor de la lista de Edom.
+
+Acontecimiento relacionado: E35 · Separación, rescate y Melquisedec (Residencia en Canaán).
+
+### Amrafel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Rey de Sinar.
+
+
+### Arioc (rey de Elasar)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Quedorlaomer
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Rey de Elam.
+
+
+### Tidal
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Rey de naciones en KJV.
+
+
+### Bera
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Rey de Sodoma.
+
+
+### Birsa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Rey de Gomorra.
+
+
+### Sinab
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Rey de Adma.
+
+
+### Semeber
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Rey de Zeboim.
+
+
+### Rey de Bela / Zoar (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G212 · Abimelec, Ahuzat y Ficol en tiempos de Isaac
+
+Fuente: Génesis 26:26
+
+El pasaje describe una comitiva de Gerar. No acredita parentescos ni demuestra por sí solo que Abimelec y Ficol sean los mismos individuos de episodios anteriores.
+
+Acontecimiento relacionado: E42 · Esaú, Jacob y la bendición (Isaac, 60 años al nacer sus hijos).
+
+### Abimelec (Génesis 26)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahuzat
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Amigo del rey.
+
+
+### Ficol (Génesis 26)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Jefe de su ejército.
+
+
+## G213 · Balac y Balaam: padres nombrados
+
+Fuente: Números 22:2-5; Números 31:8
+
+Dos casas distintas. Beor no se fusiona automáticamente con Beor padre de Bela de Edom. Sin nombres de madres ni generaciones adicionales.
+
+Acontecimiento relacionado: E59 · Balaam, Peor y preparación (Llanuras de Moab).
+
+### Zipor
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Balac.  Fuente: Números 22:2,5
+
+### Balac
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Beor (padre de Balaam)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Balaam.  Fuente: Números 22:2,5
+
+### Balaam
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G214 · Cinco reyes de Madián y la casa de Zur
+
+Fuente: Números 31:8; Números 25:15
+
+La mención de Zur en las dos listas se compara sin borrar su procedencia textual. Hur no es por ello el colaborador de Moisés ni un miembro de la casa de Caleb.
+
+Acontecimiento relacionado: E59 · Balaam, Peor y preparación (Llanuras de Moab).
+
+### Evi
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Requem
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zur (Números 31)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- discutida → Zur (padre de Cozbi). Identificación por contexto; no parentesco entre dos hombres llamados Zur. Fuente: Números 31:8; Números 25:15
+
+### Hur (rey de Madián)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Reba
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zur (padre de Cozbi)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Cozbi.  Fuente: Números 25:15
+
+### Cozbi
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G215 · Reyes de la coalición del norte en Josué
+
+Fuente: Josué 11:1-3
+
+No confundir al Jabín de Josué con el de Jueces 4 ni a Jobab con Job o con reyes de Edom. Los otros reyes no reciben nombres inventados.
+
+Acontecimiento relacionado: E62 · Hai, Gabaón y herencias (Campañas y reparto).
+
+### Jabín (rey de Hazor en Josué)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jobab (rey de Madón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rey de Simrón (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rey de Acsaf (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Otros reyes y pueblos convocados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G216 · Guerreros de David: lista de 2 Samuel 23
+
+Fuente: 2 Samuel 23:8-39
+
+Se conserva la lista de Samuel, con sus gentilicios. Sus variantes no se fusionan automáticamente con Crónicas. Los treinta, los tres y el total textual treinta y siete son designaciones del relato, no el número de nodos de esta ficha, que incluye padres. El segmento de Jasén, Jonatán y Sama tiene dificultades de segmentación: no se inventa allí una cadena familiar. La referencia maacatita de 23:34 no se convierte en un abuelo con nombre.
+
+Acontecimiento relacionado: E73 · Unción, Goliat y persecución (David antes del trono).
+
+Acontecimiento relacionado: E76 · Ciudad, arca y pacto davídico (Jerusalén como capital).
+
+Acontecimiento relacionado: E77 · Betsabé y rebelión de Absalón (Crisis de la casa de David).
+
+### David
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Adino eznita / tacmonita (23:8)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Formulación de KJV; el pasaje atribuye ochocientos muertos, distinta de la cifra de Crónicas.
+
+
+### Dodo (padre de Eleazar)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Eleazar (guerrero ahohíta).  Fuente: 2 Samuel 23:8-39
+
+### Eleazar (guerrero ahohíta)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Age (padre de Sama)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Sama (hijo de Age).  Fuente: 2 Samuel 23:8-39
+
+### Sama (hijo de Age)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abisai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joab
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sarvia
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Abisai.  Fuente: 2 Samuel 23:8-39
+- filiacion → Joab.  Fuente: 2 Samuel 23:8-39
+
+### Joiada (padre de Benaía)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Benaía (hijo de Joiada).  Fuente: 2 Samuel 23:8-39
+
+### Benaía (hijo de Joiada)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Asael
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- hermanos → Joab.  Fuente: 2 Samuel 23:24
+
+### Dodo de Belén
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Elhanán (hijo de Dodo).  Fuente: 2 Samuel 23:8-39
+
+### Elhanán (hijo de Dodo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sama harodita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elica harodita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Heles paltita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Iques tecoíta
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Ira (hijo de Iques).  Fuente: 2 Samuel 23:8-39
+
+### Ira (hijo de Iques)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abiezer anatotita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mebunai husatita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Salmón ahohíta
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Maharai netofatita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Baana (padre de Heleb)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Heleb netofatita.  Fuente: 2 Samuel 23:8-39
+
+### Heleb netofatita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ribai de Gabaa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Itai (hijo de Ribai).  Fuente: 2 Samuel 23:8-39
+
+### Itai (hijo de Ribai)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Benaía piratonita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hidai (arroyos de Gaas)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abi-albón arbatita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Azmavet barhumita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliaba saalbonita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jasén
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Hijos de Jasén (23:32). Expresión colectiva conservada sin fijar a Jonatán como hijo individual. Fuente: 2 Samuel 23:32
+
+### Hijos de Jasén (23:32)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jonatán (23:32)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sama hararita (23:33)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sarar hararita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Ahiam (hijo de Sarar).  Fuente: 2 Samuel 23:8-39
+
+### Ahiam (hijo de Sarar)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahasbai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Elifelet (hijo de Ahasbai).  Fuente: 2 Samuel 23:8-39
+
+### Elifelet (hijo de Ahasbai)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahitofel gilonita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Eliam (hijo de Ahitofel).  Fuente: 2 Samuel 23:8-39
+
+### Eliam (hijo de Ahitofel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hezrai carmelita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Paarai arbita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Natán de Soba
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Igal (hijo de Natán).  Fuente: 2 Samuel 23:8-39
+
+### Igal (hijo de Natán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bani gadita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Selec amonita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Naharai beerotita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Escudero de Joab.
+
+
+### Ira itrita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gareb itrita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Urías heteo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tres que traen agua de Belén (sin identificación individual aquí)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G217 · Guerreros de David: lista de 1 Crónicas 11
+
+Fuente: 1 Crónicas 11:10-47
+
+Lista textual independiente para cotejar variantes. No equiparar cada nombre por posición con Samuel ni identificar a estos padres con otros homónimos. Joha es hermano de Jediael; no se añade su padre por inferencia. El gentilicio hacmonita no se convierte aquí en padre inmediato. Los treinta con Adina son un grupo, no treinta hijos.
+
+Acontecimiento relacionado: E73 · Unción, Goliat y persecución (David antes del trono).
+
+Acontecimiento relacionado: E76 · Ciudad, arca y pacto davídico (Jerusalén como capital).
+
+Acontecimiento relacionado: E77 · Betsabé y rebelión de Absalón (Crisis de la casa de David).
+
+### David
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jasobeam hacmonita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Crónicas atribuye trescientos muertos; no sustituir la cifra de Samuel.
+
+
+### Dodo ahohíta
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Eleazar (Crónicas 11).  Fuente: 1 Crónicas 11:10-47
+
+### Eleazar (Crónicas 11)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abisai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- hermanos → Joab.  Fuente: 1 Crónicas 11:10-47
+
+### Joab
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joiada
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Benaía (hijo de Joiada).  Fuente: 1 Crónicas 11:10-47
+
+### Benaía (hijo de Joiada)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Asael
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- hermanos → Joab.  Fuente: 1 Crónicas 11:10-47
+
+### Dodo de Belén
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Elhanán (Crónicas 11).  Fuente: 1 Crónicas 11:10-47
+
+### Elhanán (Crónicas 11)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Samot harorita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Heles pelonita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Iques tecoíta
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Ira (hijo de Iques).  Fuente: 1 Crónicas 11:10-47
+
+### Ira (hijo de Iques)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abiezer anatotita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sibecai husatita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ilai ahohíta
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Maharai netofatita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Baana (padre de Heled)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Heled netofatita.  Fuente: 1 Crónicas 11:10-47
+
+### Heled netofatita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ribai de Gabaa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Itai (hijo de Ribai).  Fuente: 1 Crónicas 11:10-47
+
+### Itai (hijo de Ribai)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Benaía piratonita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hurai (arroyos de Gaas)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abiel arbatita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Azmavet baharumita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliaba saalbonita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hasem gizonita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Hijos de Hasem.  Fuente: 1 Crónicas 11:10-47
+
+### Hijos de Hasem
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sage hararita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jonatán (hijo de Sage).  Fuente: 1 Crónicas 11:10-47
+
+### Jonatán (hijo de Sage)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sacar hararita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Ahiam (hijo de Sacar).  Fuente: 1 Crónicas 11:10-47
+
+### Ahiam (hijo de Sacar)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ur (padre de Elifal)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Elifal.  Fuente: 1 Crónicas 11:10-47
+
+### Elifal
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hefer mequeratita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahías pelonita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hezro carmelita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ezbai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Naarai (hijo de Ezbai).  Fuente: 1 Crónicas 11:10-47
+
+### Naarai (hijo de Ezbai)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joel (hermano de Natán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- hermanos → Natán (hermano de Joel).  Fuente: 1 Crónicas 11:10-47
+
+### Natán (hermano de Joel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hagri
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Mibhar.  Fuente: 1 Crónicas 11:10-47
+
+### Mibhar
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Selec amonita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Naharai beerotita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Escudero de Joab.
+
+
+### Sarvia
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Joab.  Fuente: 1 Crónicas 11:10-47
+
+### Ira itrita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gareb itrita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Urías heteo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahlai (padre de Zabad según la lista)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Zabad (hijo de Ahlai).  Fuente: 1 Crónicas 11:10-47
+
+### Zabad (hijo de Ahlai)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Siza rubenita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Adina.  Fuente: 1 Crónicas 11:10-47
+
+### Adina
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Jefe de rubenitas; treinta con él.
+
+- colectivo → Treinta con Adina. Compañía militar, no descendencia. Fuente: 1 Crónicas 11:10-47
+
+### Treinta con Adina
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Maaca (padre de Hanán según la lista)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Hanán (hijo de Maaca).  Fuente: 1 Crónicas 11:10-47
+
+### Hanán (hijo de Maaca)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Josafat mitnita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Uzía astarotita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hotam aroerita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Sama (hijo de Hotam).  Fuente: 1 Crónicas 11:10-47
+- filiacion → Jehiel (hijo de Hotam).  Fuente: 1 Crónicas 11:10-47
+
+### Sama (hijo de Hotam)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jehiel (hijo de Hotam)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Simri
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jediael (hijo de Simri).  Fuente: 1 Crónicas 11:10-47
+
+### Jediael (hijo de Simri)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- hermanos → Joha (hermano de Jediael).  Fuente: 1 Crónicas 11:10-47
+
+### Joha (hermano de Jediael)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliel mahavita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elnaam
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jeribai.  Fuente: 1 Crónicas 11:10-47
+- filiacion → Josavía.  Fuente: 1 Crónicas 11:10-47
+
+### Jeribai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Josavía
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Itma moabita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliel (11:47)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Obed (11:47)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jaasiel mesobaíta
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tres que traen agua de Belén (sin nombres aquí)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G218 · Administración central de Salomón: cargos y padres
+
+Fuente: 1 Reyes 4:1-6
+
+Los cargos no son parentescos. No identificar automáticamente al padre Natán con el profeta o con el hijo de David. La inclusión de Abiatar en esta lista no resuelve por sí sola su fecha relativa respecto de su destitución.
+
+Acontecimiento relacionado: E79 · Sabiduría y templo (Reinado de Salomón).
+
+### Salomón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sadoc
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Azarías (hijo de Sadoc).  Fuente: 1 Reyes 4:1-6
+
+### Azarías (hijo de Sadoc)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sisa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Elihoref.  Fuente: 1 Reyes 4:1-6
+- filiacion → Ahías (escriba hijo de Sisa).  Fuente: 1 Reyes 4:1-6
+
+### Elihoref
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Escriba.
+
+
+### Ahías (escriba hijo de Sisa)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Escriba.
+
+
+### Ahilud
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Josafat (cronista).  Fuente: 1 Reyes 4:1-6
+
+### Josafat (cronista)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Cronista.
+
+
+### Joiada
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Benaía (jefe del ejército).  Fuente: 1 Reyes 4:1-6
+
+### Benaía (jefe del ejército)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abiatar
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Natán (padre de Azarías y Zabud)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Azarías (hijo de Natán).  Fuente: 1 Reyes 4:1-6
+- filiacion → Zabud (hijo de Natán).  Fuente: 1 Reyes 4:1-6
+
+### Azarías (hijo de Natán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Responsable de los oficiales.
+
+
+### Zabud (hijo de Natán)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Oficial principal y amigo del rey en KJV.
+
+
+### Ahisar
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Encargado de la casa.
+
+
+### Abda
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Adoniram.  Fuente: 1 Reyes 4:1-6
+
+### Adoniram
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Encargado del tributo en KJV.
+
+
+## G219 · Doce proveedores de Salomón y dos hijas del rey
+
+Fuente: 1 Reyes 4:7-19
+
+La KJV designa a varios proveedores como hijo de, sin nombre personal. Son doce turnos mensuales de suministro, no doce generaciones. Ahimaas no se identifica automáticamente con el hijo de Sadoc. Tafat y Basemat son hijas de Salomón; sus madres no están nombradas. Basemat no es una esposa de Esaú.
+
+Acontecimiento relacionado: E79 · Sabiduría y templo (Reinado de Salomón).
+
+### Salomón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Tafat (hija de Salomón).  Fuente: 1 Reyes 4:7-19
+- filiacion → Basemat (hija de Salomón).  Fuente: 1 Reyes 4:7-19
+
+### Hur (padre del proveedor)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Hijo de Hur / Ben-hur.  Fuente: 1 Reyes 4:7-19
+
+### Hijo de Hur / Ben-hur
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Monte de Efraín.
+
+
+### Dequer
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Hijo de Dequer / Ben-dequer.  Fuente: 1 Reyes 4:7-19
+
+### Hijo de Dequer / Ben-dequer
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Macaz y otros lugares enumerados.
+
+
+### Hesed
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Hijo de Hesed / Ben-hesed.  Fuente: 1 Reyes 4:7-19
+
+### Hijo de Hesed / Ben-hesed
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Arubot, Soco y Hefer.
+
+
+### Abinadab (padre del proveedor)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Hijo de Abinadab / Ben-abinadab.  Fuente: 1 Reyes 4:7-19
+
+### Hijo de Abinadab / Ben-abinadab
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Región de Dor.
+
+- union → Tafat (hija de Salomón).  Fuente: 1 Reyes 4:11
+
+### Tafat (hija de Salomón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahilud (padre de Baana)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Baana (hijo de Ahilud).  Fuente: 1 Reyes 4:7-19
+
+### Baana (hijo de Ahilud)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Taanac, Meguido y el territorio descrito.
+
+
+### Geber (padre del proveedor)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Hijo de Geber / Ben-geber.  Fuente: 1 Reyes 4:7-19
+
+### Hijo de Geber / Ben-geber
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Ramot de Galaad; ciudades y Argob mencionados.
+
+
+### Iddo (padre de Ahinadab)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Ahinadab.  Fuente: 1 Reyes 4:7-19
+
+### Ahinadab
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Mahanaim.
+
+
+### Ahimaas (proveedor de Neftalí)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- union → Basemat (hija de Salomón).  Fuente: 1 Reyes 4:15
+
+### Basemat (hija de Salomón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Husai (padre de Baana)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Baana (hijo de Husai).  Fuente: 1 Reyes 4:7-19
+
+### Baana (hijo de Husai)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Aser y Alot.
+
+
+### Parúa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Josafat (hijo de Parúa).  Fuente: 1 Reyes 4:7-19
+
+### Josafat (hijo de Parúa)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Isacar.
+
+
+### Ela (padre de Simei)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Simei (proveedor de Benjamín).  Fuente: 1 Reyes 4:7-19
+
+### Simei (proveedor de Benjamín)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Uri (padre de Geber)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Geber (hijo de Uri).  Fuente: 1 Reyes 4:7-19
+
+### Geber (hijo de Uri)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Galaad.
+
+
+## G220 · Autoridades ante Jeremías: padres y homónimos
+
+Fuente: Jeremías 38:1; Jeremías 37:3; Jeremías 21:1; Jeremías 20:1-2
+
+Pasur hijo de Imer y Pasur hijo de Malquías son registros separados. El padre de Gedalías llamado Pasur no se identifica con uno de ellos sin prueba. Jucal/Jehucal se presentan como formas del enviado hijo de Selemías. No confundir a este Gedalías con el gobernador hijo de Ahicam.
+
+Acontecimiento relacionado: E94 · Jeremías y Ezequiel (Exilio y últimos años de Judá).
+
+### Matán (padre de Sefatías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Sefatías (Jeremías 38).  Fuente: Jeremías 38:1; Jeremías 37:3; Jeremías 21:1; Jeremías 20:1-2
+
+### Sefatías (Jeremías 38)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pasur (padre de Gedalías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Gedalías (Jeremías 38).  Fuente: Jeremías 38:1; Jeremías 37:3; Jeremías 21:1; Jeremías 20:1-2
+
+### Gedalías (Jeremías 38)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Selemías (padre de Jucal)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jucal / Jehucal.  Fuente: Jeremías 38:1; Jeremías 37:3; Jeremías 21:1; Jeremías 20:1-2
+
+### Jucal / Jehucal
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Malquías (padre de Pasur)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Pasur (hijo de Malquías).  Fuente: Jeremías 38:1; Jeremías 37:3; Jeremías 21:1; Jeremías 20:1-2
+
+### Pasur (hijo de Malquías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Maasías (padre de Sofonías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Sofonías (sacerdote).  Fuente: Jeremías 38:1; Jeremías 37:3; Jeremías 21:1; Jeremías 20:1-2
+
+### Sofonías (sacerdote)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Imer (padre de Pasur)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Pasur (hijo de Imer).  Fuente: Jeremías 38:1; Jeremías 37:3; Jeremías 21:1; Jeremías 20:1-2
+
+### Pasur (hijo de Imer)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G221 · Baalis y los personajes de la advertencia a Gedalías
+
+Fuente: Jeremías 40:14
+
+El pasaje conserva una advertencia de que Baalis envió a Ismael para matar al gobernador y la incredulidad de Gedalías. No presenta a Baalis como pariente de Ismael. Las dos familias ya tienen representación previa.
+
+Acontecimiento relacionado: E96 · Gedalías y huida a Egipto (Después de la destrucción).
+
+### Baalis (rey de los amonitas)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Netanías (padre de Ismael)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Ismael (hijo de Netanías).  Fuente: Jeremías 40:14
+
+### Ismael (hijo de Netanías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahicam (padre de Gedalías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Gedalías (gobernador).  Fuente: Jeremías 40:14
+
+### Gedalías (gobernador)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G222 · Personajes de la derrota de Judá en tiempos de Acaz
+
+Fuente: 2 Crónicas 28:1-7
+
+Maasías es llamado hijo del rey; relacionarlo con Acaz depende del contexto del capítulo y se señala como tal. Zicri y Elcana no se identifican con homónimos de las genealogías levíticas.
+
+Acontecimiento relacionado: E88 · Jotam, Acaz y Ezequías (Judá durante y después de la crisis).
+
+### Acaz
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- discutida → Maasías (hijo del rey). Identificación contextual del rey; 28:7 no repite su nombre. Fuente: 2 Crónicas 28:1,7
+
+### Remalías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Peka.  Fuente: 2 Crónicas 28:6
+
+### Peka
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zicri (guerrero de Efraín)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Maasías (hijo del rey)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Azricam (gobernador de la casa)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elcana (segundo del rey)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G223 · Los Doce: nombres de las listas y variantes
+
+Fuente: Mateo 10:2-4; Marcos 3:16-19; Lucas 6:13-16; Hechos 1:13
+
+El número de nodos incluye padres y variantes de listas: no afirma que haya más de doce apóstoles en una misma lista. Lucas y Hechos KJV traducen hermano de Jacobo; otras traducciones entienden hijo. Se conserva parentesco indeterminado. La identificación de ese Judas con Tadeo se marca como comparación entre listas. Felipe apóstol no se fusiona con Felipe evangelista.
+
+Acontecimiento relacionado: E120 · Los Doce, enseñanza y señales (Ministerio galileo).
+
+Acontecimiento relacionado: E133 · Matías y derramamiento del Espíritu (Antes y durante Pentecostés).
+
+### Simón Pedro
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- hermanos → Andrés.  Fuente: Mateo 10:2
+
+### Andrés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zebedeo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jacobo (hijo de Zebedeo).  Fuente: Mateo 10:2–3; Marcos 3:17–18
+- filiacion → Juan (hijo de Zebedeo).  Fuente: Mateo 10:2–3; Marcos 3:17–18
+
+### Jacobo (hijo de Zebedeo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Juan (hijo de Zebedeo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Felipe (apóstol)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bartolomé
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tomás
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mateo (publicano)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Alfeo (padre de Jacobo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jacobo (hijo de Alfeo).  Fuente: Mateo 10:2–3; Marcos 3:17–18
+
+### Jacobo (hijo de Alfeo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Lebeo / Tadeo (Mateo y Marcos)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- discutida → Judas de Jacobo (Lucas y Hechos). Correspondencia interpretativa entre listas, no parentesco. Fuente: Mateo 10:2-4; Marcos 3:16-19; Lucas 6:13-16; Hechos 1:13
+
+### Simón cananita / Zelote
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Judas Iscariote
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Judas de Jacobo (Lucas y Hechos)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jacobo (referente de Judas en Lucas)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- parentesco → Judas de Jacobo (Lucas y Hechos). Hermano en KJV; grado no fijado frente a otras traducciones. Fuente: Lucas 6:16; Hechos 1:13 KJV
+
+## G224 · Natanael y Felipe en Juan
+
+Fuente: Juan 1:45-49
+
+Natanael es un discípulo nombrado en Juan. Su identificación tradicional con Bartolomé no está explicitada en estos versos; no se fusionan automáticamente. No es Natanael hijo de Zuar ni un descendiente supuesto de otras listas.
+
+Acontecimiento relacionado: E118 · Discípulos, Caná y Judea (Primer ministerio).
+
+### Natanael (Juan 1)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Felipe (Juan 1)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jesús
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G225 · José Barsabás Justo y Matías
+
+Fuente: Hechos 1:23-26
+
+José y Matías son los candidatos nombrados; Matías se suma a los once. Barsabás no convierte a José en hermano de Judas Barsabás ni Justo lo identifica con Jesús Justo de Colosenses.
+
+Acontecimiento relacionado: E133 · Matías y derramamiento del Espíritu (Antes y durante Pentecostés).
+
+### José llamado Barsabás / Justo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Matías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Once apóstoles
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G226 · Los Siete elegidos en Jerusalén
+
+Fuente: Hechos 6:5
+
+Lista de siete personas, no familia. No atribuir a Nicolás descendientes ni identificarlo como fundador de grupos posteriores a partir de este verso. Felipe se distingue del apóstol del mismo nombre.
+
+Acontecimiento relacionado: E135 · Los siete y martirio de Esteban (34 d. C. para Esteban en GC).
+
+### Esteban
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Felipe (uno de los Siete)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Prócoro
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nicanor
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Timón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Parmenas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nicolás (prosélito de Antioquía)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G227 · Profetas y maestros de Antioquía
+
+Fuente: Hechos 13:1
+
+No confundir a Simeón con Simón de Cirene o con otros Simeón. Lucio no se identifica automáticamente con Lucas ni con Lucio de Romanos 16. La crianza de Manaén con Herodes no prueba filiación biológica.
+
+Acontecimiento relacionado: E139 · Misión y cuestión gentil (Primer viaje y concilio).
+
+### Bernabé
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Simeón llamado Niger
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Lucio de Cirene
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Manaén
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- parentesco → Herodes el tetrarca (entorno de Manaén). Crianza compartida; grado biológico no afirmado. Ya representado en G119. Fuente: Hechos 13:1
+
+### Saulo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Herodes el tetrarca (entorno de Manaén)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G228 · Gamaliel y los hombres citados en su consejo
+
+Fuente: Hechos 5:34-37
+
+Gamaliel recuerda movimientos anteriores: no son todos contemporáneos de su discurso. No identificar al Teudas citado con una figura de Josefo ni fijar esa sincronización sin investigación. No agregar ascendencia tradicional a Gamaliel.
+
+Acontecimiento relacionado: E134 · Testimonio y oposición en Jerusalén (Primeros años).
+
+### Gamaliel (doctor de la ley)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Teudas (Hechos 5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Judas de Galilea
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Seguidores de Teudas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Seguidores de Judas de Galilea
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G229 · Sóstenes: dos menciones para comparar
+
+Fuente: Hechos 18:17; 1 Corintios 1:1
+
+La identidad de los dos Sóstenes es posible, pero estos pasajes no la afirman expresamente. Hermano en el saludo no crea vínculo biológico con Pablo.
+
+Acontecimiento relacionado: E140 · Comunidades del Mediterráneo (Segundo y tercer viajes).
+
+### Sóstenes (jefe de sinagoga en Hechos)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- discutida → Sóstenes (saludo de 1 Corintios). Comparación entre menciones; no filiación ni fusión definitiva. Fuente: Hechos 18:17; 1 Corintios 1:1
+
+### Sóstenes (saludo de 1 Corintios)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pablo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Galión
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G230 · Alejandro presentado ante la multitud de Éfeso
+
+Fuente: Hechos 19:33-34
+
+No identificarlo con el calderero de 2 Timoteo, el de 1 Timoteo o el hijo de Simón de Cirene por coincidencia del nombre. El texto lo identifica como judío, sin genealogía.
+
+Acontecimiento relacionado: E140 · Comunidades del Mediterráneo (Segundo y tercer viajes).
+
+### Alejandro (Hechos 19)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Judíos que presentan a Alejandro
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Multitud de Éfeso
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G231 · Ananías y Judas de Damasco
+
+Fuente: Hechos 9:10-12; Hechos 22:12
+
+Este Ananías no es el esposo de Safira ni el sumo sacerdote. Judas de Damasco no se identifica con un apóstol por homonimia. Ser anfitrión no establece parentesco.
+
+Acontecimiento relacionado: E136 · Samaria, etíope y conversión de Saulo (Expansión inicial).
+
+### Ananías (discípulo de Damasco)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Judas (dueño de la casa en Damasco)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Saulo de Tarso
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G232 · Malco y su pariente entre los servidores sacerdotales
+
+Fuente: Juan 18:10,26
+
+El nombre Malco y el vínculo de su pariente están expresos; el grado exacto y el nombre del pariente no se proporcionan. No añadir padres o hermanos por conjetura.
+
+Acontecimiento relacionado: E126 · Pascua, servicio y Getsemaní (Cena y noche de arresto).
+
+Acontecimiento relacionado: E127 · Autoridades religiosas y romanas (Procesos y condena).
+
+### Malco
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- parentesco → Pariente de Malco (sin nombre). Grado de parentesco no especificado. Fuente: Juan 18:26
+
+### Pariente de Malco (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Simón Pedro
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G233 · Simón fariseo y Simón leproso: menciones conservadas
+
+Fuente: Lucas 7:36-40; Marcos 14:3
+
+Las menciones se conservan por fuente. Identificaciones entre los anfitriones o las mujeres requieren cotejo de paralelos y, si se adopta una explicación de White, atribución explícita. No se crea una unión matrimonial.
+
+Acontecimiento relacionado: E120 · Los Doce, enseñanza y señales (Ministerio galileo).
+
+Acontecimiento relacionado: E123 · Conflictos, enseñanza y Lázaro (Camino a Jerusalén y visitas finales).
+
+### Simón (fariseo de Lucas 7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mujer de Lucas 7 (sin nombre en el pasaje)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Simón (leproso de Marcos 14)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mujer de Marcos 14 (sin nombre en el pasaje)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jesús
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G234 · Cleofas, discípulo del camino a Emaús
+
+Fuente: Lucas 24:18
+
+El pasaje nombra a uno de los caminantes. No identifica al acompañante ni equipara automáticamente a Cleofas con Clopas de Juan 19 o con familiares de otras tradiciones.
+
+Acontecimiento relacionado: E131 · Resurrección y apariciones iniciales (Primer día de la semana).
+
+### Cleofas (Lucas 24)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G235 · Judas Barsabás y Silas, enviados de Jerusalén
+
+Fuente: Hechos 15:22,32
+
+Son dirigentes y profetas enviados con Pablo y Bernabé. Barsabás no prueba parentesco con José Barsabás. La identificación de Silas con Silvano de las cartas debe documentarse aparte.
+
+Acontecimiento relacionado: E139 · Misión y cuestión gentil (Primer viaje y concilio).
+
+### Judas llamado Barsabás
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Silas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pablo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bernabé
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G236 · Barjesús / Elimas y Sergio Paulo en Pafos
+
+Fuente: Hechos 13:6-8
+
+Barjesús y Elimas son las denominaciones relacionadas en el relato. No se infiere una filiación con Jesús de Nazaret a partir del nombre ni parentesco entre Sergio Paulo y el apóstol Pablo.
+
+Acontecimiento relacionado: E139 · Misión y cuestión gentil (Primer viaje y concilio).
+
+### Barjesús / Elimas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sergio Paulo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bernabé
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Saulo
+
+Cronología generacional no determinada; ubicación esquemática.
 
 
 
