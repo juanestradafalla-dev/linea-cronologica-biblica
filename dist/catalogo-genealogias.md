@@ -4,6 +4,10 @@ Filiaciones, genealogías, parentescos, sucesiones y pertenencia a pueblos se di
 
 Estado: ampliación documentada, no inventario exhaustivo de todos los personajes bíblicos ni lectura íntegra de los 120 PDF. Las apariciones repetidas no equivalen a personas únicas.
 
+## Personajes de 1 Crónicas 9 y 12
+
+Cotejados los 84 versículos de ambos capítulos. Nueve fichas adicionales (G237–G245; R184–R192) conservan variantes, colectivos, parentescos expresos y recuerdos de épocas anteriores. Total: 245 fichas, 3.344 apariciones y 2.418 relaciones. Se preservan las 236 fichas previas y los 148 acontecimientos. No se declara cerrado el resto de 1 Crónicas ni el inventario bíblico.
+
 ## Sexta incorporación: personajes
 
 26 listas y grupos adicionales (G211–G236; R158–R183): guerreros de David, administración de Salomón, reyes, autoridades y discípulos. Total: 236 fichas, 3.138 apariciones y 2.322 relaciones. Las apariciones no equivalen a personas únicas. Se conservan variantes y fechas desconocidas. La revisión integral de personajes continúa pendiente; no se amplían los 148 acontecimientos en esta tanda.
@@ -26627,4 +26631,1626 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+
+## G237 · Jerusalén: casas de Judá y Benjamín en 1 Crónicas 9
+
+Fuente: 1 Crónicas 9:1–9
+
+La introducción menciona el destierro y los primeros habitantes; no proporciona años de nacimiento. Las cadenas expresan la genealogía del pasaje, sin garantizar generaciones completas. La pertenencia a los hijos de Fares, Zera o Benjamín no prueba filiación inmediata. Ibnías de 9:8 y el antepasado Ibnías de la otra cadena se conservan separados. No fusionar a Utai con el de Esdras 8 ni a los Mesulam de distintas casas.
+
+Acontecimiento relacionado: E101 · Permiso y reconstrucción inicial (Primer año de Ciro; retorno).
+
+Acontecimiento relacionado: E107 · Lectura, pacto y reformas (Comunidad restaurada).
+
+### Judá
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Fares.  Fuente: 1 Crónicas 9:4
+
+### Fares
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Bani (9:4). Pertenencia a su descendencia; generaciones intermedias no determinadas. Fuente: 1 Crónicas 9:4
+
+### Bani (9:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Imri.  Fuente: 1 Crónicas 9:4
+
+### Imri
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Omri (9:4).  Fuente: 1 Crónicas 9:4
+
+### Omri (9:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Amihud (9:4).  Fuente: 1 Crónicas 9:4
+
+### Amihud (9:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Utai (9:4).  Fuente: 1 Crónicas 9:4
+
+### Utai (9:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Asaías (primogénito silonita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Hijos de Asaías (9:5).  Fuente: 1 Crónicas 9:5
+
+### Hijos de Asaías (9:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zera
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Jeuel. De sus descendientes; no padre inmediato demostrado. Fuente: 1 Crónicas 9:6
+
+### Jeuel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hermanos de las casas de Judá (690 en 9:6)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Benjamín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hasenúa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Hodavías (9:7).  Fuente: 1 Crónicas 9:7
+
+### Hodavías (9:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Mesulam (padre de Salú).  Fuente: 1 Crónicas 9:7
+
+### Mesulam (padre de Salú)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Salú.  Fuente: 1 Crónicas 9:7
+
+### Salú
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jeroham (padre de Ibnías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Ibnías (hijo de Jeroham).  Fuente: 1 Crónicas 9:8
+
+### Ibnías (hijo de Jeroham)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Micri
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Uzi (9:8).  Fuente: 1 Crónicas 9:8
+
+### Uzi (9:8)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Ela (9:8).  Fuente: 1 Crónicas 9:8
+
+### Ela (9:8)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ibnías (antepasado de Mesulam)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Reuel (9:8).  Fuente: 1 Crónicas 9:8
+
+### Reuel (9:8)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Sefatías (9:8).  Fuente: 1 Crónicas 9:8
+
+### Sefatías (9:8)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Mesulam (hijo de Sefatías).  Fuente: 1 Crónicas 9:8
+
+### Mesulam (hijo de Sefatías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hermanos benjaminitas (956 en 9:9)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos de Efraín y Manasés en Jerusalén
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Israelitas, sacerdotes, levitas y servidores del templo (9:2)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G238 · Sacerdotes de Jerusalén y sus ascendencias en 1 Crónicas 9
+
+Fuente: 1 Crónicas 9:10–13
+
+Las cadenas se conservan como genealogías textuales. La lista incluye 1.760 hermanos y jefes de casas aptos para el servicio, no 1.760 hijos de un solo hombre. No identificar automáticamente estos nombres con todos sus homónimos o sustituir Azarías por un nombre de una lista paralela.
+
+Acontecimiento relacionado: E101 · Permiso y reconstrucción inicial (Primer año de Ciro; retorno).
+
+Acontecimiento relacionado: E107 · Lectura, pacto y reformas (Comunidad restaurada).
+
+### Jedaías (9:10)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joiarib
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jaquín (9:10)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahitob (9:11)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Meraiot (9:11).  Fuente: 1 Crónicas 9:11
+
+### Meraiot (9:11)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Sadoc (9:11).  Fuente: 1 Crónicas 9:11
+
+### Sadoc (9:11)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Mesulam (9:11).  Fuente: 1 Crónicas 9:11
+
+### Mesulam (9:11)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Hilcías (9:11).  Fuente: 1 Crónicas 9:11
+
+### Hilcías (9:11)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Azarías (encargado de la casa de Dios).  Fuente: 1 Crónicas 9:11
+
+### Azarías (encargado de la casa de Dios)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Malquías (9:12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Pasur (9:12).  Fuente: 1 Crónicas 9:12
+
+### Pasur (9:12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Jeroham (padre de Adaías).  Fuente: 1 Crónicas 9:12
+
+### Jeroham (padre de Adaías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Adaías (9:12).  Fuente: 1 Crónicas 9:12
+
+### Adaías (9:12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Imer (9:12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Mesilemit.  Fuente: 1 Crónicas 9:12
+
+### Mesilemit
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Mesulam (9:12).  Fuente: 1 Crónicas 9:12
+
+### Mesulam (9:12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Jahzera.  Fuente: 1 Crónicas 9:12
+
+### Jahzera
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Adiel (9:12).  Fuente: 1 Crónicas 9:12
+
+### Adiel (9:12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Masai (9:12).  Fuente: 1 Crónicas 9:12
+
+### Masai (9:12)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hermanos y jefes sacerdotales (1.760)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G239 · Levitas y cantores de Jerusalén en 1 Crónicas 9
+
+Fuente: 1 Crónicas 9:14–16,33–34
+
+No asignar a Bacbacar, Heres y Galal padres que el pasaje no nombra. Galal de la enumeración y Galal de la cadena de Obadías se mantienen por mención; su identidad no se demuestra aquí. La ascendencia merarita es pertenencia a un linaje, no una generación inmediata. No confundir a Asa de esta cadena con el rey de Judá.
+
+Acontecimiento relacionado: E101 · Permiso y reconstrucción inicial (Primer año de Ciro; retorno).
+
+Acontecimiento relacionado: E107 · Lectura, pacto y reformas (Comunidad restaurada).
+
+### Merari
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Hasabías (9:14). Ascendencia merarita; intervalo generacional desconocido. Fuente: 1 Crónicas 9:14
+
+### Hasabías (9:14)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Azricam (9:14).  Fuente: 1 Crónicas 9:14
+
+### Azricam (9:14)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Hasub.  Fuente: 1 Crónicas 9:14
+
+### Hasub
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Semaías (hijo de Hasub).  Fuente: 1 Crónicas 9:14
+
+### Semaías (hijo de Hasub)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bacbacar
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Heres
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Galal (enumeración de 9:15)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Asaf (9:15)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Zicri (9:15).  Fuente: 1 Crónicas 9:15
+
+### Zicri (9:15)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Mica (9:15).  Fuente: 1 Crónicas 9:15
+
+### Mica (9:15)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Matanías (9:15).  Fuente: 1 Crónicas 9:15
+
+### Matanías (9:15)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jedutún (9:16)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Galal (antepasado de Obadías).  Fuente: 1 Crónicas 9:16
+
+### Galal (antepasado de Obadías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Semaías (padre de Obadías).  Fuente: 1 Crónicas 9:16
+
+### Semaías (padre de Obadías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Obadías (9:16).  Fuente: 1 Crónicas 9:16
+
+### Obadías (9:16)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elcana (9:16)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Asa (padre de Berequías).  Fuente: 1 Crónicas 9:16
+
+### Asa (padre de Berequías)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Berequías (aldeas netofatitas).  Fuente: 1 Crónicas 9:16
+
+### Berequías (aldeas netofatitas)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cantores y jefes levitas de Jerusalén
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Servicio de día y noche; no se les inventan nombres adicionales.
+
+
+## G240 · Porteros y servidores: personas y generaciones recordadas en 1 Crónicas 9
+
+Fuente: 1 Crónicas 9:17–32
+
+La lista recuerda épocas distintas: Finees fue dirigente en tiempo pasado; David y Samuel aparecen como organizadores del oficio. Su presencia no los convierte en contemporáneos de todos los habitantes del capítulo. Los 212 porteros son un colectivo; sus hijos no tienen aquí nombres individuales. Los turnos, tesoros, utensilios, perfumes, preparados y panes son funciones, no relaciones familiares.
+
+Acontecimiento relacionado: E76 · Ciudad, arca y pacto davídico (Jerusalén como capital).
+
+Acontecimiento relacionado: E107 · Lectura, pacto y reformas (Comunidad restaurada).
+
+### Coré (antepasado coraíta)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Ebiasaf.  Fuente: 1 Crónicas 9:19
+
+### Ebiasaf
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Coré (padre de Salum).  Fuente: 1 Crónicas 9:19
+
+### Coré (padre de Salum)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Salum (portero principal).  Fuente: 1 Crónicas 9:19
+
+### Salum (portero principal)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Matatías (primogénito de Salum).  Fuente: 1 Crónicas 9:31
+
+### Acub (portero)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Talmón (portero)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahimán (portero)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Matatías (primogénito de Salum)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eleazar (padre de Finees)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Finees (dirigente en tiempo pasado).  Fuente: 1 Crónicas 9:20
+
+### Finees (dirigente en tiempo pasado)
+
+Referencia retrospectiva a una época anterior; no contemporáneo de toda la lista. Año absoluto no indicado aquí.
+
+
+
+
+### Meselemías (9:21)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Zacarías (portero de 9:21).  Fuente: 1 Crónicas 9:21
+
+### Zacarías (portero de 9:21)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### David (organización de porteros)
+
+Referencia retrospectiva a una época anterior; no contemporáneo de toda la lista. Año absoluto no indicado aquí.
+
+
+
+
+### Samuel (vidente)
+
+Referencia retrospectiva a una época anterior; no contemporáneo de toda la lista. Año absoluto no indicado aquí.
+
+
+
+
+### Hermanos coraítas y padres guardianes
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Porteros escogidos (212)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Hijos de los porteros. Descendencia colectiva; no 212 padres e hijos identificados individualmente. Fuente: 1 Crónicas 9:22–23
+
+### Hijos de los porteros
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hermanos que sirven por turnos de siete días
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cuatro porteros principales y responsables de cámaras y tesoros
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Encargados de utensilios y provisiones
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos de sacerdotes que preparan perfumes
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hermanos coatitas encargados de los panes sabáticos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G241 · Jeiel, Maaca y descendencia de Saúl: lista de 1 Crónicas 9
+
+Fuente: 1 Crónicas 9:35–44
+
+Complementa G54, G106 y G24 sin sustituir las listas de 1 Crónicas 8 y Samuel. Conserva las formas Simeam, Jara y Refaías de este capítulo frente a sus paralelos. Cis hijo de Jeiel y Cis hijo de Ner son nodos distintos. No se supone que todos los hijos de Jeiel sean biológicamente hijos de Maaca solo por nombrarla como esposa. El capítulo no proporciona fechas de nacimiento de las generaciones tardías.
+
+Acontecimiento relacionado: E71 · Saúl ungido y confirmado (Primer rey).
+
+Acontecimiento relacionado: E74 · Endor y Gilboa (Fin de Saúl).
+
+### Jeiel (padre de Gabaón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- union → Maaca (esposa de Jeiel).  Fuente: 1 Crónicas 9:35
+- filiacion → Abdón (primogénito de Jeiel).  Fuente: 1 Crónicas 9:35–37
+- filiacion → Zur (hijo de Jeiel).  Fuente: 1 Crónicas 9:35–37
+- filiacion → Cis (hijo de Jeiel).  Fuente: 1 Crónicas 9:35–37
+- filiacion → Baal (hijo de Jeiel).  Fuente: 1 Crónicas 9:35–37
+- filiacion → Ner (9:36,39).  Fuente: 1 Crónicas 9:35–37
+- filiacion → Nadab (hijo de Jeiel).  Fuente: 1 Crónicas 9:35–37
+- filiacion → Gedor (hijo de Jeiel).  Fuente: 1 Crónicas 9:35–37
+- filiacion → Ahío (hijo de Jeiel).  Fuente: 1 Crónicas 9:35–37
+- filiacion → Zacarías (hijo de Jeiel).  Fuente: 1 Crónicas 9:35–37
+- filiacion → Miclot.  Fuente: 1 Crónicas 9:35–37
+
+### Maaca (esposa de Jeiel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abdón (primogénito de Jeiel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zur (hijo de Jeiel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cis (hijo de Jeiel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Baal (hijo de Jeiel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ner (9:36,39)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Cis (hijo de Ner).  Fuente: 1 Crónicas 9:39
+
+### Nadab (hijo de Jeiel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gedor (hijo de Jeiel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ahío (hijo de Jeiel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zacarías (hijo de Jeiel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Miclot
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Simeam (hijo de Miclot).  Fuente: 1 Crónicas 9:38
+
+### Simeam (hijo de Miclot)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cis (hijo de Ner)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Saúl (9:39).  Fuente: 1 Crónicas 9:39
+
+### Saúl (9:39)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jonatán (9:39).  Fuente: 1 Crónicas 9:39
+- filiacion → Malquisúa (9:39).  Fuente: 1 Crónicas 9:39
+- filiacion → Abinadab (9:39).  Fuente: 1 Crónicas 9:39
+- filiacion → Es-baal (9:39).  Fuente: 1 Crónicas 9:39
+
+### Jonatán (9:39)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Merib-baal (9:40).  Fuente: 1 Crónicas 9:40
+
+### Malquisúa (9:39)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abinadab (9:39)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Es-baal (9:39)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Merib-baal (9:40)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Mica (9:40).  Fuente: 1 Crónicas 9:40
+
+### Mica (9:40)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Pitón (9:41).  Fuente: 1 Crónicas 9:41
+- filiacion → Melec (9:41).  Fuente: 1 Crónicas 9:41
+- filiacion → Tarea (9:41).  Fuente: 1 Crónicas 9:41
+- filiacion → Acaz (9:41).  Fuente: 1 Crónicas 9:41
+
+### Pitón (9:41)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Melec (9:41)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tarea (9:41)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Acaz (9:41)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jara (Jarah en KJV).  Fuente: 1 Crónicas 9:42
+
+### Jara (Jarah en KJV)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Alemet (9:42).  Fuente: 1 Crónicas 9:42
+- filiacion → Azmavet (9:42).  Fuente: 1 Crónicas 9:42
+- filiacion → Zimri (9:42).  Fuente: 1 Crónicas 9:42
+
+### Alemet (9:42)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Azmavet (9:42)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zimri (9:42)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Moza (9:42).  Fuente: 1 Crónicas 9:42–43
+
+### Moza (9:42)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Bina (9:43).  Fuente: 1 Crónicas 9:42–43
+
+### Bina (9:43)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Refaías (9:43).  Fuente: 1 Crónicas 9:42–43
+
+### Refaías (9:43)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Elasa (9:43).  Fuente: 1 Crónicas 9:42–43
+
+### Elasa (9:43)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Azel (9:43).  Fuente: 1 Crónicas 9:42–43
+
+### Azel (9:43)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Azricam (hijo de Azel).  Fuente: 1 Crónicas 9:44
+- filiacion → Bocru (hijo de Azel).  Fuente: 1 Crónicas 9:44
+- filiacion → Ismael (hijo de Azel).  Fuente: 1 Crónicas 9:44
+- filiacion → Searías (hijo de Azel).  Fuente: 1 Crónicas 9:44
+- filiacion → Obadías (hijo de Azel).  Fuente: 1 Crónicas 9:44
+- filiacion → Hanán (hijo de Azel).  Fuente: 1 Crónicas 9:44
+
+### Azricam (hijo de Azel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bocru (hijo de Azel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ismael (hijo de Azel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Searías (hijo de Azel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Obadías (hijo de Azel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hanán (hijo de Azel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G242 · Los que acudieron a David en Siclag: lista de 1 Crónicas 12
+
+Fuente: 1 Crónicas 12:1–7
+
+El texto identifica procedencias, parentescos explícitos y capacidad militar. Hermanos de Saúl, de Benjamín, no significa hijos de los mismos padres. Los cinco coraítas se conservan como grupo de procedencia sin inventar padres intermedios. No fusionar al Jasobeam de esta lista con el de 1 Crónicas 11 ni a otros homónimos sin cotejo.
+
+Acontecimiento relacionado: E73 · Unción, Goliat y persecución (David antes del trono).
+
+### David (en Siclag)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cis (padre de Saúl)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Saúl (12:1).  Fuente: 1 Crónicas 12:1
+
+### Saúl (12:1)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Semaá gabaatita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Ahiezer (jefe de la lista).  Fuente: 1 Crónicas 12:3
+- filiacion → Joás (hijo de Semaá).  Fuente: 1 Crónicas 12:3
+
+### Ahiezer (jefe de la lista)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joás (hijo de Semaá)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Azmavet (padre de Jeziel y Pelet)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jeziel.  Fuente: 1 Crónicas 12:3
+- filiacion → Pelet.  Fuente: 1 Crónicas 12:3
+
+### Jeziel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pelet
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Beraca
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jehú anatotita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ismaías gabaonita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Guerrero entre los treinta y sobre los treinta.
+
+
+### Jeremías (12:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jahaziel (12:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Johanán (12:4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jozabad gederatita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eluzai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jerimot (12:5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bealías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Semarías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sefatías harufita
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elcana coraíta
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Isías coraíta
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Azareel coraíta
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joezer coraíta
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jasobeam coraíta
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jeroham de Gedor
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Joela.  Fuente: 1 Crónicas 12:7
+- filiacion → Zebadías (hijo de Jeroham).  Fuente: 1 Crónicas 12:7
+
+### Joela
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zebadías (hijo de Jeroham)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G243 · Once jefes gaditas y Amasai: nombres de 1 Crónicas 12
+
+Fuente: 1 Crónicas 12:8–18
+
+El pasaje enumera once jefes gaditas en orden; Jeremías quinto y Jeremías décimo se conservan separados. No son once hijos inmediatos de Gad. Amasai pertenece a la sección siguiente de recién llegados de Benjamín y Judá; no se lo declara duodécimo gadita ni se identifica con Amasa. El primer mes del cruce del Jordán no determina un año absoluto.
+
+Acontecimiento relacionado: E73 · Unción, Goliat y persecución (David antes del trono).
+
+### David
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ezer (primero)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Obadías (segundo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliab (tercero)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mismana (cuarto)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jeremías (quinto)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Atai (sexto)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliel (séptimo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Johanán (octavo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elzabad (noveno)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jeremías (décimo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Macbanai (undécimo)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Amasai (jefe de los capitanes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Isaí (padre de David)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → David.  Fuente: 1 Crónicas 12:18
+
+### Recién llegados de Benjamín y Judá
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G244 · Jefes de Manasés que se unieron a David en 1 Crónicas 12
+
+Fuente: 1 Crónicas 12:19–22
+
+La lista de 12:20 contiene dos menciones de Jozabad: se conservan por su posición, sin inventar padres ni resolver si se trata de homónimos o repetición textual. No se fusionan con Jozabad gederatita de 12:4. Los siete nombres son capitanes de millares, no siete hijos de Manasés.
+
+Acontecimiento relacionado: E73 · Unción, Goliat y persecución (David antes del trono).
+
+Acontecimiento relacionado: E74 · Endor y Gilboa (Fin de Saúl).
+
+### David
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Saúl
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Adnas (Adnah en KJV)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jozabad (primera mención de 12:20)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jediael (12:20)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Micael (12:20)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jozabad (segunda mención de 12:20)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliú (12:20)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ziltai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Príncipes filisteos que hicieron volver a David
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nuevos ayudantes que se sumaban día a día
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G245 · Joiada, Sadoc y contingentes reunidos en Hebrón
+
+Fuente: 1 Crónicas 12:23–40
+
+Joiada y Sadoc son los dirigentes nombrados en esta sección; no se les inventa aquí una relación de padre e hijo. La casa paterna de Sadoc incluye 22 capitanes sin nombres. Las cifras se conservan tal como están distribuidas en el pasaje, sin sumarlas como si todas las categorías fueran necesariamente independientes. Expresados por nombre no significa que este capítulo transcriba esos nombres.
+
+Acontecimiento relacionado: E75 · Reino de Judá y reunificación (David: 7 años y 6 meses en Hebrón).
+
+### David (reconocido en Hebrón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Saúl (reino transferido)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joiada (dirigente de los aronitas)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sadoc (joven guerrero)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Judá: 6.800
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Simeón: 7.100
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Leví: 4.600
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aronitas con Joiada: 3.700
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casa paterna de Sadoc: 22 capitanes
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Benjamín: 3.000
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Efraín: 20.800
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Media tribu de Manasés: 18.000
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Isacar: 200 jefes y hermanos a sus órdenes
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zabulón: 50.000
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Neftalí: 1.000 capitanes y 37.000 hombres
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Dan: 28.600
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Aser: 40.000
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rubén, Gad y media Manasés al otro lado del Jordán: 120.000
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Resto de Israel que apoyaba a David
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hermanos que prepararon alimentos y vecinos que los llevaron
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Se mencionan Isacar, Zabulón y Neftalí; convivencia de tres días. No se dan nombres individuales.
 
