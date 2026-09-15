@@ -4,6 +4,10 @@ Filiaciones, genealogías, parentescos, sucesiones y pertenencia a pueblos se di
 
 Estado: ampliación documentada, no inventario exhaustivo de todos los personajes bíblicos ni lectura íntegra de los 120 PDF. Las apariciones repetidas no equivalen a personas únicas.
 
+## Esdras: cotejo de personajes de los diez capítulos
+
+Completada una pasada de cotejo de personajes por los 280 versículos de Esdras en la KJV aportada: 1–9 en esta revisión y 10 en la anterior. Diez fichas adicionales (G258–G267; R205–R214). Total: 267 fichas, 3.839 apariciones y 2.639 relaciones. Se conservan las 257 fichas anteriores y los 148 acontecimientos. Las identificaciones discutidas, variantes, paralelos y el contraste con White siguen abiertos.
+
 ## Personajes de Esdras 10 y Nehemías 3 y 11
 
 Cotejados los 112 versículos de estos capítulos. Doce fichas adicionales (G246–G257; R193–R204): casas de Esdras 10, constructores de Nehemías 3 y habitantes y servidores de Nehemías 11. Total: 257 fichas, 3.678 apariciones y 2.620 relaciones. Se conservan las 245 fichas anteriores y los 148 acontecimientos. Las apariciones no equivalen a personas únicas. Los demás capítulos y el contraste integral con White siguen pendientes.
@@ -30899,6 +30903,1238 @@ Geba, Micmas, Aía, Bet-el, Anatot, Nob, Ananías, Hazor, Ramá, Gitaim, Hadid, 
 
 
 ### Divisiones levíticas en Judá y Benjamín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G258 · Esdras 1: Ciro, Mitrídates y Sesbasar
+
+Fuente: Esdras 1:1–11; 5:12–16
+
+Mitrídates es tesorero en 1:8; no se identifica con el remitente homónimo de 4:7. Sesbasar es príncipe de Judá en 1:8 y gobernador en la declaración de 5:14. No se lo fusiona con Zorobabel ni con Senazar de Crónicas sin una investigación de identidad. Jeremías y Nabucodonosor son referencias anteriores al retorno. El relato atribuye a Sesbasar la recepción y traslado de los utensilios; no proporciona su ascendencia.
+
+Acontecimiento relacionado: E101 · Permiso y reconstrucción inicial (Primer año de Ciro; retorno).
+
+### Ciro (rey de Persia, Esdras 1)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jeremías (profeta recordado en 1:1)
+
+Referencia a una época anterior al retorno; no contemporaneidad afirmada con toda la lista.
+
+
+
+
+### Nabucodonosor (rey recordado en 1:7)
+
+Referencia a una época anterior al retorno; no contemporaneidad afirmada con toda la lista.
+
+
+
+
+### Mitrídates (tesorero, 1:8)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sesbasar (príncipe de Judá y gobernador)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jefes de Judá y Benjamín, sacerdotes y levitas que regresan
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Vecinos y donantes que ayudan al retorno
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G259 · Esdras 2: dirigentes del primer retorno y colectivos del censo
+
+Fuente: Esdras 2:1–2,59–70
+
+Complementa las casas y poblaciones de G63–G66. El Nehemías de 2:2 no se identifica automáticamente con el gobernador de las memorias de Nehemías; Mardoqueo no se equipara al de Ester. Rehum no se identifica con el canciller de Esdras 4. Tirsata es un título de gobernador, sin nombre personal en 2:63. La espera de un sacerdote con Urim y Tumim no acredita que apareciera uno durante este episodio. Las cifras de 42.360, 7.337 y 200 se conservan por categoría sin armonización forzada con las listas parciales.
+
+Acontecimiento relacionado: E101 · Permiso y reconstrucción inicial (Primer año de Ciro; retorno).
+
+### Zorobabel (dirigente del retorno)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jesúa (dirigente del retorno)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nehemías (Esdras 2:2)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Seraías (Esdras 2:2)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Reelaías
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mardoqueo (Esdras 2:2)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bilsán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mispar
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bigvai (dirigente, 2:2)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rehum (dirigente, 2:2)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Baana (dirigente, 2:2)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tirsata (gobernador sin nombre en 2:63)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Congregación del censo (42.360)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Siervos y siervas (7.337)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cantores y cantoras (200)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jefes que ofrecen para el templo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casas sin registro y sacerdotes cuya acreditación falta
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Las casas y la relación matrimonial de Barzilai ya están en G66.
+
+
+## G260 · Esdras 3: sacerdotes, levitas y familias que supervisan la obra
+
+Fuente: Esdras 2:40; 3:1–13
+
+Jesúa hijo de Josadac dirige el altar; Jesúa de 3:9 se conserva como mención de la lista de supervisores, sin fusionarlo automáticamente con el sumo sacerdote. Cadmiel aparece con sus hijos; las generaciones de las casas de Judá, Henadad y Hodavías no se reconstruyen. La KJV presenta Judá en 3:9 y Hodavías en 2:40; no se corrige una forma por la otra sin atribuir el cotejo. Los ancianos que habían visto el primer templo no reciben nombres ni edades inventados.
+
+Acontecimiento relacionado: E101 · Permiso y reconstrucción inicial (Primer año de Ciro; retorno).
+
+### Josadac (padre de Jesúa)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jesúa (hijo de Josadac, altar).  Fuente: Esdras 3:2
+
+### Jesúa (hijo de Josadac, altar)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Salatiel (padre textual de Zorobabel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Zorobabel (hijo de Salatiel). Se conserva el vínculo textual; la diferencia con Pedaías de Crónicas ya está documentada en G28. Fuente: Esdras 3:2
+
+### Zorobabel (hijo de Salatiel)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jesúa (supervisor en 3:9)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Hijos y hermanos de Jesúa (3:9). Grupo mixto de hijos y hermanos; no todos son hijos. Fuente: Esdras 3:9
+
+### Cadmiel (supervisor en 3:9)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Hijos de Cadmiel (3:9).  Fuente: Esdras 3:9
+
+### Hijos y hermanos de Jesúa (3:9)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos de Cadmiel (3:9)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos de Judá (3:9 KJV)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos de Henadad, sus hijos y hermanos levitas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Casas de Jesúa y Cadmiel de la descendencia de Hodavías (2:40)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Levitas de veinte años en adelante
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos de Asaf con címbalos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sacerdotes con trompetas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ancianos que habían visto el primer templo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Albañiles y carpinteros
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sidonios y tirios que aportan madera
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Moisés (ley recordada)
+
+Referencia a una época anterior; no contemporáneo de los constructores del retorno.
+
+
+
+
+### David (ordenanza de alabanza recordada)
+
+Referencia a una época anterior; no contemporáneo de los constructores del retorno.
+
+
+
+
+### Ciro (autorización recordada)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G261 · Esdras 4: remitentes, escriba y autoridades de la oposición
+
+Fuente: Esdras 4:1–24
+
+El capítulo reúne correspondencia y referencias a distintos reinados: no se lo convierte en una sola comitiva contemporánea ni en una sucesión cronológica simple de sus párrafos. Mitrídates de 4:7 se distingue del tesorero de 1:8; Rehum canciller del dirigente de 2:2. Asnapar se conserva con el nombre del pasaje, sin imponer una identificación histórica. Las acusaciones de rebeldía y pérdida de tributos se atribuyen a los remitentes, no a una conclusión del mural.
+
+Acontecimiento relacionado: E101 · Permiso y reconstrucción inicial (Primer año de Ciro; retorno).
+
+Acontecimiento relacionado: E103 · Reanudación y terminación del segundo templo (Años 2–6 de Darío, en Esdras).
+
+### Zorobabel (Esdras 4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jesúa (Esdras 4)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Esar-hadón (rey de Asiria recordado)
+
+Referencia retrospectiva a traslados de pueblos; año absoluto no fijado por esta ficha.
+
+
+
+
+### Ciro (referencia de 4:3–5)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Darío (referencias de 4:5,24)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Asuero (receptor de acusación, 4:6)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Artajerjes (correspondencia de 4:7–23)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bislam
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mitrídates (remitente, 4:7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tabeel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rehum (canciller)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Simsai (escriba)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Asnapar (deportaciones recordadas)
+
+Referencia retrospectiva a traslados de pueblos; año absoluto no fijado por esta ficha.
+
+
+
+
+### Consejeros contratados contra la obra
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jefes de casas y habitantes de Judá y Jerusalén
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Dinaitas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Afarsataquitas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tarpelitas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Afarsitas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Arquevitas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Babilonios
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Susanaquitas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Dehavitas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elamitas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Otras naciones trasladadas a Samaria y al otro lado del río
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G262 · Esdras 5–6: profetas, gobernantes y ancianos de la reconstrucción
+
+Fuente: Esdras 5:1–17; 6:1–22; Zacarías 1:1
+
+G161 ya representa la consulta de Tatnai y Setar-boznai; esta ficha reúne las reapariciones posteriores. Esdras vincula a Zacarías con Iddo; Zacarías 1:1 incorpora a Berequías en la cadena. No se confunde al profeta Iddo con el jefe de Casifia. El gran rey que construyó el templo queda sin nombre en la declaración de 5:11. Las alusiones a Ciro, Darío y Artajerjes de 6:14 no los convierten en contemporáneos ni asignan a todos el año sexto de Darío.
+
+Acontecimiento relacionado: E103 · Reanudación y terminación del segundo templo (Años 2–6 de Darío, en Esdras).
+
+### Hageo (profeta de Esdras 5–6)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Iddo (antepasado del profeta)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Berequías (Zacarías 1:1).  Fuente: Zacarías 1:1; Esdras 5:1; 6:14
+
+### Berequías (Zacarías 1:1)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Zacarías (profeta de Esdras 5–6).  Fuente: Zacarías 1:1; Esdras 5:1; 6:14
+
+### Zacarías (profeta de Esdras 5–6)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zorobabel (reanudación de la obra)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Salatiel (Esdras 5:2)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- genealogia → Zorobabel (reanudación de la obra). Vínculo textual; variantes de filiación conservadas en G28. Fuente: Esdras 5:2
+
+### Jesúa (reanudación de la obra)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Josadac (Esdras 5:2)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jesúa (reanudación de la obra).  Fuente: Esdras 5:2
+
+### Tatnai (gobernador)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Setar-boznai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Darío (receptor y emisor de cartas)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ciro (decreto consultado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Artajerjes (referencia de 6:14)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sesbasar (declaración de los ancianos)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Nabucodonosor (destrucción recordada)
+
+Figura anterior recordada en una declaración; no contemporánea de la terminación del segundo templo.
+
+
+
+
+### Gran rey de Israel que edificó el templo (sin nombre en 5:11)
+
+Figura anterior recordada en una declaración; no contemporánea de la terminación del segundo templo.
+
+
+
+
+### Compañeros afarsaquitas de los funcionarios
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ancianos de los judíos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sacerdotes y levitas de la dedicación
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Retornados y quienes se separaron para buscar a Dios
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G263 · Esdras 6–7: hijos de reyes, consejeros y administradores sin nombre
+
+Fuente: Esdras 6:10,22; 7:7–28
+
+Se distinguen los hijos mencionados al pedir oración por Darío en 6:10 de los hijos del rey de la carta de Artajerjes en 7:23. No se inventan sus nombres ni se enlazan con príncipes históricos por conjetura. Los siete consejeros no son hijos del rey. Rey de Asiria en 6:22 se conserva como designación del pasaje; no se crea por ello un segundo rey independiente. Los magistrados y jueces de 7:25 son un encargo de nombramiento, sin lista de designados.
+
+Acontecimiento relacionado: E103 · Reanudación y terminación del segundo templo (Años 2–6 de Darío, en Esdras).
+
+Acontecimiento relacionado: E105 · Esdras y decreto de Artajerjes (457 a. C. en GC).
+
+### Darío (padre mencionado en 6:10)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Hijos del rey mencionados en Esdras 6:10. Descendencia sin nombres ni número especificados. Fuente: Esdras 6:10
+
+### Hijos del rey mencionados en Esdras 6:10
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Artajerjes (carta de Esdras 7)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Hijos del rey mencionados en Esdras 7:23. Descendencia sin nombres ni número especificados. Fuente: Esdras 7:23
+
+### Hijos del rey mencionados en Esdras 7:23
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Esdras (sacerdote y escriba)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Siete consejeros del rey
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Príncipes poderosos de la corte
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tesoreros del otro lado del río
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Magistrados y jueces por nombrar según 7:25
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Voluntarios del viaje con Esdras
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Donantes del rey, consejeros, pueblo y sacerdotes
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sacerdotes, levitas, cantores, porteros y servidores exentos de tributo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G264 · Esdras 8: enviados a Casifia y tres menciones de Elnatán
+
+Fuente: Esdras 8:15–17
+
+La lista contiene dos Elnatán entre los jefes y otro entre los entendidos; se conservan tres posiciones, sin resolver si son homónimos o repetición textual. No se identifican con Elnatán de Jerusalén o con el enviado de Jeremías. Iddo es jefe en Casifia, no automáticamente el antepasado del profeta Zacarías. Hermanos de Iddo no aporta padres ni parentescos individualizados.
+
+Acontecimiento relacionado: E105 · Esdras y decreto de Artajerjes (457 a. C. en GC).
+
+### Esdras (reunión junto al Ahava)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eliezer (enviado, 8:16)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ariel (enviado, 8:16)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Semaías (enviado, 8:16)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elnatán (primera mención entre los jefes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jarib (enviado, 8:16)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elnatán (segunda mención entre los jefes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Natán (enviado, 8:16)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Zacarías (enviado, 8:16)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mesulam (enviado, 8:16)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joiarib (entendido, 8:16)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elnatán (mención entre los entendidos)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Iddo (jefe de Casifia)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hermanos de Iddo y servidores de Casifia
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G265 · Esdras 8: Serebías, Hasabías y servidores que se suman
+
+Fuente: Esdras 8:18–20
+
+Complementa G67. La KJV menciona un hombre entendido y a Serebías; no se decide aquí si la primera expresión designa al propio Serebías. Mahli pertenece a la descendencia de Leví; el texto resumido no justifica una generación inmediata. Los grupos de 18, 20 y 220 se conservan como colectivos. Expresados por nombre no significa que el capítulo enumere los 220 nombres. David es una referencia a la institución del servicio, no un viajero con Esdras.
+
+Acontecimiento relacionado: E105 · Esdras y decreto de Artajerjes (457 a. C. en GC).
+
+### Israel (antepasado recordado)
+
+Antepasado o figura anterior recordada; no viajero contemporáneo de Esdras.
+
+
+
+- filiacion → Leví (antepasado recordado).  Fuente: Esdras 8:18
+
+### Leví (antepasado recordado)
+
+Antepasado o figura anterior recordada; no viajero contemporáneo de Esdras.
+
+
+
+- genealogia → Mahli (linaje de los servidores). Genealogía abreviada; no generación inmediata afirmada. Fuente: Esdras 8:18
+
+### Mahli (linaje de los servidores)
+
+Antepasado o figura anterior recordada; no viajero contemporáneo de Esdras.
+
+
+
+- genealogia → Hombre entendido de la descendencia de Mahli (8:18 KJV). Descendiente; intervalo generacional no determinado. Fuente: Esdras 8:18
+
+### Hombre entendido de la descendencia de Mahli (8:18 KJV)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Serebías (Esdras 8:18)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- colectivo → Hijos y hermanos con Serebías (18). Grupo de hijos y hermanos; no dieciocho hijos individuales. Fuente: Esdras 8:18
+
+### Hijos y hermanos con Serebías (18)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hasabías (Esdras 8:19)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jesaías (de los descendientes de Merari)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Merari (linaje de Jesaías)
+
+Antepasado o figura anterior recordada; no viajero contemporáneo de Esdras.
+
+
+
+- genealogia → Jesaías (de los descendientes de Merari). Pertenencia a su linaje; generaciones intermedias desconocidas. Fuente: Esdras 8:19
+
+### Hermanos e hijos del grupo de 8:19 (20)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Servidores del templo que se suman (220)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### David (organización del servicio recordada)
+
+Antepasado o figura anterior recordada; no viajero contemporáneo de Esdras.
+
+
+
+
+### Príncipes que habían dispuesto el servicio
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G266 · Esdras 8: custodios, receptores de los bienes y familiares del viaje
+
+Fuente: Esdras 8:21–36
+
+Los receptores de 8:33 ya tienen vínculos en G67; se conserva su función y reaparición. El Finés padre de Eleazar de esta entrega no se identifica con el nieto de Aarón. Noadías no se identifica con la profetisa de Nehemías 6. El destacamento de soldados y jinetes fue una ayuda que Esdras dice haber evitado pedir; no se registra como escolta presente. La lista de doce de 8:24 se conserva según la formulación KJV, sin resolver aquí la relación de ese encabezado con los levitas mencionados antes.
+
+Acontecimiento relacionado: E105 · Esdras y decreto de Artajerjes (457 a. C. en GC).
+
+### Esdras (viaje y entrega)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Serebías (custodia de 8:24)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hasabías (custodia de 8:24)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Diez hermanos con los encargados de 8:24
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Urías (padre de Meremot, 8:33)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Meremot (receptor de bienes).  Fuente: Esdras 8:33
+
+### Meremot (receptor de bienes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Finés (padre de Eleazar, 8:33)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Eleazar (receptor de bienes).  Fuente: Esdras 8:33
+
+### Eleazar (receptor de bienes)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jesúa (padre de Jozabad, 8:33)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Jozabad (levita receptor).  Fuente: Esdras 8:33
+
+### Jozabad (levita receptor)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Binúi (padre de Noadías, 8:33)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Noadías (levita receptor).  Fuente: Esdras 8:33
+
+### Noadías (levita receptor)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Niños y familiares de los viajeros
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Enemigos y quienes acechaban el camino
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sacerdotes, levitas y jefes ante quienes se pesan los bienes
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sátrapas y gobernadores que reciben las órdenes reales
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G267 · Esdras 9: dirigentes, familias y comunidades mencionadas
+
+Fuente: Esdras 9:1–15
+
+El capítulo no añade nombres personales al relato en primera persona de Esdras: sus actores son principalmente colectivos. No se inventan nombres de príncipes, esposas, hijos o profetas citados. Las afirmaciones sobre las prácticas de los pueblos se conservan como parte de la denuncia y oración del texto, no como juicios del mural sobre personas actuales. La lista individual del capítulo 10 está desarrollada en G246–G250.
+
+Acontecimiento relacionado: E105 · Esdras y decreto de Artajerjes (457 a. C. en GC).
+
+Acontecimiento relacionado: E107 · Lectura, pacto y reformas (Comunidad restaurada).
+
+### Esdras (oración y confesión)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Príncipes que presentan el informe
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Príncipes y gobernantes señalados en la denuncia
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Israelitas, sacerdotes y levitas implicados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijas de los pueblos, esposas e hijos sin nombres individuales
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Quienes se reúnen por respeto a las palabras de Dios
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Padres, reyes y sacerdotes recordados en la oración
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Reyes de Persia recordados en la oración
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Profetas citados sin nombres
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cananeos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Heteos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ferezeos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jebuseos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Amonitas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Moabitas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Egipcios
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Amorreos
 
 Cronología generacional no determinada; ubicación esquemática.
 
