@@ -4,13 +4,11 @@ Filiaciones, genealogías, parentescos, sucesiones y pertenencia a pueblos se di
 
 Estado: ampliación documentada, no inventario exhaustivo de todos los personajes bíblicos ni lectura íntegra de los 120 PDF. Las apariciones repetidas no equivalen a personas únicas.
 
-# Incorporación de la revisión por libros
+# Quinta ampliación publicada
 
-Las 39 propuestas R098–R136 se incorporan como fichas de episodios, participantes y relaciones explícitas. Se conservan las 150 fichas anteriores y los 148 acontecimientos originales. Total: **189 fichas, 2.723 apariciones de personas o grupos y 2.225 relaciones**. Las apariciones no son personas únicas.
+Se incorporan R137–R157: **21 fichas nuevas, 125 apariciones y 10 relaciones**. Total: **210 fichas, 2.848 apariciones de personas o grupos y 2.235 relaciones**. Las apariciones no equivalen a personas únicas. Se conservan las 189 fichas anteriores y los 148 acontecimientos originales.
 
-Cada ficha nueva muestra relato, fuente y marco temporal. Los vínculos con los acontecimientos dan contexto; no afirman una fecha absoluta. En las cartas se distinguen testimonios, planes y parentescos espirituales. Las genealogías biológicas no se deducen de la colaboración.
-
-El registro tiene 136 hallazgos incorporados. La primera pasada por los 66 libros fue selectiva: 220 versículos, no lectura íntegra. Las 16 notas de contexto literario de aquella revisión no se cuentan entre las 39 propuestas. La revisión exhaustiva de los 120 documentos sigue pendiente.
+El registro reúne 157 hallazgos incorporados, con sus incertidumbres. La revisión integral de la Biblia y los 120 documentos sigue pendiente. Las fechas desconocidas, los planes y las identificaciones no demostradas permanecen explícitos.
 
 | Hallazgo | Tema | Ficha |
 |---|---|---|
@@ -150,6 +148,27 @@ El registro tiene 136 hallazgos incorporados. La primera pasada por los 66 libro
 | R134 | Timoteo puesto en libertad y saludo de Italia | G187 |
 | R135 | Silvano y Marcos en el saludo de 1 Pedro | G188 |
 | R136 | Judas se presenta como hermano de Jacobo | G189 |
+| R137 | Itai geteo y su lealtad durante la rebelión | G190 |
+| R138 | Jonatán y Ahimaas: mensajeros escondidos en un pozo | G191 |
+| R139 | Abisag y la petición de Adonías | G192 |
+| R140 | Hanani y Jehú hijo de Hanani: reprensiones y memoria escrita | G193 |
+| R141 | Eliezer hijo de Dodava y la flota de Josafat | G194 |
+| R142 | On hijo de Pelet entre los participantes iniciales de la rebelión | G195 |
+| R143 | Los cinco reyes que atacan Gabaón | G196 |
+| R144 | Dionisio y Dámaris tras el discurso en Atenas | G197 |
+| R145 | Compañeros de Pablo: procedencias y viaje a Asia | G198 |
+| R146 | Agabo advierte sobre la prisión de Pablo | G199 |
+| R147 | Mnasón de Chipre y el hospedaje | G200 |
+| R148 | Blasto y la negociación de Tiro y Sidón | G201 |
+| R149 | Colaboradores y comunidades del saludo de Romanos | G202 |
+| R150 | Tercio, Gayo, Erasto y Cuarto: escritura y hospitalidad | G203 |
+| R151 | Epafrodito: ayuda, enfermedad y retorno | G204 |
+| R152 | Demas se aparta; Crescente y Tito cambian de destino | G205 |
+| R153 | Carpo y los objetos dejados en Troas | G206 |
+| R154 | Alejandro el calderero y la oposición a Pablo | G207 |
+| R155 | Trófimo: sospecha en Jerusalén y enfermedad en Mileto | G208 |
+| R156 | Eubulo, Pudente, Lino y Claudia | G209 |
+| R157 | Candace y el funcionario etíope | G210 |
 
 
 # Cobertura del bloque genealógico acordado
@@ -23128,6 +23147,1141 @@ Contexto epistolar; el pasaje no fija año absoluto. La colocación en la etapa 
 ### Jacobo (hermano del remitente)
 
 Contexto epistolar; el pasaje no fija año absoluto. La colocación en la etapa apostólica es temática, no prueba una fecha de escritura anterior a 70 d. C.
+
+
+
+
+## G190 · Itai geteo y su lealtad durante la rebelión
+
+Fuente: 2 Samuel 15:19-22; 2 Samuel 18:2
+
+Los pequeños que viajan con él no se convierten en hijos personales de Itai; tampoco se identifica con otros Itai por el nombre.
+
+Relato: Itai geteo rehúsa abandonar a David durante la huida: promete acompañarlo en vida o muerte. Cruza con sus hombres y los pequeños que viajan con ellos. Después recibe el mando de una tercera parte del ejército, junto a los contingentes de Joab y Abisai.
+
+Marco temporal: Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+Acontecimiento relacionado: E77 · Betsabé y rebelión de Absalón (Crisis de la casa de David).
+
+### Itai geteo
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### David
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Joab
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Abisai
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Hombres de Itai
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Pequeños que acompañan al grupo
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+## G191 · Jonatán y Ahimaas: mensajeros escondidos en un pozo
+
+Fuente: 2 Samuel 15:27,36; 2 Samuel 17:17-21
+
+Las personas anónimas conservan esa condición. Ahimaas hijo de Sadoc no es Ahimaas padre de Ahinoam en G106; los mensajeros no son hermanos.
+
+Relato: Jonatán hijo de Abiatar y Ahimaas hijo de Sadoc transmiten noticias a David. Una criada les lleva información y un joven los denuncia ante Absalón. Se esconden en un pozo en Bahurim; una mujer cubre su boca y desvía a los perseguidores. Los mensajeros salen y avisan a David que cruce el agua rápidamente.
+
+Marco temporal: Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+Acontecimiento relacionado: E77 · Betsabé y rebelión de Absalón (Crisis de la casa de David).
+
+### Sadoc (padre de Ahimaas)
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+- filiacion → Ahimaas (mensajero).  Fuente: 2 Samuel 15:27,36
+
+### Ahimaas (mensajero)
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Abiatar
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+- filiacion → Jonatán (hijo de Abiatar).  Fuente: 2 Samuel 15:27,36
+
+### Jonatán (hijo de Abiatar)
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Criada informante (sin nombre)
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Joven que avisa a Absalón (sin nombre)
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Hombre de la casa de Bahurim (sin nombre)
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Mujer que oculta a los mensajeros (sin nombre)
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### David
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Absalón
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+## G192 · Abisag y la petición de Adonías
+
+Fuente: 1 Reyes 1:1-4; 1 Reyes 2:17-25
+
+No representar la petición como matrimonio realizado. El relato dice que David no la conoció; no inventar descendientes ni equipararla a otras sunamitas.
+
+Relato: Abisag sunamita cuida a David anciano; el texto declara que el rey no la conoció. Tras la sucesión, Adonías pide por medio de Betsabé que Salomón se la dé por esposa. Salomón entiende la petición como pretensión al reino y ordena a Benaía ejecutar a Adonías.
+
+Marco temporal: Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+Acontecimiento relacionado: E78 · Censo, altar y sucesión (Final de David).
+
+### Abisag sunamita
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### David
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Adonías
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Betsabé
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Salomón
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Joiada (padre de Benaía)
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+- filiacion → Benaía (ejecutor de Adonías).  Fuente: 1 Reyes 2:25
+
+### Benaía (ejecutor de Adonías)
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+## G193 · Hanani y Jehú hijo de Hanani: reprensiones y memoria escrita
+
+Fuente: 2 Crónicas 16:7-10; 1 Reyes 16:1-4; 2 Crónicas 19:2; 2 Crónicas 20:34
+
+Distinguir al profeta Jehú del rey hijo de Josafat y nieto de Nimsi. La identificación del Hanani de Asa con el padre de Jehú debe explicitarse como lectura contextual, no como una frase conjunta del texto.
+
+Relato: Hanani reprende a Asa por confiar en Siria; el rey lo encarcela. Jehú hijo de Hanani anuncia juicio contra Baasa y reprende a Josafat por ayudar al impío. Crónicas remite también a un registro de Jehú hijo de Hanani sobre los hechos de Josafat.
+
+Marco temporal: Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+Elena G. White — PK 113.1–113.3 · Prophets and Kings: White relata la alianza de Asa con Benhadad, la reprensión de Hanani y el encarcelamiento del vidente.
+
+Acontecimiento relacionado: E82 · Asa y ascenso de la casa de Omri (Primeras dinastías).
+
+Acontecimiento relacionado: E83 · Elías y oposición al culto de Baal (Acab y Josafat).
+
+### Hanani (vidente ante Asa)
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+- discutida → Hanani (padre de Jehú). Comparación contextual de menciones; no relación entre dos parientes ni identificación impuesta. Fuente: 2 Crónicas 16:7-10; 1 Reyes 16:1-4; 2 Crónicas 19:2; 2 Crónicas 20:34
+
+### Hanani (padre de Jehú)
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+- filiacion → Jehú (profeta hijo de Hanani).  Fuente: 1 Reyes 16:1; 2 Crónicas 19:2; 20:34
+
+### Jehú (profeta hijo de Hanani)
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Asa
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Baasa
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Josafat
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+## G194 · Eliezer hijo de Dodava y la flota de Josafat
+
+Fuente: 2 Crónicas 20:35-37
+
+No fusionar a este Eliezer con el hijo de Moisés ni con otros homónimos. El pasaje describe un viaje frustrado.
+
+Relato: Josafat se asocia con Ocozías de Israel para construir barcos en Ezión-geber destinados a Tarsis. Eliezer hijo de Dodava de Maresa profetiza contra la alianza. Los barcos se rompen y no realizan el viaje.
+
+Marco temporal: Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+Acontecimiento relacionado: E83 · Elías y oposición al culto de Baal (Acab y Josafat).
+
+### Dodava de Maresa
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+- filiacion → Eliezer (profeta de Maresa).  Fuente: 2 Crónicas 20:35-37
+
+### Eliezer (profeta de Maresa)
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Josafat
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Ocozías (rey de Israel)
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+## G195 · On hijo de Pelet entre los participantes iniciales de la rebelión
+
+Fuente: Números 16:1
+
+No confundir On con la ciudad egipcia de G20. Este versículo no narra el destino final de On ni permite inventar una esposa o intervención de ella.
+
+Relato: El encabezamiento de la rebelión de Números 16 nombra a On hijo de Pelet, junto con Coré, Datán y Abiram. La ficha conserva esa mención inicial sin reconstruir un desenlace personal que el versículo no cuenta.
+
+Marco temporal: Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+Acontecimiento relacionado: E57 · Coré y confirmación sacerdotal (Peregrinación).
+
+### Pelet
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+- filiacion → On (hijo de Pelet).  Fuente: Números 16:1
+
+### On (hijo de Pelet)
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Coré
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Datán
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Abiram
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+## G196 · Los cinco reyes que atacan Gabaón
+
+Fuente: Josué 10:3-5
+
+No convertir cargos o ciudades en parentescos; Jafía no es el hijo de David. Cotejar el resto del capítulo antes de desarrollar toda la campaña.
+
+Relato: Adonisedec de Jerusalén solicita ayuda a cuatro reyes para atacar Gabaón por haber hecho paz con Josué e Israel. Los cinco reúnen sus ejércitos y acampan contra la ciudad.
+
+Marco temporal: Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+Acontecimiento relacionado: E62 · Hai, Gabaón y herencias (Campañas y reparto).
+
+### Adonisedec (rey de Jerusalén)
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Hoham (rey de Hebrón)
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Piram (rey de Jarmut)
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Jafía (rey de Laquis)
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Debir (rey de Eglón)
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Josué
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Gabaonitas
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Ejércitos de la coalición
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+## G197 · Dionisio y Dámaris tras el discurso en Atenas
+
+Fuente: Hechos 17:32-34
+
+No afirmar matrimonio entre Dionisio y Dámaris ni identificarlo automáticamente con autores posteriores de igual nombre.
+
+Relato: Después del discurso de Pablo en Atenas, algunos se burlan de la resurrección y otros aplazan la conversación. Dionisio el areopagita, Dámaris y otras personas se adhieren y creen.
+
+Marco temporal: Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+Elena G. White — AA 240.2 · The Acts of the Apostles: White menciona a Dionisio y a otros que aceptaron el mensaje en Atenas. La mención de Dámaris se fundamenta en Hechos 17:34.
+
+Acontecimiento relacionado: E140 · Comunidades del Mediterráneo (Segundo y tercer viajes).
+
+### Pablo
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Dionisio el areopagita
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Dámaris
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Otros creyentes de Atenas
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+## G198 · Compañeros de Pablo: procedencias y viaje a Asia
+
+Fuente: Hechos 20:4
+
+La KJV aportada no nombra aquí al padre de Sópater. No fusionar a Gayo de Derbe con otros Gayo sin cotejo ni confundir procedencia con filiación.
+
+Relato: La lista de acompañantes de Pablo distingue a Sópater de Berea; Aristarco y Segundo de Tesalónica; Gayo de Derbe y Timoteo; y Tíquico y Trófimo de Asia. Se preservan sus procedencias sin convertirlas en vínculos familiares.
+
+Marco temporal: Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+Acontecimiento relacionado: E140 · Comunidades del Mediterráneo (Segundo y tercer viajes).
+
+### Pablo
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Sópater de Berea
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Aristarco (Hechos 20)
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Segundo de Tesalónica
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Gayo de Derbe
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Timoteo
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Tíquico
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Trófimo (Hechos 20)
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+## G199 · Agabo advierte sobre la prisión de Pablo
+
+Fuente: Hechos 21:8-14
+
+Agabo no se convierte en pariente de Felipe ni padre de sus hijas; la predicción se distingue del relato posterior de su cumplimiento.
+
+Relato: Durante la estancia en casa de Felipe en Cesarea, Agabo llega de Judea. Ata sus manos y pies con el cinturón de Pablo y anuncia su entrega a gentiles. Los presentes ruegan a Pablo que no suba a Jerusalén; él se declara dispuesto a sufrir y morir por Jesús.
+
+Marco temporal: Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+Acontecimiento relacionado: E140 · Comunidades del Mediterráneo (Segundo y tercer viajes).
+
+Acontecimiento relacionado: E141 · Defensas, naufragio y prisión (Arresto y viaje a Roma).
+
+### Pablo
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Agabo
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Felipe evangelista
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+- colectivo → Cuatro hijas de Felipe. Cuatro hijas explícitas, sin nombres; familia ya incluida en G74. Fuente: Hechos 21:8–9
+
+### Cuatro hijas de Felipe
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Acompañantes que ruegan a Pablo
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+## G200 · Mnasón de Chipre y el hospedaje
+
+Fuente: Hechos 21:15-16
+
+Antiguo discípulo no proporciona edad, fecha de conversión ni parentescos. No fijar por conjetura la ubicación exacta de su casa.
+
+Relato: Al subir hacia Jerusalén, algunos discípulos de Cesarea acompañan al grupo. El relato presenta a Mnasón de Chipre, discípulo antiguo, con quien habían de alojarse.
+
+Marco temporal: Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+Acontecimiento relacionado: E140 · Comunidades del Mediterráneo (Segundo y tercer viajes).
+
+Acontecimiento relacionado: E141 · Defensas, naufragio y prisión (Arresto y viaje a Roma).
+
+### Mnasón de Chipre
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Pablo
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Discípulos de Cesarea
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Compañeros de viaje
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+## G201 · Blasto y la negociación de Tiro y Sidón
+
+Fuente: Hechos 12:20
+
+No afirmar que Blasto fuera pariente de Herodes ni añadir un soborno no dicho en este versículo.
+
+Relato: Los habitantes de Tiro y Sidón buscan la paz con Herodes, de cuyo territorio depende su abastecimiento. Se ganan a Blasto, camarero del rey, como intermediario.
+
+Marco temporal: Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+Acontecimiento relacionado: E138 · Muerte de Jacobo y liberación de Pedro (Reinado de Herodes Agripa I).
+
+### Blasto
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Herodes (Agripa I)
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Habitantes de Tiro y Sidón
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+## G202 · Colaboradores y comunidades del saludo de Romanos
+
+Fuente: Romanos 16:12-15
+
+Trifena y Trifosa no se declaran hermanas; Julia no se declara esposa de Filólogo; no identificar a Hermes o Hermas con figuras posteriores por homonimia.
+
+Relato: El saludo de Romanos reconoce el trabajo de Trifena, Trifosa y Pérsida y enumera otros creyentes y grupos. Incluye a Rufo y su madre y a Nereo y su hermana, cuyos vínculos ya se conservan en las fichas anteriores.
+
+Marco temporal: Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+### Trifena
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Trifosa
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Pérsida
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Rufo (Romanos)
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Madre de Rufo (Romanos)
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+- materna → Rufo (Romanos). La expresión de Pablo su madre y mía no establece maternidad biológica de Pablo. Fuente: Romanos 16:13
+
+### Asíncrito
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Flegonte
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Hermas
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Patrobas
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Hermes
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Filólogo
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Julia
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Nereo
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+- hermanos → Hermana de Nereo.  Fuente: Romanos 16:15
+
+### Hermana de Nereo
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Olimpas
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Creyentes que acompañan a los nombrados
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+## G203 · Tercio, Gayo, Erasto y Cuarto: escritura y hospitalidad
+
+Fuente: Romanos 16:22-23; Hechos 19:21-22; 2 Timoteo 4:20
+
+No confundir escribiente con autor del mensaje; no dar por probada la identidad de los Erasto ni de los Gayo. Hermano no acredita filiación biológica.
+
+Relato: Tercio se identifica como quien escribe la carta a los romanos. Gayo hospeda al remitente y a la comunidad; Erasto, encargado de la ciudad, y Cuarto envían saludos. Otros pasajes mencionan a un Erasto enviado a Macedonia y a un Erasto que permanece en Corinto; sus identidades se conservan sin fusionarlas.
+
+Marco temporal: Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+### Tercio (escribiente de Romanos)
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Gayo (anfitrión en Romanos)
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Erasto (Romanos 16)
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Cuarto
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Erasto (Hechos 19)
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Erasto (2 Timoteo 4)
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Pablo
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Timoteo
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+## G204 · Epafrodito: ayuda, enfermedad y retorno
+
+Fuente: Filipenses 2:25-30; Filipenses 4:18
+
+No fusionar Epafrodito con Epafras por semejanza de nombre. Compañero y hermano no generan parentescos biológicos.
+
+Relato: Epafrodito lleva a Pablo lo enviado por los filipenses y le sirve. Enferma gravemente y se preocupa al saber que la comunidad conoce su enfermedad. Pablo comunica su recuperación y su envío de regreso, pidiendo que lo reciban con alegría.
+
+Marco temporal: Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+Elena G. White — AA 479.1 · The Acts of the Apostles: White sitúa a Epafrodito atendiendo a Pablo preso en Roma, relata su grave enfermedad y explica la preocupación de los filipenses. Esta localización se atribuye a White; los versículos citados no nombran por sí solos el lugar de prisión.
+
+### Epafrodito
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Pablo
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Comunidad de Filipos
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+## G205 · Demas se aparta; Crescente y Tito cambian de destino
+
+Fuente: 2 Timoteo 4:9-12
+
+El reproche por amor al mundo se dirige a Demas; no extenderlo automáticamente a Crescente y Tito. No imponer años absolutos a la secuencia epistolar.
+
+Relato: La carta dice que Demas se apartó por amor al mundo y partió a Tesalónica; menciona a Crescente hacia Galacia y a Tito hacia Dalmacia. El remitente pide que le traigan a Marcos, reconoce su utilidad y comunica el envío de Tíquico a Éfeso.
+
+Marco temporal: Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+### Pablo
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Demas
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Crescente
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Tito
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Lucas
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Marcos
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Tíquico
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Timoteo
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+## G206 · Carpo y los objetos dejados en Troas
+
+Fuente: 2 Timoteo 4:13
+
+No afirmar que se conoce el contenido de los libros, el parentesco de Carpo ni que la entrega solicitada llegó a realizarse.
+
+Relato: El remitente pide a Timoteo traer el capote dejado en Troas con Carpo, los libros y especialmente los pergaminos. El pasaje conserva una petición y no informa de su entrega posterior.
+
+Marco temporal: Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+### Pablo
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Timoteo
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Carpo
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+## G207 · Alejandro el calderero y la oposición a Pablo
+
+Fuente: 2 Timoteo 4:14
+
+No identificarlo con Alejandro de Éfeso en Hechos 19, con el de 1 Timoteo 1 o con el hijo de Simón de Cirene sin prueba adicional.
+
+Relato: El remitente declara que Alejandro el calderero le hizo mucho daño y deja la retribución al Señor. El pasaje no identifica sus padres ni lo equipara expresamente con otros Alejandro.
+
+Marco temporal: Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+### Pablo
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Alejandro (calderero de 2 Timoteo)
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+## G208 · Trófimo: sospecha en Jerusalén y enfermedad en Mileto
+
+Fuente: Hechos 21:27-29; 2 Timoteo 4:20
+
+El texto dice que supusieron su entrada al templo: no presentarla como hecho. No situar automáticamente ambas noticias en el mismo viaje.
+
+Relato: En Jerusalén, los acusadores habían visto a Trófimo efesio con Pablo en la ciudad y supusieron que este lo había introducido en el templo. Esa suposición forma parte de la acusación, no de un hecho confirmado por Lucas. En 2 Timoteo se dice que Trófimo fue dejado enfermo en Mileto, sin fechar aquí la relación entre ambas noticias.
+
+Marco temporal: Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+Acontecimiento relacionado: E141 · Defensas, naufragio y prisión (Arresto y viaje a Roma).
+
+### Trófimo efesio
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Pablo
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Acusadores procedentes de Asia
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+## G209 · Eubulo, Pudente, Lino y Claudia
+
+Fuente: 2 Timoteo 4:19-21
+
+No afirmar matrimonios ni identificar a Lino con un dirigente posterior sin fuente; el invierno no proporciona año absoluto.
+
+Relato: El saludo final menciona a Eubulo, Pudente, Lino, Claudia y los hermanos. La carta pide a Timoteo acudir antes del invierno y saluda a Prisca, Aquila y la casa de Onesíforo, ya presentes en otras fichas.
+
+Marco temporal: Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+### Eubulo
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Pudente
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Lino (2 Timoteo)
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Claudia
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Timoteo
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Prisca
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Aquila
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Casa de Onesíforo
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+### Otros hermanos
+
+Contexto epistolar; los pasajes no fijan año absoluto. Ubicación temática en la etapa apostólica, sin demostrar por ella una fecha de escritura anterior a 70 d. C.
+
+
+
+
+## G210 · Candace y el funcionario etíope
+
+Fuente: Hechos 8:27-31
+
+El funcionario sigue sin nombre; Candace no aporta aquí una genealogía. No convertir la dependencia administrativa en parentesco ni asignar una identidad regia precisa sin estudio externo.
+
+Relato: Felipe se acerca al carro de un funcionario etíope, encargado del tesoro bajo Candace, reina de los etíopes. El hombre vuelve de adorar en Jerusalén y lee Isaías. Reconoce que necesita orientación e invita a Felipe a sentarse con él.
+
+Marco temporal: Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+Acontecimiento relacionado: E136 · Samaria, etíope y conversión de Saulo (Expansión inicial).
+
+### Candace (reina mencionada en Hechos)
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Funcionario etíope (sin nombre)
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
+
+
+
+
+### Felipe evangelista
+
+Orden relativo en la etapa; fechas personales y año absoluto no determinados por los pasajes citados.
 
 
 
