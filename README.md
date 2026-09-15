@@ -1,6 +1,6 @@
 # Cronología bíblica
 
-Página estática de fondo claro. Línea horizontal por décadas desde 600 a. C. hasta el cierre en 70 d. C.; recorrido de las 15 etapas originales desde la rebelión celestial. Conserva las 148 fichas y enlaza al mural de 267 fichas de familias y episodios, con 3.839 apariciones de personas o grupos y 2.639 relaciones. Las apariciones repetidas no son personas únicas.
+Página estática de fondo claro. Línea horizontal por décadas desde 600 a. C. hasta el cierre en 70 d. C.; recorrido de las 15 etapas originales desde la rebelión celestial. Conserva las 148 fichas y enlaza al mural de 284 fichas de familias y episodios, con 4.174 apariciones de personas o grupos y 2.653 relaciones. Las apariciones repetidas no son personas únicas.
 
 La ampliación anterior completó los ocho bloques identificados: familias de jueces, ramas tribales, Safán, Baruc y su entorno, recabitas, casas del retorno, Job y parentescos del Nuevo Testamento. Las notas de Elena G. White distinguen obra, capítulo y referencia de página/párrafo en la edición inglesa consultada. Las familias enlazan a los acontecimientos relacionados y las fichas de acontecimientos permiten regresar a esas familias. El catálogo descargable documenta la cobertura y las incertidumbres.
 
@@ -36,7 +36,7 @@ Se añaden 39 fichas documentadas (R098–R136): 204 apariciones y 30 relaciones
 
 ## Quinta ampliación
 
-R137–R157 incorporados: 21 fichas, 125 apariciones y 10 relaciones adicionales. Total actual: 210 fichas, 3.839 apariciones y 2.639 relaciones; 157 hallazgos incorporados. Las 189 fichas anteriores y los 148 acontecimientos originales permanecen idénticos. Se mantienen las cautelas de identidad, cronología y parentesco. La revisión integral permanece pendiente.
+R137–R157 incorporados: 21 fichas, 125 apariciones y 10 relaciones adicionales. Total actual: 210 fichas, 4.174 apariciones y 2.653 relaciones; 157 hallazgos incorporados. Las 189 fichas anteriores y los 148 acontecimientos originales permanecen idénticos. Se mantienen las cautelas de identidad, cronología y parentesco. La revisión integral permanece pendiente.
 
 ## Sexta incorporación: personajes
 
@@ -55,3 +55,7 @@ El mural comparte internamente las cadenas repetidas para reducir tamaño sin el
 ## Esdras: cotejo de personajes de los diez capítulos
 
 Se completa una pasada por los 280 versículos de Esdras en KJV. Diez fichas adicionales: 161 apariciones y 19 relaciones, sin alterar las 257 fichas anteriores. Las variantes, identificaciones discutidas, paralelos y contraste completo con White siguen abiertos.
+
+## Nehemías: cotejo de personajes de los trece capítulos
+
+Se completa una pasada por los 406 versículos en KJV (338 en esta revisión y 68 previamente). Diecisiete fichas adicionales con 335 apariciones y 14 relaciones; no son 335 personas nuevas. Se conservan las 267 fichas anteriores y los acontecimientos. Las variantes, paralelos, identidades y contraste completo con White siguen pendientes.
