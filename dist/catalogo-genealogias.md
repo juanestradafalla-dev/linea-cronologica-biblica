@@ -4,6 +4,10 @@ Filiaciones, genealogías, parentescos, sucesiones y pertenencia a pueblos se di
 
 Estado: ampliación documentada, no inventario exhaustivo de todos los personajes bíblicos ni lectura íntegra de los 120 PDF. Las apariciones repetidas no equivalen a personas únicas.
 
+## Génesis: cotejo de personajes de los cincuenta capítulos
+
+Completada una pasada continua de personajes por Génesis 1–50, 1.533 versículos KJV. Se añaden 28 fichas G436–G463 / R383–R410, 273 apariciones y 50 relaciones: total de 463 fichas, 6.696 apariciones de personas o grupos y 2.902 relaciones. Las apariciones incluyen colectivos y repeticiones, no personas únicas. Se conservan las 435 fichas anteriores y los 148 acontecimientos. Se incorporan descendencias anónimas, variantes de las esposas de Esaú, auxiliares de los patriarcas y generaciones conocidas por José, con cronologías no determinadas expresamente señaladas. PP 173.2 y 196.3 se consultaron puntualmente para las identificaciones de Eliezer y del visitante de Jacob; se atribuyen a White. Variantes, paralelos y contraste integral con White siguen abiertos. Próximo libro: Éxodo.
+
 ## Josué: cotejo de personajes de los veinticuatro capítulos
 
 Completada una pasada bíblica de personajes por los 24 capítulos y 658 versículos de Josué en la KJV aportada, con dos versículos adicionales de paralelos. Se añaden 14 fichas G422–G435 / R369–R382, 178 apariciones y siete relaciones. Total: 435 fichas, 6.423 apariciones de personas o grupos y 2.852 relaciones. Las apariciones incluyen colectivos y repeticiones; no son personas únicas. Las 421 fichas anteriores y los 148 acontecimientos permanecen intactos. Se incorporan hijos e hijas de Acán, Arba–Anac, Bohán, auxiliares y registro completo de 31 reyes, sin convertir lugares en personas. La identificación del Príncipe del ejército del Señor como Cristo se atribuye a White, PP 487.3; también se coteja PP 493.1. Siguen abiertas cronologías, variantes e identidades y el contraste integral con White. Próximo libro propuesto: Génesis.
@@ -51912,6 +51916,2235 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 ### Pueblo que renueva el pacto en Siquem
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G436 · Génesis 1–3: creación humana, serpiente y guardianes del Edén
+
+Fuente: Génesis 1–3
+
+Adán y Eva están en G01. La formación de Eva de una costilla no es una relación padre–hija. El padre y la madre de 2:24 pertenecen a la formulación del matrimonio, no a padres biológicos de Adán. Los lugares Havila, Etiopía y Asiria de 2 no se convierten en personas antediluvianas. Génesis 3 llama serpiente al interlocutor de Eva; el nombre Lucifer y la secuencia de la rebelión celestial requieren otras fuentes, conservadas en los acontecimientos previos. La enemistad entre simientes no permite asignar a la serpiente paternidad biológica sobre Caín. No se indican nombres ni cantidad de querubines, edad de Eva ni año absoluto de la caída. La espada encendida no es una persona.
+
+Acontecimiento relacionado: E14 · Animales terrestres y humanidad (Día 6).
+
+Acontecimiento relacionado: E15 · Formación, jardín y matrimonio (Detalle de la creación humana).
+
+Acontecimiento relacionado: E18 · Engaño y desobediencia (Caída humana).
+
+Acontecimiento relacionado: E19 · Interrogación y anuncio de consecuencias (Después de comer).
+
+Acontecimiento relacionado: E20 · Vestiduras y acceso restringido al árbol de vida (Salida de Edén).
+
+### Adán (formación y caída)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Eva (esposa de Adán, nombre de 3:20)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Dios (creador y juez en Génesis 1–3)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Espíritu de Dios (Génesis 1:2)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Serpiente (interlocutor de Eva en Génesis 3)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Identificación con Satanás requiere cotejo de otras fuentes; no se deduce un linaje humano.
+
+
+### Querubines que guardan el camino del árbol de la vida
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G437 · Génesis 4: esposa de Caín y descendencias de los primeros oficios
+
+Fuente: Génesis 4:1–26
+
+G01 conserva íntegra la línea Caín–Enoc–Irad–Mehujael–Metusael–Lamec y los hijos de Ada y Zila. Se añade la esposa de Caín, madre de Enoc, sin nombre ni padres individualizados. No se identifica a ese Enoc con el de Set. Padre de quienes habitan tiendas o tocan instrumentos expresa el origen de una actividad; no aporta nombres de todos sus practicantes. En el poema de Lamec, hombre y joven pueden ser expresiones paralelas: no se inventan dos víctimas distintas ni se les asigna el nombre de un familiar. No hay descendencia registrada de Abel ni una marca de Caín definida como color de piel.
+
+Acontecimiento relacionado: E21 · Caín y Abel (Después de Edén).
+
+Acontecimiento relacionado: E22 · Ciudad y desarrollo de actividades (Rama de Caín).
+
+### Caín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- union → Esposa de Caín (sin nombre).  Fuente: Génesis 4:17
+
+### Esposa de Caín (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Enoc (hijo de Caín).  Fuente: Génesis 4:17
+
+### Enoc (hijo de Caín)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Lamec (rama de Caín)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Víctima o víctimas evocadas en el poema de Lamec
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Número e identidad no resueltos por la formulación poética.
+
+
+### Habitantes de tiendas y criadores vinculados a Jabal
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Músicos vinculados a Jubal
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G438 · Génesis 5: otros hijos e hijas de nueve patriarcas
+
+Fuente: Génesis 5:4–31
+
+Se conservan en G02 la línea principal y sus edades. Cada expresión «hijos e hijas» se representa como colectivo adicional al hijo previamente nombrado; no indica cantidad, nombres, cónyuges ni fechas individuales. No se asignan madres anónimas específicas sin texto. Enoc fue tomado por Dios; no recibe aquí una fecha de muerte. Los 500 años de Noé al introducir a Sem, Cam y Jafet no prueban que fueran trillizos o nacieran en un mismo año.
+
+Acontecimiento relacionado: E23 · Set y línea genealógica (Adán, 130 años).
+
+Acontecimiento relacionado: E24 · Enoc camina con Dios (Enoc, 365 años de vida).
+
+Acontecimiento relacionado: E25 · Noé y corrupción general (Antes del diluvio).
+
+### Otros hijos e hijas de Adán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Colectivo explícito; nombres y cronología de estas generaciones no determinados.
+
+
+### Adán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Otros hijos e hijas de Adán.  Fuente: Génesis 5:4
+
+### Otros hijos e hijas de Set
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Colectivo explícito; nombres y cronología de estas generaciones no determinados.
+
+
+### Set
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Otros hijos e hijas de Set.  Fuente: Génesis 5:7
+
+### Otros hijos e hijas de Enós
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Colectivo explícito; nombres y cronología de estas generaciones no determinados.
+
+
+### Enós
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Otros hijos e hijas de Enós.  Fuente: Génesis 5:10
+
+### Otros hijos e hijas de Cainán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Colectivo explícito; nombres y cronología de estas generaciones no determinados.
+
+
+### Cainán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Otros hijos e hijas de Cainán.  Fuente: Génesis 5:13
+
+### Otros hijos e hijas de Mahalaleel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Colectivo explícito; nombres y cronología de estas generaciones no determinados.
+
+
+### Mahalaleel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Otros hijos e hijas de Mahalaleel.  Fuente: Génesis 5:16
+
+### Otros hijos e hijas de Jared
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Colectivo explícito; nombres y cronología de estas generaciones no determinados.
+
+
+### Jared
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Otros hijos e hijas de Jared.  Fuente: Génesis 5:19
+
+### Otros hijos e hijas de Enoc (rama de Set)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Colectivo explícito; nombres y cronología de estas generaciones no determinados.
+
+
+### Enoc (rama de Set)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Otros hijos e hijas de Enoc (rama de Set).  Fuente: Génesis 5:22
+
+### Otros hijos e hijas de Matusalén
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Colectivo explícito; nombres y cronología de estas generaciones no determinados.
+
+
+### Matusalén
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Otros hijos e hijas de Matusalén.  Fuente: Génesis 5:26
+
+### Otros hijos e hijas de Lamec (padre de Noé)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Colectivo explícito; nombres y cronología de estas generaciones no determinados.
+
+
+### Lamec (padre de Noé)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Otros hijos e hijas de Lamec (padre de Noé).  Fuente: Génesis 5:30
+
+## G439 · Génesis 6–9: esposas del arca y humanidad anterior al diluvio
+
+Fuente: Génesis 6–9
+
+Noé entra con su esposa, sus tres hijos y las esposas de estos: ocho integrantes, sin nombres de las cuatro mujeres. No se identifica a la esposa de Noé con Naama. «Hijos de Dios», «hijas de los hombres», gigantes y hombres de renombre son colectivos del relato; Génesis no enumera sus nombres ni autoriza un árbol de ángeles que engendren personajes nombrados. Los 120 años de 6:3 no se convierten automáticamente en duración de construcción del arca ni máximo universal de vida. Los cuarenta días de lluvia y los ciento cincuenta de prevalencia de aguas no se suman sin atender a sus solapamientos. Noé tiene 600 años al inicio y 601 al salir; vive 350 después del diluvio, 950 en total. La maldición de 9:25 recae sobre Canaán; no se amplía a toda la descendencia de Cam. El orden de la lista de los tres hijos no basta para fijar todas sus edades.
+
+Acontecimiento relacionado: E25 · Noé y corrupción general (Antes del diluvio).
+
+Acontecimiento relacionado: E26 · Construcción y abastecimiento del arca (Preparación).
+
+Acontecimiento relacionado: E27 · Comienzo del diluvio (Año 600 de Noé; mes 2, día 17).
+
+Acontecimiento relacionado: E28 · Aguas y reposo del arca (150 días; mes 7, día 17).
+
+Acontecimiento relacionado: E29 · Descenso y salida (Mes 10; año 601 de Noé).
+
+Acontecimiento relacionado: E30 · Pacto y nueva situación humana (Después del diluvio).
+
+Acontecimiento relacionado: E31 · Viña y palabras a sus descendientes (Vida posterior de Noé).
+
+### Noé
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- union → Esposa de Noé (sin nombre).  Fuente: Génesis 6:18; 7:7,13; 8:18
+
+### Esposa de Noé (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sem
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- union → Esposa de Sem (sin nombre).  Fuente: Génesis 6:18; 7:7,13; 8:18
+
+### Esposa de Sem (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cam
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- union → Esposa de Cam (sin nombre).  Fuente: Génesis 6:18; 7:7,13; 8:18
+
+### Esposa de Cam (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jafet
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- union → Esposa de Jafet (sin nombre).  Fuente: Génesis 6:18; 7:7,13; 8:18
+
+### Esposa de Jafet (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Canaán (hijo de Cam)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos de Dios de Génesis 6
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijas de los hombres de Génesis 6
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gigantes y hombres de renombre del mundo antediluviano
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Humanidad descrita como corrupta antes del diluvio
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G440 · Génesis 10–11: tabla de pueblos y constructores de Babel
+
+Fuente: Génesis 10; 11:1–9
+
+G03–G05 conservan las ramas completas de Jafet, Cam y Sem, incluidos los trece hijos de Joctán. La tabla combina antepasados y pueblos: no fecha cada nacimiento ni identifica naciones modernas. KJV 10:11 presenta a Asur saliendo de aquella tierra y edificando ciudades; se conserva la formulación sin resolver silenciosamente la relación con Nimrod o identificar sin cautela a ese Asur con el hijo de Sem. Nimrod está asociado al comienzo de Babel en 10:10, pero no recibe nombre como director de la torre en 11. No se añaden Semíramis o Tamuz como su esposa e hijo. La tierra dividida en días de Peleg no es por sí sola una fecha de separación de continentes. La procedencia de filisteos en 10:14 queda con el cotejo pendiente de G04.
+
+Acontecimiento relacionado: E32 · Naciones, Nimrod y Babel (Después del diluvio).
+
+### Nimrod (reino de Génesis 10)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Asur / Asshur (formulación KJV de 10:11)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Peleg (días de la división)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Constructores de la ciudad y torre de Babel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Población dispersada y lenguas confundidas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G441 · Génesis 11: descendencias laterales de Sem a Nacor
+
+Fuente: Génesis 11:10–25
+
+G05 conserva la sucesión principal hasta Taré; G31 mantiene separado el Cainán de Lucas. Se incorporan los otros hijos e hijas de ocho antepasados como colectivos, sin inventar generaciones hacia personajes posteriores. La edad de Sem es cien cuando engendra a Arfaxad, dos años después del diluvio. Para cada antepasado se conserva la edad al engendrar al hijo principal y el intervalo posterior, sin convertirlos aquí en años a. C. La suma depende de la continuidad de la genealogía y de la versión textual.
+
+Acontecimiento relacionado: E33 · Ascendencia de Abram (De Sem a Taré).
+
+### Sem
+
+100 años al engendrar a Arfaxad; 500 años posteriores según Génesis 11. Sin fecha absoluta asignada.
+
+
+
+- filiacion → Otros hijos e hijas de Sem.  Fuente: Génesis 11:11
+
+### Otros hijos e hijas de Sem
+
+Cronología generacional no determinada; ubicación esquemática.
+
+No se conocen nombres ni años individuales.
+
+
+### Arfaxad
+
+35 años al engendrar a Sala; 403 años posteriores según Génesis 11. Sin fecha absoluta asignada.
+
+
+
+- filiacion → Otros hijos e hijas de Arfaxad.  Fuente: Génesis 11:13
+
+### Otros hijos e hijas de Arfaxad
+
+Cronología generacional no determinada; ubicación esquemática.
+
+No se conocen nombres ni años individuales.
+
+
+### Sala
+
+30 años al engendrar a Heber; 403 años posteriores según Génesis 11. Sin fecha absoluta asignada.
+
+
+
+- filiacion → Otros hijos e hijas de Sala.  Fuente: Génesis 11:15
+
+### Otros hijos e hijas de Sala
+
+Cronología generacional no determinada; ubicación esquemática.
+
+No se conocen nombres ni años individuales.
+
+
+### Heber
+
+34 años al engendrar a Peleg; 430 años posteriores según Génesis 11. Sin fecha absoluta asignada.
+
+
+
+- filiacion → Otros hijos e hijas de Heber.  Fuente: Génesis 11:17
+
+### Otros hijos e hijas de Heber
+
+Cronología generacional no determinada; ubicación esquemática.
+
+No se conocen nombres ni años individuales.
+
+
+### Peleg
+
+30 años al engendrar a Reu; 209 años posteriores según Génesis 11. Sin fecha absoluta asignada.
+
+
+
+- filiacion → Otros hijos e hijas de Peleg.  Fuente: Génesis 11:19
+
+### Otros hijos e hijas de Peleg
+
+Cronología generacional no determinada; ubicación esquemática.
+
+No se conocen nombres ni años individuales.
+
+
+### Reu
+
+32 años al engendrar a Serug; 207 años posteriores según Génesis 11. Sin fecha absoluta asignada.
+
+
+
+- filiacion → Otros hijos e hijas de Reu.  Fuente: Génesis 11:21
+
+### Otros hijos e hijas de Reu
+
+Cronología generacional no determinada; ubicación esquemática.
+
+No se conocen nombres ni años individuales.
+
+
+### Serug
+
+30 años al engendrar a Nacor; 200 años posteriores según Génesis 11. Sin fecha absoluta asignada.
+
+
+
+- filiacion → Otros hijos e hijas de Serug.  Fuente: Génesis 11:23
+
+### Otros hijos e hijas de Serug
+
+Cronología generacional no determinada; ubicación esquemática.
+
+No se conocen nombres ni años individuales.
+
+
+### Nacor (abuelo de Abraham)
+
+29 años al engendrar a Taré; 119 años posteriores según Génesis 11. Sin fecha absoluta asignada.
+
+
+
+- filiacion → Otros hijos e hijas de Nacor (abuelo de Abraham).  Fuente: Génesis 11:25
+
+### Otros hijos e hijas de Nacor (abuelo de Abraham)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+No se conocen nombres ni años individuales.
+
+
+## G442 · Génesis 11 y 20: madres distintas de Abraham y Sara
+
+Fuente: Génesis 11:26–32; 20:12
+
+Según la afirmación de Abraham, Sara comparte su padre pero no su madre. Se representan por separado ambas madres, sin nombres. G06 conserva Taré, Nacor, Harán, Lot, Milca e Isca; no se identifica a Isca con Sara. Harán, padre de Lot, muere antes que Taré en Ur; Harán como ciudad es otra clase de referencia. Taré tiene 70 años al introducirse sus tres hijos y muere con 205: la lista no declara que Abram fuese el primogénito ni que los tres nacieran juntos. No se añade a Nacor a la comitiva de 11:31 por simple suposición.
+
+Acontecimiento relacionado: E33 · Ascendencia de Abram (De Sem a Taré).
+
+Acontecimiento relacionado: E34 · Llamamiento y llegada a Canaán (Abram, 75 años).
+
+Acontecimiento relacionado: E37 · Nombres y señal del pacto (Abraham, 99 años).
+
+### Taré
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abraham / Abram
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sara / Sarai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Madre de Abraham (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Abraham / Abram.  Fuente: Génesis 20:12
+
+### Madre de Sara (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Sara / Sarai.  Fuente: Génesis 20:12
+
+## G443 · Génesis 12–14: faraón, pastores, fugitivo y rescatados
+
+Fuente: Génesis 12–14
+
+Abram parte de Harán con 75 años, Sarai, Lot y la gente adquirida allí. El faraón que toma a Sarai no tiene nombre personal y no se identifica con los faraones de José o del éxodo. Se añaden sus príncipes y auxiliares, los pastores de Abram y Lot y el fugitivo que informa del cautiverio. G211 conserva los nueve reyes, G96 los hermanos Mamre, Escol y Aner, y G122 a Melquisedec sin genealogía inventada. Los 318 entrenados nacidos en la casa no son 318 hijos biológicos de Abram. Las mujeres y personas rescatadas no reciben nombres. Los doce años de servicio, la rebelión del decimotercero y campaña del decimocuarto son una secuencia relativa. El rey de Sodoma vuelve a hablar en 14:17–24: no se inventa un sucesor para armonizar la caída en los pozos de 14:10.
+
+Acontecimiento relacionado: E34 · Llamamiento y llegada a Canaán (Abram, 75 años).
+
+Acontecimiento relacionado: E35 · Separación, rescate y Melquisedec (Residencia en Canaán).
+
+### Abram (viaje y rescate)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sarai (en Egipto)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Lot (sobrino rescatado)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Faraón de Génesis 12 (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Fugitivo que informa a Abram
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Gente incorporada en Harán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Príncipes del faraón que recomiendan a Sarai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombres encargados de despedir a Abram
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pastores de Abram
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pastores de Lot
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### 318 servidores entrenados nacidos en la casa de Abram
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mujeres y personas recuperadas de los cautivos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G444 · Génesis 15–17: Eliezer, Agar y miembros de la casa circuncidados
+
+Fuente: Génesis 15–17
+
+Eliezer de Damasco es el administrador nombrado por Abram y el posible heredero en su queja; no se dibuja como hijo biológico ni adopción consumada. G08 conserva Agar–Ismael. Abram tiene 86 años al nacer Ismael; en la circuncisión tiene 99 e Ismael 13. Los nacidos en la casa y los comprados a extranjeros son grupos de pertenencia doméstica, no una nueva descendencia biológica del patriarca. Abram/Abraham y Sarai/Sara son cambios de nombre, no personas nuevas. El ángel que habla a Agar no recibe nombre propio. Los cuatrocientos años y la cuarta generación de 15:13–16 son promesas relativas; aquí no se recalculan los acontecimientos.
+
+Acontecimiento relacionado: E36 · Pacto, Agar e Ismael (Antes y después de Ismael).
+
+Acontecimiento relacionado: E37 · Nombres y señal del pacto (Abraham, 99 años).
+
+### Eliezer de Damasco
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Abraham / Abram
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sara / Sarai
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Agar (egipcia)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ismael
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Varones nacidos en la casa de Abraham y circuncidados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Varones comprados a extranjeros y circuncidados
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ángel del Señor que habla a Agar (Génesis 16)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G445 · Génesis 18–19: visitantes, esposa y yernos de Lot
+
+Fuente: Génesis 18–19
+
+Los tres visitantes de 18 y los dos ángeles de 19 se cotejan sin inventar nombres angélicos. Se añade al joven que prepara el becerro y a los hombres que rodean la casa. La esposa de Lot no recibe nombre. Los yernos de 19:14 se conservan como colectivo; la relación entre las hijas de ese versículo y las dos presentes en la casa tiene interpretaciones distintas y no se fuerza un número total de hijas. La pregunta por hijos de 19:12 no confirma hijos varones efectivamente existentes. G07 conserva las dos hijas sobrevivientes, Moab y Ben-ammi: no se les atribuyen nombres tradicionales. La afirmación de la hija mayor de que no hay hombre en la tierra es su razonamiento dentro del relato, no una declaración de extinción mundial.
+
+Acontecimiento relacionado: E38 · Intercesión y destrucción de Sodoma (Antes del nacimiento de Isaac).
+
+### Abraham (intercede)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sara (escucha la promesa)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Joven que prepara el becerro
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Lot
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- union → Esposa de Lot (sin nombre).  Fuente: Génesis 19:15–16,26
+- parentesco → Yernos de Lot (sin nombres). Afinidad; no paternidad y sin resolver la identificación de las hijas. Fuente: Génesis 19:14
+
+### Esposa de Lot (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Tres visitantes de Abraham
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Dos ángeles que rescatan a Lot
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Yernos de Lot (sin nombres)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombres de Sodoma que rodean la casa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Dos hijas de Lot que salen de Sodoma
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G446 · Génesis 20–21: casa de Abimelec y esposa egipcia de Ismael
+
+Fuente: Génesis 20–21
+
+Se distinguen Abimelec y Ficol de estos capítulos de sus homónimos en tiempos de Isaac (G212); no se prueba aquí identidad individual o filiación entre reyes. Se incorporan la esposa y siervas cuya capacidad de concebir es restaurada. «Mi hijo y el hijo de mi hijo» de 21:23 protege la posteridad en el juramento; no fija nacimientos de dos varones concretos. Agar obtiene para Ismael una esposa de Egipto, sin nombre; no se adjudican automáticamente a esta mujer los doce príncipes como maternidad individual segura. Isaac nace cuando Abraham tiene cien años; no se fija edad de destete ni se presenta a Ismael como recién nacido en la expulsión. Abimelec no tuvo relaciones con Sara según 20:4–6.
+
+Acontecimiento relacionado: E36 · Pacto, Agar e Ismael (Antes y después de Ismael).
+
+Acontecimiento relacionado: E39 · Isaac y separación de Agar (Abraham, 100 años).
+
+### Abimelec (Génesis 20–21)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- union → Esposa de Abimelec (sin nombre).  Fuente: Génesis 20:17
+
+### Esposa de Abimelec (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Siervas de Abimelec cuya fecundidad se restaura
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Descendencia amparada por el juramento de Abimelec
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ficol (Génesis 21)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Siervos que se apoderan del pozo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Agar
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ismael
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- union → Esposa egipcia de Ismael (sin nombre).  Fuente: Génesis 21:21
+
+### Esposa egipcia de Ismael (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ángel de Dios que llama a Agar desde el cielo (Génesis 21)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G447 · Génesis 22–25: servidores de Moriah, sepultura y ramas de Abraham
+
+Fuente: Génesis 22–25
+
+Se añaden los dos jóvenes que acompañan a Abraham e Isaac; no se les asignan los nombres Eliezer e Ismael desde Génesis. La edad de Isaac en Moriah no está indicada. El ángel que detiene el sacrificio no recibe nombre personal. G06 conserva los ocho hijos de Milca y cuatro de Reúma, con Kemuel–Aram y Betuel–Rebeca. G96 conserva Zohar–Efrón; la compra de Macpela se realiza ante los hijos de Het y asistentes a la puerta, sin hacerlos hijos inmediatos del Het de la tabla de pueblos. Sara muere con 127 años y Abraham con 175, sepultado por Isaac e Ismael; Ismael vive 137. G09 conserva Cetura y todas sus ramas, sin identificarla con Agar. La expresión hijos de las concubinas no permite añadir una lista independiente de hijos sin nombres ni decidir su cronología respecto de todos los episodios anteriores.
+
+Acontecimiento relacionado: E40 · Prueba de Abraham (Isaac joven; edad no indicada).
+
+Acontecimiento relacionado: E41 · Sepultura de Sara y matrimonio (Transición a Isaac).
+
+### Abraham (prueba y sepultura)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Isaac
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ismael
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sara (muerte a los 127 años)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Dos jóvenes que acompañan a Abraham a Moriah
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos de Het que negocian la sepultura
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Testigos de la compra en la puerta de la ciudad
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos de las concubinas que reciben presentes
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Colectivo recapitulador de 25:6; posible solapamiento con las ramas ya registradas.
+
+
+### Ángel del Señor que detiene el sacrificio de Isaac (Génesis 22)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G448 · Génesis 24: madre de Rebeca y misión del siervo de Abraham
+
+Fuente: Génesis 24; 35:8
+
+G06 conserva Nacor–Milca–Betuel y Rebeca–Labán; «hija del hermano» del discurso resume parentesco y no elimina la generación de Betuel. Se añade la madre de Rebeca, que recibe regalos y participa en la decisión, sin nombre. G151 conserva nodriza, doncellas y acompañantes. Génesis 24 no llama Eliezer al siervo; White sí lo identifica así en PP 173.2. La nodriza nombrada Débora aparece en 35:8; no se atribuye ese nombre como explícito en 24. Rebeca responde que irá; no se inventan su edad al casarse, fecha de nacimiento ni una madre sustituta. Isaac tiene cuarenta años al casarse según 25:20.
+
+Elena G. White — Patriarchs and Prophets, PP 173.2 (PDF aportado, página 57): White llama Eliezer al siervo que relata su misión a la familia de Rebeca. Esta identificación se atribuye a White; Génesis 24 no proporciona su nombre. Consulta puntual del párrafo.
+
+Acontecimiento relacionado: E41 · Sepultura de Sara y matrimonio (Transición a Isaac).
+
+### Rebeca
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Madre de Rebeca (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Rebeca.  Fuente: Génesis 24:28,53,55
+
+### Betuel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Labán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Siervo principal de Abraham (Génesis 24)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mujeres que salen al pozo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombres que acompañan al siervo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G449 · Génesis 25–28: esposas de Esaú y variantes entre listas
+
+Fuente: Génesis 25:19–34; 26–28; 36:2–3
+
+Isaac tiene sesenta años cuando Rebeca da a luz a los gemelos Esaú y Jacob. Esaú toma a Judit hija de Beeri y Basemat hija de Elón con cuarenta años (26:34); 28:9 añade Mahalat hija de Ismael, hermana de Nebaiot. G10 sigue 36, donde figuran Ada hija de Elón, Aholibama y Basemat hija de Ismael. Se muestran las formas y sus padres sin imponer equivalencias, sumar como seguras seis esposas distintas o inventar madres para los hijos de G10. Elón de estas listas no es Elón hijo de Zabulón. Isaac envejecido al bendecir no muere en ese capítulo: la muerte se registra en 35. El engaño de Jacob al decir ser Esaú no cambia su identidad. G212 conserva Ahuzat, Ficol y Abimelec de Gerar; se añaden los trabajadores de los pozos.
+
+Acontecimiento relacionado: E42 · Esaú, Jacob y la bendición (Isaac, 60 años al nacer sus hijos).
+
+### Esaú (esposas de 26 y 28)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- union → Judit (hija de Beeri, Génesis 26).  Fuente: Génesis 26:34; 28:9
+- union → Basemat (hija de Elón, Génesis 26).  Fuente: Génesis 26:34; 28:9
+- union → Mahalat (hija de Ismael, Génesis 28).  Fuente: Génesis 26:34; 28:9
+
+### Judit (hija de Beeri, Génesis 26)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Beeri (hitita)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Judit (hija de Beeri, Génesis 26).  Fuente: Génesis 26:34
+
+### Basemat (hija de Elón, Génesis 26)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Elón (hitita, padre de esposa de Esaú)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Basemat (hija de Elón, Génesis 26).  Fuente: Génesis 26:34
+- filiacion → Ada (hija de Elón, Génesis 36). Forma de la lista de Génesis 36; no se fuerza identidad con Basemat de 26. Fuente: Génesis 36:2
+
+### Mahalat (hija de Ismael, Génesis 28)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ismael (padre de Mahalat)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Mahalat (hija de Ismael, Génesis 28).  Fuente: Génesis 28:9
+
+### Nebaiot (hermano de Mahalat)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- hermanos → Mahalat (hija de Ismael, Génesis 28).  Fuente: Génesis 28:9
+
+### Siervos de Isaac que cavan pozos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pastores de Gerar que disputan el agua
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Informantes que avisan a Rebeca de la amenaza de Esaú
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ada (hija de Elón, Génesis 36)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G450 · Génesis 29–31: hijos de Labán y acompañantes del pacto
+
+Fuente: Génesis 29–31
+
+G06 y G13 conservan a Lea, Raquel, Bilha, Zilpa y los hijos de Jacob con sus madres. Se añaden los hijos varones de Labán que cuidan los rebaños y se quejan, sin nombres, cantidad ni fechas de nacimiento. Los hermanos o parientes acompañantes de Labán no se identifican con hijos determinados de Betuel. «Labán hijo de Nacor» de 29:5 abrevia la ascendencia conocida por Betuel; Jacob llamado hermano de Labán no deja de ser su sobrino. La semana de Lea precede a la entrega de Raquel: el relato no exige catorce años antes de casarse con Raquel; Jacob cuenta catorce por sus esposas y seis por el ganado, veinte en total. Bilha y Zilpa no se convierten en hijas de Labán. Los hijos que Labán llama suyos en la despedida incluyen a sus nietos; no se cambia su paternidad.
+
+Acontecimiento relacionado: E43 · Jacob en Harán y retorno (Veinte años vinculados a Labán).
+
+### Labán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Hijos varones de Labán (sin nombres).  Fuente: Génesis 30:35; 31:1
+
+### Lea
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Raquel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos varones de Labán (sin nombres)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pastores del pozo de Harán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombres reunidos para la boda
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Parientes que acompañan a Labán en la persecución
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Compañeros de Jacob que levantan el majano
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G451 · Génesis 28 y 32–33: encuentros de Jacob y comitiva de Esaú
+
+Fuente: Génesis 28:10–22; 32–33
+
+Los ángeles de la escalera y de Mahanaim no reciben nombres. El varón que lucha con Jacob rehúsa dar su nombre en 32:29; Jacob llama al lugar Peniel. White identifica al antagonista con Cristo en PP 196.3; se atribuye expresamente esa identificación. Israel es el nuevo nombre de Jacob. Los cuatrocientos hombres de Esaú no son cuatrocientos hijos suyos. Los mensajeros y conductores de los presentes son auxiliares sin genealogía. La mención de once hijos al cruzar el Jaboc precede al nacimiento de Benjamín; no niega a Dina, ya registrada en 30. G96 y G435 conservan Hamor y Siquem, vinculados a la compra del campo.
+
+Elena G. White — Patriarchs and Prophets, PP 196.3 (PDF aportado, página 65): White identifica al visitante que lucha con Jacob como Cristo, el Ángel del pacto. Se distingue la identificación de White de la denominación varón del relato de Génesis. Consulta puntual del párrafo.
+
+Acontecimiento relacionado: E43 · Jacob en Harán y retorno (Veinte años vinculados a Labán).
+
+### Jacob / Israel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Esaú (reencuentro)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ángeles de la escalera de Betel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ángeles de Dios en Mahanaim
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mensajeros de Jacob a Esaú
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Servidores que conducen los presentes
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cuatrocientos hombres de Esaú
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Varón que lucha con Jacob (Génesis 32)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Identificado como Cristo por White, PP 196.3; Génesis no comunica su nombre personal.
+
+
+## G452 · Génesis 34: Dina, casa de Hamor y cautivos de Siquem
+
+Fuente: Génesis 34; 49:5–7
+
+Dina es hija de Lea y Jacob; G96 y G435 conservan Hamor–Siquem. La petición de matrimonio después de la agresión no se dibuja como boda efectivamente celebrada. Génesis no registra un hijo de Dina y Siquem ni identifica a Asenat como hija de Dina. Simeón y Leví matan a los varones, a Hamor y a Siquem; los demás hijos saquean. Se incorporan las mujeres y pequeños llevados cautivos, sin convertirlos en esposas e hijos de los patriarcas por su sola presencia posterior. Las hijas de la tierra a quienes Dina sale a visitar no reciben nombres. La censura de Jacob vuelve en 49:5–7 y no se omite.
+
+Acontecimiento relacionado: E43 · Jacob en Harán y retorno (Veinte años vinculados a Labán).
+
+### Dina
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Simeón (hermano de Dina)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Leví (hermano de Dina)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jacob
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hamor
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Siquem (hijo de Hamor)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijas de la tierra visitadas por Dina
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Varones de Siquem circuncidados y muertos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mujeres de Siquem llevadas cautivas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pequeños de Siquem llevados cautivos
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G453 · Génesis 35: nodriza Débora y partera de Raquel
+
+Fuente: Génesis 35; 49:31
+
+G96 conserva a Débora, nodriza de Rebeca; no es Débora la jueza. Se añade la partera que habla a Raquel, sin nombre ni identificación con las parteras del éxodo o de Tamar. Benoni y Benjamín son nombres del mismo recién nacido; Raquel muere en el parto y no reaparece viva en Egipto. Isaac muere con 180 años y lo sepultan Esaú y Jacob. Rebeca y Lea están sepultadas en Macpela según 49:31, sin que aquí se conozcan sus edades al morir. La lista recapitulativa de los doce hijos en 35:23–26 no borra la localización del nacimiento de Benjamín de 35:16–19. El acto de Rubén con Bilha no permite inventar hijos de esa relación.
+
+Acontecimiento relacionado: E43 · Jacob en Harán y retorno (Veinte años vinculados a Labán).
+
+### Débora (nodriza de Rebeca)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Partera de Raquel (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Raquel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Benoni / Benjamín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rubén
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Bilha
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Isaac (muerte a los 180 años)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Miembros de la casa que entregan dioses ajenos y pendientes
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G454 · Génesis 36: hijas de Esaú y once jefaturas finales de Edom
+
+Fuente: Génesis 36:6,15–19,31–43
+
+G10–G12 conservan hijos, nietos, horeos y ocho reyes con sus parentescos explícitos. Se añaden las hijas de Esaú, sin nombres, y el registro final de once jefaturas por familias y lugares. Timna y Aholibama de ese registro no se fusionan automáticamente con las mujeres homónimas. Coré aparece entre las jefaturas procedentes de Elifaz en 36:16, mientras G10 conserva al hijo de Esaú y Aholibama: no se crea silenciosamente otro hijo biológico de Elifaz. Las jefaturas repetidas no se cuentan como personas únicas adicionales seguras. El reino de un sucesor no acredita paternidad del anterior. Los dos Aná y los distintos Disón se mantienen según G11; el parentesco de Aholibama se coteja sin borrar las diferencias de formulación de 36:2 y 24–25.
+
+Acontecimiento relacionado: E42 · Esaú, Jacob y la bendición (Isaac, 60 años al nacer sus hijos).
+
+### Esaú / Edom
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Hijas de Esaú (sin nombres).  Fuente: Génesis 36:6
+
+### Hijas de Esaú (sin nombres)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Coré (jefatura de Génesis 36:16)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Timna (jefatura de Génesis 36:40–43)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Registro por familias y lugares; no identidad individual nueva segura respecto de homónimos anteriores.
+
+
+### Alva (jefatura de Génesis 36:40–43)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Registro por familias y lugares; no identidad individual nueva segura respecto de homónimos anteriores.
+
+
+### Jetet (jefatura de Génesis 36:40–43)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Registro por familias y lugares; no identidad individual nueva segura respecto de homónimos anteriores.
+
+
+### Aholibama (jefatura de Génesis 36:40–43)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Registro por familias y lugares; no identidad individual nueva segura respecto de homónimos anteriores.
+
+
+### Ela (jefatura de Génesis 36:40–43)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Registro por familias y lugares; no identidad individual nueva segura respecto de homónimos anteriores.
+
+
+### Pinón (jefatura de Génesis 36:40–43)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Registro por familias y lugares; no identidad individual nueva segura respecto de homónimos anteriores.
+
+
+### Cenaz (jefatura de Génesis 36:40–43)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Registro por familias y lugares; no identidad individual nueva segura respecto de homónimos anteriores.
+
+
+### Temán (jefatura de Génesis 36:40–43)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Registro por familias y lugares; no identidad individual nueva segura respecto de homónimos anteriores.
+
+
+### Mibzar (jefatura de Génesis 36:40–43)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Registro por familias y lugares; no identidad individual nueva segura respecto de homónimos anteriores.
+
+
+### Magdiel (jefatura de Génesis 36:40–43)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Registro por familias y lugares; no identidad individual nueva segura respecto de homónimos anteriores.
+
+
+### Iram (jefatura de Génesis 36:40–43)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+Registro por familias y lugares; no identidad individual nueva segura respecto de homónimos anteriores.
+
+
+## G455 · Génesis 37: informante de Dotán y comerciantes de José
+
+Fuente: Génesis 37
+
+José tiene diecisiete años al comienzo del episodio. Se añade el hombre que lo orienta hacia Dotán, sin identificarlo como ángel desde Génesis. Rubén intenta rescatarlo y Judá propone venderlo. El texto alterna ismaelitas y mercaderes madianitas; no se inventan nombres ni una secuencia de propietarios intermedios para cerrar la dificultad. G08 y G09 conservan las ramas de Ismael y Madián, sin cadena de padres hasta estos comerciantes. El lamento de Jacob se funda en la falsa conclusión de la muerte de José. «Todos sus hijos y todas sus hijas» de 37:35 no enumera hijas nuevas ni resuelve la extensión familiar del plural. La madre del sueño no demuestra que Raquel estuviera viva en el descenso a Egipto.
+
+Acontecimiento relacionado: E44 · Venta y descenso a Egipto (José, 17 años).
+
+### José (diecisiete años)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombre que orienta a José hacia Dotán
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rubén (intenta rescatar a José)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Judá (propone la venta)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jacob (recibe la túnica)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mercaderes madianitas del relato de la venta
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Caravana de ismaelitas hacia Egipto
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos e hijas que intentan consolar a Jacob
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G456 · Génesis 38: Súa, padre de Tamar, Hira y partera de los gemelos
+
+Fuente: Génesis 38
+
+G15 conserva Judá, su esposa hija de Súa, Er, Onán, Sela, Tamar, Fares y Zera y las ramas posteriores. Se añade Súa como padre de la esposa de Judá: no es el Súa hijo de Abraham y Cetura. El padre de Tamar es mencionado por su casa y queda sin nombre; no se identifica con Sem. Hira es amigo adulamita de Judá, no hermano o padre suyo. La partera pone el hilo a Zera, pero Fares nace primero; no se inventa su nombre. Sela no llega a recibir a Tamar como esposa según el relato. Er y Onán mueren sin descendencia registrada en este episodio; los gemelos son engendrados por Judá. Los tres meses hasta conocerse el embarazo no equivalen a su duración total.
+
+Acontecimiento relacionado: E44 · Venta y descenso a Egipto (José, 17 años).
+
+### Súa (padre de la esposa de Judá)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Hija de Súa (esposa de Judá).  Fuente: Génesis 38:2,12
+
+### Hija de Súa (esposa de Judá)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Padre de Tamar (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Tamar (Génesis 38).  Fuente: Génesis 38:11
+
+### Tamar (Génesis 38)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hira (adulamita, amigo de Judá)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Partera de Tamar (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Esquiladores de Judá
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombres consultados por Hira
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Informantes del embarazo de Tamar
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G457 · Génesis 39–40: casa de Potifar y oficiales encarcelados
+
+Fuente: Génesis 39–40
+
+Se añaden Potifar, su esposa anónima, los hombres de su casa, el guardián de la prisión y los dos oficiales. No se identifica a la esposa con nombres de tradiciones externas. Su acusación contra José se presenta como acusación falsa dentro del relato, no como conducta demostrada de José. Potifar, capitán de la guardia, no se fusiona con Potifera sacerdote de On. El capitán de 40 y el guardián de la cárcel se distinguen por función sin inventar nombres. El jefe de coperos y el de panaderos sueñan la misma noche; tres días después uno es restituido y el otro ejecutado. No se nombra al faraón ni se fija fecha de su cumpleaños. Los dos años completos hasta el sueño posterior son de 41:1 y no la duración total segura del encarcelamiento.
+
+Acontecimiento relacionado: E44 · Venta y descenso a Egipto (José, 17 años).
+
+Acontecimiento relacionado: E45 · De prisión a gobierno (José, 30 años ante faraón).
+
+### José (administrador y preso)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Potifar (capitán de la guardia)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- union → Esposa de Potifar (sin nombre).  Fuente: Génesis 39:7–9
+
+### Esposa de Potifar (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Guardián de la prisión (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Capitán de la guardia (mención de Génesis 40)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jefe de los coperos del faraón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jefe de los panaderos del faraón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Faraón de los relatos de José (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hombres de la casa de Potifar
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Presos puestos al cuidado de José
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Servidores del banquete de cumpleaños
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G458 · Génesis 41: intérpretes de la corte y familia egipcia de José
+
+Fuente: Génesis 41
+
+Se añaden magos, sabios, servidores y responsables del almacenamiento como colectivos sin nombres. José tiene treinta años ante el faraón; Zafnat-panea es el nombre que recibe y no otra persona. G20 conserva Potifera–Asenat y José–Manasés/Efraín, con maternidad de Asenat. No se identifica a Asenat con una hija de Dina. Ambos hijos nacen antes de los años de hambre; no hay día o año individual de nacimiento. Las dos formas del sueño anuncian una sola secuencia de siete años de abundancia y siete de hambre, no veintiocho. No se inventa dinastía o nombre propio para el faraón.
+
+Acontecimiento relacionado: E45 · De prisión a gobierno (José, 30 años ante faraón).
+
+### José / Zafnat-panea
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Faraón de Génesis 41
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jefe de coperos que recuerda a José
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Asenat
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Potifera (sacerdote de On)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Manasés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Efraín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Magos de Egipto consultados por el faraón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sabios de Egipto consultados por el faraón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Servidores que sacan a José de la cárcel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Oficiales del almacenamiento propuesto
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Poblaciones que compran grano
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G459 · Génesis 42–45: intérprete, mayordomo y garantías por Benjamín
+
+Fuente: Génesis 42–45
+
+El intérprete de José y su mayordomo no reciben nombres; no se identifica al mayordomo con Manasés. Diez hermanos viajan primero, Simeón queda retenido y Benjamín llega en el segundo viaje. Rubén ofrece sus dos hijos como garantía, pero no nombra cuáles: G14 conserva sus cuatro hijos de 46 y no se añaden otros dos. Judá se ofrece en lugar de Benjamín sin convertirse en padre suyo. La copa es colocada por orden de José; la acusación de robo y el lenguaje de adivinación forman parte de la prueba, no una confesión de Benjamín. La muerte de José alegada en los discursos es una creencia equivocada. «Padre del faraón» de 45:8 expresa posición protectora o autoridad, no filiación biológica. José anuncia dos años de hambre transcurridos y cinco restantes.
+
+Acontecimiento relacionado: E46 · Reconciliación y migración (Segundo año de hambre; Jacob, 130 años).
+
+### José
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Intérprete de José (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mayordomo de José (sin nombre)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Simeón (retenido en Egipto)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Benjamín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Rubén
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Judá
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Dos hijos ofrecidos por Rubén como garantía
+
+Cronología generacional no determinada; ubicación esquemática.
+
+No identificados entre los cuatro de Génesis 46; no son otros dos hijos añadidos.
+
+
+### Hermanos de José en los dos viajes
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Servidores que llenan los sacos y preparan la mesa
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Egipcios y casa del faraón que oyen la reconciliación
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G460 · Génesis 46: madre cananea de Saúl y mujeres de la migración
+
+Fuente: Génesis 46
+
+G13–G15, G17 y G20 conservan los nombres y ramas del registro: incluidos Sera, Heber y Malquiel de Aser, y Hezrón y Hamul de Fares. Se añade la madre cananea de Saúl hijo de Simeón, sin identificarla con Dina. Las esposas de los hijos de Jacob quedan fuera del cómputo de 66 de 46:26; el total de la casa es 70 en la KJV. José, Manasés y Efraín ya estaban en Egipto, mientras Er y Onán son recordados como muertos en Canaán: no se dibujan como viajeros vivos. Los plurales hijas y nietas no autorizan nombres ni cantidades adicionales. Job hijo de Isacar no se identifica con el protagonista del libro de Job. Las diferencias de listas de Benjamín y otros grupos frente a Números y Crónicas se conservan para cotejo, sin alterar aquí G14.
+
+Acontecimiento relacionado: E46 · Reconciliación y migración (Segundo año de hambre; Jacob, 130 años).
+
+### Simeón (padre de Saúl)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mujer cananea (madre de Saúl de Simeón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- materna → Saúl (hijo de Simeón).  Fuente: Génesis 46:10
+
+### Saúl (hijo de Simeón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Esposas de los hijos de Jacob en la migración
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijas y nietas mencionadas colectivamente en la migración
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Judá (enviado delante a Gosén)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Jacob (migración)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### José (residente en Egipto)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G461 · Génesis 47: cinco hermanos ante el faraón y población de Egipto
+
+Fuente: Génesis 47
+
+José presenta cinco de sus hermanos sin enumerar sus nombres; no se escogen cinco por tradición. Jacob tiene 130 años al llegar, reside diecisiete en Egipto y vive 147. La región de Ramesés no identifica por sí misma al faraón de José como Ramsés. Se añaden sacerdotes egipcios cuyas tierras quedan exceptuadas y familias que entregan dinero, ganado y tierra a cambio de alimento. No se atribuye a esos sacerdotes una genealogía desde Potifera. La mención de hombres capaces para cuidar el ganado real es una propuesta de selección, no una lista de funcionarios ya nombrados.
+
+Acontecimiento relacionado: E46 · Reconciliación y migración (Segundo año de hambre; Jacob, 130 años).
+
+### Jacob (130 años ante el faraón)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### José (administra el alimento)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Faraón de Génesis 47
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cinco hermanos presentados ante el faraón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Sacerdotes egipcios con tierras exceptuadas
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Población egipcia que entrega ganado y tierras
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Familias y pequeños sostenidos durante el hambre
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G462 · Génesis 48–49: bendición de los nietos y futuro de las doce tribus
+
+Fuente: Génesis 48–49
+
+Efraín y Manasés reciben de Jacob condición comparable a Rubén y Simeón en la herencia: esto no cambia su padre biológico José ni su madre Asenat. La previsión de otros hijos de José en 48:6 no registra nacimientos efectivos adicionales. Se añaden los informantes de la enfermedad y llegada, sin asegurar que fueran personas distintas. El Ángel que redimió a Jacob se menciona en la bendición, sin nombre propio comunicado. Los doce hijos se conservan en G13; sus imágenes de león, asno, serpiente, cierva, rama o lobo no son nuevas personas ni genealogías animales. Siloh de 49:10 es una expresión profética que requiere interpretación; no se añade como hijo de Judá. Los descendientes futuros de las tribus no son todos contemporáneos del patriarca. La mención de sepulturas de Abraham, Sara, Isaac, Rebeca y Lea no es una nueva muerte de cada uno.
+
+Acontecimiento relacionado: E47 · Bendiciones y promesa de retorno (Final de las vidas patriarcales).
+
+### Jacob / Israel
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- legal → Efraín. Reconocimiento para la herencia; abuelo biológico, no padre inmediato. Fuente: Génesis 48:5–6
+- legal → Manasés. Reconocimiento para la herencia; abuelo biológico, no padre inmediato. Fuente: Génesis 48:5–6
+
+### José
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Efraín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Manasés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Informantes de la enfermedad de Jacob y de la llegada de José
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Doce hijos que reciben la bendición final
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Descendencias tribales contempladas en las bendiciones
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ángel que redimió a Jacob (invocación de Génesis 48:16)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+## G463 · Génesis 50: médicos, cortejo y generaciones conocidas por José
+
+Fuente: Génesis 50
+
+Se añaden médicos embalsamadores, ancianos de la corte y de Egipto, escolta, observadores cananeos y el mensajero del pedido de perdón. Los pequeños permanecen en Gosén durante la sepultura de Jacob; no se añaden al cortejo. Los cuarenta días del embalsamamiento y setenta de duelo no se suman automáticamente como intervalos consecutivos; el duelo de siete días en la era se distingue. Atad es denominación de la era y no se crea un propietario nombrado sin datos. José ve descendencia de Efraín hasta la tercera generación y a los hijos de Maquir criados sobre sus rodillas: Génesis no da los nombres individuales de esos grupos. G20 y G21 contienen ramas de otras fuentes, sin atribuir toda esa lista como contemporánea de José. La crianza no sustituye la paternidad de Maquir. José muere con 110 años y deja una petición sobre sus huesos; su traslado posterior no es otra muerte.
+
+Acontecimiento relacionado: E47 · Bendiciones y promesa de retorno (Final de las vidas patriarcales).
+
+### José (muerte a los 110 años)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- crianza → Hijos de Maquir criados sobre las rodillas de José.  Fuente: Génesis 50:23
+
+### Efraín
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- descendencia → Descendencia de Efraín hasta la tercera generación vista por José. Generaciones agrupadas; sin nombres y sin fecha absoluta de cada nacimiento. Fuente: Génesis 50:23
+
+### Manasés
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Maquir (hijo de Manasés).  Fuente: Génesis 50:23
+
+### Maquir (hijo de Manasés)
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+- filiacion → Hijos de Maquir criados sobre las rodillas de José.  Fuente: Génesis 50:23
+
+### Descendencia de Efraín hasta la tercera generación vista por José
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Hijos de Maquir criados sobre las rodillas de José
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Médicos que embalsaman a Jacob
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ancianos de la casa del faraón
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Ancianos de la tierra de Egipto
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Carros y jinetes del cortejo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Cananeos que observan el duelo
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Pequeños que permanecen en Gosén
+
+Cronología generacional no determinada; ubicación esquemática.
+
+
+
+
+### Mensajero del pedido de perdón de los hermanos
 
 Cronología generacional no determinada; ubicación esquemática.
 
