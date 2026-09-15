@@ -1,6 +1,6 @@
 # Cronología bíblica
 
-Página estática de fondo claro. Línea horizontal por décadas desde 600 a. C. hasta el cierre en 70 d. C.; recorrido de las 15 etapas originales desde la rebelión celestial. Conserva las 148 fichas y enlaza al mural de 341 fichas de familias y episodios, con 5.123 apariciones de personas o grupos y 2.772 relaciones. Las apariciones repetidas no son personas únicas.
+Página estática de fondo claro. Línea horizontal por décadas desde 600 a. C. hasta el cierre en 70 d. C.; recorrido de las 15 etapas originales desde la rebelión celestial. Conserva las 148 fichas y enlaza al mural de 363 fichas de familias y episodios, con 5.488 apariciones de personas o grupos y 2.788 relaciones. Las apariciones repetidas no son personas únicas.
 
 La ampliación anterior completó los ocho bloques identificados: familias de jueces, ramas tribales, Safán, Baruc y su entorno, recabitas, casas del retorno, Job y parentescos del Nuevo Testamento. Las notas de Elena G. White distinguen obra, capítulo y referencia de página/párrafo en la edición inglesa consultada. Las familias enlazan a los acontecimientos relacionados y las fichas de acontecimientos permiten regresar a esas familias. El catálogo descargable documenta la cobertura y las incertidumbres.
 
@@ -74,3 +74,7 @@ Completada una pasada bíblica de personajes por los 822 versículos de 2 Cróni
 
 Completada una pasada bíblica de personajes por los 816 versículos de 1 Reyes en la KJV aportada. Quince fichas adicionales (G327–G341; R274–R288): 200 apariciones y 15 relaciones. Se conservan personas anónimas, familias de adversarios, profetas, servidores y conexiones posteriores de los hijos de Nabot y la tumba del hombre de Dios. Total: 341 fichas, 5.123 apariciones de personas o grupos y 2.772 relaciones; las apariciones no son personas únicas. Las 326 fichas previas y los 148 acontecimientos permanecen intactos. Siguen abiertos los paralelos, identidades discutidas, cronologías y el contraste completo con Elena G. White.
 
+
+## 2 Reyes: pasada de personajes completa
+
+Completada una pasada bíblica de personajes por los 25 capítulos y 719 versículos de 2 Reyes en la KJV aportada. Se añaden 22 fichas G342–G363 / R289–R310, 365 apariciones y 16 relaciones. Total: 363 fichas, 5.488 apariciones de personas o grupos y 2.788 relaciones. Las apariciones incluyen colectivos y repeticiones; no son personas únicas. Se conservan las 341 fichas anteriores y los 148 acontecimientos. Descendientes sin nombres, auxiliares, familias de reyes y continuidad hasta el exilio incluyen fuentes y cautelas. Siguen pendientes identidades, sincronismos, variantes y el contraste completo con Elena G. White. Próximo libro propuesto: 1 Samuel.
