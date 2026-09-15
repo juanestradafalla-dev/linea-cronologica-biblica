@@ -1,6 +1,6 @@
 # Cronología bíblica
 
-Página estática de fondo claro. Línea horizontal por décadas desde 600 a. C. hasta el cierre en 70 d. C.; recorrido de las 15 etapas originales desde la rebelión celestial. Conserva las 148 fichas y enlaza al mural de 402 fichas de familias y episodios, con 6.011 apariciones de personas o grupos y 2.822 relaciones. Las apariciones repetidas no son personas únicas.
+Página estática de fondo claro. Línea horizontal por décadas desde 600 a. C. hasta el cierre en 70 d. C.; recorrido de las 15 etapas originales desde la rebelión celestial. Conserva las 148 fichas y enlaza al mural de 417 fichas de familias y episodios, con 6.206 apariciones de personas o grupos y 2.839 relaciones. Las apariciones repetidas no son personas únicas.
 
 La ampliación anterior completó los ocho bloques identificados: familias de jueces, ramas tribales, Safán, Baruc y su entorno, recabitas, casas del retorno, Job y parentescos del Nuevo Testamento. Las notas de Elena G. White distinguen obra, capítulo y referencia de página/párrafo en la edición inglesa consultada. Las familias enlazan a los acontecimientos relacionados y las fichas de acontecimientos permiten regresar a esas familias. El catálogo descargable documenta la cobertura y las incertidumbres.
 
@@ -86,3 +86,7 @@ Completada una pasada bíblica de personajes por los 31 capítulos y 810 versíc
 ## 2 Samuel: cotejo de personajes de los veinticuatro capítulos
 
 Completada una pasada bíblica de personajes por los 24 capítulos y 695 versículos de 2 Samuel en la KJV aportada. Se añaden 17 fichas G386–G402 / R333–R349, 239 apariciones y 15 relaciones. Total: 402 fichas, 6.011 apariciones de personas o grupos y 2.822 relaciones. Las apariciones incluyen colectivos y repeticiones; no son personas únicas. Las 385 fichas anteriores y los 148 acontecimientos permanecen intactos. Se incorporan padres anónimos, nodriza de Mefiboset, Amiud–Talmai, variantes de los oficiales y auxiliares de las crisis de David. Se distinguen parábolas, acusaciones y genealogías documentadas. PP 735.3 se coteja puntualmente para Ahitofel y Betsabé, con atribución explícita a Elena G. White. Variantes, cronologías y contraste integral con White siguen abiertos. Próximo libro propuesto: Jueces.
+
+## Jueces: cotejo de personajes de los veintiún capítulos
+
+Completada una pasada bíblica de personajes por los 21 capítulos y 618 versículos de Jueces en la KJV aportada. Se añaden 15 fichas G403–G417 / R350–R364, 195 apariciones y 17 relaciones. Total: 417 fichas, 6.206 apariciones de personas o grupos y 2.839 relaciones. Las apariciones incluyen colectivos y repeticiones; no son personas únicas. Las 402 fichas anteriores y los 148 acontecimientos permanecen intactos. Se incorporan Gera–Aod, madre de Sísara, auxiliares de Gedeón, abuelo y tíos maternos de Abimelec, nueras de Ibzán y familias anónimas del cierre. La respuesta por medio de un profeta se atribuye expresamente a White, PP 557.3; también se cotejan PP 556.3 y 560.2–4. Siguen abiertos variantes, cronologías y contraste integral con White. Próximo libro propuesto: Rut.
