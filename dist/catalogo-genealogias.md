@@ -560,12 +560,14 @@ Familias, descendencias, identidades y vínculos domésticos de Génesis. Paráf
 
 Falta resolver el resto de candidatos del rastreo, las alusiones sin nombres y el contraste contextual integral de las obras. Un resultado no localizado no demuestra que un detalle no exista en todo el corpus.
 
-Control del rastreo: 250 referencias con decisión documentada; 2583 pendientes de 2833 candidatas.
+Control del rastreo: 296 referencias con decisión documentada; 2537 pendientes de 2833 candidatas.
 
 Son decisiones sobre candidatos del rastreo, no porcentaje de lectura de las obras. No incluye todas las alusiones que el filtro pudo omitir ni acredita lectura íntegra de ningún volumen.
 
+1MCP · Mind, Character, and Personality, vol. 1
 1SM · Selected Messages Book 1
 1SP · The Spirit of Prophecy, vol. 1
+2MCP · Mind, Character, and Personality, vol. 2
 3SG · Spiritual Gifts, vol. 3
 4T · Testimonies for the Church, vol. 4
 AH · The Adventist Home
@@ -573,9 +575,11 @@ CG · Child Guidance
 DG · Daughters of God
 Ed · Education
 FE · Fundamentals of Christian Education
+LYL · Letters to Young Lovers
 MH · The Ministry of Healing
 PP · Patriarchs and Prophets
 SR · The Story of Redemption
+TSB · Testimonies on Sexual Behavior, Adultery, and Divorce
 
 ## GW01 · Adán y Eva: creación y vínculo matrimonial
 
@@ -583,7 +587,7 @@ Capítulos: 1, 2, 3 · Fichas: G01, G436
 
 Biblia: Génesis 2:21–24
 
-Elena G. White: PP 46.2; PP 46.3; AH 25.3; AH 25.4; DG 22.3
+Elena G. White: PP 46.2; PP 46.3; AH 25.3; AH 25.4; DG 22.3; 1MCP 159.2; LYL 11.2; LYL 11.3; TSB 13.1
 
 White presenta a Eva como compañera de Adán y el matrimonio como institución establecida por Dios. Interpreta la costilla como símbolo de igualdad, cuidado y unión.
 
@@ -707,11 +711,13 @@ Capítulos: 9, 10, 11 · Fichas: G03, G04, G05, G439, G440
 
 Biblia: Génesis 9:20–27; 10:1–32
 
-Elena G. White: PP 117.2; PP 117.3; PP 118.2
+Elena G. White: PP 117.2; PP 117.3; PP 118.2; 1MCP 142.2; 1MCP 142.3
 
 White distingue la descendencia de Cam a través de Canaán y la línea de Sem que conduce a Abraham. Aclara que la profecía no fijaba de forma arbitraria el carácter y destino de los hijos.
 
 No se extiende la maldición bíblica de Canaán a todos los descendientes de Cam, ni se añaden equivalencias con poblaciones modernas.
+
+Referencias paralelas o aplicaciones del mismo tema; su repetición en compilaciones no constituye una nueva persona ni una prueba independiente de parentesco.
 
 ## GW12 · Taré, Nacor y la salida de Abraham
 
@@ -761,7 +767,7 @@ Capítulos: 12, 14, 17, 18 · Fichas: G443, G444
 
 Biblia: Génesis 12:5; 14:14; 17:23; 18:19
 
-Elena G. White: PP 127.1; PP 141.1; PP 141.2; Ed 187.2; FE 286.3; CG 18.4; MH 390.3
+Elena G. White: PP 127.1; PP 141.1; PP 141.2; Ed 187.2; FE 286.3; CG 18.4; MH 390.3; 2MCP 765.2
 
 White describe una casa de más de mil personas que incluía siervos, seguidores y familias instruidas por Abraham. Education distingue que muchos integrantes eran cabezas de familia y algunos conversos recientes.
 
@@ -801,11 +807,13 @@ Capítulos: 19 · Fichas: G07, G445
 
 Biblia: Génesis 19:12–16
 
-Elena G. White: PP 159.3; PP 160.1; 4T 110.4
+Elena G. White: PP 159.3; PP 160.1; 4T 110.4; 1MCP 339.1
 
-White distingue las hijas influidas por sus esposos que rechazaron la advertencia de Lot y las dos hijas que todavía estaban en su casa y salieron con él.
+White distingue las hijas influidas por sus esposos que rechazaron la advertencia de Lot y las dos hijas que todavía estaban en su casa y salieron con él. El paralelo de 1MCP afirma que una parte de los hijos de Lot pereció en la ciudad, sin enumerarlos.
 
 Se documenta su interpretación de la composición familiar, sin imponerla como única lectura de Génesis 19:14. No se conoce el número total de hijas, sus nombres ni hijos varones confirmados.
+
+Referencias paralelas o aplicaciones del mismo tema; su repetición en compilaciones no constituye una nueva persona ni una prueba independiente de parentesco.
 
 ## GW19 · Esposa de Lot y descendencia sobreviviente
 
@@ -813,7 +821,7 @@ Capítulos: 19 · Fichas: G07, G445
 
 Biblia: Génesis 19:26,30–38
 
-Elena G. White: PP 161.2; PP 167.3; PP 174.2; AH 138.4
+Elena G. White: PP 161.2; PP 167.3; PP 174.2; AH 138.4; 1MCP 147.1; TSB 17.1
 
 White describe la influencia de la esposa de Lot y su apego a los hijos que quedaban en Sodoma. Relaciona la descendencia posterior de Lot con moabitas y amonitas.
 
@@ -1071,11 +1079,13 @@ Capítulos: 33 · Fichas: G13, G451
 
 Biblia: Génesis 33:13–14
 
-Elena G. White: MH 374.1; MH 374.2; MH 374.3; AH 218.1; AH 218.2; AH 218.3
+Elena G. White: MH 374.1; MH 374.2; MH 374.3; AH 218.1; AH 218.2; AH 218.3; 1MCP 164.1
 
 White utiliza la decisión de Jacob de avanzar al ritmo de los niños como ejemplo de cuidado familiar. La continuación del párrafo reproduce la explicación de Jacob sobre los niños y los animales con crías.
 
 Los versículos no fijan la edad individual de cada hijo. La aplicación a esposos y padres no introduce personas nuevas en el grupo de Jacob; AH reproduce el pasaje de MH.
+
+Referencias paralelas o aplicaciones del mismo tema; su repetición en compilaciones no constituye una nueva persona ni una prueba independiente de parentesco.
 
 ## GW41 · Harán: padre de hijos antes de morir
 
@@ -1083,11 +1093,13 @@ Capítulos: 11 · Fichas: G06, G441
 
 Biblia: Génesis 11:27–29
 
-Elena G. White: FE 22.1
+Elena G. White: FE 22.1; 1MCP 143.2
 
 White destaca que Harán murió antes que Taré y que ya era padre. La genealogía bíblica conserva a Lot, Milca e Isca en esa rama.
 
 El comentario se refiere a lo registrado en Génesis. No permite afirmar que nunca hubo muertes infantiles no narradas, ni establecer la edad, enfermedad o causa de muerte de Harán.
+
+Referencias paralelas o aplicaciones del mismo tema; su repetición en compilaciones no constituye una nueva persona ni una prueba independiente de parentesco.
 
 ## GW42 · Adán y Eva: trabajo compartido y enseñanza
 
@@ -1107,11 +1119,13 @@ Capítulos: 1, 2, 17 · Fichas: G01, G436, G444
 
 Biblia: Génesis 1:26–28; 2:7; Lucas 3:38; Efesios 1:4–5
 
-Elena G. White: Ed 33.1; Ed 130.2; AH 181.1; MH 104.3; FE 403.1
+Elena G. White: Ed 33.1; Ed 130.2; AH 181.1; MH 104.3; FE 403.1; 2MCP 566.2
 
 White emplea los conceptos de familia humana, Adán como hijo de Dios y adopción espiritual en Cristo. Los relaciona con creación, educación y pertenencia religiosa.
 
 Estos usos no equivalen a reproducción biológica de Dios, adopción doméstica por Abraham ni parentesco inmediato entre todos los personajes. Se conservan separados de las relaciones genealógicas.
+
+Referencias paralelas o aplicaciones del mismo tema; su repetición en compilaciones no constituye una nueva persona ni una prueba independiente de parentesco.
 
 ## GW44 · Leví: descendencia y transformación de la responsabilidad
 
@@ -1124,6 +1138,18 @@ Elena G. White: Ed 148.3; PP 235.9
 White relaciona a Leví y sus descendientes con la dispersión anunciada por Jacob y distingue la posterior dedicación de la tribu al servicio del santuario. PP diferencia el recorrido de Simeón del de Leví.
 
 La descendencia tribal no implica que cada levita cometiera el acto de su antepasado. La referencia posterior se conserva como contexto; los libros y acontecimientos posteriores siguen pausados.
+
+## GW45 · José y la esposa de Potifar: propuesta rechazada
+
+Capítulos: 39 · Fichas: G457
+
+Biblia: Génesis 39:7–12
+
+Elena G. White: LYL 69.1; LYL 69.2
+
+En una carta, White presenta a José rechazando la invitación de la esposa de su amo y huyendo. El pasaje se utiliza como ejemplo para el destinatario de la carta.
+
+La mujer continúa identificada como esposa de Potifar, sin nombre propio. La propuesta rechazada no constituye una unión con José ni permite atribuirles descendencia. Los destinatarios modernos de la carta no se incorporan a la familia bíblica.
 
 # Familias recuperadas y relaciones cotejadas
 
