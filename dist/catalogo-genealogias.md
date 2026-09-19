@@ -7625,11 +7625,15 @@ Acontecimiento relacionado: E73 · Unción, Goliat y persecución (David antes d
 
 Acontecimiento relacionado: E77 · Betsabé y rebelión de Absalón (Crisis de la casa de David).
 
+Acontecimiento relacionado: E72 · Desobediencia y rechazo (Reinado de Saúl).
+
 ### Elí
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Muere al conocer la captura del arca; tenía 98 años y había juzgado 40 años (1 S 4:15–18).
+
+Enlace personal: E70 · Samuel, Elí y el arca. Fuente del episodio: 1 Samuel 1–8
 
 - filiacion → Ofni.  Fuente: 1 Samuel 4:4
 - filiacion → Finés (hijo de Elí).  Fuente: 1 Samuel 4:4
@@ -7640,12 +7644,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E70 · Samuel, Elí y el arca. Fuente del episodio: 1 Samuel 1–8
+
 
 ### Finés (hijo de Elí)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E70 · Samuel, Elí y el arca. Fuente del episodio: 1 Samuel 1–8
 
 - filiacion → Icabod.  Fuente: 1 Samuel 4:19–22
 - filiacion → Ahitub (casa de Elí).  Fuente: 1 Samuel 14:3
@@ -7656,12 +7664,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Nace durante la crisis de la captura del arca; su madre muere. No se registra descendencia en los pasajes cotejados.
 
+Enlace personal: E70 · Samuel, Elí y el arca. Fuente del episodio: 1 Samuel 1–8
+
 
 ### Esposa de Finés (sin nombre)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E70 · Samuel, Elí y el arca. Fuente del episodio: 1 Samuel 1–8
 
 - materna → Icabod.  Fuente: 1 Samuel 4:19–22
 
@@ -7681,6 +7693,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E72 · Desobediencia y rechazo. Fuente del episodio: 1 Samuel 13–15
+
 - discutida → Ahimelec (sacerdote de Nob). Posible identificación; no equivale a afirmar dos hermanos ni una misma persona. Fuente: 1 Samuel 4:4,19–22; 14:3; 22:9–23; 2 Samuel 15:27,36; 1 Crónicas 24:3,6
 
 ### Ahimelec (sacerdote de Nob)
@@ -7688,6 +7702,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E73 · Unción, Goliat y persecución. Fuente del episodio: 1 Samuel 16–27
 
 - filiacion → Abiatar.  Fuente: 1 Samuel 22:20
 
@@ -7697,6 +7713,10 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Sobrevive a la matanza sacerdotal de Nob y huye a David (1 S 22:20–23).
 
+Enlace personal: E73 · Unción, Goliat y persecución. Fuente del episodio: 1 Samuel 16–27
+
+Enlace personal: E77 · Betsabé y rebelión de Absalón. Fuente del episodio: 2 Samuel 11–20
+
 - filiacion → Jonatán (hijo de Abiatar).  Fuente: 2 Samuel 15:27,36
 - filiacion → Ahimelec (hijo de Abiatar). Se conserva la dirección de Crónicas; no se identifica automáticamente con el padre de Abiatar de 1 S 22:20. Fuente: 1 Crónicas 24:6
 
@@ -7705,6 +7725,8 @@ Sobrevive a la matanza sacerdotal de Nob y huye a David (1 S 22:20–23).
 Cronología generacional no determinada; ubicación esquemática.
 
 Mensajero durante la rebelión de Absalón; distinto de Jonatán, hijo de Saúl.
+
+Enlace personal: E77 · Betsabé y rebelión de Absalón. Fuente del episodio: 2 Samuel 11–20
 
 
 ### Ahimelec (hijo de Abiatar)
@@ -7848,6 +7870,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Dirige a sus hijos bajo la orden del rey. Los 288 de 1 Cr 25:7 son el conjunto de cantores instruidos, no sus hijos biológicos.
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 - filiacion → Zacur (hijo de Asaf).  Fuente: 1 Crónicas 25:2
 - filiacion → José (hijo de Asaf).  Fuente: 1 Crónicas 25:2
 - filiacion → Netanías (hijo de Asaf).  Fuente: 1 Crónicas 25:2
@@ -7859,12 +7883,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 
 ### José (hijo de Asaf)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
 
 
 ### Netanías (hijo de Asaf)
@@ -7873,12 +7901,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 
 ### Asarela
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Forma Jesarela en la lista de turnos, 1 Cr 25:14; se indica la correspondencia de listas.
+
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
 
 
 ## G35 · Hemán: catorce hijos y tres hijas
@@ -7894,6 +7926,8 @@ Acontecimiento relacionado: E78 · Censo, altar y sucesión (Final de David).
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
 
 - filiacion → Buquías.  Fuente: 1 Crónicas 25:4–5
 - filiacion → Matanías (hijo de Hemán).  Fuente: 1 Crónicas 25:4–5
@@ -7917,12 +7951,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 
 ### Matanías (hijo de Hemán)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
 
 
 ### Uziel (hijo de Hemán)
@@ -7931,12 +7969,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Azareel en la lista de turnos (1 Cr 25:18); correspondencia entre listas.
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 
 ### Sebuel (hijo de Hemán)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Shubael en la KJV de 1 Cr 25:20; no es el descendiente de Moisés del mismo nombre.
+
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
 
 
 ### Jerimot (hijo de Hemán)
@@ -7945,12 +7987,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 La KJV alterna Jerimoth/Jeremoth entre 25:4 y 25:22.
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 
 ### Hananías (hijo de Hemán)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
 
 
 ### Hanani (hijo de Hemán)
@@ -7959,12 +8005,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 
 ### Eliata
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
 
 
 ### Gidalti
@@ -7973,12 +8023,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 
 ### Romamti-ezer
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
 
 
 ### Josbecasa
@@ -7987,12 +8041,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 
 ### Maloti
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
 
 
 ### Hotir
@@ -8001,12 +8059,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 
 ### Mahaziot
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
 
 
 ### Tres hijas de Hemán (sin nombres)
@@ -8030,6 +8092,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 - filiacion → Gedalías (hijo de Jedutún).  Fuente: 1 Crónicas 25:3
 - filiacion → Zeri / Izri.  Fuente: 1 Crónicas 25:3
 - filiacion → Jesaías (hijo de Jedutún).  Fuente: 1 Crónicas 25:3
@@ -8043,12 +8107,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 
 ### Zeri / Izri
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Zeri en 25:3; Izri en 25:11. Se conserva la variante.
+
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
 
 
 ### Jesaías (hijo de Jedutún)
@@ -8057,12 +8125,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 
 ### Hasabías (hijo de Jedutún)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
 
 
 ### Matatías (hijo de Jedutún)
@@ -8071,12 +8143,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 
 ### Simei (décimo turno)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
 
 
 ## G37 · Merari: ascendencia de Etán y ramas levíticas
@@ -8373,6 +8449,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Corahíta, de los hijos de Asaf según 26:1 KJV. No se enlaza con Asaf, cantor gersonita, por homonimia.
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 - filiacion → Zacarías (hijo de Meselemías).  Fuente: 1 Crónicas 26:2–3
 - filiacion → Jediael.  Fuente: 1 Crónicas 26:2–3
 - filiacion → Zebadías.  Fuente: 1 Crónicas 26:2–3
@@ -8387,12 +8465,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 
 ### Jediael
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
 
 
 ### Zebadías
@@ -8401,12 +8483,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 
 ### Jatniel
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
 
 
 ### Elam
@@ -8415,12 +8501,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 
 ### Johanán
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
 
 
 ### Elioenai
@@ -8429,12 +8519,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 
 ### Obed-edom (portero)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
 
 - filiacion → Semaías (hijo de Obed-edom).  Fuente: 1 Crónicas 26:4–5
 - filiacion → Jozabad.  Fuente: 1 Crónicas 26:4–5
@@ -8451,6 +8545,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 - filiacion → Otni.  Fuente: 1 Crónicas 26:6–7
 - filiacion → Rafael.  Fuente: 1 Crónicas 26:6–7
 - filiacion → Obed (hijo de Semaías).  Fuente: 1 Crónicas 26:6–7
@@ -8464,12 +8560,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 
 ### Joa
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
 
 
 ### Sacar
@@ -8478,12 +8578,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 
 ### Natanael
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
 
 
 ### Amiel
@@ -8492,12 +8596,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 
 ### Isacar
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
 
 
 ### Peultai
@@ -8506,12 +8614,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 
 ### Otni
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
 
 
 ### Rafael
@@ -8520,12 +8632,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 
 ### Obed (hijo de Semaías)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
 
 
 ### Elzabad
@@ -8534,6 +8650,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 
 ### Eliú (portero)
 
@@ -8541,12 +8659,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 
 ### Semaquías
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
 
 
 ### Merari
@@ -8563,6 +8685,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 - filiacion → Simri.  Fuente: 1 Crónicas 26:10–11
 - filiacion → Hilcías (hijo de Hosa).  Fuente: 1 Crónicas 26:10–11
 - filiacion → Tebalías.  Fuente: 1 Crónicas 26:10–11
@@ -8574,12 +8698,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Su padre lo puso por jefe aunque no era el primogénito (26:10).
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 
 ### Hilcías (hijo de Hosa)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
 
 
 ### Tebalías
@@ -8588,12 +8716,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 
 ### Zacarías (hijo de Hosa)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
 
 
 ## G39 · Moisés y los administradores del tesoro
@@ -8635,6 +8767,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 
 ### Rehabías
 
@@ -8674,6 +8808,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Con sus hermanos custodia lo dedicado por David, jefes, Samuel, Saúl, Abner y Joab (26:26–28).
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 
 ### Gersón (hijo de Leví)
 
@@ -8706,12 +8842,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
+
 
 ### Joel (tesorero)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E78 · Censo, altar y sucesión. Fuente del episodio: 2 Samuel 24; 1 Crónicas 21–29; 1 Reyes 1–2
 
 
 ## G40 · Caleb hijo de Jefone, Acsa y Otoniel
@@ -8737,6 +8877,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E62 · Hai, Gabaón y herencias. Fuente del episodio: Josué 7–22
 
 - filiacion → Iru.  Fuente: 1 Crónicas 4:15
 - filiacion → Ela (hijo de Caleb).  Fuente: 1 Crónicas 4:15
@@ -8779,6 +8921,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Solicita las fuentes superiores e inferiores después de recibir tierra del Neguev (Jos 15:18–19).
 
+Enlace personal: E62 · Hai, Gabaón y herencias. Fuente del episodio: Josué 7–22
+
 
 ### Cenaz (padre de Otoniel)
 
@@ -8794,6 +8938,10 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E62 · Hai, Gabaón y herencias. Fuente del episodio: Josué 7–22
+
+Enlace personal: E64 · Otoniel, Aod y Samgar. Fuente del episodio: Jueces 1–3
 
 - filiacion → Hatat.  Fuente: 1 Crónicas 4:13
 - union → Acsa. El pasaje no declara que Acsa sea madre de Hatat; no se agrega esa filiación. Fuente: Josué 15:17
@@ -9099,6 +9247,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E104 · Ester y preservación del pueblo. Fuente del episodio: Ester 1–10
+
 - legal → Ester / Hadasa. La cría como hija tras morir sus padres; son parientes, no padre e hija biológicos. Fuente: Ester 2:7
 
 ### Abihail (padre de Ester)
@@ -9116,6 +9266,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E104 · Ester y preservación del pueblo. Fuente del episodio: Ester 1–10
+
 
 ### Madre de Ester (sin nombre)
 
@@ -9130,6 +9282,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E104 · Ester y preservación del pueblo. Fuente del episodio: Ester 1–10
 
 - union → Ester / Hadasa.  Fuente: Ester 2:16–17
 
@@ -9146,6 +9300,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E104 · Ester y preservación del pueblo. Fuente del episodio: Ester 1–10
 
 - union → Zeres.  Fuente: Ester 5:10,14
 - filiacion → Parsandata.  Fuente: Ester 9:7–10
@@ -9165,12 +9321,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Esposa de Amán. La lista de los diez hijos no nombra a su madre; no se agrega automáticamente su maternidad.
 
+Enlace personal: E104 · Ester y preservación del pueblo. Fuente del episodio: Ester 1–10
+
 
 ### Parsandata
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E104 · Ester y preservación del pueblo. Fuente del episodio: Ester 1–10
 
 
 ### Dalfón
@@ -9179,12 +9339,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E104 · Ester y preservación del pueblo. Fuente del episodio: Ester 1–10
+
 
 ### Aspata
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E104 · Ester y preservación del pueblo. Fuente del episodio: Ester 1–10
 
 
 ### Porata
@@ -9193,12 +9357,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E104 · Ester y preservación del pueblo. Fuente del episodio: Ester 1–10
+
 
 ### Adalía
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E104 · Ester y preservación del pueblo. Fuente del episodio: Ester 1–10
 
 
 ### Aridata
@@ -9207,12 +9375,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E104 · Ester y preservación del pueblo. Fuente del episodio: Ester 1–10
+
 
 ### Parmasta
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E104 · Ester y preservación del pueblo. Fuente del episodio: Ester 1–10
 
 
 ### Arisai
@@ -9221,6 +9393,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E104 · Ester y preservación del pueblo. Fuente del episodio: Ester 1–10
+
 
 ### Aridai
 
@@ -9228,12 +9402,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E104 · Ester y preservación del pueblo. Fuente del episodio: Ester 1–10
+
 
 ### Vaizata
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E104 · Ester y preservación del pueblo. Fuente del episodio: Ester 1–10
 
 
 ## G43 · Herodes: esposas, hijos y sucesores
@@ -9966,6 +10144,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E66 · Madián y Abimelec. Fuente del episodio: Jueces 6–9
+
 - descendencia → Joás (padre de Gedeón).  Fuente: Jueces 6:11
 
 ### Joás (padre de Gedeón)
@@ -9974,6 +10154,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E66 · Madián y Abimelec. Fuente del episodio: Jueces 6–9
+
 - filiacion → Gedeón / Jerobaal.  Fuente: Jueces 6:11; 8:29
 
 ### Gedeón / Jerobaal
@@ -9981,6 +10163,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E66 · Madián y Abimelec. Fuente del episodio: Jueces 6–9
 
 - filiacion → Jeter (primogénito de Gedeón).  Fuente: Jueces 8:20; 9:5
 - filiacion → Jotam (hijo de Gedeón).  Fuente: Jueces 8:20; 9:5
@@ -10002,12 +10186,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Gedeón los identifica como hijos de su madre; no se inventan nombres ni número. Jue 8:18–19.
 
+Enlace personal: E66 · Madián y Abimelec. Fuente del episodio: Jueces 6–9
+
 
 ### Jeter (primogénito de Gedeón)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Todavía joven, teme ejecutar a Zeba y Zalmuna (8:20). No se le atribuye descendencia.
+
+Enlace personal: E66 · Madián y Abimelec. Fuente del episodio: Jueces 6–9
 
 
 ### Jotam (hijo de Gedeón)
@@ -10016,12 +10204,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Escapa de la matanza y pronuncia la parábola de los árboles; después huye a Beer (9:5–21).
 
+Enlace personal: E66 · Madián y Abimelec. Fuente del episodio: Jueces 6–9
+
 
 ### Setenta hijos de Gedeón (conjunto)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Jue 8:30; 9:5 conserva la cifra setenta y la excepción de Jotam. No se reconstruye una lista nominal de setenta.
+
+Enlace personal: E66 · Madián y Abimelec. Fuente del episodio: Jueces 6–9
 
 
 ### Abimelec (hijo de Gedeón)
@@ -10030,12 +10222,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Obtiene apoyo de Siquem, mata a sus hermanos y acaba herido por una piedra de molino en Tebes (9:1–6,50–54).
 
+Enlace personal: E66 · Madián y Abimelec. Fuente del episodio: Jueces 6–9
+
 
 ### Concubina de Gedeón en Siquem
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E66 · Madián y Abimelec. Fuente del episodio: Jueces 6–9
 
 - materna → Abimelec (hijo de Gedeón).  Fuente: Jueces 8:31
 - colectivo → Familia materna de Abimelec. Grupo; no una sola persona ni un hijo inmediato. Fuente: Jueces 6:11–15; 8:18–35; 9:1–57
@@ -10045,6 +10241,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 Sus parientes de Siquem favorecen su ascenso; Jue 9:1–3.
+
+Enlace personal: E66 · Madián y Abimelec. Fuente del episodio: Jueces 6–9
 
 
 ## G48 · Jefté: exclusión, restitución y su hija única
@@ -10072,6 +10270,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Vence a los amonitas; su voto afecta a su hija. Juzga seis años (11:29–40; 12:7); no se traduce esa duración en un año absoluto.
 
+Enlace personal: E67 · Tola, Jair y Jefté. Fuente del episodio: Jueces 10–12
+
 - filiacion → Hija única de Jefté.  Fuente: Jueces 11:34
 
 ### Madre de Jefté (sin nombre)
@@ -10079,6 +10279,8 @@ Vence a los amonitas; su voto afecta a su hija. Juzga seis años (11:29–40; 12
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E67 · Tola, Jair y Jefté. Fuente del episodio: Jueces 10–12
 
 - materna → Jefté.  Fuente: Jueces 11:1
 
@@ -10088,12 +10290,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Hijos de la esposa de Galaad; expulsan a Jefté y le niegan herencia (11:2).
 
+Enlace personal: E67 · Tola, Jair y Jefté. Fuente del episodio: Jueces 10–12
+
 
 ### Esposa de Galaad (sin nombre)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E67 · Tola, Jair y Jefté. Fuente del episodio: Jueces 10–12
 
 - colectivo → Hermanos paternos de Jefté. Maternidad del conjunto; distinta de la madre de Jefté. Fuente: Jueces 11:2
 
@@ -10102,6 +10308,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 Sale a recibirlo con danzas; pide dos meses para lamentar su virginidad. El relato no registra esposo ni hijos (11:34–40).
+
+Enlace personal: E67 · Tola, Jair y Jefté. Fuente del episodio: Jueces 10–12
 
 
 ## G49 · Sansón: casa de Manoa y familia de Timnat
@@ -10124,6 +10332,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E68 · Sansón. Fuente del episodio: Jueces 13–16
+
 - filiacion → Sansón.  Fuente: Jueces 13:2,24
 - colectivo → Casa paterna que sepulta a Sansón. Grupo; no una sola persona ni un hijo inmediato. Fuente: Jueces 13–16
 
@@ -10133,6 +10343,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E68 · Sansón. Fuente del episodio: Jueces 13–16
+
 - union → Esposa de Sansón en Timnat.  Fuente: Jueces 14:1–20
 
 ### Esposa de Manoa (sin nombre)
@@ -10140,6 +10352,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E68 · Sansón. Fuente del episodio: Jueces 13–16
 
 - materna → Sansón.  Fuente: Jueces 13:2,24
 
@@ -10157,6 +10371,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E68 · Sansón. Fuente del episodio: Jueces 13–16
+
 - filiacion → Esposa de Sansón en Timnat.  Fuente: Jueces 15:1–2
 - filiacion → Hermana menor de la esposa de Sansón.  Fuente: Jueces 15:1–2
 
@@ -10166,6 +10382,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E68 · Sansón. Fuente del episodio: Jueces 13–16
+
 - union → Compañero de Sansón (sin nombre). Su padre la entrega al compañero; la hermana menor es ofrecida, pero no se relata una boda con ella. Fuente: Jueces 14:20; 15:2
 
 ### Hermana menor de la esposa de Sansón
@@ -10174,12 +10392,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E68 · Sansón. Fuente del episodio: Jueces 13–16
+
 
 ### Compañero de Sansón (sin nombre)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E68 · Sansón. Fuente del episodio: Jueces 13–16
 
 
 ### Dalila
@@ -10188,12 +10410,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Mujer del valle de Sorec a quien Sansón ama; entrega el secreto de su fuerza a los filisteos. Se mantiene como personaje, sin línea de matrimonio afirmado ni hijos (16:4–21).
 
+Enlace personal: E68 · Sansón. Fuente del episodio: Jueces 13–16
+
 
 ### Casa paterna que sepulta a Sansón
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Jue 16:31 menciona hermanos y casa paterna; no determina sus nombres ni cuántos eran hijos inmediatos de Manoa.
+
+Enlace personal: E68 · Sansón. Fuente del episodio: Jueces 13–16
 
 
 ## G50 · Otros jueces: Tola, Jair, Ibzán y Abdón
@@ -10226,6 +10452,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Juzga 23 años y es sepultado en Samir (10:1–2).
 
+Enlace personal: E67 · Tola, Jair y Jefté. Fuente del episodio: Jueces 10–12
+
 
 ### Treinta hijos de Jair
 
@@ -10233,12 +10461,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Treinta asnos y treinta ciudades; gobierno de Jair durante 22 años (10:3–4).
 
+Enlace personal: E67 · Tola, Jair y Jefté. Fuente del episodio: Jueces 10–12
+
 
 ### Jair (juez)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E67 · Tola, Jair y Jefté. Fuente del episodio: Jueces 10–12
 
 - colectivo → Treinta hijos de Jair. Grupo; no una sola persona ni un hijo inmediato. Fuente: Jueces 10:1–5; 12:8–15
 
@@ -10248,12 +10480,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 El padre trae treinta mujeres de fuera para ellos; siete años de gobierno (12:8–10).
 
+Enlace personal: E67 · Tola, Jair y Jefté. Fuente del episodio: Jueces 10–12
+
 
 ### Ibzán
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E67 · Tola, Jair y Jefté. Fuente del episodio: Jueces 10–12
 
 - colectivo → Treinta hijos de Ibzán. Grupo; no una sola persona ni un hijo inmediato. Fuente: Jueces 10:1–5; 12:8–15
 - colectivo → Treinta hijas de Ibzán. Grupo; no una sola persona ni un hijo inmediato. Fuente: Jueces 10:1–5; 12:8–15
@@ -10263,6 +10499,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 Casadas fuera de la casa; sin nombres ni parejas individualizadas (12:9).
+
+Enlace personal: E67 · Tola, Jair y Jefté. Fuente del episodio: Jueces 10–12
 
 
 ### Hilel (padre de Abdón)
@@ -10279,6 +10517,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E67 · Tola, Jair y Jefté. Fuente del episodio: Jueces 10–12
+
 - colectivo → Cuarenta hijos de Abdón. Grupo; no una sola persona ni un hijo inmediato. Fuente: Jueces 10:1–5; 12:8–15
 - descendencia → Treinta nietos de Abdón. KJV emplea nephews en su sentido antiguo; otras traducciones dan nietos. No se distribuyen entre los cuarenta hijos. Fuente: Jueces 12:14
 
@@ -10288,6 +10528,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Jueces 12:14; sin nombres individuales.
 
+Enlace personal: E67 · Tola, Jair y Jefté. Fuente del episodio: Jueces 10–12
+
 
 ### Treinta nietos de Abdón
 
@@ -10295,12 +10537,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Grupo de descendientes de segunda generación; no treinta personas identificadas.
 
+Enlace personal: E67 · Tola, Jair y Jefté. Fuente del episodio: Jueces 10–12
+
 
 ### Elón (juez zabulonita)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Juzga diez años (12:11–12); no se nombra padre ni descendientes. No fusionar con Elón hijo de Zabulón.
+
+Enlace personal: E67 · Tola, Jair y Jefté. Fuente del episodio: Jueces 10–12
 
 
 ## G51 · Isacar: Tola, Uzi e Izrahías
