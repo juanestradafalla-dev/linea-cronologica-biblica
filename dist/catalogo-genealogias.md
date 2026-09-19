@@ -554,6 +554,468 @@ R410 · Génesis 50: médicos, cortejo y generaciones conocidas por José
 
 Se añaden médicos embalsamadores, ancianos de la corte y de Egipto, escolta, observadores cananeos y el mensajero del pedido de perdón. Los pequeños permanecen en Gosén durante la sepultura de Jacob; no se añaden al cortejo. Los cuarenta días del embalsamamiento y setenta de duelo no se suman automáticamente como intervalos consecutivos; el duelo de siete días en la era se distingue. Atad es denominación de la era y no se crea un propietario nombrado sin datos. José ve descendencia de Efraín hasta la tercera generación y a los hijos de Maquir criados sobre sus rodillas: Génesis no da los nombres individuales de esos grupos. G20 y G21 contienen ramas de otras fuentes, sin atribuir toda esa lista como contemporánea de José. La crianza no sustituye la paternidad de Maquir. José muere con 110 años y deja una petición sobre sus huesos; su traslado posterior no es otra muerte.
 
+# Contraste familiar con Elena G. White
+
+Familias, descendencias, identidades y vínculos domésticos de Génesis. Paráfrasis en español de pasajes leídos en los documentos ingleses aportados. No constituye lectura íntegra de los 119 documentos de White ni cierra el punto 2.
+
+Falta resolver el resto de candidatos del rastreo, las alusiones sin nombres y el contraste contextual integral de las obras. Un resultado no localizado no demuestra que un detalle no exista en todo el corpus.
+
+## GW01 · Adán y Eva: creación y vínculo matrimonial
+
+Capítulos: 1, 2, 3 · Fichas: G01, G436
+
+Biblia: Génesis 2:21–24
+
+Elena G. White: PP 46.2; PP 46.3
+
+White presenta a Eva como compañera de Adán y el matrimonio como institución establecida por Dios. Interpreta la costilla como símbolo de igualdad, cuidado y unión.
+
+La formación de Eva no se representa como filiación biológica de Adán ni como una segunda generación.
+
+## GW02 · Caín, primogénito; Abel, hermano menor
+
+Capítulos: 4 · Fichas: G01, G437
+
+Biblia: Génesis 4:1–2,8
+
+Elena G. White: PP 71.3; PP 82.2
+
+White llama primogénito a Caín y describe su resistencia a recibir consejo de Abel, su hermano menor.
+
+No establece el intervalo entre nacimientos ni afirma que fueran mellizos; no se asigna descendencia a Abel.
+
+## GW03 · Enoc de Caín y Lamec: orden de la rama
+
+Capítulos: 4 · Fichas: G01, G437
+
+Biblia: Génesis 4:17–24
+
+Elena G. White: PP 81.1; 1SP 93.2
+
+White identifica al hijo cuyo nombre recibió la ciudad como el mayor de Caín, y sitúa a Lamec en el quinto grado de descendencia desde Caín. Lo presenta como el primero en introducir la poligamia.
+
+Se conserva la cadena Caín–Enoc–Irad–Mehujael–Metusael–Lamec. No se confunden este Enoc y este Lamec con sus homónimos de Génesis 5.
+
+## GW04 · Set y Enós: continuidad familiar y religiosa
+
+Capítulos: 4, 5 · Fichas: G01, G02, G438
+
+Biblia: Génesis 4:25–26; 5:3–8
+
+Elena G. White: PP 80.1; PP 80.2
+
+White explica el nombre de Set como sustitución de Abel y describe su recepción de la enseñanza sobre el Redentor; conserva a Enós como hijo de Set.
+
+La herencia espiritual no crea padres adicionales ni convierte a Set en descendiente de Abel.
+
+## GW05 · Adán y sus generaciones: enseñanza, no filiación inmediata
+
+Capítulos: 5 · Fichas: G02, G438
+
+Biblia: Génesis 5:1–32
+
+Elena G. White: PP 82.1; PP 83.1
+
+White describe a Adán enseñando a hijos y descendientes hasta la novena generación, y la convivencia de varias generaciones capaces de transmitirse conocimientos.
+
+Una relación de enseñanza o contemporaneidad no sustituye los eslabones de la genealogía ni proporciona fechas de nacimiento para los descendientes anónimos.
+
+## GW06 · Enoc de Set: padre y esposo
+
+Capítulos: 5 · Fichas: G02, G438
+
+Biblia: Génesis 5:21–24
+
+Elena G. White: PP 84.3; PP 85.1
+
+White relaciona el crecimiento espiritual de Enoc con el nacimiento de su primer hijo y lo describe como esposo y padre. Génesis identifica a Matusalén en ese nacimiento a los 65 años.
+
+La esposa permanece sin nombre; no se le atribuye una ascendencia ni se inventa la identidad de los demás hijos e hijas.
+
+## GW07 · Descendientes de Set y de Caín: interpretación de Génesis 6
+
+Capítulos: 6 · Fichas: G439
+
+Biblia: Génesis 6:1–4
+
+Elena G. White: PP 81.2
+
+White interpreta los matrimonios de los hijos de Dios con las hijas de los hombres como uniones entre descendientes de Set y mujeres de la descendencia de Caín.
+
+Es una identificación atribuida a White. Génesis no enumera a esas parejas; se conservan como colectivos y no como una lista de matrimonios individuales.
+
+## GW08 · Matusalén: hijos y nietos en el entorno de Noé
+
+Capítulos: 5, 6 · Fichas: G02, G438, G439
+
+Biblia: Génesis 5:25–32; 6:13–22
+
+Elena G. White: PP 92.2; 1SP 65.2; 3SG 59.2
+
+PP menciona la ayuda de Matusalén y sus hijos en la construcción del arca. 1SP y 3SG mencionan también a sus nietos y distinguen a Noé como nieto de Matusalén.
+
+La participación procede de White, no de una lista de constructores en Génesis. No se nombran todos los familiares ni se identifican automáticamente con los ocho ocupantes del arca. Las versiones paralelas no son testimonios independientes.
+
+## GW09 · Matusalén y el año del diluvio
+
+Capítulos: 5, 7 · Fichas: G02, G438, G439
+
+Biblia: Génesis 5:25–29; 7:6
+
+Elena G. White: 1SP 70.1; 3SG 65.1; SR 63.1
+
+White afirma que Matusalén vivió hasta el año del diluvio. También menciona creyentes que ayudaron con el arca y murieron antes de que llegaran las aguas.
+
+No especifica el día ni la causa de la muerte de Matusalén; no autoriza a afirmar que murió ahogado. Tampoco identifica nominalmente a los otros colaboradores fallecidos.
+
+## GW10 · Noé y las cuatro parejas del arca
+
+Capítulos: 6, 7, 8, 9 · Fichas: G439
+
+Biblia: Génesis 6:18; 7:7,13
+
+Elena G. White: 1SP 94.1; PP 107.3
+
+White declara que Noé tuvo una sola esposa y cuenta ocho personas en la familia preservada. El registro bíblico distingue a Noé, sus tres hijos y sus respectivas esposas.
+
+Estos pasajes no dan nombres a las cuatro mujeres; se mantiene desconocida su ascendencia.
+
+## GW11 · Sem, Cam, Jafet y Canaán: descendencia y lectura moral
+
+Capítulos: 9, 10, 11 · Fichas: G03, G04, G05, G439, G440
+
+Biblia: Génesis 9:20–27; 10:1–32
+
+Elena G. White: PP 117.2; PP 117.3; PP 118.2
+
+White distingue la descendencia de Cam a través de Canaán y la línea de Sem que conduce a Abraham. Aclara que la profecía no fijaba de forma arbitraria el carácter y destino de los hijos.
+
+No se extiende la maldición bíblica de Canaán a todos los descendientes de Cam, ni se añaden equivalencias con poblaciones modernas.
+
+## GW12 · Taré, Nacor y la salida de Abraham
+
+Capítulos: 11, 12 · Fichas: G06, G441, G442, G443
+
+Biblia: Génesis 11:27–32; 12:1–5
+
+Elena G. White: PP 125.1; PP 127.1
+
+White describe el culto mezclado de la casa paterna, la permanencia de Abraham en Harán hasta la muerte de Taré, a Nacor con su casa y a Lot como hijo del fallecido Harán.
+
+La secuencia se atribuye a White sin asignar nuevos años absolutos ni confundir Harán, persona, con Harán, lugar.
+
+## GW13 · Sara, esposa y media hermana de Abraham
+
+Capítulos: 12, 20 · Fichas: G06, G442, G443
+
+Biblia: Génesis 12:10–20; 20:12
+
+Elena G. White: PP 130.1
+
+White acepta la explicación de que Sara era hija del mismo padre de Abraham, pero de distinta madre, y considera engañoso ocultar que también era su esposa.
+
+No identifica por nombre a las madres ni equipara a Sara con Isca. La intención del faraón no se convierte en un matrimonio consumado.
+
+## GW14 · Eliezer: adopción propuesta, no realizada
+
+Capítulos: 15 · Fichas: G444
+
+Biblia: Génesis 15:2–4
+
+Elena G. White: PP 136.3; 1SP 95.1; 3SG 100.3; SR 77.1
+
+White describe la intención de Abraham de adoptar a Eliezer como hijo y heredero, y la respuesta de que el heredero sería un hijo propio.
+
+Se registra como proyecto de adopción; no se crea una filiación adoptiva efectiva ni se borra la relación de servicio.
+
+## GW15 · La casa de Abraham no equivale a su descendencia biológica
+
+Capítulos: 12, 14, 17, 18 · Fichas: G443, G444
+
+Biblia: Génesis 12:5; 14:14; 17:23; 18:19
+
+Elena G. White: PP 127.1; PP 141.1; PP 141.2
+
+White describe una casa de más de mil personas que incluía siervos, seguidores y familias instruidas por Abraham.
+
+La cifra corresponde a White y al conjunto doméstico; no significa mil hijos de Abraham. Se distingue de los 318 hombres preparados citados en Génesis 14.
+
+## GW16 · Agar, Sara e Ismael: matrimonio, maternidad y promesa
+
+Capítulos: 16, 17, 21 · Fichas: G08, G444, G446
+
+Biblia: Génesis 16:1–16; 17:18–21; 21:9–14
+
+Elena G. White: PP 145.1; PP 145.2; PP 146.1; PP 147.1
+
+White describe a Agar como esposa secundaria y madre de Ismael, y critica la poligamia y la desconfianza que condujeron a esa unión. Distingue a Isaac como hijo de la promesa.
+
+Su valoración de Sara como única esposa legítima en ese conflicto no elimina la unión y descendencia de Agar ni la referencia bíblica posterior a Cetura.
+
+## GW17 · Ismael: pluralidad de esposas en White
+
+Capítulos: 21, 25 · Fichas: G08, G446
+
+Biblia: Génesis 21:21; 25:12–16
+
+Elena G. White: PP 173.5; PP 174.1
+
+White habla en plural de las esposas elegidas para Ismael por Agar y de su influencia en la casa. Añade que Ismael se volvió al Dios de su padre al final de su vida.
+
+Génesis 21:21 menciona una esposa egipcia. White no proporciona aquí nombres, número total ni maternidades de cada hijo; se conserva la diferencia entre ambos registros sin fabricar una distribución maternal.
+
+## GW18 · Lot: hijas casadas que permanecieron en Sodoma
+
+Capítulos: 19 · Fichas: G07, G445
+
+Biblia: Génesis 19:12–16
+
+Elena G. White: PP 159.3; PP 160.1; 4T 110.4
+
+White distingue las hijas influidas por sus esposos que rechazaron la advertencia de Lot y las dos hijas que todavía estaban en su casa y salieron con él.
+
+Se documenta su interpretación de la composición familiar, sin imponerla como única lectura de Génesis 19:14. No se conoce el número total de hijas, sus nombres ni hijos varones confirmados.
+
+## GW19 · Esposa de Lot y descendencia sobreviviente
+
+Capítulos: 19 · Fichas: G07, G445
+
+Biblia: Génesis 19:26,30–38
+
+Elena G. White: PP 161.2; PP 167.3; PP 174.2
+
+White describe la influencia de la esposa de Lot y su apego a los hijos que quedaban en Sodoma. Relaciona la descendencia posterior de Lot con moabitas y amonitas.
+
+La esposa y las dos hijas sobrevivientes permanecen sin nombre. Las valoraciones de estos pasajes son de White; no completan las generaciones intermedias hasta Rut o Naama.
+
+## GW20 · Isaac como único hijo de la promesa
+
+Capítulos: 22 · Fichas: G06, G447
+
+Biblia: Génesis 22:2; 21:12–13
+
+Elena G. White: 1SP 99.1; PP 148.2
+
+White explica la expresión único hijo en relación con Isaac como hijo de la promesa.
+
+No significa que Abraham careciera de otros hijos biológicos: Ismael y los hijos de Cetura conservan sus ramas.
+
+## GW21 · Rebeca: parentela y consentimiento matrimonial
+
+Capítulos: 24 · Fichas: G06, G448
+
+Biblia: Génesis 24:15,24,29,50–58,67
+
+Elena G. White: PP 172.2; PP 173.1; PP 173.3; 1SP 103.1
+
+White conserva a Betuel como padre de Rebeca y sobrino de Abraham, a Labán como hermano de ella, y distingue la aceptación de la familia del consentimiento de Rebeca.
+
+No se identifica a la madre de Rebeca con Milca: Milca es su abuela paterna en la genealogía bíblica.
+
+## GW22 · El siervo de Génesis 24 identificado por White
+
+Capítulos: 24 · Fichas: G151, G448
+
+Biblia: Génesis 24:2–4,33–49
+
+Elena G. White: PP 173.2
+
+White llama Eliezer al siervo enviado a buscar esposa para Isaac.
+
+El nombre no aparece en Génesis 24; se conserva la atribución a White y no se afirma que el propio capítulo lo nombre.
+
+## GW23 · Esaú y Jacob: primogenitura y gemelos
+
+Capítulos: 25, 27 · Fichas: G10, G13, G449, G451
+
+Biblia: Génesis 25:21–34; 27:1–40
+
+Elena G. White: PP 177.1; PP 177.3; PP 180.4
+
+White distingue a los hermanos gemelos y explica la primogenitura como un conjunto de responsabilidades espirituales, jefatura familiar y porción doble de bienes.
+
+No se confunden prioridad de nacimiento, promesa espiritual y distribución efectiva de bienes.
+
+## GW24 · Esposas de Esaú: sin armonización forzada
+
+Capítulos: 26, 28, 36 · Fichas: G10, G449, G454
+
+Biblia: Génesis 26:34–35; 28:9; 36:2–3
+
+Elena G. White: PP 179.3
+
+White menciona las dos esposas de las hijas de Het y el dolor que causaron a Isaac y Rebeca.
+
+Ese pasaje no resuelve las diferencias de nombres y ascendencias entre Génesis 26, 28 y 36; las variantes siguen visibles.
+
+## GW25 · Rebeca y Jacob: separación definitiva
+
+Capítulos: 27, 28, 35 · Fichas: G06, G451, G453
+
+Biblia: Génesis 27:43–45; 35:27; 49:31
+
+Elena G. White: PP 180.3; PP 198.2; PP 237.4
+
+White afirma que Rebeca no volvió a ver a Jacob después de su huida y presenta a su madre como fallecida cuando él regresa.
+
+Génesis no narra la muerte de Rebeca ni da su edad al morir. Se registra esta secuencia según White, sin añadir fecha.
+
+## GW26 · Lea, Raquel y las condiciones de sus matrimonios
+
+Capítulos: 29, 30, 31 · Fichas: G06, G13, G450
+
+Biblia: Génesis 29:15–30; 31:14–16,41
+
+Elena G. White: PP 188.3; PP 189.2; PP 190.1
+
+White describe la sustitución de Raquel por Lea, el servicio de Jacob por ambas y la retención de la dote por Labán. Distingue catorce años de servicio por las esposas y el resto de los veinte años por el ganado.
+
+No se retrasa el matrimonio con Raquel hasta el final de los otros siete años; se conserva el orden de Génesis 29:27–30.
+
+## GW27 · Bilha, Zilpa y el pacto de no añadir esposas
+
+Capítulos: 30, 31 · Fichas: G13, G450
+
+Biblia: Génesis 30:3–13; 31:50
+
+Elena G. White: 1SP 116.3; 1SP 117.1; 3SG 127.1; SR 92.3
+
+White relaciona la entrega de las siervas a Jacob con la rivalidad entre Lea y Raquel y describe el pacto de no tomar otras esposas.
+
+No identifica a Bilha o Zilpa como hijas de Labán; servicio doméstico y filiación son relaciones diferentes.
+
+## GW28 · Hijos de Labán: grupo anónimo
+
+Capítulos: 31 · Fichas: G450
+
+Biblia: Génesis 31:1–2
+
+Elena G. White: PP 192.4; PP 193.1
+
+White describe la hostilidad de los hijos de Labán por el crecimiento de los bienes de Jacob.
+
+No añade nombres ni número de hijos; se mantiene el colectivo existente.
+
+## GW29 · Dina y los hijos de Jacob
+
+Capítulos: 34 · Fichas: G13, G452
+
+Biblia: Génesis 34:1–31
+
+Elena G. White: PP 204.2; PP 204.3
+
+White habla de la hija del hogar y de Simeón y Leví como responsables de la matanza, distinguiendo el parentesco de sus actos.
+
+No proporciona cónyuge ni descendencia de Dina; el episodio no prueba un matrimonio consumado con Siquem ni una maternidad de Asenat.
+
+## GW30 · Débora: continuidad del cuidado de Rebeca
+
+Capítulos: 24, 35 · Fichas: G96, G448, G453
+
+Biblia: Génesis 24:59; 35:8
+
+Elena G. White: PP 206.2
+
+White identifica a Débora como la nodriza que acompañó a Rebeca desde Mesopotamia y como una integrante apreciada de la casa familiar.
+
+Es una relación de cuidado; no se convierte en maternidad biológica ni se le inventan hijos.
+
+## GW31 · Raquel, Benoni y Benjamín
+
+Capítulos: 35 · Fichas: G13, G453
+
+Biblia: Génesis 35:16–20; 48:7
+
+Elena G. White: PP 206.3; PP 206.4
+
+White conserva el nacimiento del segundo hijo de Raquel al morir ella y la diferencia entre el nombre Benoni dado por la madre y Benjamín dado por el padre.
+
+Son nombres del mismo hijo, no dos personas. No se añade una edad de Raquel ausente del pasaje.
+
+## GW32 · Jacob y Esaú: herencia material y espiritual
+
+Capítulos: 35, 36 · Fichas: G10, G13, G453, G454
+
+Biblia: Génesis 35:27–29; 36:6–8
+
+Elena G. White: PP 207.2
+
+White afirma que Jacob dejó a Esaú la riqueza paterna, conservando las bendiciones espirituales de la primogenitura.
+
+Ese reparto se atribuye a White; no altera la filiación de los hermanos ni inventa importes o inventarios hereditarios.
+
+## GW33 · José y Benjamín: hijos de Raquel
+
+Capítulos: 37, 43, 44 · Fichas: G13, G455, G459
+
+Biblia: Génesis 35:24; 37:3; 44:20,27–29
+
+Elena G. White: PP 209.1; PP 230.2
+
+White distingue a José como hijo mayor de Raquel y la posición de Benjamín en el dolor de Jacob por el José que creía perdido.
+
+La expresión único hijo restante corresponde a los hijos de Raquel y a lo que la familia sabía entonces, no a todos los hijos de Jacob.
+
+## GW34 · Efraín y Manasés: ascendencia y adopción tribal
+
+Capítulos: 41, 48 · Fichas: G20, G458, G462
+
+Biblia: Génesis 41:45,50–52; 48:5–6
+
+Elena G. White: PP 234.2; PP 234.3
+
+White relaciona la ascendencia materna de los hijos de José con el sacerdocio egipcio y describe su adopción por Jacob para encabezar tribus separadas, con una porción doble para José.
+
+La adopción no reemplaza a José y Asenat como padres biológicos; no se identifican los dos hermanos con Rubén y Simeón.
+
+## GW35 · Rubén, José y Judá: privilegios distintos
+
+Capítulos: 35, 48, 49 · Fichas: G13, G15, G20, G462
+
+Biblia: Génesis 35:22; 48:5; 49:3–10
+
+Elena G. White: PP 206.5; PP 234.3; PP 236.1; PP 236.3
+
+White distingue la pérdida de privilegios de Rubén, la doble porción de José mediante sus hijos y la promesa asociada a Judá y al linaje de David y Cristo.
+
+La referencia a descendencia futura no supone filiación inmediata Judá–David. Las generaciones de otros libros permanecen como comparación, con su trabajo pausado.
+
+## GW36 · Sepulturas familiares: Lea y Rebeca en Macpela
+
+Capítulos: 49, 50 · Fichas: G13, G462, G463
+
+Biblia: Génesis 49:29–32
+
+Elena G. White: PP 237.2
+
+White reproduce la memoria de las parejas Abraham–Sara e Isaac–Rebeca y la sepultura de Lea en Macpela.
+
+Una sepultura compartida no aporta por sí sola fechas de muerte. Raquel conserva su sepultura diferenciada en el camino a Efrata.
+
+## GW37 · José, descendientes de Efraín e hijos de Maquir
+
+Capítulos: 50 · Fichas: G20, G21, G463
+
+Biblia: Génesis 50:22–23
+
+Elena G. White: PP 240.1
+
+White conserva la referencia a las generaciones de Efraín y a los hijos de Maquir criados sobre las rodillas de José.
+
+No añade nombres a los hijos de Maquir de ese versículo ni convierte la crianza de José en paternidad biológica.
+
+## GW38 · Melquisedec: identidad y genealogía no completada
+
+Capítulos: 14 · Fichas: G122
+
+Biblia: Génesis 14:18–20; Hebreos 7:1–3
+
+Elena G. White: 1SM 409.3
+
+White distingue expresamente a Melquisedec de Cristo, aunque lo presenta como representante de Dios por medio del cual Cristo hablaba.
+
+El pasaje no lo identifica con Sem ni revela padres o descendencia. Se mantiene su genealogía sin determinar.
+
 # Familias recuperadas y relaciones cotejadas
 
 Las ramas comparativas de otros libros permanecen documentadas como contexto; no se activan sus acontecimientos.
