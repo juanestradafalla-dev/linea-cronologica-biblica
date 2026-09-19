@@ -16290,11 +16290,19 @@ Elena G. White — DA 698.1–3 · The Desire of Ages, cap. 75: White describe l
 
 Acontecimiento relacionado: E127 · Autoridades religiosas y romanas (Procesos y condena).
 
+Acontecimiento relacionado: E126 · Pascua, servicio y Getsemaní (Cena y noche de arresto).
+
+Acontecimiento relacionado: E134 · Testimonio y oposición en Jerusalén (Primeros años).
+
 ### Anás
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E127 · Autoridades religiosas y romanas. Fuente del episodio: Mateo 26:57–27:31; Marcos 14:53–15:20; Lucas 22:54–23:25; Juan 18:12–19:16
+
+Enlace personal: E134 · Testimonio y oposición en Jerusalén. Fuente del episodio: Hechos 3–5
 
 - filiacion → Hija de Anás (sin nombre). Deducida del parentesco de suegro; nombre no proporcionado. Fuente: Juan 18:13
 
@@ -16311,6 +16319,10 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E127 · Autoridades religiosas y romanas. Fuente del episodio: Mateo 26:57–27:31; Marcos 14:53–15:20; Lucas 22:54–23:25; Juan 18:12–19:16
+
+Enlace personal: E134 · Testimonio y oposición en Jerusalén. Fuente del episodio: Hechos 3–5
+
 - union → Hija de Anás (sin nombre).  Fuente: Juan 18:13
 
 ### Juan (entorno sacerdotal de Hch 4)
@@ -16319,12 +16331,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Nombrado con Anás, Caifás y Alejandro en la reunión; grado exacto de parentesco no declarado.
 
+Enlace personal: E134 · Testimonio y oposición en Jerusalén. Fuente del episodio: Hechos 3–5
+
 
 ### Alejandro (entorno sacerdotal de Hch 4)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 No se identifica con otros Alejandros ni se le asigna padre; Hch 4:6.
+
+Enlace personal: E134 · Testimonio y oposición en Jerusalén. Fuente del episodio: Hechos 3–5
 
 
 ### Malco
@@ -16333,6 +16349,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E126 · Pascua, servicio y Getsemaní. Fuente del episodio: Mateo 26; Marcos 14; Lucas 22; Juan 13–18:12
+
 - parentesco → Pariente de Malco (sin nombre). Siervo del sumo sacerdote que reconoce a Pedro; grado desconocido. Fuente: Juan 18:26
 
 ### Pariente de Malco (sin nombre)
@@ -16340,6 +16358,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E127 · Autoridades religiosas y romanas. Fuente del episodio: Mateo 26:57–27:31; Marcos 14:53–15:20; Lucas 22:54–23:25; Juan 18:12–19:16
 
 
 ## G73 · Pablo: hermana y sobrino que revela la conspiración
@@ -16358,6 +16378,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E141 · Defensas, naufragio y prisión. Fuente del episodio: Hechos 21:17–28:31
+
 - hermanos → Hermana de Pablo (sin nombre).  Fuente: Hechos 23:16
 
 ### Hermana de Pablo (sin nombre)
@@ -16374,6 +16396,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Descubre la emboscada, avisa a Pablo y explica el plan a Claudio Lisias; su intervención conduce a medidas de protección (Hch 23:16–24).
 
+Enlace personal: E141 · Defensas, naufragio y prisión. Fuente del episodio: Hechos 21:17–28:31
+
 
 ## G74 · Felipe evangelista y sus cuatro hijas
 
@@ -16385,11 +16409,17 @@ Acontecimiento relacionado: E140 · Comunidades del Mediterráneo (Segundo y ter
 
 Acontecimiento relacionado: E141 · Defensas, naufragio y prisión (Arresto y viaje a Roma).
 
+Acontecimiento relacionado: E135 · Los siete y martirio de Esteban (34 d. C. para Esteban en GC).
+
+Acontecimiento relacionado: E136 · Samaria, etíope y conversión de Saulo (Expansión inicial).
+
 ### Cuatro hijas de Felipe
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Don profético; solteras en el momento de la visita narrada (Hch 21:9). Se conserva el número sin inventar cuatro identidades.
+
+Enlace personal: E140 · Comunidades del Mediterráneo. Fuente del episodio: Hechos 15:36–21:16
 
 
 ### Felipe evangelista
@@ -16397,6 +16427,12 @@ Don profético; solteras en el momento de la visita narrada (Hch 21:9). Se conse
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E135 · Los siete y martirio de Esteban. Fuente del episodio: Hechos 6–8:3; GC 328.1
+
+Enlace personal: E136 · Samaria, etíope y conversión de Saulo. Fuente del episodio: Hechos 8:4–9:31
+
+Enlace personal: E140 · Comunidades del Mediterráneo. Fuente del episodio: Hechos 15:36–21:16
 
 - colectivo → Cuatro hijas de Felipe. Grupo; no una sola persona ni un hijo inmediato. Fuente: Hechos 6:5; 21:8–9
 
@@ -16414,6 +16450,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E123 · Conflictos, enseñanza y Lázaro. Fuente del episodio: Lucas 9:51–19:10; Juan 7–12:11; Marcos 10:46–52
+
 - hermanos → Marta.  Fuente: Juan 11:1
 - hermanos → Lázaro.  Fuente: Juan 11:2
 
@@ -16423,6 +16461,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E123 · Conflictos, enseñanza y Lázaro. Fuente del episodio: Lucas 9:51–19:10; Juan 7–12:11; Marcos 10:46–52
+
 - hermanos → Lázaro.  Fuente: Juan 11:3
 
 ### Lázaro
@@ -16430,6 +16470,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 Su enfermedad, muerte y resurrección conectan a esta familia con el conflicto final del ministerio de Jesús (Jn 11).
+
+Enlace personal: E123 · Conflictos, enseñanza y Lázaro. Fuente del episodio: Lucas 9:51–19:10; Juan 7–12:11; Marcos 10:46–52
 
 
 ## G76 · Familias en los milagros: Naín, Jairo y el oficial
@@ -16448,6 +16490,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E120 · Los Doce, enseñanza y señales. Fuente del episodio: Mateo 5–10; 13; Marcos 3–6; Lucas 6–9
+
 - materna → Hijo único de la viuda de Naín.  Fuente: Lucas 7:12
 
 ### Hijo único de la viuda de Naín
@@ -16456,12 +16500,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Jesús interrumpe el cortejo y lo devuelve vivo a su madre (Lc 7:11–15).
 
+Enlace personal: E120 · Los Doce, enseñanza y señales. Fuente del episodio: Mateo 5–10; 13; Marcos 3–6; Lucas 6–9
+
 
 ### Jairo
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E120 · Los Doce, enseñanza y señales. Fuente del episodio: Mateo 5–10; 13; Marcos 3–6; Lucas 6–9
 
 - filiacion → Hija única de Jairo.  Fuente: Lucas 8:41–42,51
 
@@ -16471,12 +16519,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Tiene unos doce años; Jesús la devuelve a la vida y ordena darle de comer (Lc 8:42,55).
 
+Enlace personal: E120 · Los Doce, enseñanza y señales. Fuente del episodio: Mateo 5–10; 13; Marcos 3–6; Lucas 6–9
+
 
 ### Madre de la hija de Jairo (sin nombre)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E120 · Los Doce, enseñanza y señales. Fuente del episodio: Mateo 5–10; 13; Marcos 3–6; Lucas 6–9
 
 - materna → Hija única de Jairo.  Fuente: Lucas 8:41–42,51
 
@@ -16486,6 +16538,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E119 · Samaritana y anuncio del reino. Fuente del episodio: Juan 4; Lucas 4:14–5:11; Marcos 1:14–45
+
 - filiacion → Hijo del oficial (sin nombre).  Fuente: Juan 4:46–53
 
 ### Hijo del oficial (sin nombre)
@@ -16493,6 +16547,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 Sana mientras su padre habla con Jesús; el padre y su casa creen (Jn 4:50–53).
+
+Enlace personal: E119 · Samaritana y anuncio del reino. Fuente del episodio: Juan 4; Lucas 4:14–5:11; Marcos 1:14–45
 
 
 ## G77 · Ahitofel, Eliam y Betsabé: parentesco y rebelión
@@ -16511,6 +16567,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E77 · Betsabé y rebelión de Absalón. Fuente del episodio: 2 Samuel 11–20
+
 - genealogia → Eliam (padre de Betsabé).  Fuente: 2 Samuel 23:34; 11:3
 
 ### Eliam (padre de Betsabé)
@@ -16527,12 +16585,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E77 · Betsabé y rebelión de Absalón. Fuente del episodio: 2 Samuel 11–20
+
 
 ### Urías el heteo
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E77 · Betsabé y rebelión de Absalón. Fuente del episodio: 2 Samuel 11–20
 
 - union → Betsabé / Bat-súa.  Fuente: 2 Samuel 11:3
 
@@ -16568,6 +16630,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E81 · Roboam y Jeroboam I. Fuente del episodio: 1 Reyes 12–14; 2 Crónicas 10–12
+
 
 ### Isaí
 
@@ -16591,12 +16655,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E81 · Roboam y Jeroboam I. Fuente del episodio: 1 Reyes 12–14; 2 Crónicas 10–12
+
 
 ### Roboam
 
 Cronología generacional no determinada; ubicación esquemática.
 
 2 Cr 11:21 registra 18 esposas y 60 concubinas, además de 28 hijos y 60 hijas. Los totales incluyen a las personas nombradas; no son cantidades adicionales.
+
+Enlace personal: E81 · Roboam y Jeroboam I. Fuente del episodio: 1 Reyes 12–14; 2 Crónicas 10–12
 
 - union → Mahalat (esposa de Roboam).  Fuente: 2 Crónicas 11:18
 - discutida → Abihail (casa de Roboam). La sintaxis de la lista afecta la relación de Abihail con Mahalat y la maternidad de los hijos; no se elige una solución. Fuente: 2 Crónicas 11:18–19
@@ -16617,6 +16685,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E81 · Roboam y Jeroboam I. Fuente del episodio: 1 Reyes 12–14; 2 Crónicas 10–12
+
 
 ### Semarías
 
@@ -16624,12 +16694,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E81 · Roboam y Jeroboam I. Fuente del episodio: 1 Reyes 12–14; 2 Crónicas 10–12
+
 
 ### Zaham
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E81 · Roboam y Jeroboam I. Fuente del episodio: 1 Reyes 12–14; 2 Crónicas 10–12
 
 
 ### Absalón
@@ -16646,6 +16720,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E81 · Roboam y Jeroboam I. Fuente del episodio: 1 Reyes 12–14; 2 Crónicas 10–12
+
 - materna → Abías (rey de Judá).  Fuente: 2 Crónicas 11:20
 - materna → Atai (hijo de Roboam).  Fuente: 2 Crónicas 11:20
 - materna → Ziza (hijo de Roboam).  Fuente: 2 Crónicas 11:20
@@ -16658,12 +16734,18 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E81 · Roboam y Jeroboam I. Fuente del episodio: 1 Reyes 12–14; 2 Crónicas 10–12
+
+Enlace personal: E82 · Asa y ascenso de la casa de Omri. Fuente del episodio: 1 Reyes 15–16; 2 Crónicas 13–16
+
 
 ### Atai (hijo de Roboam)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E81 · Roboam y Jeroboam I. Fuente del episodio: 1 Reyes 12–14; 2 Crónicas 10–12
 
 
 ### Ziza (hijo de Roboam)
@@ -16672,12 +16754,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E81 · Roboam y Jeroboam I. Fuente del episodio: 1 Reyes 12–14; 2 Crónicas 10–12
+
 
 ### Selomit (hijo de Roboam)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E81 · Roboam y Jeroboam I. Fuente del episodio: 1 Reyes 12–14; 2 Crónicas 10–12
 
 
 ### Uriel de Gabaa
@@ -16702,12 +16788,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Grupo sin nombres individuales; no una persona adicional a sus integrantes.
 
+Enlace personal: E81 · Roboam y Jeroboam I. Fuente del episodio: 1 Reyes 12–14; 2 Crónicas 10–12
+
 
 ### 60 hijas de Roboam (total)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Grupo sin nombres individuales; no una persona adicional a sus integrantes.
+
+Enlace personal: E81 · Roboam y Jeroboam I. Fuente del episodio: 1 Reyes 12–14; 2 Crónicas 10–12
 
 
 ## G79 · Judá: madres y abuelos maternos de los reyes
@@ -16746,6 +16836,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E83 · Elías y oposición al culto de Baal. Fuente del episodio: 1 Reyes 17–22; 2 Crónicas 17–20
+
 
 ### Silhi
 
@@ -16769,6 +16861,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E85 · Jehú y restauración de Joás. Fuente del episodio: 2 Reyes 9–12; 2 Crónicas 22–24
+
 
 ### Joadán de Jerusalén
 
@@ -16783,6 +16877,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E86 · Recuperación y crisis. Fuente del episodio: 2 Reyes 13–15; 14:25; Amós 1:1; Oseas 1:1; Jonás 1–4
 
 
 ### Jecolía de Jerusalén
@@ -16799,6 +16895,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E86 · Recuperación y crisis. Fuente del episodio: 2 Reyes 13–15; 14:25; Amós 1:1; Oseas 1:1; Jonás 1–4
+
 
 ### Jerusa (madre de Jotam)
 
@@ -16813,6 +16911,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E88 · Jotam, Acaz y Ezequías. Fuente del episodio: 2 Reyes 15–20; 2 Crónicas 27–32; Isaías 7; 36–39; Miqueas 1:1
 
 
 ### Sadoc (padre de Jerusa)
@@ -16837,6 +16937,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E88 · Jotam, Acaz y Ezequías. Fuente del episodio: 2 Reyes 15–20; 2 Crónicas 27–32; Isaías 7; 36–39; Miqueas 1:1
+
 
 ### Zacarías (padre de Abi)
 
@@ -16860,6 +16962,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E89 · Manasés, Amón y Josías. Fuente del episodio: 2 Reyes 21–23; 2 Crónicas 33–35; Sofonías 1:1; Jeremías 1:1–3
+
 
 ### Mesulemet
 
@@ -16874,6 +16978,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E89 · Manasés, Amón y Josías. Fuente del episodio: 2 Reyes 21–23; 2 Crónicas 33–35; Sofonías 1:1; Jeremías 1:1–3
 
 
 ### Haruz de Jotba
@@ -16897,6 +17003,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E89 · Manasés, Amón y Josías. Fuente del episodio: 2 Reyes 21–23; 2 Crónicas 33–35; Sofonías 1:1; Jeremías 1:1–3
 
 
 ### Adaía de Boscat
@@ -16922,6 +17030,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E90 · Muerte de Josías y últimos reyes. Fuente del episodio: 2 Reyes 23:29–24:20; 2 Crónicas 35–36; Jeremías 46:2
+
 
 ### Jeremías de Libna
 
@@ -16945,6 +17055,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E90 · Muerte de Josías y últimos reyes. Fuente del episodio: 2 Reyes 23:29–24:20; 2 Crónicas 35–36; Jeremías 46:2
+
 
 ### Pedaías de Ruma
 
@@ -16960,6 +17072,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E93 · Deportación de Joaquín. Fuente del episodio: 2 Reyes 24:8–17; Crónica babilónica, British Museum 21946
+
 - materna → Joaquín / Jeconías.  Fuente: 2 Reyes 24:8
 
 ### Joaquín / Jeconías
@@ -16967,6 +17081,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E93 · Deportación de Joaquín. Fuente del episodio: 2 Reyes 24:8–17; Crónica babilónica, British Museum 21946
 
 
 ### Elnatán de Jerusalén
@@ -16982,6 +17098,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E95 · Primera destrucción de Jerusalén y del templo. Fuente del episodio: 2 Reyes 25:1–21; Jeremías 39; 52; 2 Crónicas 36; Livius, Jerusalem
 
 
 ## G80 · Josaba y Joiada: rescate de Joás y muerte de Zacarías
@@ -17007,6 +17125,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Oculta a Joás y a su nodriza durante la matanza ordenada por Atalía (2 Cr 22:11).
 
+Enlace personal: E85 · Jehú y restauración de Joás. Fuente del episodio: 2 Reyes 9–12; 2 Crónicas 22–24
+
 - union → Joiada (sacerdote).  Fuente: 2 Crónicas 22:11
 
 ### Ocozías (rey de Judá)
@@ -17014,6 +17134,8 @@ Oculta a Joás y a su nodriza durante la matanza ordenada por Atalía (2 Cr 22:1
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E85 · Jehú y restauración de Joás. Fuente del episodio: 2 Reyes 9–12; 2 Crónicas 22–24
 
 - filiacion → Joás (rey de Judá).  Fuente: 2 Crónicas 22:11
 
@@ -17023,6 +17145,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E85 · Jehú y restauración de Joás. Fuente del episodio: 2 Reyes 9–12; 2 Crónicas 22–24
+
 - filiacion → Zacarías (hijo de Joiada).  Fuente: 2 Crónicas 24:20
 
 ### Joás (rey de Judá)
@@ -17031,12 +17155,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E85 · Jehú y restauración de Joás. Fuente del episodio: 2 Reyes 9–12; 2 Crónicas 22–24
+
 
 ### Zacarías (hijo de Joiada)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Es apedreado por orden de Joás después de amonestar al pueblo (2 Cr 24:20–22).
+
+Enlace personal: E85 · Jehú y restauración de Joás. Fuente del episodio: 2 Reyes 9–12; 2 Crónicas 22–24
 
 
 ## G81 · Esdras: su genealogía sacerdotal textual
@@ -17181,6 +17309,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Escriba instruido en la ley de Moisés; sube de Babilonia bajo Artajerjes (Esd 7:1,6).
 
+Enlace personal: E105 · Esdras y decreto de Artajerjes. Fuente del episodio: Esdras 7–10; GC 326.3–327.1
+
 
 ## G82 · Isaías: Amoz, la profetisa y los hijos como señales
 
@@ -17204,6 +17334,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E88 · Jotam, Acaz y Ezequías. Fuente del episodio: 2 Reyes 15–20; 2 Crónicas 27–32; Isaías 7; 36–39; Miqueas 1:1
+
 - filiacion → Sear-jasub.  Fuente: Isaías 7:3
 - filiacion → Maher-salal-hasbaz.  Fuente: Isaías 8:3
 
@@ -17213,6 +17345,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Acompaña a Isaías al encuentro con Acaz (Is 7:3).
 
+Enlace personal: E88 · Jotam, Acaz y Ezequías. Fuente del episodio: 2 Reyes 15–20; 2 Crónicas 27–32; Isaías 7; 36–39; Miqueas 1:1
+
 
 ### Maher-salal-hasbaz
 
@@ -17220,12 +17354,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Su nacimiento y desarrollo marcan el anuncio sobre Damasco y Samaria (Is 8:1–4).
 
+Enlace personal: E88 · Jotam, Acaz y Ezequías. Fuente del episodio: 2 Reyes 15–20; 2 Crónicas 27–32; Isaías 7; 36–39; Miqueas 1:1
+
 
 ### La profetisa (Isaías 8)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E88 · Jotam, Acaz y Ezequías. Fuente del episodio: 2 Reyes 15–20; 2 Crónicas 27–32; Isaías 7; 36–39; Miqueas 1:1
 
 - materna → Maher-salal-hasbaz.  Fuente: Isaías 8:3
 
@@ -17251,6 +17389,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E94 · Jeremías y Ezequiel. Fuente del episodio: Jeremías 25–29; 32–39; Ezequiel 1–24
+
 - union → Esposa de Ezequiel (sin nombre).  Fuente: Ezequiel 24:18
 
 ### Esposa de Ezequiel (sin nombre)
@@ -17258,6 +17398,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 Muere al atardecer en el episodio del signo profético; no se inventan nombre ni descendencia (Ez 24:15–18).
+
+Enlace personal: E94 · Jeremías y Ezequiel. Fuente del episodio: Jeremías 25–29; 32–39; Ezequiel 1–24
 
 
 ## G84 · Oseas, Gomer y los hijos con nombres proféticos
@@ -17282,6 +17424,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E86 · Recuperación y crisis. Fuente del episodio: 2 Reyes 13–15; 14:25; Amós 1:1; Oseas 1:1; Jonás 1–4
+
 - union → Gomer (esposa de Oseas).  Fuente: Oseas 1:2–3
 - filiacion → Jezreel (hijo de Oseas).  Fuente: Oseas 1:3–4
 
@@ -17299,6 +17443,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E86 · Recuperación y crisis. Fuente del episodio: 2 Reyes 13–15; 14:25; Amós 1:1; Oseas 1:1; Jonás 1–4
+
 - materna → Jezreel (hijo de Oseas).  Fuente: Oseas 1:3–4
 - materna → Lo-ruhama.  Fuente: Oseas 1:6–9
 - materna → Lo-ammi.  Fuente: Oseas 1:6–9
@@ -17309,6 +17455,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E86 · Recuperación y crisis. Fuente del episodio: 2 Reyes 13–15; 14:25; Amós 1:1; Oseas 1:1; Jonás 1–4
+
 
 ### Lo-ruhama
 
@@ -17316,12 +17464,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E86 · Recuperación y crisis. Fuente del episodio: 2 Reyes 13–15; 14:25; Amós 1:1; Oseas 1:1; Jonás 1–4
+
 
 ### Lo-ammi
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E86 · Recuperación y crisis. Fuente del episodio: 2 Reyes 13–15; 14:25; Amós 1:1; Oseas 1:1; Jonás 1–4
 
 
 ## G85 · Ascendencias de Joel, Jonás, Sofonías y Zacarías
@@ -17365,6 +17517,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E86 · Recuperación y crisis. Fuente del episodio: 2 Reyes 13–15; 14:25; Amós 1:1; Oseas 1:1; Jonás 1–4
+
 
 ### Hizquías (antepasado de Sofonías)
 
@@ -17404,6 +17558,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E89 · Manasés, Amón y Josías. Fuente del episodio: 2 Reyes 21–23; 2 Crónicas 33–35; Sofonías 1:1; Jeremías 1:1–3
+
 
 ### Iddo (antepasado de Zacarías)
 
@@ -17426,6 +17582,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E103 · Reanudación y terminación del segundo templo. Fuente del episodio: Esdras 4–6; Hageo 1:1; Zacarías 1:1; Esdras 6:15
 
 
 ## G86 · Agur y Lemuel: familias de los dichos sapienciales
@@ -17497,11 +17655,15 @@ Acontecimiento relacionado: E122 · Confesión y transfiguración (Antes del via
 
 Acontecimiento relacionado: E123 · Conflictos, enseñanza y Lázaro (Camino a Jerusalén y visitas finales).
 
+Acontecimiento relacionado: E121 · Muerte del Bautista y panes (Durante el ministerio).
+
 ### Mujer sirofenicia (sin nombre)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E121 · Muerte del Bautista y panes. Fuente del episodio: Mateo 14–15; Marcos 6–8; Juan 6
 
 - materna → Hija de la mujer sirofenicia.  Fuente: Marcos 7:25–30
 
@@ -17510,6 +17672,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E121 · Muerte del Bautista y panes. Fuente del episodio: Mateo 14–15; Marcos 6–8; Juan 6
 
 
 ### Timeo
@@ -17526,12 +17690,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E123 · Conflictos, enseñanza y Lázaro. Fuente del episodio: Lucas 9:51–19:10; Juan 7–12:11; Marcos 10:46–52
+
 
 ### Padre del muchacho liberado (sin nombre)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E122 · Confesión y transfiguración. Fuente del episodio: Mateo 16–18; Marcos 8–9; Lucas 9
 
 - filiacion → Hijo único del padre suplicante.  Fuente: Lucas 9:38
 
@@ -17541,12 +17709,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E122 · Confesión y transfiguración. Fuente del episodio: Mateo 16–18; Marcos 8–9; Lucas 9
+
 
 ### Padre del ciego de nacimiento
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E123 · Conflictos, enseñanza y Lázaro. Fuente del episodio: Lucas 9:51–19:10; Juan 7–12:11; Marcos 10:46–52
 
 - filiacion → Ciego de nacimiento.  Fuente: Juan 9:18–23
 
@@ -17556,12 +17728,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E123 · Conflictos, enseñanza y Lázaro. Fuente del episodio: Lucas 9:51–19:10; Juan 7–12:11; Marcos 10:46–52
+
 
 ### Madre del ciego de nacimiento
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E123 · Conflictos, enseñanza y Lázaro. Fuente del episodio: Lucas 9:51–19:10; Juan 7–12:11; Marcos 10:46–52
 
 - materna → Ciego de nacimiento.  Fuente: Juan 9:18–23
 
@@ -17580,6 +17756,8 @@ Acontecimiento relacionado: E128 · Crucifixión y muerte (31 d. C. en GC).
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E128 · Crucifixión y muerte. Fuente del episodio: Mateo 27:32–56; Marcos 15:21–41; Lucas 23:26–49; Juan 19:17–37; GC 327.3
 
 - filiacion → Alejandro (hijo de Simón de Cirene).  Fuente: Marcos 15:21
 - filiacion → Rufo (hijo de Simón de Cirene).  Fuente: Marcos 15:21
@@ -17632,6 +17810,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E128 · Crucifixión y muerte. Fuente del episodio: Mateo 27:32–56; Marcos 15:21–41; Lucas 23:26–49; Juan 19:17–37; GC 327.3
+
 - materna → Jacobo (hijo de Zebedeo).  Fuente: Mateo 27:56; Mateo 4:21
 - materna → Juan (hijo de Zebedeo).  Fuente: Mateo 27:56; Mateo 4:21
 
@@ -17654,6 +17834,12 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E128 · Crucifixión y muerte. Fuente del episodio: Mateo 27:32–56; Marcos 15:21–41; Lucas 23:26–49; Juan 19:17–37; GC 327.3
+
+Enlace personal: E130 · Tumba y preparación de testigos. Fuente del episodio: Mateo 27:57–66; Lucas 23:50–56; Juan 19:38–42
+
+Enlace personal: E131 · Resurrección y apariciones iniciales. Fuente del episodio: Mateo 28; Marcos 16; Lucas 24; Juan 20; 1 Corintios 15:3–8
 
 - materna → Jacobo el menor.  Fuente: Marcos 15:40
 - materna → Josés (hijo de esta María).  Fuente: Marcos 15:40
@@ -17686,12 +17872,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E128 · Crucifixión y muerte. Fuente del episodio: Mateo 27:32–56; Marcos 15:21–41; Lucas 23:26–49; Juan 19:17–37; GC 327.3
+
 
 ### María (madre de Jesús)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E128 · Crucifixión y muerte. Fuente del episodio: Mateo 27:32–56; Marcos 15:21–41; Lucas 23:26–49; Juan 19:17–37; GC 327.3
 
 - hermanos → Hermana de la madre de Jesús.  Fuente: Juan 19:25
 
@@ -17701,6 +17891,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E128 · Crucifixión y muerte. Fuente del episodio: Mateo 27:32–56; Marcos 15:21–41; Lucas 23:26–49; Juan 19:17–37; GC 327.3
+
 
 ### Salomé (testigo de la crucifixión)
 
@@ -17708,12 +17900,22 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Marcos 15:40; no es la hija de Herodías.
 
+Enlace personal: E128 · Crucifixión y muerte. Fuente del episodio: Mateo 27:32–56; Marcos 15:21–41; Lucas 23:26–49; Juan 19:17–37; GC 327.3
+
+Enlace personal: E131 · Resurrección y apariciones iniciales. Fuente del episodio: Mateo 28; Marcos 16; Lucas 24; Juan 20; 1 Corintios 15:3–8
+
 
 ### María Magdalena
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Enumerada entre las testigos en las tres listas; no se le inventa parentesco con las otras mujeres.
+
+Enlace personal: E128 · Crucifixión y muerte. Fuente del episodio: Mateo 27:32–56; Marcos 15:21–41; Lucas 23:26–49; Juan 19:17–37; GC 327.3
+
+Enlace personal: E130 · Tumba y preparación de testigos. Fuente del episodio: Mateo 27:57–66; Lucas 23:50–56; Juan 19:38–42
+
+Enlace personal: E131 · Resurrección y apariciones iniciales. Fuente del episodio: Mateo 28; Marcos 16; Lucas 24; Juan 20; 1 Corintios 15:3–8
 
 
 ## G91 · Ana hija de Fanuel y Juana esposa de Chuza
