@@ -560,7 +560,7 @@ Familias, descendencias, identidades y vínculos domésticos de Génesis. Paráf
 
 Falta resolver el resto de candidatos del rastreo, las alusiones sin nombres y el contraste contextual integral de las obras. Un resultado no localizado no demuestra que un detalle no exista en todo el corpus.
 
-Control del rastreo: 344 referencias con decisión documentada; 2489 pendientes de 2833 candidatas.
+Control del rastreo: 393 referencias con decisión documentada; 2440 pendientes de 2833 candidatas.
 
 Son decisiones sobre candidatos del rastreo, no porcentaje de lectura de las obras. No incluye todas las alusiones que el filtro pudo omitir ni acredita lectura íntegra de ningún volumen.
 
@@ -795,13 +795,13 @@ Capítulos: 16, 17, 21 · Fichas: G08, G444, G446
 
 Biblia: Génesis 16:1–16; 17:18–21; 21:9–14
 
-Elena G. White: PP 145.1; PP 145.2; PP 146.1; PP 147.1; DG 27.1; DG 27.2; DG 28.1; DG 28.2
+Elena G. White: PP 145.1; PP 145.2; PP 146.1; PP 147.1; DG 27.1; DG 27.2; DG 28.1; DG 28.2; SR 77.2; SR 77.3; SR 78.1; SR 79.2; SR 80.2
 
 White describe a Agar como esposa secundaria y madre de Ismael, y critica la poligamia y la desconfianza que condujeron a esa unión. Distingue a Isaac como hijo de la promesa.
 
-Su valoración de Sara como única esposa legítima en ese conflicto no elimina la unión y descendencia de Agar ni la referencia bíblica posterior a Cetura.
+Su valoración de Sara como única esposa legítima en ese conflicto no elimina la unión y descendencia de Agar ni la referencia bíblica posterior a Cetura. SR 80.2 defiende la posición matrimonial de Sara frente a Agar en ese episodio. Su valoración de Sara como única esposa legítima no elimina la unión narrada con Agar, la filiación de Ismael ni el registro posterior de Cetura en Génesis 25.
 
-Referencias paralelas o aplicaciones del mismo tema; su repetición en compilaciones no constituye una nueva persona ni una prueba independiente de parentesco.
+Referencias paralelas del mismo tema; su repetición no constituye una nueva persona ni una prueba independiente de parentesco.
 
 ## GW17 · Ismael: pluralidad de esposas en White
 
@@ -849,11 +849,13 @@ Capítulos: 22 · Fichas: G06, G447
 
 Biblia: Génesis 22:2; 21:12–13
 
-Elena G. White: 1SP 99.1; PP 148.2
+Elena G. White: 1SP 99.1; PP 148.2; SR 78.3; SR 80.4
 
 White explica la expresión único hijo en relación con Isaac como hijo de la promesa.
 
 No significa que Abraham careciera de otros hijos biológicos: Ismael y los hijos de Cetura conservan sus ramas.
+
+Referencias paralelas del mismo tema; su repetición no constituye una nueva persona ni una prueba independiente de parentesco.
 
 ## GW21 · Rebeca: parentela y consentimiento matrimonial
 
@@ -861,13 +863,13 @@ Capítulos: 24 · Fichas: G06, G448
 
 Biblia: Génesis 24:15,24,29,50–58,67; 25:20
 
-Elena G. White: PP 172.2; PP 173.1; PP 173.3; 1SP 103.1; DG 29.4; DG 30.1; DG 30.2; DG 30.4; AH 74.3
+Elena G. White: PP 172.2; PP 173.1; PP 173.3; 1SP 103.1; DG 29.4; DG 30.1; DG 30.2; DG 30.4; AH 74.3; SR 84.3; SR 85.1; SR 85.2; SR 86.1
 
 White conserva a Betuel como padre de Rebeca y sobrino de Abraham, a Labán como hermano de ella, y distingue la aceptación de la familia del consentimiento de Rebeca. Los paralelos conservan los cuarenta años de Isaac al casarse; no aportan la edad de Rebeca.
 
 No se identifica a la madre de Rebeca con Milca: Milca es su abuela paterna en la genealogía bíblica.
 
-Referencias paralelas o aplicaciones del mismo tema; su repetición en compilaciones no constituye una nueva persona ni una prueba independiente de parentesco.
+Referencias paralelas del mismo tema; su repetición no constituye una nueva persona ni una prueba independiente de parentesco.
 
 ## GW22 · El siervo de Génesis 24 identificado por White
 
@@ -887,11 +889,13 @@ Capítulos: 25, 27 · Fichas: G10, G13, G449, G451
 
 Biblia: Génesis 25:21–34; 27:1–40
 
-Elena G. White: PP 177.1; PP 177.3; PP 180.4
+Elena G. White: PP 177.1; PP 177.3; PP 180.4; SR 87.1; SR 87.2
 
 White distingue a los hermanos gemelos y explica la primogenitura como un conjunto de responsabilidades espirituales, jefatura familiar y porción doble de bienes.
 
 No se confunden prioridad de nacimiento, promesa espiritual y distribución efectiva de bienes.
+
+Referencias paralelas del mismo tema; su repetición no constituye una nueva persona ni una prueba independiente de parentesco.
 
 ## GW24 · Esposas de Esaú: sin armonización forzada
 
@@ -899,11 +903,13 @@ Capítulos: 26, 28, 36 · Fichas: G10, G449, G454
 
 Biblia: Génesis 26:34–35; 28:9; 36:2–3
 
-Elena G. White: PP 179.3
+Elena G. White: PP 179.3; SR 88.1
 
 White menciona las dos esposas de las hijas de Het y el dolor que causaron a Isaac y Rebeca.
 
 Ese pasaje no resuelve las diferencias de nombres y ascendencias entre Génesis 26, 28 y 36; las variantes siguen visibles.
+
+Referencias paralelas del mismo tema; su repetición no constituye una nueva persona ni una prueba independiente de parentesco.
 
 ## GW25 · Rebeca y Jacob: separación definitiva
 
@@ -911,11 +917,13 @@ Capítulos: 27, 28, 35 · Fichas: G06, G451, G453
 
 Biblia: Génesis 27:43–45; 35:27; 49:31
 
-Elena G. White: PP 180.3; PP 198.2; PP 237.4
+Elena G. White: PP 180.3; PP 198.2; PP 237.4; SR 89.1; SR 96.3
 
 White afirma que Rebeca no volvió a ver a Jacob después de su huida y presenta a su madre como fallecida cuando él regresa.
 
-Génesis no narra la muerte de Rebeca ni da su edad al morir. Se registra esta secuencia según White, sin añadir fecha.
+Génesis no narra la muerte de Rebeca ni da su edad al morir. Se registra esta secuencia según White, sin añadir fecha. SR 96.3 incluye la muerte de la madre en el relato de un sueño de Esaú acerca del exilio de Jacob; no proporciona un año de fallecimiento ni la edad de Rebeca.
+
+Referencias paralelas del mismo tema; su repetición no constituye una nueva persona ni una prueba independiente de parentesco.
 
 ## GW26 · Lea, Raquel y las condiciones de sus matrimonios
 
@@ -923,13 +931,13 @@ Capítulos: 29, 30, 31 · Fichas: G06, G13, G450
 
 Biblia: Génesis 29:15–30; 31:14–16,41
 
-Elena G. White: PP 188.3; PP 189.2; PP 190.1; AH 92.2
+Elena G. White: PP 188.3; PP 189.2; PP 190.1; AH 92.2; SR 89.2; SR 90.3; SR 91.3
 
 White describe la sustitución de Raquel por Lea, el servicio de Jacob por ambas y la retención de la dote por Labán. Distingue catorce años de servicio por las esposas y el resto de los veinte años por el ganado.
 
 No se retrasa el matrimonio con Raquel hasta el final de los otros siete años; se conserva el orden de Génesis 29:27–30.
 
-Referencias paralelas o aplicaciones del mismo tema; su repetición en compilaciones no constituye una nueva persona ni una prueba independiente de parentesco.
+Referencias paralelas del mismo tema; su repetición no constituye una nueva persona ni una prueba independiente de parentesco.
 
 ## GW27 · Bilha, Zilpa y el pacto de no añadir esposas
 
@@ -937,11 +945,13 @@ Capítulos: 30, 31 · Fichas: G13, G450
 
 Biblia: Génesis 30:3–13; 31:50
 
-Elena G. White: 1SP 116.3; 1SP 117.1; 3SG 127.1; SR 92.3
+Elena G. White: 1SP 116.3; 1SP 117.1; 3SG 127.1; SR 92.3; SR 92.2
 
 White relaciona la entrega de las siervas a Jacob con la rivalidad entre Lea y Raquel y describe el pacto de no tomar otras esposas.
 
 No identifica a Bilha o Zilpa como hijas de Labán; servicio doméstico y filiación son relaciones diferentes.
+
+Referencias paralelas del mismo tema; su repetición no constituye una nueva persona ni una prueba independiente de parentesco.
 
 ## GW28 · Hijos de Labán: grupo anónimo
 
@@ -949,11 +959,13 @@ Capítulos: 31 · Fichas: G450
 
 Biblia: Génesis 31:1–2
 
-Elena G. White: PP 192.4; PP 193.1
+Elena G. White: PP 192.4; PP 193.1; SR 90.1
 
 White describe la hostilidad de los hijos de Labán por el crecimiento de los bienes de Jacob.
 
 No añade nombres ni número de hijos; se mantiene el colectivo existente.
+
+Referencias paralelas del mismo tema; su repetición no constituye una nueva persona ni una prueba independiente de parentesco.
 
 ## GW29 · Dina y los hijos de Jacob
 
@@ -1081,11 +1093,13 @@ Capítulos: 37, 39 · Fichas: G13, G455, G457
 
 Biblia: Génesis 37:2–3; 39:7–9
 
-Elena G. White: Ed 52.1; Ed 52.2; Ed 52.3; CG 197.2
+Elena G. White: Ed 52.1; Ed 52.2; Ed 52.3; CG 197.2; SR 100.1
 
 White describe la enseñanza de Jacob a José sobre Betel y la lucha junto al Jaboc, y la influencia de esas lecciones durante su estancia en Egipto.
 
 Es formación paterna, no una filiación nueva. No se inventan maestros, hermanos o descendientes adicionales ni fechas para cada conversación.
+
+Referencias paralelas del mismo tema; su repetición no constituye una nueva persona ni una prueba independiente de parentesco.
 
 ## GW40 · Jacob: cuidado de los hijos durante el viaje
 
@@ -1159,11 +1173,13 @@ Capítulos: 39 · Fichas: G457
 
 Biblia: Génesis 39:7–12
 
-Elena G. White: LYL 69.1; LYL 69.2
+Elena G. White: LYL 69.1; LYL 69.2; SR 101.4
 
 En una carta, White presenta a José rechazando la invitación de la esposa de su amo y huyendo. El pasaje se utiliza como ejemplo para el destinatario de la carta.
 
 La mujer continúa identificada como esposa de Potifar, sin nombre propio. La propuesta rechazada no constituye una unión con José ni permite atribuirles descendencia. Los destinatarios modernos de la carta no se incorporan a la familia bíblica.
+
+Referencias paralelas del mismo tema; su repetición no constituye una nueva persona ni una prueba independiente de parentesco.
 
 # Familias recuperadas y relaciones cotejadas
 
