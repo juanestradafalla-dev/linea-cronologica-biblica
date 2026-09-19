@@ -12070,6 +12070,8 @@ Se distinguen los dos grupos textuales. Joel no recibe un padre inventado. Sema 
 
 Acontecimiento relacionado: E57 · Coré y confirmación sacerdotal (Peregrinación).
 
+Acontecimiento relacionado: E87 · Últimos reyes de Israel (Crisis asiria).
+
 ### Rubén
 
 Cronología generacional no determinada; ubicación esquemática.
@@ -12133,12 +12135,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Participa en la rebelión contra Moisés y Aarón; Nm 26:9–11 recuerda el juicio y distingue la supervivencia de los hijos de Coré.
 
+Enlace personal: E57 · Coré y confirmación sacerdotal. Fuente del episodio: Números 16–19
+
 
 ### Abiram
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Participa en la rebelión contra Moisés y Aarón; Nm 26:9–11 recuerda el juicio y distingue la supervivencia de los hijos de Coré.
+
+Enlace personal: E57 · Coré y confirmación sacerdotal. Fuente del episodio: Números 16–19
 
 
 ### Joel (rama de Rubén)
@@ -12203,6 +12209,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 Deportado por Tiglat-pileser (1 Cr 5:6); no se calcula fecha de nacimiento a partir del exilio.
+
+Enlace personal: E87 · Últimos reyes de Israel. Fuente del episodio: 2 Reyes 15–17
 
 
 ### Sema
@@ -12425,6 +12433,8 @@ Jefe nombrado en 1 Cr 5:12; no se establece padre inmediato.
 Cronología generacional no determinada; ubicación esquemática.
 
 Con Rubén y Gad, deportada a Halah, Habor, Hara y el río Gozán según 5:26.
+
+Enlace personal: E87 · Últimos reyes de Israel. Fuente del episodio: 2 Reyes 15–17
 
 - colectivo → Efer. Jefe de casa; pertenencia tribal, no hijo inmediato del patriarca. Fuente: 1 Crónicas 5:23–24
 - colectivo → Isi. Jefe de casa; pertenencia tribal, no hijo inmediato del patriarca. Fuente: 1 Crónicas 5:23–24
@@ -12661,6 +12671,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 43,730 censados; varones aptos para la guerra, desde veinte años (26:2).
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 - colectivo → Familia de Hanoc · Rubén. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:5–7
 - colectivo → Familia de Falú · Rubén. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:5–7
 - colectivo → Familia de Hezrón · Rubén. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:5–7
@@ -12672,12 +12684,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Familia de Falú · Rubén
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 
 ### Familia de Hezrón · Rubén
@@ -12686,6 +12702,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Familia de Carmi · Rubén
 
@@ -12693,12 +12711,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Simeón (censo de Moab)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 22,200 censados; varones aptos para la guerra, desde veinte años (26:2).
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 - colectivo → Familia de Nemuel · Simeón. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:12–14
 - colectivo → Familia de Jamín · Simeón. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:12–14
@@ -12712,12 +12734,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Familia de Jamín · Simeón
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 
 ### Familia de Jaquín · Simeón
@@ -12726,12 +12752,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Familia de Zera · Simeón
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 
 ### Familia de Saúl · Simeón
@@ -12740,12 +12770,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Gad (censo de Moab)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 40,500 censados; varones aptos para la guerra, desde veinte años (26:2).
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 - colectivo → Familia de Zefón · Gad. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:15–18
 - colectivo → Familia de Hagui · Gad. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:15–18
@@ -12761,12 +12795,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Familia de Hagui · Gad
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 
 ### Familia de Suni · Gad
@@ -12775,12 +12813,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Familia de Ozni · Gad
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 
 ### Familia de Eri · Gad
@@ -12789,12 +12831,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Familia de Arod · Gad
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 
 ### Familia de Areli · Gad
@@ -12803,12 +12849,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Judá (censo de Moab)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 76.500 censados. Hezrón y Hamul proceden de Fares (26:21); los nodos del registro no afirman que sean hijos inmediatos de Judá. Er y Onán habían muerto en Canaán.
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 - colectivo → Familia de Sela · Judá. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:19–22
 - colectivo → Familia de Fares · Judá. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:19–22
@@ -12822,12 +12872,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Familia de Fares · Judá
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 
 ### Familia de Zera · Judá
@@ -12836,12 +12890,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Familia de Hezrón · Judá
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 
 ### Familia de Hamul · Judá
@@ -12850,12 +12908,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Isacar (censo de Moab)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 64,300 censados; varones aptos para la guerra, desde veinte años (26:2).
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 - colectivo → Familia de Tola · Isacar. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:23–25
 - colectivo → Familia de Fúa · Isacar. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:23–25
@@ -12868,12 +12930,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Familia de Fúa · Isacar
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 
 ### Familia de Jasub · Isacar
@@ -12882,6 +12948,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Familia de Simrón · Isacar
 
@@ -12889,12 +12957,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Zabulón (censo de Moab)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 60,500 censados; varones aptos para la guerra, desde veinte años (26:2).
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 - colectivo → Familia de Sered · Zabulón. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:26–27
 - colectivo → Familia de Elón · Zabulón. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:26–27
@@ -12906,12 +12978,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Familia de Elón · Zabulón
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 
 ### Familia de Jahleel · Zabulón
@@ -12920,12 +12996,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Manasés (censo de Moab)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 52.700 censados. Maquir engendra a Galaad; 26:30–32 enumera las ramas bajo Galaad. Véase también G20.
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 - colectivo → Familia de Maquir · Manasés. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:29–34
 - colectivo → Familia de Galaad · Manasés. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:29–34
@@ -12942,12 +13022,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Familia de Galaad · Manasés
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 
 ### Familia de Jezer · Manasés
@@ -12956,12 +13040,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Familia de Helec · Manasés
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 
 ### Familia de Asriel · Manasés
@@ -12970,12 +13058,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Familia de Siquem · Manasés
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 
 ### Familia de Semida · Manasés
@@ -12984,6 +13076,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Familia de Hefer · Manasés
 
@@ -12991,12 +13085,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Efraín (censo de Moab)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 32.500 censados. Erán se enumera bajo Sutela (26:36).
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 - colectivo → Familia de Sutela · Efraín. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:35–37
 - colectivo → Familia de Bequer · Efraín. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:35–37
@@ -13009,12 +13107,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Familia de Bequer · Efraín
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 
 ### Familia de Tahán · Efraín
@@ -13023,6 +13125,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Familia de Erán · Efraín
 
@@ -13030,12 +13134,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Benjamín (censo de Moab)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 45.600 censados. Ard y Naamán figuran como hijos de Bela (26:40), a diferencia de la disposición de Gn 46.
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 - colectivo → Familia de Bela · Benjamín. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:38–41
 - colectivo → Familia de Asbel · Benjamín. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:38–41
@@ -13051,12 +13159,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Familia de Asbel · Benjamín
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 
 ### Familia de Ahiram · Benjamín
@@ -13065,12 +13177,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Familia de Sufam · Benjamín
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 
 ### Familia de Hufam · Benjamín
@@ -13079,12 +13195,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Familia de Ard · Benjamín
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 
 ### Familia de Naamán · Benjamín
@@ -13093,12 +13213,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Dan (censo de Moab)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 64,400 censados; varones aptos para la guerra, desde veinte años (26:2).
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 - colectivo → Familia de Suham · Dan. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:42–43
 
@@ -13108,12 +13232,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Aser (censo de Moab)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 53.400 censados. Heber y Malquiel bajo Bería; Sera aparece como hija de Aser (26:45–46).
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 - colectivo → Familia de Imna · Aser. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:44–47
 - colectivo → Familia de Isúi · Aser. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:44–47
@@ -13127,12 +13255,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Familia de Isúi · Aser
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 
 ### Familia de Bería · Aser
@@ -13141,12 +13273,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Familia de Heber · Aser
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 
 ### Familia de Malquiel · Aser
@@ -13155,12 +13291,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Neftalí (censo de Moab)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 45,400 censados; varones aptos para la guerra, desde veinte años (26:2).
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 - colectivo → Familia de Jahzeel · Neftalí. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:48–50
 - colectivo → Familia de Guni · Neftalí. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:48–50
@@ -13173,12 +13313,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Familia de Guni · Neftalí
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 
 ### Familia de Jezer · Neftalí
@@ -13187,12 +13331,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Familia de Silem · Neftalí
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 
 ### Gersonitas
@@ -13201,12 +13349,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Leví (censo separado)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 23.000 varones desde un mes; no sumarlos al censo militar de 601.730 (26:51,62).
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 - colectivo → Gersonitas. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:57–62
 - colectivo → Coatitas. Grupo; no una sola persona ni un hijo inmediato. Fuente: Números 26:57–62
@@ -13223,12 +13375,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Meraritas
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 
 ### Libnitas
@@ -13237,12 +13393,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Hebronitas
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 
 ### Mahlitas
@@ -13251,6 +13411,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Musitas
 
@@ -13258,12 +13420,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
+
 
 ### Corahítas
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 
 ## G59 · Safán: reforma, protección de Jeremías y Gedalías
@@ -13279,6 +13445,8 @@ Elena G. White — PK 460.2 · Prophets and Kings, cap. 37: White relata el nomb
 Acontecimiento relacionado: E94 · Jeremías y Ezequiel (Exilio y últimos años de Judá).
 
 Acontecimiento relacionado: E96 · Gedalías y huida a Egipto (Después de la destrucción).
+
+Acontecimiento relacionado: E89 · Manasés, Amón y Josías (Después de Ezequías).
 
 ### Mesulam (abuelo de Safán)
 
@@ -13302,6 +13470,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Lee el libro de la ley ante Josías durante la reforma (2 R 22).
 
+Enlace personal: E89 · Manasés, Amón y Josías. Fuente del episodio: 2 Reyes 21–23; 2 Crónicas 33–35; Sofonías 1:1; Jeremías 1:1–3
+
 - filiacion → Ahicam.  Fuente: Jeremías 26:24
 - filiacion → Elasa.  Fuente: Jeremías 29:3
 - filiacion → Gemarías (hijo de Safán).  Fuente: Jeremías 36:10
@@ -13313,6 +13483,10 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Protege a Jeremías frente a la ejecución (Jer 26:24).
 
+Enlace personal: E89 · Manasés, Amón y Josías. Fuente del episodio: 2 Reyes 21–23; 2 Crónicas 33–35; Sofonías 1:1; Jeremías 1:1–3
+
+Enlace personal: E94 · Jeremías y Ezequiel. Fuente del episodio: Jeremías 25–29; 32–39; Ezequiel 1–24
+
 - filiacion → Gedalías (gobernador).  Fuente: Jeremías 40:5
 
 ### Elasa
@@ -13321,12 +13495,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Lleva la carta de Jeremías a los deportados junto con Gemarías hijo de Hilcías (Jer 29:3).
 
+Enlace personal: E94 · Jeremías y Ezequiel. Fuente del episodio: Jeremías 25–29; 32–39; Ezequiel 1–24
+
 
 ### Gemarías (hijo de Safán)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 En su cámara se lee el rollo; pide a Joacim que no lo queme (Jer 36:10,25).
+
+Enlace personal: E94 · Jeremías y Ezequiel. Fuente del episodio: Jeremías 25–29; 32–39; Ezequiel 1–24
 
 - filiacion → Micaías (nieto de Safán).  Fuente: Jeremías 36:11
 
@@ -13336,6 +13514,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Aparece entre los setenta ancianos en la visión de las prácticas idolátricas de Jerusalén (Ez 8:11). No se identifica con el recabita.
 
+Enlace personal: E94 · Jeremías y Ezequiel. Fuente del episodio: Jeremías 25–29; 32–39; Ezequiel 1–24
+
 
 ### Micaías (nieto de Safán)
 
@@ -13343,12 +13523,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Oye a Baruc e informa a los príncipes (Jer 36:11–13).
 
+Enlace personal: E94 · Jeremías y Ezequiel. Fuente del episodio: Jeremías 25–29; 32–39; Ezequiel 1–24
+
 
 ### Gedalías (gobernador)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Nombrado sobre el remanente; asesinado por Ismael hijo de Netanías. No es Gedalías hijo de Jedutún.
+
+Enlace personal: E96 · Gedalías y huida a Egipto. Fuente del episodio: 2 Reyes 25:22–26; Jeremías 40–44
 
 
 ## G60 · Baruc, Seraías y los parientes de Jeremías
@@ -13384,6 +13568,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Escriba que registra y lee las palabras de Jeremías; vuelve a escribir el rollo destruido por Joacim (Jer 36:4,32).
 
+Enlace personal: E94 · Jeremías y Ezequiel. Fuente del episodio: Jeremías 25–29; 32–39; Ezequiel 1–24
+
 
 ### Seraías (hijo de Nerías)
 
@@ -13406,6 +13592,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E94 · Jeremías y Ezequiel. Fuente del episodio: Jeremías 25–29; 32–39; Ezequiel 1–24
+
 
 ### Salum (tío de Jeremías)
 
@@ -13422,6 +13610,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Vende a Jeremías el campo de Anatot; Baruc recibe el documento de compra (Jer 32:7–12).
 
+Enlace personal: E94 · Jeremías y Ezequiel. Fuente del episodio: Jeremías 25–29; 32–39; Ezequiel 1–24
+
 
 ## G61 · Casas de escribas, Hulda y dirigentes del remanente
 
@@ -13432,6 +13622,8 @@ Ramas pequeñas conservadas aunque no se conozcan sus eslabones posteriores. Hul
 Acontecimiento relacionado: E94 · Jeremías y Ezequiel (Exilio y últimos años de Judá).
 
 Acontecimiento relacionado: E96 · Gedalías y huida a Egipto (Después de la destrucción).
+
+Acontecimiento relacionado: E89 · Manasés, Amón y Josías (Después de Ezequías).
 
 ### Harhas
 
@@ -13463,6 +13655,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Profetisa consultada tras el hallazgo del libro de la ley (2 R 22:14–20).
 
+Enlace personal: E89 · Manasés, Amón y Josías. Fuente del episodio: 2 Reyes 21–23; 2 Crónicas 33–35; Sofonías 1:1; Jeremías 1:1–3
+
 
 ### Micaías (padre de Acbor)
 
@@ -13478,6 +13672,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E89 · Manasés, Amón y Josías. Fuente del episodio: 2 Reyes 21–23; 2 Crónicas 33–35; Sofonías 1:1; Jeremías 1:1–3
+
 - genealogia → Elnatán.  Fuente: 2 Reyes 22:12; Jeremías 36:12
 
 ### Elnatán
@@ -13485,6 +13681,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E94 · Jeremías y Ezequiel. Fuente del episodio: Jeremías 25–29; 32–39; Ezequiel 1–24
 
 
 ### Cusi
@@ -13517,6 +13715,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E94 · Jeremías y Ezequiel. Fuente del episodio: Jeremías 25–29; 32–39; Ezequiel 1–24
+
 
 ### Elisama (antepasado de Ismael)
 
@@ -13540,6 +13740,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E96 · Gedalías y huida a Egipto. Fuente del episodio: 2 Reyes 25:22–26; Jeremías 40–44
+
 
 ### Hilcías (padre de Gemarías)
 
@@ -13554,6 +13756,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E94 · Jeremías y Ezequiel. Fuente del episodio: Jeremías 25–29; 32–39; Ezequiel 1–24
 
 
 ### Semaías (padre de Delaías)
@@ -13570,6 +13774,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E94 · Jeremías y Ezequiel. Fuente del episodio: Jeremías 25–29; 32–39; Ezequiel 1–24
+
 
 ### Hananías (padre de Sedequías)
 
@@ -13584,6 +13790,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E94 · Jeremías y Ezequiel. Fuente del episodio: Jeremías 25–29; 32–39; Ezequiel 1–24
 
 
 ### Azriel (padre de Seraías)
@@ -13600,6 +13808,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E94 · Jeremías y Ezequiel. Fuente del episodio: Jeremías 25–29; 32–39; Ezequiel 1–24
+
 
 ### Abdeel
 
@@ -13614,6 +13824,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E94 · Jeremías y Ezequiel. Fuente del episodio: Jeremías 25–29; 32–39; Ezequiel 1–24
 
 
 ### Carea
@@ -13631,12 +13843,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E96 · Gedalías y huida a Egipto. Fuente del episodio: 2 Reyes 25:22–26; Jeremías 40–44
+
 
 ### Jonatán (hijo de Carea)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E96 · Gedalías y huida a Egipto. Fuente del episodio: 2 Reyes 25:22–26; Jeremías 40–44
 
 
 ### Tanhumet
@@ -13653,6 +13869,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E96 · Gedalías y huida a Egipto. Fuente del episodio: 2 Reyes 25:22–26; Jeremías 40–44
+
 
 ## G62 · Recabitas: Jonadab y la continuidad de su casa
 
@@ -13663,6 +13881,8 @@ Entre Jonadab y los recabitas de Jeremías hay generaciones no enumeradas. La ob
 Elena G. White — PK 423.2–424.1 · Prophets and Kings, cap. 34: White contrasta la fidelidad de los recabitas a la orden de su antepasado con la desobediencia de Judá a las advertencias divinas.
 
 Acontecimiento relacionado: E94 · Jeremías y Ezequiel (Exilio y últimos años de Judá).
+
+Acontecimiento relacionado: E85 · Jehú y restauración de Joás (Cambios dinásticos).
 
 ### Recab (padre de Jonadab)
 
@@ -13678,6 +13898,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Se encuentra con Jehú y participa en su campaña contra el culto a Baal (2 R 10:15–23).
 
+Enlace personal: E85 · Jehú y restauración de Joás. Fuente del episodio: 2 Reyes 9–12; 2 Crónicas 22–24
+
 - descendencia → Casa de los recabitas. Descendencia colectiva con generaciones intermedias no enumeradas. Fuente: Jeremías 35:6–10
 
 ### Casa de los recabitas
@@ -13685,6 +13907,8 @@ Se encuentra con Jehú y participa en su campaña contra el culto a Baal (2 R 10
 Cronología generacional no determinada; ubicación esquemática.
 
 Incluye esposas, hijos e hijas. Entran en Jerusalén ante la amenaza caldea; mantienen la norma de su antepasado (Jer 35:8–11).
+
+Enlace personal: E94 · Jeremías y Ezequiel. Fuente del episodio: Jeremías 25–29; 32–39; Ezequiel 1–24
 
 - colectivo → Jaazanías (recabita). Pertenencia a la casa; no se identifican los padres intermedios desde Jonadab. Fuente: Jeremías 35:2–3
 
@@ -13710,6 +13934,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E94 · Jeremías y Ezequiel. Fuente del episodio: Jeremías 25–29; 32–39; Ezequiel 1–24
+
 - colectivo → Hijos de Jaazanías. Grupo; no una sola persona ni un hijo inmediato. Fuente: 2 Reyes 10:15–23; Jeremías 35; 1 Crónicas 2:55
 - hermanos → Hermanos de Jaazanías. Grupo sin nombres; no generación posterior. Fuente: Jeremías 35:3
 
@@ -13719,12 +13945,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Presentes en la prueba del vino; sin nombres ni número (35:3).
 
+Enlace personal: E94 · Jeremías y Ezequiel. Fuente del episodio: Jeremías 25–29; 32–39; Ezequiel 1–24
+
 
 ### Hermanos de Jaazanías
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E94 · Jeremías y Ezequiel. Fuente del episodio: Jeremías 25–29; 32–39; Ezequiel 1–24
 
 
 ## G63 · Retorno: casas y poblaciones de Esdras 2 y Nehemías 7
@@ -13741,12 +13971,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 2172. Nehemías 7: 2172. No son hijos inmediatos de una sola persona.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Registro del primer retorno
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Ambos registros dan una congregación de 42.360, además de 7.337 siervos y siervas. Los cantores/cantoras adicionales son 200 en Esd 2:65 y 245 en Neh 7:67. No se iguala la suma de partidas al total mediante personas inventadas.
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 - colectivo → Paros (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
 - colectivo → Sefatías (casa o población). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:1–35; Nehemías 7:5–38
@@ -13787,12 +14021,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 372. Nehemías 7: 372. No son hijos inmediatos de una sola persona.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Ara (casa o población)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 775. Nehemías 7: 652. No son hijos inmediatos de una sola persona.
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 
 ### Pahat-moab: casas de Jesúa y Joab (casa o población)
@@ -13801,12 +14039,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 2812. Nehemías 7: 2818. No son hijos inmediatos de una sola persona.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Elam (casa o población)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 1254. Nehemías 7: 1254. No son hijos inmediatos de una sola persona.
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 
 ### Zatu (casa o población)
@@ -13815,12 +14057,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 945. Nehemías 7: 845. No son hijos inmediatos de una sola persona.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Zacai (casa o población)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 760. Nehemías 7: 760. No son hijos inmediatos de una sola persona.
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 
 ### Bani / Binúi (comparación) (casa o población)
@@ -13829,12 +14075,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 642. Nehemías 7: 648. No son hijos inmediatos de una sola persona.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Bebai (casa o población)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 623. Nehemías 7: 628. No son hijos inmediatos de una sola persona.
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 
 ### Azgad (casa o población)
@@ -13843,12 +14093,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 1222. Nehemías 7: 2322. No son hijos inmediatos de una sola persona.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Adonicam (casa o población)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 666. Nehemías 7: 667. No son hijos inmediatos de una sola persona.
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 
 ### Bigvai (casa o población)
@@ -13857,12 +14111,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 2056. Nehemías 7: 2067. No son hijos inmediatos de una sola persona.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Adín (casa o población)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 454. Nehemías 7: 655. No son hijos inmediatos de una sola persona.
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 
 ### Ater de Ezequías (casa o población)
@@ -13871,12 +14129,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 98. Nehemías 7: 98. No son hijos inmediatos de una sola persona.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Bezai (casa o población)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 323. Nehemías 7: 324. No son hijos inmediatos de una sola persona.
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 
 ### Jora / Harif (comparación) (casa o población)
@@ -13885,12 +14147,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 112. Nehemías 7: 112. No son hijos inmediatos de una sola persona.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Hasum (casa o población)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 223. Nehemías 7: 328. No son hijos inmediatos de una sola persona.
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 
 ### Gibar / Gabaón (comparación) (casa o población)
@@ -13899,12 +14165,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 95. Nehemías 7: 95. No son hijos inmediatos de una sola persona.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Belén y Netofa (casa o población)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Esdras distingue Belén: 123 y Netofa: 56 (2:21–22); se conserva la suma 179 solo para comparar con la entrada conjunta de 188 en Neh 7:26.
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 
 ### Anatot (casa o población)
@@ -13913,12 +14183,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 128. Nehemías 7: 128. No son hijos inmediatos de una sola persona.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Azmavet / Bet-azmavet (casa o población)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 42. Nehemías 7: 42. No son hijos inmediatos de una sola persona.
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 
 ### Quiriat-jearim, Cefira y Beerot (casa o población)
@@ -13927,12 +14201,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 743. Nehemías 7: 743. No son hijos inmediatos de una sola persona.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Ramá y Geba (casa o población)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 621. Nehemías 7: 621. No son hijos inmediatos de una sola persona.
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 
 ### Micmas (casa o población)
@@ -13941,12 +14219,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 122. Nehemías 7: 122. No son hijos inmediatos de una sola persona.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Betel y Hai (casa o población)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 223. Nehemías 7: 123. No son hijos inmediatos de una sola persona.
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 
 ### Nebo / el otro Nebo (casa o población)
@@ -13955,12 +14237,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 52. Nehemías 7: 52. No son hijos inmediatos de una sola persona.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Magbis (casa o población)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 156. Nehemías 7: sin entrada homóloga explícita. No son hijos inmediatos de una sola persona.
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 
 ### El otro Elam (casa o población)
@@ -13969,12 +14255,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 1254. Nehemías 7: 1254. No son hijos inmediatos de una sola persona.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Harim (laicos) (casa o población)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 320. Nehemías 7: 320. No son hijos inmediatos de una sola persona.
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 
 ### Lod, Hadid y Ono (casa o población)
@@ -13983,6 +14273,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 725. Nehemías 7: 721. No son hijos inmediatos de una sola persona.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Jericó (casa o población)
 
@@ -13990,12 +14282,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 345. Nehemías 7: 345. No son hijos inmediatos de una sola persona.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Senaa (casa o población)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Esdras 2: 3630. Nehemías 7: 3930. No son hijos inmediatos de una sola persona.
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 
 ## G64 · Retorno: sacerdotes, levitas, cantores y porteros
@@ -14014,12 +14310,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 973 en ambos registros.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Sacerdotes del retorno
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 - colectivo → Casa de Jedaías, casa de Jesúa. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:36–42; Nehemías 7:39–45
 - colectivo → Casa de Immer. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:36–42; Nehemías 7:39–45
@@ -14032,12 +14332,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 1052 en ambos registros.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Casa de Pasur
 
 Cronología generacional no determinada; ubicación esquemática.
 
 1247 en ambos registros.
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 
 ### Casa de Harim (sacerdotes)
@@ -14046,6 +14350,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 1017 en ambos registros.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Casas de Jesúa y Cadmiel
 
@@ -14053,12 +14359,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 74 en ambos registros; Hodavías en Esd 2:40 y Hodeva en Neh 7:43 KJV.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Levitas del retorno
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 - colectivo → Casas de Jesúa y Cadmiel. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:36–42; Nehemías 7:39–45
 
@@ -14068,12 +14378,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 128 en Esd 2:41; 148 en Neh 7:44. No son hijos inmediatos del cantor de David.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Cantores del retorno
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 - colectivo → Hijos de Asaf (retorno). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:36–42; Nehemías 7:39–45
 
@@ -14083,12 +14397,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Total conjunto: 139 en Esd 2:42; 138 en Neh 7:45. Sin cifra individual por casa.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Porteros del retorno
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 - colectivo → Casa de Salum (porteros). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:36–42; Nehemías 7:39–45
 - colectivo → Casa de Ater (porteros). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:36–42; Nehemías 7:39–45
@@ -14103,12 +14421,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Total conjunto: 139 en Esd 2:42; 138 en Neh 7:45. Sin cifra individual por casa.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Casa de Talmón (porteros)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Total conjunto: 139 en Esd 2:42; 138 en Neh 7:45. Sin cifra individual por casa.
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 
 ### Casa de Acub (porteros)
@@ -14117,6 +14439,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Total conjunto: 139 en Esd 2:42; 138 en Neh 7:45. Sin cifra individual por casa.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Casa de Hatita (porteros)
 
@@ -14124,12 +14448,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Total conjunto: 139 en Esd 2:42; 138 en Neh 7:45. Sin cifra individual por casa.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Casa de Sobai (porteros)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Total conjunto: 139 en Esd 2:42; 138 en Neh 7:45. Sin cifra individual por casa.
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 
 ## G65 · Retorno: netineos y descendientes de siervos de Salomón
@@ -14152,6 +14480,8 @@ Casa de netineos; comparación de los registros.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 - colectivo → Ziha. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
 - colectivo → Hasupha / Hashupha. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
@@ -14440,6 +14770,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 - colectivo → Sotai. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
 - colectivo → Sophereth. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
 - colectivo → Peruda / Perida. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:43–58; Nehemías 7:46–60
@@ -14535,6 +14867,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 - colectivo → Delaía. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:59–63; Nehemías 7:61–65
 - colectivo → Tobías. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:59–63; Nehemías 7:61–65
 - colectivo → Nekoda (sin registro). Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:59–63; Nehemías 7:61–65
@@ -14565,6 +14899,8 @@ Excluidos del ejercicio sacerdotal mientras no se resolviera su condición; Esd 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 - colectivo → Habaía. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:59–63; Nehemías 7:61–65
 - colectivo → Cos. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 2:59–63; Nehemías 7:61–65
@@ -14632,6 +14968,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E105 · Esdras y decreto de Artajerjes. Fuente del episodio: Esdras 7–10; GC 326.3–327.1
+
 
 ### Itamar
 
@@ -14646,6 +14984,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E105 · Esdras y decreto de Artajerjes. Fuente del episodio: Esdras 7–10; GC 326.3–327.1
 
 
 ### David
@@ -14662,6 +15002,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E105 · Esdras y decreto de Artajerjes. Fuente del episodio: Esdras 7–10; GC 326.3–327.1
+
 
 ### Casa de Paros
 
@@ -14677,6 +15019,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 150 varones. La mención de Secanías en 8:3 KJV requiere cautela de puntuación; no se inventa su paternidad inmediata.
 
+Enlace personal: E105 · Esdras y decreto de Artajerjes. Fuente del episodio: Esdras 7–10; GC 326.3–327.1
+
 
 ### Casa de Pahat-moab
 
@@ -14691,6 +15035,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 Con él: 200 varones según Esd 8:4; no implica 200 hijos propios.
+
+Enlace personal: E105 · Esdras y decreto de Artajerjes. Fuente del episodio: Esdras 7–10; GC 326.3–327.1
 
 
 ### Zeraías
@@ -14715,6 +15061,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Con él: 300 varones según Esd 8:5; no implica 300 hijos propios.
 
+Enlace personal: E105 · Esdras y decreto de Artajerjes. Fuente del episodio: Esdras 7–10; GC 326.3–327.1
+
 
 ### Jahaziel
 
@@ -14737,6 +15085,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 Con él: 50 varones según Esd 8:6; no implica 50 hijos propios.
+
+Enlace personal: E105 · Esdras y decreto de Artajerjes. Fuente del episodio: Esdras 7–10; GC 326.3–327.1
 
 
 ### Jonatán (padre de Ebed)
@@ -14761,6 +15111,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Con él: 70 varones según Esd 8:7; no implica 70 hijos propios.
 
+Enlace personal: E105 · Esdras y decreto de Artajerjes. Fuente del episodio: Esdras 7–10; GC 326.3–327.1
+
 
 ### Atalías
 
@@ -14783,6 +15135,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 Con él: 80 varones según Esd 8:8; no implica 80 hijos propios.
+
+Enlace personal: E105 · Esdras y decreto de Artajerjes. Fuente del episodio: Esdras 7–10; GC 326.3–327.1
 
 
 ### Micael (padre de Zebadías)
@@ -14807,6 +15161,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Con él: 218 varones según Esd 8:9; no implica 218 hijos propios.
 
+Enlace personal: E105 · Esdras y decreto de Artajerjes. Fuente del episodio: Esdras 7–10; GC 326.3–327.1
+
 
 ### Jehiel
 
@@ -14829,6 +15185,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 Con él: 160 varones según Esd 8:10; no implica 160 hijos propios.
+
+Enlace personal: E105 · Esdras y decreto de Artajerjes. Fuente del episodio: Esdras 7–10; GC 326.3–327.1
 
 
 ### Josifías
@@ -14853,6 +15211,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Con él: 28 varones según Esd 8:11; no implica 28 hijos propios.
 
+Enlace personal: E105 · Esdras y decreto de Artajerjes. Fuente del episodio: Esdras 7–10; GC 326.3–327.1
+
 
 ### Bebai (padre de Zacarías)
 
@@ -14875,6 +15235,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 Con él: 110 varones según Esd 8:12; no implica 110 hijos propios.
+
+Enlace personal: E105 · Esdras y decreto de Artajerjes. Fuente del episodio: Esdras 7–10; GC 326.3–327.1
 
 
 ### Hacatán
@@ -14901,6 +15263,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E105 · Esdras y decreto de Artajerjes. Fuente del episodio: Esdras 7–10; GC 326.3–327.1
+
 
 ### Jeiel (retornado)
 
@@ -14908,12 +15272,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E105 · Esdras y decreto de Artajerjes. Fuente del episodio: Esdras 7–10; GC 326.3–327.1
+
 
 ### Semaías (casa de Adonicam)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E105 · Esdras y decreto de Artajerjes. Fuente del episodio: Esdras 7–10; GC 326.3–327.1
 
 
 ### Casa de Bigvai
@@ -14931,12 +15299,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E105 · Esdras y decreto de Artajerjes. Fuente del episodio: Esdras 7–10; GC 326.3–327.1
+
 
 ### Zabud
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E105 · Esdras y decreto de Artajerjes. Fuente del episodio: Esdras 7–10; GC 326.3–327.1
 
 
 ### Urías (sacerdote)
@@ -14953,6 +15325,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E105 · Esdras y decreto de Artajerjes. Fuente del episodio: Esdras 7–10; GC 326.3–327.1
+
 
 ### Finés (padre de Eleazar retornado)
 
@@ -14967,6 +15341,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E105 · Esdras y decreto de Artajerjes. Fuente del episodio: Esdras 7–10; GC 326.3–327.1
 
 
 ### Jesúa (padre de Jozabad)
@@ -14983,6 +15359,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E105 · Esdras y decreto de Artajerjes. Fuente del episodio: Esdras 7–10; GC 326.3–327.1
+
 
 ### Binúi
 
@@ -14997,6 +15375,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E105 · Esdras y decreto de Artajerjes. Fuente del episodio: Esdras 7–10; GC 326.3–327.1
 
 
 ### Mahli
@@ -15013,6 +15393,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E105 · Esdras y decreto de Artajerjes. Fuente del episodio: Esdras 7–10; GC 326.3–327.1
+
 - colectivo → Hijos y hermanos de Serebías. Grupo; no una sola persona ni un hijo inmediato. Fuente: Esdras 8:1–20,33
 
 ### Hijos y hermanos de Serebías
@@ -15020,6 +15402,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 Dieciocho con él, según 8:18; no dieciocho hijos.
+
+Enlace personal: E105 · Esdras y decreto de Artajerjes. Fuente del episodio: Esdras 7–10; GC 326.3–327.1
 
 
 ### Merari
@@ -15036,12 +15420,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E105 · Esdras y decreto de Artajerjes. Fuente del episodio: Esdras 7–10; GC 326.3–327.1
+
 
 ### Hasabías (levita retornado)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Con Jesaías, hermanos e hijos: veinte (8:19).
+
+Enlace personal: E105 · Esdras y decreto de Artajerjes. Fuente del episodio: Esdras 7–10; GC 326.3–327.1
 
 
 ## G68 · Sacerdocio después del retorno: Jesúa hasta Jadúa
@@ -15068,6 +15456,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E103 · Reanudación y terminación del segundo templo. Fuente del episodio: Esdras 4–6; Hageo 1:1; Zacarías 1:1; Esdras 6:15
+
 - genealogia → Joiacim.  Fuente: Nehemías 12:10–11,26
 
 ### Joiacim
@@ -15083,6 +15473,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E107 · Lectura, pacto y reformas. Fuente del episodio: Nehemías 8–13; Malaquías 1–4
 
 - genealogia → Joiada.  Fuente: Nehemías 12:10–11,26
 - genealogia → Johanán (Neh 12:23).  Fuente: Nehemías 12:23
@@ -15125,6 +15517,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Expulsado por Nehemías; no se le asigna un nombre tomado de otra fuente sin cotejo.
 
+Enlace personal: E107 · Lectura, pacto y reformas. Fuente del episodio: Nehemías 8–13; Malaquías 1–4
+
 - union → Hija de Sanbalat (sin nombre).  Fuente: Nehemías 13:28
 
 ### Sanbalat horonita
@@ -15133,6 +15527,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E107 · Lectura, pacto y reformas. Fuente del episodio: Nehemías 8–13; Malaquías 1–4
+
 - filiacion → Hija de Sanbalat (sin nombre). Inferida del parentesco de yerno; el versículo no da su nombre. Fuente: Nehemías 13:28
 
 ### Hija de Sanbalat (sin nombre)
@@ -15140,6 +15536,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E107 · Lectura, pacto y reformas. Fuente del episodio: Nehemías 8–13; Malaquías 1–4
 
 
 ## G69 · Nehemías 12: casas sacerdotales y sus jefes
@@ -15465,12 +15863,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Conservado en la primera lista; no se fuerza una equivalencia con cada nombre de 12:12–21.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Hatús (lista de Neh 12:1–7)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Conservado en la primera lista; no se fuerza una equivalencia con cada nombre de 12:12–21.
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 
 ### Secanías (lista de Neh 12:1–7)
@@ -15479,12 +15881,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Conservado en la primera lista; no se fuerza una equivalencia con cada nombre de 12:12–21.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Rehum (lista de Neh 12:1–7)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Conservado en la primera lista; no se fuerza una equivalencia con cada nombre de 12:12–21.
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 
 ### Meremot (lista de Neh 12:1–7)
@@ -15493,12 +15899,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Conservado en la primera lista; no se fuerza una equivalencia con cada nombre de 12:12–21.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Gineto (lista de Neh 12:1–7)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Conservado en la primera lista; no se fuerza una equivalencia con cada nombre de 12:12–21.
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 
 ### Miamín (lista de Neh 12:1–7)
@@ -15507,6 +15917,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Conservado en la primera lista; no se fuerza una equivalencia con cada nombre de 12:12–21.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Maadías (lista de Neh 12:1–7)
 
@@ -15514,12 +15926,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Conservado en la primera lista; no se fuerza una equivalencia con cada nombre de 12:12–21.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Salu (lista de Neh 12:1–7)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Conservado en la primera lista; no se fuerza una equivalencia con cada nombre de 12:12–21.
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 
 ## G70 · Nehemías, los levitas y la dedicación de los muros
@@ -15531,6 +15947,8 @@ Hanani es hermano de Nehemías; no se dibuja una paternidad compartida explícit
 Acontecimiento relacionado: E106 · Nehemías y los muros (Año 20 de Artajerjes).
 
 Acontecimiento relacionado: E107 · Lectura, pacto y reformas (Comunidad restaurada).
+
+Acontecimiento relacionado: E101 · Permiso y reconstrucción inicial (Primer año de Ciro; retorno).
 
 ### Hacalías
 
@@ -15546,6 +15964,10 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E106 · Nehemías y los muros. Fuente del episodio: Nehemías 1–7; 6:15
+
+Enlace personal: E107 · Lectura, pacto y reformas. Fuente del episodio: Nehemías 8–13; Malaquías 1–4
+
 - hermanos → Hanani (hermano de Nehemías).  Fuente: Nehemías 7:2
 
 ### Hanani (hermano de Nehemías)
@@ -15553,6 +15975,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 Lleva noticias de Judá y después recibe responsabilidad sobre Jerusalén con Hananías (Neh 1:2; 7:2).
+
+Enlace personal: E106 · Nehemías y los muros. Fuente del episodio: Nehemías 1–7; 6:15
 
 
 ### Asaf (ascendencia de Neh 12)
@@ -15609,6 +16033,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E107 · Lectura, pacto y reformas. Fuente del episodio: Nehemías 8–13; Malaquías 1–4
+
 
 ### Cadmiel
 
@@ -15631,12 +16057,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Levita, cantor o portero nombrado en Neh 12:8–9,24–25; no se deduce una filiación por oficio.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Binúi
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Levita, cantor o portero nombrado en Neh 12:8–9,24–25; no se deduce una filiación por oficio.
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 
 ### Serebías
@@ -15645,12 +16075,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Levita, cantor o portero nombrado en Neh 12:8–9,24–25; no se deduce una filiación por oficio.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Judá (levita)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Levita, cantor o portero nombrado en Neh 12:8–9,24–25; no se deduce una filiación por oficio.
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 
 ### Matanías (encargado de alabanza)
@@ -15659,6 +16093,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Levita, cantor o portero nombrado en Neh 12:8–9,24–25; no se deduce una filiación por oficio.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Bacbuquías
 
@@ -15666,12 +16102,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Levita, cantor o portero nombrado en Neh 12:8–9,24–25; no se deduce una filiación por oficio.
 
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
+
 
 ### Uni
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Levita, cantor o portero nombrado en Neh 12:8–9,24–25; no se deduce una filiación por oficio.
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 
 ### Hasabías
