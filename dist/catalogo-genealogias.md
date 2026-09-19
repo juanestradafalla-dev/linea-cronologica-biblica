@@ -560,7 +560,7 @@ Familias, descendencias, identidades y vínculos domésticos de Génesis. Paráf
 
 Falta resolver el resto de candidatos del rastreo, las alusiones sin nombres y el contraste contextual integral de las obras. Un resultado no localizado no demuestra que un detalle no exista en todo el corpus.
 
-Control del rastreo: 296 referencias con decisión documentada; 2537 pendientes de 2833 candidatas.
+Control del rastreo: 344 referencias con decisión documentada; 2489 pendientes de 2833 candidatas.
 
 Son decisiones sobre candidatos del rastreo, no porcentaje de lectura de las obras. No incluye todas las alusiones que el filtro pudo omitir ni acredita lectura íntegra de ningún volumen.
 
@@ -587,13 +587,13 @@ Capítulos: 1, 2, 3 · Fichas: G01, G436
 
 Biblia: Génesis 2:21–24
 
-Elena G. White: PP 46.2; PP 46.3; AH 25.3; AH 25.4; DG 22.3; 1MCP 159.2; LYL 11.2; LYL 11.3; TSB 13.1
+Elena G. White: PP 46.2; PP 46.3; AH 25.3; AH 25.4; DG 22.3; 1MCP 159.2; LYL 11.2; LYL 11.3; TSB 13.1; SR 20.2
 
 White presenta a Eva como compañera de Adán y el matrimonio como institución establecida por Dios. Interpreta la costilla como símbolo de igualdad, cuidado y unión.
 
 La formación de Eva no se representa como filiación biológica de Adán ni como una segunda generación.
 
-Referencias paralelas o aplicaciones del mismo tema; su repetición en compilaciones no constituye una nueva persona ni una prueba independiente de parentesco.
+Referencias paralelas del mismo tema; su repetición no constituye una nueva persona ni una prueba independiente de parentesco.
 
 ## GW02 · Caín, primogénito; Abel, hermano menor
 
@@ -601,11 +601,13 @@ Capítulos: 4 · Fichas: G01, G437
 
 Biblia: Génesis 4:1–2,8
 
-Elena G. White: PP 71.3; PP 82.2
+Elena G. White: PP 71.3; PP 82.2; SR 52.1; SR 52.2; SR 53.2; SR 54.2
 
 White llama primogénito a Caín y describe su resistencia a recibir consejo de Abel, su hermano menor.
 
-No establece el intervalo entre nacimientos ni afirma que fueran mellizos; no se asigna descendencia a Abel.
+No establece el intervalo entre nacimientos ni afirma que fueran mellizos; no se asigna descendencia a Abel. SR 54.2 presenta a Caín y Abel como representantes de dos clases espirituales; esta comparación no describe dos descendencias biológicas ni atribuye hijos a Abel.
+
+Referencias paralelas del mismo tema; su repetición no constituye una nueva persona ni una prueba independiente de parentesco.
 
 ## GW03 · Enoc de Caín y Lamec: orden de la rama
 
@@ -613,11 +615,13 @@ Capítulos: 4 · Fichas: G01, G437
 
 Biblia: Génesis 4:17–24
 
-Elena G. White: PP 81.1; 1SP 93.2
+Elena G. White: PP 81.1; 1SP 93.2; SR 75.3
 
 White identifica al hijo cuyo nombre recibió la ciudad como el mayor de Caín, y sitúa a Lamec en el quinto grado de descendencia desde Caín. Lo presenta como el primero en introducir la poligamia.
 
 Se conserva la cadena Caín–Enoc–Irad–Mehujael–Metusael–Lamec. No se confunden este Enoc y este Lamec con sus homónimos de Génesis 5.
+
+Referencias paralelas del mismo tema; su repetición no constituye una nueva persona ni una prueba independiente de parentesco.
 
 ## GW04 · Set y Enós: continuidad familiar y religiosa
 
@@ -625,11 +629,13 @@ Capítulos: 4, 5 · Fichas: G01, G02, G438
 
 Biblia: Génesis 4:25–26; 5:3–8
 
-Elena G. White: PP 80.1; PP 80.2
+Elena G. White: PP 80.1; PP 80.2; SR 57.1
 
 White explica el nombre de Set como sustitución de Abel y describe su recepción de la enseñanza sobre el Redentor; conserva a Enós como hijo de Set.
 
 La herencia espiritual no crea padres adicionales ni convierte a Set en descendiente de Abel.
+
+Referencias paralelas del mismo tema; su repetición no constituye una nueva persona ni una prueba independiente de parentesco.
 
 ## GW05 · Adán y sus generaciones: enseñanza, no filiación inmediata
 
@@ -637,11 +643,13 @@ Capítulos: 5 · Fichas: G02, G438
 
 Biblia: Génesis 5:1–32
 
-Elena G. White: PP 82.1; PP 83.1
+Elena G. White: PP 82.1; PP 83.1; SR 55.1; SR 55.3
 
 White describe a Adán enseñando a hijos y descendientes hasta la novena generación, y la convivencia de varias generaciones capaces de transmitirse conocimientos.
 
 Una relación de enseñanza o contemporaneidad no sustituye los eslabones de la genealogía ni proporciona fechas de nacimiento para los descendientes anónimos.
+
+Referencias paralelas del mismo tema; su repetición no constituye una nueva persona ni una prueba independiente de parentesco.
 
 ## GW06 · Enoc de Set: padre y esposo
 
@@ -649,13 +657,13 @@ Capítulos: 5 · Fichas: G02, G438
 
 Biblia: Génesis 5:21–24
 
-Elena G. White: PP 84.3; PP 85.1; AH 160.5
+Elena G. White: PP 84.3; PP 85.1; AH 160.5; SR 57.2
 
 White relaciona el crecimiento espiritual de Enoc con el nacimiento de su primer hijo y lo describe como esposo y padre. Génesis identifica a Matusalén en ese nacimiento a los 65 años.
 
-La esposa permanece sin nombre; no se le atribuye una ascendencia ni se inventa la identidad de los demás hijos e hijas.
+La esposa permanece sin nombre; no se le atribuye una ascendencia ni se inventa la identidad de los demás hijos e hijas. El retiro de Enoc para orar en SR 57.2 no permite deducir que careciera de esposa o hijos, ni que abandonara permanentemente a su familia.
 
-Referencias paralelas o aplicaciones del mismo tema; su repetición en compilaciones no constituye una nueva persona ni una prueba independiente de parentesco.
+Referencias paralelas del mismo tema; su repetición no constituye una nueva persona ni una prueba independiente de parentesco.
 
 ## GW07 · Descendientes de Set y de Caín: interpretación de Génesis 6
 
@@ -663,11 +671,13 @@ Capítulos: 6 · Fichas: G439
 
 Biblia: Génesis 6:1–4
 
-Elena G. White: PP 81.2
+Elena G. White: PP 81.2; SR 62.1
 
 White interpreta los matrimonios de los hijos de Dios con las hijas de los hombres como uniones entre descendientes de Set y mujeres de la descendencia de Caín.
 
 Es una identificación atribuida a White. Génesis no enumera a esas parejas; se conservan como colectivos y no como una lista de matrimonios individuales.
+
+Referencias paralelas del mismo tema; su repetición no constituye una nueva persona ni una prueba independiente de parentesco.
 
 ## GW08 · Matusalén: hijos y nietos en el entorno de Noé
 
@@ -687,11 +697,13 @@ Capítulos: 5, 7 · Fichas: G02, G438, G439
 
 Biblia: Génesis 5:25–29; 7:6
 
-Elena G. White: 1SP 70.1; 3SG 65.1; SR 63.1; FE 504.2
+Elena G. White: 1SP 70.1; 3SG 65.1; SR 63.1; FE 504.2; SR 64.2
 
 White afirma que Matusalén vivió hasta el año del diluvio. También menciona creyentes que ayudaron con el arca y murieron antes de que llegaran las aguas. FE añade que algunos carpinteros creyentes murieron antes del diluvio y que otros conversos abandonaron la fe.
 
 No especifica el día ni la causa de la muerte de Matusalén; no autoriza a afirmar que murió ahogado. Tampoco identifica nominalmente a los otros colaboradores fallecidos. La mención de carpinteros no establece que fueran todos parientes de Noé.
+
+Referencias paralelas del mismo tema; su repetición no constituye una nueva persona ni una prueba independiente de parentesco.
 
 ## GW10 · Noé y las cuatro parejas del arca
 
@@ -699,11 +711,13 @@ Capítulos: 6, 7, 8, 9 · Fichas: G439
 
 Biblia: Génesis 6:18; 7:7,13
 
-Elena G. White: 1SP 94.1; PP 107.3
+Elena G. White: 1SP 94.1; PP 107.3; SR 69.1; SR 76.1
 
 White declara que Noé tuvo una sola esposa y cuenta ocho personas en la familia preservada. El registro bíblico distingue a Noé, sus tres hijos y sus respectivas esposas.
 
 Estos pasajes no dan nombres a las cuatro mujeres; se mantiene desconocida su ascendencia.
+
+Referencias paralelas del mismo tema; su repetición no constituye una nueva persona ni una prueba independiente de parentesco.
 
 ## GW11 · Sem, Cam, Jafet y Canaán: descendencia y lectura moral
 
