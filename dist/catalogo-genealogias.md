@@ -560,7 +560,7 @@ Familias, descendencias, identidades y vínculos domésticos de Génesis. Paráf
 
 Falta resolver el resto de candidatos del rastreo, las alusiones sin nombres y el contraste contextual integral de las obras. Un resultado no localizado no demuestra que un detalle no exista en todo el corpus.
 
-Control del rastreo: 393 referencias con decisión documentada; 2440 pendientes de 2833 candidatas.
+Control del rastreo: 418 referencias con decisión documentada; 2415 pendientes de 2833 candidatas.
 
 Son decisiones sobre candidatos del rastreo, no porcentaje de lectura de las obras. No incluye todas las alusiones que el filtro pudo omitir ni acredita lectura íntegra de ningún volumen.
 
@@ -643,9 +643,9 @@ Capítulos: 5 · Fichas: G02, G438
 
 Biblia: Génesis 5:1–32
 
-Elena G. White: PP 82.1; PP 83.1; SR 55.1; SR 55.3
+Elena G. White: PP 82.1; PP 83.1; SR 55.1; SR 55.3; SR 146.1; SR 149.3
 
-White describe a Adán enseñando a hijos y descendientes hasta la novena generación, y la convivencia de varias generaciones capaces de transmitirse conocimientos.
+White describe a Adán enseñando a hijos y descendientes hasta la novena generación, y la convivencia de varias generaciones capaces de transmitirse conocimientos. SR 146.1 y 149.3 describen la transmisión de enseñanza religiosa de Adán a sus descendientes; SR 146.1 también menciona a Noé enseñando a los suyos. No enumeran nuevos eslabones familiares.
 
 Una relación de enseñanza o contemporaneidad no sustituye los eslabones de la genealogía ni proporciona fechas de nacimiento para los descendientes anónimos.
 
@@ -1180,6 +1180,18 @@ En una carta, White presenta a José rechazando la invitación de la esposa de s
 La mujer continúa identificada como esposa de Potifar, sin nombre propio. La propuesta rechazada no constituye una unión con José ni permite atribuirles descendencia. Los destinatarios modernos de la carta no se incorporan a la familia bíblica.
 
 Referencias paralelas del mismo tema; su repetición no constituye una nueva persona ni una prueba independiente de parentesco.
+
+## GW46 · José sostiene a la casa de su padre en Egipto
+
+Capítulos: 47 · Fichas: G461
+
+Biblia: Génesis 47:11–12
+
+Elena G. White: SR 104.1; SR 104.2
+
+SR 104.1 reproduce el asentamiento y la provisión de alimentos para el padre de José, sus hermanos y la casa paterna, según sus familias. SR 104.2 añade que el rey no les exigió tributo y permitió a José abastecerlos generosamente.
+
+La exención tributaria se atribuye a White: Génesis 47:11–12 describe el asentamiento y la manutención, pero no la declara expresamente. Sostener a una familia no equivale a engendrarla ni adoptarla; no se convierte a los hermanos o sobrinos de José en hijos suyos. No se deducen nombres adicionales ni se identifica al faraón.
 
 # Familias recuperadas y relaciones cotejadas
 
