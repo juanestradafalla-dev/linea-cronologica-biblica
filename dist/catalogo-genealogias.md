@@ -265,11 +265,21 @@ Fuente: Génesis 4:1–24
 
 Sin fechas de nacimiento para la rama de Caín. No enlazarla con pueblos posdiluvianos mediante una ascendencia inventada.
 
+Acontecimiento relacionado: E21 · Caín y Abel (Después de Edén).
+
+Acontecimiento relacionado: E22 · Ciudad y desarrollo de actividades (Rama de Caín).
+
+Acontecimiento relacionado: E23 · Set y línea genealógica (Adán, 130 años).
+
 ### Adán
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E21 · Caín y Abel. Fuente del episodio: Génesis 4:1–16
+
+Enlace personal: E23 · Set y línea genealógica. Fuente del episodio: Génesis 4:25–26; 5:1–20
 
 - filiacion → Caín.  Fuente: Génesis 4:1–2,25
 - filiacion → Abel.  Fuente: Génesis 4:1–2,25
@@ -281,6 +291,10 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E21 · Caín y Abel. Fuente del episodio: Génesis 4:1–16
+
+Enlace personal: E22 · Ciudad y desarrollo de actividades. Fuente del episodio: Génesis 4:17–24
+
 - genealogia → Enoc (hijo de Caín).  Fuente: Génesis 4:1–24
 
 ### Eva
@@ -288,6 +302,10 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E21 · Caín y Abel. Fuente del episodio: Génesis 4:1–16
+
+Enlace personal: E23 · Set y línea genealógica. Fuente del episodio: Génesis 4:25–26; 5:1–20
 
 - materna → Caín.  Fuente: Génesis 4:1–2,25
 - materna → Abel.  Fuente: Génesis 4:1–2,25
@@ -299,6 +317,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Muerto por Caín; no se registra descendencia.
 
+Enlace personal: E21 · Caín y Abel. Fuente del episodio: Génesis 4:1–16
+
 
 ### Set
 
@@ -306,12 +326,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E23 · Set y línea genealógica. Fuente del episodio: Génesis 4:25–26; 5:1–20
+
 
 ### Enoc (hijo de Caín)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E22 · Ciudad y desarrollo de actividades. Fuente del episodio: Génesis 4:17–24
 
 - genealogia → Irad.  Fuente: Génesis 4:1–24
 
@@ -321,6 +345,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E22 · Ciudad y desarrollo de actividades. Fuente del episodio: Génesis 4:17–24
+
 - genealogia → Mehujael.  Fuente: Génesis 4:1–24
 
 ### Mehujael
@@ -328,6 +354,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E22 · Ciudad y desarrollo de actividades. Fuente del episodio: Génesis 4:17–24
 
 - genealogia → Metusael.  Fuente: Génesis 4:1–24
 
@@ -337,6 +365,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E22 · Ciudad y desarrollo de actividades. Fuente del episodio: Génesis 4:17–24
+
 - genealogia → Lamec (rama de Caín).  Fuente: Génesis 4:1–24
 
 ### Lamec (rama de Caín)
@@ -344,6 +374,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E22 · Ciudad y desarrollo de actividades. Fuente del episodio: Génesis 4:17–24
 
 - filiacion → Jabal.  Fuente: Génesis 4:1–24
 - filiacion → Jubal.  Fuente: Génesis 4:1–24
@@ -356,12 +388,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Relacionado con tiendas y ganado; Gn 4:20.
 
+Enlace personal: E22 · Ciudad y desarrollo de actividades. Fuente del episodio: Génesis 4:17–24
+
 
 ### Ada (esposa de Lamec)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E22 · Ciudad y desarrollo de actividades. Fuente del episodio: Génesis 4:17–24
 
 - materna → Jabal.  Fuente: Génesis 4:1–24
 - materna → Jubal.  Fuente: Génesis 4:1–24
@@ -372,6 +408,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Relacionado con arpa e instrumentos; Gn 4:21.
 
+Enlace personal: E22 · Ciudad y desarrollo de actividades. Fuente del episodio: Génesis 4:17–24
+
 
 ### Tubal-caín
 
@@ -379,12 +417,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Trabajo del bronce y hierro; Gn 4:22.
 
+Enlace personal: E22 · Ciudad y desarrollo de actividades. Fuente del episodio: Génesis 4:17–24
+
 
 ### Zila
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E22 · Ciudad y desarrollo de actividades. Fuente del episodio: Génesis 4:17–24
 
 - materna → Tubal-caín.  Fuente: Génesis 4:1–24
 - materna → Naama (hija de Lamec).  Fuente: Génesis 4:1–24
@@ -395,12 +437,22 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E22 · Ciudad y desarrollo de actividades. Fuente del episodio: Génesis 4:17–24
+
 
 ## G02 · De Set a Noé: edades conservadas
 
 Fuente: Génesis 5; 7:6; 9:28–29
 
 Años relativos calculados bajo genealogía consecutiva; no fechas a. C. La posición gráfica no representa duración de vida.
+
+Acontecimiento relacionado: E23 · Set y línea genealógica (Adán, 130 años).
+
+Acontecimiento relacionado: E24 · Enoc camina con Dios (Enoc, 365 años de vida).
+
+Acontecimiento relacionado: E25 · Noé y corrupción general (Antes del diluvio).
+
+Acontecimiento relacionado: E30 · Pacto y nueva situación humana (Después del diluvio).
 
 ### Adán
 
@@ -456,6 +508,8 @@ AM relativo 622; vida registrada: 365 años. Cálculo condicionado a genealogía
 
 Dios lo tomó; no se aplica la fórmula de muerte.
 
+Enlace personal: E24 · Enoc camina con Dios. Fuente del episodio: Génesis 5:21–24; Hebreos 11:5
+
 - genealogia → Matusalén.  Fuente: Génesis 5; 7:6; 9:28–29
 
 ### Matusalén
@@ -480,6 +534,10 @@ AM relativo 1056; vida registrada: 950 años. Cálculo condicionado a genealogí
 
 
 
+Enlace personal: E25 · Noé y corrupción general. Fuente del episodio: Génesis 5:25–32; 6:1–13
+
+Enlace personal: E30 · Pacto y nueva situación humana. Fuente del episodio: Génesis 9:1–17
+
 - filiacion → Sem.  Fuente: Génesis 5:32
 - filiacion → Cam.  Fuente: Génesis 5:32
 - filiacion → Jafet.  Fuente: Génesis 5:32
@@ -490,12 +548,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E30 · Pacto y nueva situación humana. Fuente del episodio: Génesis 9:1–17
+
 
 ### Cam
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E30 · Pacto y nueva situación humana. Fuente del episodio: Génesis 9:1–17
 
 
 ### Jafet
@@ -504,12 +566,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E30 · Pacto y nueva situación humana. Fuente del episodio: Génesis 9:1–17
+
 
 ## G03 · Jafet y pueblos de su descendencia
 
 Fuente: Génesis 10:2–5; 1 Crónicas 1:5–7
 
 Tabla de pueblos: nombres personales y colectivos. Sin fecha exacta para estas generaciones; no proyectar identidades nacionales modernas sin evidencia.
+
+Acontecimiento relacionado: E32 · Naciones, Nimrod y Babel (Después del diluvio).
 
 ### Noé
 
@@ -644,6 +710,8 @@ Fuente: Génesis 10:6–20; 1 Crónicas 1:8–16
 
 Las relaciones de la tabla de pueblos no autorizan una escala racial ni equivalencias modernas automáticas.
 
+Acontecimiento relacionado: E32 · Naciones, Nimrod y Babel (Después del diluvio).
+
 ### Noé
 
 Cronología generacional no determinada; ubicación esquemática.
@@ -757,6 +825,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 Reino inicial en Babel, Erec, Acad y Calne; Gn 10:8–12. No se le atribuye una esposa no nombrada.
+
+Enlace personal: E32 · Naciones, Nimrod y Babel. Fuente del episodio: Génesis 10–11:9
 
 
 ### Seba (de Raama)
@@ -912,6 +982,10 @@ Cronología generacional no determinada; ubicación esquemática.
 Fuente: Génesis 10:21–31; 11:10–26
 
 Se conserva la genealogía de Génesis. Lucas 3:36 incluye otro Cainán entre Arfaxad y Sala; se muestra por separado en su propia rama.
+
+Acontecimiento relacionado: E32 · Naciones, Nimrod y Babel (Después del diluvio).
+
+Acontecimiento relacionado: E33 · Ascendencia de Abram (De Sem a Taré).
 
 ### Sem
 
@@ -1166,6 +1240,14 @@ Fuente: Génesis 11:26–29; 20:12; 22:20–24; 24:15,29; 29:16
 
 Nacor abuelo de Abraham y Nacor hermano de Abraham son distintos. Las cronologías de los hijos de Nacor no se conocen.
 
+Acontecimiento relacionado: E33 · Ascendencia de Abram (De Sem a Taré).
+
+Acontecimiento relacionado: E34 · Llamamiento y llegada a Canaán (Abram, 75 años).
+
+Acontecimiento relacionado: E41 · Sepultura de Sara y matrimonio (Transición a Isaac).
+
+Acontecimiento relacionado: E43 · Jacob en Harán y retorno (Veinte años vinculados a Labán).
+
 ### Taré
 
 Cronología generacional no determinada; ubicación esquemática.
@@ -1182,6 +1264,10 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E34 · Llamamiento y llegada a Canaán. Fuente del episodio: Génesis 12
+
+Enlace personal: E41 · Sepultura de Sara y matrimonio. Fuente del episodio: Génesis 23–25:11
 
 
 ### Nacor (hermano de Abraham)
@@ -1220,12 +1306,18 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E34 · Llamamiento y llegada a Canaán. Fuente del episodio: Génesis 12
+
+Enlace personal: E41 · Sepultura de Sara y matrimonio. Fuente del episodio: Génesis 23–25:11
+
 
 ### Lot
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E34 · Llamamiento y llegada a Canaán. Fuente del episodio: Génesis 12
 
 
 ### Milca
@@ -1305,6 +1397,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E41 · Sepultura de Sara y matrimonio. Fuente del episodio: Génesis 23–25:11
 
 - filiacion → Rebeca.  Fuente: Génesis 11:26–29; 20:12; 22:20–24; 24:15,29; 29:16
 - filiacion → Labán.  Fuente: Génesis 11:26–29; 20:12; 22:20–24; 24:15,29; 29:16
@@ -1391,11 +1485,19 @@ Fuente: Génesis 19:30–38; Rut 1:4; 4:13–22; 1 Reyes 14:21
 
 Los puentes hacia Rut y Naama indican pertenencia a un pueblo, no filiación inmediata. Generaciones intermedias y fechas desconocidas.
 
+Acontecimiento relacionado: E38 · Intercesión y destrucción de Sodoma (Antes del nacimiento de Isaac).
+
+Acontecimiento relacionado: E69 · Crisis tribal y familia de Rut (Durante los jueces; ubicación interna no fijada).
+
+Acontecimiento relacionado: E81 · Roboam y Jeroboam I (Ruptura).
+
 ### Lot
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E38 · Intercesión y destrucción de Sodoma. Fuente del episodio: Génesis 18–19
 
 - filiacion → Hija mayor de Lot.  Fuente: Génesis 19:30–38
 - filiacion → Hija menor de Lot.  Fuente: Génesis 19:30–38
@@ -1408,6 +1510,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E38 · Intercesión y destrucción de Sodoma. Fuente del episodio: Génesis 18–19
+
 - materna → Moab.  Fuente: Génesis 19:30–38; Rut 1:4; 4:13–22; 1 Reyes 14:21
 
 ### Hija menor de Lot
@@ -1415,6 +1519,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E38 · Intercesión y destrucción de Sodoma. Fuente del episodio: Génesis 18–19
 
 - materna → Ben-ammi.  Fuente: Génesis 19:30–38; Rut 1:4; 4:13–22; 1 Reyes 14:21
 
@@ -1424,6 +1530,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E38 · Intercesión y destrucción de Sodoma. Fuente del episodio: Génesis 18–19
+
 - colectivo → Moabitas.  Fuente: Génesis 19:30–38; Rut 1:4; 4:13–22; 1 Reyes 14:21
 
 ### Ben-ammi
@@ -1431,6 +1539,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E38 · Intercesión y destrucción de Sodoma. Fuente del episodio: Génesis 18–19
 
 - colectivo → Amonitas.  Fuente: Génesis 19:30–38; Rut 1:4; 4:13–22; 1 Reyes 14:21
 
@@ -1456,6 +1566,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 Su origen moabita conecta una rama de Lot con la familia de David y Mateo 1.
 
+Enlace personal: E69 · Crisis tribal y familia de Rut. Fuente del episodio: Jueces 17–21; Rut 1–4
+
 - materna → Obed.  Fuente: Rut 4:13–22
 
 ### Naama (madre de Roboam)
@@ -1472,6 +1584,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E69 · Crisis tribal y familia de Rut. Fuente del episodio: Jueces 17–21; Rut 1–4
+
 - filiacion → Obed.  Fuente: Rut 4:13–22
 
 ### Obed
@@ -1479,6 +1593,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E69 · Crisis tribal y familia de Rut. Fuente del episodio: Jueces 17–21; Rut 1–4
 
 - genealogia → Isaí.  Fuente: Rut 4:17–22
 
@@ -1518,11 +1634,19 @@ Fuente: Génesis 16; 21; 25:12–18; 36:3
 
 No se conocen fechas de nacimiento individuales de los doce hijos. No identificarlos automáticamente con figuras o linajes posteriores al 70 d. C.
 
+Acontecimiento relacionado: E36 · Pacto, Agar e Ismael (Antes y después de Ismael).
+
+Acontecimiento relacionado: E39 · Isaac y separación de Agar (Abraham, 100 años).
+
 ### Abraham
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E36 · Pacto, Agar e Ismael. Fuente del episodio: Génesis 15–16
+
+Enlace personal: E39 · Isaac y separación de Agar. Fuente del episodio: Génesis 20–21
 
 - filiacion → Ismael.  Fuente: Génesis 16; 21; 25:12–18; 36:3
 
@@ -1531,6 +1655,10 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E36 · Pacto, Agar e Ismael. Fuente del episodio: Génesis 15–16
+
+Enlace personal: E39 · Isaac y separación de Agar. Fuente del episodio: Génesis 20–21
 
 - filiacion → Nebaiot.  Fuente: Génesis 16; 21; 25:12–18; 36:3
 - filiacion → Cedar.  Fuente: Génesis 16; 21; 25:12–18; 36:3
@@ -1551,6 +1679,10 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E36 · Pacto, Agar e Ismael. Fuente del episodio: Génesis 15–16
+
+Enlace personal: E39 · Isaac y separación de Agar. Fuente del episodio: Génesis 20–21
 
 - materna → Ismael.  Fuente: Génesis 16; 21; 25:12–18; 36:3
 
@@ -1651,11 +1783,17 @@ Fuente: Génesis 25:1–6; 1 Crónicas 1:32–33
 
 La secuencia de nacimientos respecto a otros episodios de Abraham no está fijada aquí. Los madianitas futuros no tienen una cadena individual completa.
 
+Acontecimiento relacionado: E41 · Sepultura de Sara y matrimonio (Transición a Isaac).
+
+Acontecimiento relacionado: E49 · Madián y llamamiento (Antes del éxodo).
+
 ### Abraham
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E41 · Sepultura de Sara y matrimonio. Fuente del episodio: Génesis 23–25:11
 
 - filiacion → Zimrán.  Fuente: Génesis 25:1–6; 1 Crónicas 1:32–33
 - filiacion → Jocsán.  Fuente: Génesis 25:1–6; 1 Crónicas 1:32–33
@@ -1676,6 +1814,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E41 · Sepultura de Sara y matrimonio. Fuente del episodio: Génesis 23–25:11
 
 - materna → Zimrán.  Fuente: Génesis 25:1–6; 1 Crónicas 1:32–33
 - materna → Jocsán.  Fuente: Génesis 25:1–6; 1 Crónicas 1:32–33
@@ -1854,11 +1994,17 @@ Fuente: Génesis 36:1–19
 
 Se sigue la lista de Génesis 36. Las variantes de nombres de esposas en Gn 26:34 y 28:9 permanecen pendientes de conciliación.
 
+Acontecimiento relacionado: E42 · Esaú, Jacob y la bendición (Isaac, 60 años al nacer sus hijos).
+
+Acontecimiento relacionado: E43 · Jacob en Harán y retorno (Veinte años vinculados a Labán).
+
 ### Isaac
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E42 · Esaú, Jacob y la bendición. Fuente del episodio: Génesis 25:19–27:46
 
 - filiacion → Esaú / Edom.  Fuente: Génesis 25:19–26
 - filiacion → Jacob / Israel.  Fuente: Génesis 25:19–26
@@ -1868,6 +2014,10 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E42 · Esaú, Jacob y la bendición. Fuente del episodio: Génesis 25:19–27:46
+
+Enlace personal: E43 · Jacob en Harán y retorno. Fuente del episodio: Génesis 28–35; 31:38–41
 
 - filiacion → Elifaz (hijo de Esaú).  Fuente: Génesis 36:1–19
 - filiacion → Reuel (hijo de Esaú).  Fuente: Génesis 36:1–19
@@ -1881,6 +2031,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E42 · Esaú, Jacob y la bendición. Fuente del episodio: Génesis 25:19–27:46
+
 - materna → Esaú / Edom.  Fuente: Génesis 25:19–26
 - materna → Jacob / Israel.  Fuente: Génesis 25:19–26
 
@@ -1889,6 +2041,10 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E42 · Esaú, Jacob y la bendición. Fuente del episodio: Génesis 25:19–27:46
+
+Enlace personal: E43 · Jacob en Harán y retorno. Fuente del episodio: Génesis 28–35; 31:38–41
 
 
 ### Elifaz (hijo de Esaú)
@@ -2440,11 +2596,19 @@ Fuente: Génesis 29–30; 35:16–26; 46
 
 Orden gráfico por familias maternas; no representa automáticamente orden exacto de concepción o fecha.
 
+Acontecimiento relacionado: E43 · Jacob en Harán y retorno (Veinte años vinculados a Labán).
+
+Acontecimiento relacionado: E46 · Reconciliación y migración (Segundo año de hambre; Jacob, 130 años).
+
+Acontecimiento relacionado: E47 · Bendiciones y promesa de retorno (Final de las vidas patriarcales).
+
 ### Jacob / Israel
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E43 · Jacob en Harán y retorno. Fuente del episodio: Génesis 28–35; 31:38–41
 
 - filiacion → Rubén.  Fuente: Génesis 29–30; 35:16–26; 46
 - filiacion → Simeón.  Fuente: Génesis 29–30; 35:16–26; 46
@@ -2466,12 +2630,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E43 · Jacob en Harán y retorno. Fuente del episodio: Génesis 28–35; 31:38–41
+
 
 ### Lea
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E43 · Jacob en Harán y retorno. Fuente del episodio: Génesis 28–35; 31:38–41
 
 - materna → Rubén.  Fuente: Génesis 29–30; 35:16–26; 46
 - materna → Simeón.  Fuente: Génesis 29–30; 35:16–26; 46
@@ -2487,12 +2655,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E43 · Jacob en Harán y retorno. Fuente del episodio: Génesis 28–35; 31:38–41
+
 
 ### Leví
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E43 · Jacob en Harán y retorno. Fuente del episodio: Génesis 28–35; 31:38–41
 
 
 ### Judá
@@ -2501,12 +2673,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E43 · Jacob en Harán y retorno. Fuente del episodio: Génesis 28–35; 31:38–41
+
 
 ### Isacar
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E43 · Jacob en Harán y retorno. Fuente del episodio: Génesis 28–35; 31:38–41
 
 
 ### Zabulón
@@ -2515,12 +2691,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E43 · Jacob en Harán y retorno. Fuente del episodio: Génesis 28–35; 31:38–41
+
 
 ### Dina
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E43 · Jacob en Harán y retorno. Fuente del episodio: Génesis 28–35; 31:38–41
 
 
 ### José (patriarca)
@@ -2529,12 +2709,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E43 · Jacob en Harán y retorno. Fuente del episodio: Génesis 28–35; 31:38–41
+
 
 ### Raquel
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E43 · Jacob en Harán y retorno. Fuente del episodio: Génesis 28–35; 31:38–41
 
 - materna → José (patriarca).  Fuente: Génesis 29–30; 35:16–26; 46
 - materna → Benjamín.  Fuente: Génesis 29–30; 35:16–26; 46
@@ -2545,6 +2729,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E43 · Jacob en Harán y retorno. Fuente del episodio: Génesis 28–35; 31:38–41
+
 
 ### Dan
 
@@ -2552,12 +2738,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E43 · Jacob en Harán y retorno. Fuente del episodio: Génesis 28–35; 31:38–41
+
 
 ### Bilha
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E43 · Jacob en Harán y retorno. Fuente del episodio: Génesis 28–35; 31:38–41
 
 - materna → Dan.  Fuente: Génesis 29–30; 35:16–26; 46
 - materna → Neftalí.  Fuente: Génesis 29–30; 35:16–26; 46
@@ -2568,6 +2758,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E43 · Jacob en Harán y retorno. Fuente del episodio: Génesis 28–35; 31:38–41
+
 
 ### Gad
 
@@ -2575,12 +2767,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E43 · Jacob en Harán y retorno. Fuente del episodio: Génesis 28–35; 31:38–41
+
 
 ### Zilpa
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E43 · Jacob en Harán y retorno. Fuente del episodio: Génesis 28–35; 31:38–41
 
 - materna → Gad.  Fuente: Génesis 29–30; 35:16–26; 46
 - materna → Aser.  Fuente: Génesis 29–30; 35:16–26; 46
@@ -2591,12 +2787,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E43 · Jacob en Harán y retorno. Fuente del episodio: Génesis 28–35; 31:38–41
+
 
 ## G14 · Nietos de Jacob: listas de Génesis 46
 
 Fuente: Génesis 46:8–25
 
 Lista textual, sin edades de cada persona. Las diferencias con Números 26 y 1 Crónicas requieren cotejo; no fusionar nombres parecidos automáticamente.
+
+Acontecimiento relacionado: E46 · Reconciliación y migración (Segundo año de hambre; Jacob, 130 años).
 
 ### Rubén
 
@@ -3034,6 +3234,14 @@ Cronología generacional no determinada; ubicación esquemática.
 Fuente: Génesis 38; 46:12; 1 Crónicas 2:3–20; Josué 7:1
 
 Filiaciones y secuencias textuales; las generaciones no reciben años inventados. Caleb hijo de Hezrón no se identifica automáticamente con Caleb hijo de Jefone.
+
+Acontecimiento relacionado: E55 · Tabernáculo y sacerdocio (Año 2, mes 1, día 1).
+
+Acontecimiento relacionado: E62 · Hai, Gabaón y herencias (Campañas y reparto).
+
+Acontecimiento relacionado: E69 · Crisis tribal y familia de Rut (Durante los jueces; ubicación interna no fijada).
+
+Acontecimiento relacionado: E73 · Unción, Goliat y persecución (David antes del trono).
 
 ### Judá
 
@@ -3659,6 +3867,12 @@ Fuente: Éxodo 6:16–25; Números 26:59; 1 Crónicas 6:1–3
 
 Se conserva la estructura de parentesco del texto. Las edades no permiten por sí solas fijar cada nacimiento dentro de los 430 años.
 
+Acontecimiento relacionado: E48 · Opresión y nacimiento de Moisés (Generaciones posteriores a José).
+
+Acontecimiento relacionado: E55 · Tabernáculo y sacerdocio (Año 2, mes 1, día 1).
+
+Acontecimiento relacionado: E57 · Coré y confirmación sacerdotal (Peregrinación).
+
 ### Leví
 
 Cronología generacional no determinada; ubicación esquemática.
@@ -3719,6 +3933,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E48 · Opresión y nacimiento de Moisés. Fuente del episodio: Éxodo 1–2:10; 6:20; Números 26:59
+
 - filiacion → Aarón.  Fuente: Éxodo 6:16–25; Números 26:59; 1 Crónicas 6:1–3
 - filiacion → Moisés.  Fuente: Éxodo 6:16–25; Números 26:59; 1 Crónicas 6:1–3
 - filiacion → Miriam.  Fuente: Éxodo 6:16–25; Números 26:59; 1 Crónicas 6:1–3
@@ -3770,6 +3986,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E48 · Opresión y nacimiento de Moisés. Fuente del episodio: Éxodo 1–2:10; 6:20; Números 26:59
+
 - materna → Aarón.  Fuente: Éxodo 6:16–25; Números 26:59; 1 Crónicas 6:1–3
 - materna → Moisés.  Fuente: Éxodo 6:16–25; Números 26:59; 1 Crónicas 6:1–3
 - materna → Miriam.  Fuente: Éxodo 6:16–25; Números 26:59; 1 Crónicas 6:1–3
@@ -3779,6 +3997,12 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E48 · Opresión y nacimiento de Moisés. Fuente del episodio: Éxodo 1–2:10; 6:20; Números 26:59
+
+Enlace personal: E55 · Tabernáculo y sacerdocio. Fuente del episodio: Éxodo 35–40; 40:17; Levítico 8–10
+
+Enlace personal: E57 · Coré y confirmación sacerdotal. Fuente del episodio: Números 16–19
 
 - filiacion → Nadab (hijo de Aarón).  Fuente: Éxodo 6:16–25; Números 26:59; 1 Crónicas 6:1–3
 - filiacion → Abiú.  Fuente: Éxodo 6:16–25; Números 26:59; 1 Crónicas 6:1–3
@@ -3791,6 +4015,12 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E48 · Opresión y nacimiento de Moisés. Fuente del episodio: Éxodo 1–2:10; 6:20; Números 26:59
+
+Enlace personal: E55 · Tabernáculo y sacerdocio. Fuente del episodio: Éxodo 35–40; 40:17; Levítico 8–10
+
+Enlace personal: E57 · Coré y confirmación sacerdotal. Fuente del episodio: Números 16–19
+
 
 ### Miriam
 
@@ -3798,12 +4028,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E48 · Opresión y nacimiento de Moisés. Fuente del episodio: Éxodo 1–2:10; 6:20; Números 26:59
+
 
 ### Coré (levita)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 Rebelión de Números 16; Nm 26:11 dice que sus hijos no murieron. No cerrar su rama en el juicio de Coré.
+
+Enlace personal: E57 · Coré y confirmación sacerdotal. Fuente del episodio: Números 16–19
 
 - filiacion → Asir (hijo de Coré).  Fuente: Éxodo 6:16–25; Números 26:59; 1 Crónicas 6:1–3
 - filiacion → Elcana (hijo de Coré).  Fuente: Éxodo 6:16–25; Números 26:59; 1 Crónicas 6:1–3
@@ -3950,11 +4184,19 @@ Fuente: 1 Crónicas 6:4–15; Esdras 3:2
 
 Secuencia genealógica textual, no lista completa de años de ejercicio sacerdotal. Los nombres repetidos se mantienen distintos.
 
+Acontecimiento relacionado: E55 · Tabernáculo y sacerdocio (Año 2, mes 1, día 1).
+
+Acontecimiento relacionado: E59 · Balaam, Peor y preparación (Llanuras de Moab).
+
+Acontecimiento relacionado: E101 · Permiso y reconstrucción inicial (Primer año de Ciro; retorno).
+
 ### Aarón
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E55 · Tabernáculo y sacerdocio. Fuente del episodio: Éxodo 35–40; 40:17; Levítico 8–10
 
 - genealogia → Eleazar (sacerdote).  Fuente: 1 Crónicas 6:4–15; Esdras 3:2
 
@@ -3964,6 +4206,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E55 · Tabernáculo y sacerdocio. Fuente del episodio: Éxodo 35–40; 40:17; Levítico 8–10
+
 - genealogia → Finees (hijo de Eleazar).  Fuente: 1 Crónicas 6:4–15; Esdras 3:2
 
 ### Finees (hijo de Eleazar)
@@ -3971,6 +4215,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E59 · Balaam, Peor y preparación. Fuente del episodio: Números 22–27; 31:16
 
 - genealogia → Abisúa.  Fuente: 1 Crónicas 6:4–15; Esdras 3:2
 
@@ -4557,6 +4803,10 @@ Fuente: 1 Crónicas 7:20–27; Números 13:8,16
 
 El antecedente de algunos «su hijo» en 7:25 exige cotejo. Se evita forzar una cadena única para toda la sección.
 
+Acontecimiento relacionado: E56 · Marcha, quejas y espías (Año 2 y crisis de Cades).
+
+Acontecimiento relacionado: E61 · Jordán, Gilgal y Jericó (Entrada en Canaán).
+
 ### Efraín
 
 Cronología generacional no determinada; ubicación esquemática.
@@ -4730,11 +4980,15 @@ Fuente: Rut 1:1–5; 4:9–22
 
 Noemí cuida a Obed pero no se dibuja como su madre biológica. El pariente más cercano no es nombrado.
 
+Acontecimiento relacionado: E69 · Crisis tribal y familia de Rut (Durante los jueces; ubicación interna no fijada).
+
 ### Elimelec
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E69 · Crisis tribal y familia de Rut. Fuente del episodio: Jueces 17–21; Rut 1–4
 
 - filiacion → Mahlón.  Fuente: Rut 1:1–5; 4:9–22
 - filiacion → Quelión.  Fuente: Rut 1:1–5; 4:9–22
@@ -4745,6 +4999,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E69 · Crisis tribal y familia de Rut. Fuente del episodio: Jueces 17–21; Rut 1–4
+
 - union → Rut.  Fuente: Rut 4:10
 
 ### Noemí
@@ -4752,6 +5008,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 Cuidadora de Obed en Rut 4:16–17; no se crea un enlace materno literal.
+
+Enlace personal: E69 · Crisis tribal y familia de Rut. Fuente del episodio: Jueces 17–21; Rut 1–4
 
 - materna → Mahlón.  Fuente: Rut 1:1–5; 4:9–22
 - materna → Quelión.  Fuente: Rut 1:1–5; 4:9–22
@@ -4762,6 +5020,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E69 · Crisis tribal y familia de Rut. Fuente del episodio: Jueces 17–21; Rut 1–4
+
 - union → Orfa. Asignación por comparación: Rut es esposa de Mahlón; Orfa corresponde al otro matrimonio. Fuente: Rut 1:4; 4:10
 
 ### Rut
@@ -4769,6 +5029,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E69 · Crisis tribal y familia de Rut. Fuente del episodio: Jueces 17–21; Rut 1–4
 
 - materna → Obed.  Fuente: Rut 1:1–5; 4:9–22
 
@@ -4778,12 +5040,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E69 · Crisis tribal y familia de Rut. Fuente del episodio: Jueces 17–21; Rut 1–4
+
 
 ### Booz
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E69 · Crisis tribal y familia de Rut. Fuente del episodio: Jueces 17–21; Rut 1–4
 
 - union → Rut.  Fuente: Rut 1:1–5; 4:9–22
 - filiacion → Obed.  Fuente: Rut 1:1–5; 4:9–22
@@ -4793,6 +5059,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E69 · Crisis tribal y familia de Rut. Fuente del episodio: Jueces 17–21; Rut 1–4
 
 - genealogia → Isaí.  Fuente: Rut 1:1–5; 4:9–22
 
@@ -4829,6 +5097,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E73 · Unción, Goliat y persecución. Fuente del episodio: 1 Samuel 16–27
+
 - filiacion → Eliab (hijo de Isaí).  Fuente: 1 Crónicas 2:13–17; 2 Samuel 17:25
 - filiacion → Abinadab (hijo de Isaí).  Fuente: 1 Crónicas 2:13–17; 2 Samuel 17:25
 - filiacion → Simea (hermano de David).  Fuente: 1 Crónicas 2:13–17; 2 Samuel 17:25
@@ -4845,6 +5115,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E73 · Unción, Goliat y persecución. Fuente del episodio: 1 Samuel 16–27
+
 
 ### Abinadab (hijo de Isaí)
 
@@ -4852,12 +5124,16 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E73 · Unción, Goliat y persecución. Fuente del episodio: 1 Samuel 16–27
+
 
 ### Simea (hermano de David)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E73 · Unción, Goliat y persecución. Fuente del episodio: 1 Samuel 16–27
 
 
 ### Natanael (hijo de Isaí)
@@ -4887,6 +5163,12 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E73 · Unción, Goliat y persecución. Fuente del episodio: 1 Samuel 16–27
+
+Enlace personal: E75 · Reino de Judá y reunificación. Fuente del episodio: 2 Samuel 2–5:5
+
+Enlace personal: E77 · Betsabé y rebelión de Absalón. Fuente del episodio: 2 Samuel 11–20
+
 
 ### Sarvia
 
@@ -4912,6 +5194,10 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E75 · Reino de Judá y reunificación. Fuente del episodio: 2 Samuel 2–5:5
+
+Enlace personal: E77 · Betsabé y rebelión de Absalón. Fuente del episodio: 2 Samuel 11–20
+
 
 ### Joab
 
@@ -4919,12 +5205,18 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E75 · Reino de Judá y reunificación. Fuente del episodio: 2 Samuel 2–5:5
+
+Enlace personal: E77 · Betsabé y rebelión de Absalón. Fuente del episodio: 2 Samuel 11–20
+
 
 ### Asael
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E75 · Reino de Judá y reunificación. Fuente del episodio: 2 Samuel 2–5:5
 
 
 ### Jeter / Itra
@@ -4940,6 +5232,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E77 · Betsabé y rebelión de Absalón. Fuente del episodio: 2 Samuel 11–20
 
 
 ### Nahas (padre de Abigail según Samuel)
@@ -5009,6 +5303,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E75 · Reino de Judá y reunificación. Fuente del episodio: 2 Samuel 2–5:5
+
 
 ### Merab
 
@@ -5022,6 +5318,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 Esposa de David; 2 S 6:23 niega hijos hasta su muerte. La lectura Mical en 2 S 21:8 KJV requiere cotejo con Merab y no genera maternidad automática.
+
+Enlace personal: E75 · Reino de Judá y reunificación. Fuente del episodio: 2 Samuel 2–5:5
 
 
 ### Armoni
@@ -5267,6 +5565,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E77 · Betsabé y rebelión de Absalón. Fuente del episodio: 2 Samuel 11–20
+
 - filiacion → Amnón.  Fuente: 1 Crónicas 3:1–9; 2 Samuel 3:2–5; 5:13–16; 13–18; 1 Reyes 1
 - filiacion → Daniel / Quileab.  Fuente: 1 Crónicas 3:1–9; 2 Samuel 3:2–5; 5:13–16; 13–18; 1 Reyes 1
 - filiacion → Absalón.  Fuente: 1 Crónicas 3:1–9; 2 Samuel 3:2–5; 5:13–16; 13–18; 1 Reyes 1
@@ -5293,6 +5593,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E77 · Betsabé y rebelión de Absalón. Fuente del episodio: 2 Samuel 11–20
 
 
 ### Ahinoam de Jezreel
@@ -5323,6 +5625,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 2 S 14:27 enumera tres hijos y una hija; 18:18 recoge su declaración de no tener hijo que conserve su nombre. No se inventan muertes ni fechas para conciliar los pasajes.
+
+Enlace personal: E77 · Betsabé y rebelión de Absalón. Fuente del episodio: 2 Samuel 11–20
 
 - filiacion → Tamar (hija de Absalón).  Fuente: 2 Samuel 14:27
 - colectivo → Tres hijos de Absalón (sin nombres). Grupo sin nombres individuales; no una persona adicional a sus integrantes. Fuente: 2 Samuel 14:27
@@ -5393,6 +5697,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E77 · Betsabé y rebelión de Absalón. Fuente del episodio: 2 Samuel 11–20
+
 - materna → Simea (hijo de David).  Fuente: 1 Crónicas 3:1–9; 2 Samuel 3:2–5; 5:13–16; 13–18; 1 Reyes 1
 - materna → Sobab (hijo de David).  Fuente: 1 Crónicas 3:1–9; 2 Samuel 3:2–5; 5:13–16; 13–18; 1 Reyes 1
 - materna → Natán (hijo de David).  Fuente: 1 Crónicas 3:1–9; 2 Samuel 3:2–5; 5:13–16; 13–18; 1 Reyes 1
@@ -5417,6 +5723,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E77 · Betsabé y rebelión de Absalón. Fuente del episodio: 2 Samuel 11–20
 
 
 ### Ibhar
@@ -5517,6 +5825,30 @@ Fuente: 1 Crónicas 3:10–16; 2 Reyes 11; 24; 2 Crónicas 22:2
 
 La línea genealógica no implica que todos los reinados fueran consecutivos sin corregencias. Atalía se representa por maternidad; su usurpación no rompe la ascendencia davídica.
 
+Acontecimiento relacionado: E78 · Censo, altar y sucesión (Final de David).
+
+Acontecimiento relacionado: E79 · Sabiduría y templo (Reinado de Salomón).
+
+Acontecimiento relacionado: E81 · Roboam y Jeroboam I (Ruptura).
+
+Acontecimiento relacionado: E82 · Asa y ascenso de la casa de Omri (Primeras dinastías).
+
+Acontecimiento relacionado: E83 · Elías y oposición al culto de Baal (Acab y Josafat).
+
+Acontecimiento relacionado: E85 · Jehú y restauración de Joás (Cambios dinásticos).
+
+Acontecimiento relacionado: E86 · Recuperación y crisis (Último siglo de Israel).
+
+Acontecimiento relacionado: E88 · Jotam, Acaz y Ezequías (Judá durante y después de la crisis).
+
+Acontecimiento relacionado: E89 · Manasés, Amón y Josías (Después de Ezequías).
+
+Acontecimiento relacionado: E90 · Muerte de Josías y últimos reyes (Crisis egipcio-babilónica).
+
+Acontecimiento relacionado: E93 · Deportación de Joaquín (597 a. C., anclaje histórico).
+
+Acontecimiento relacionado: E95 · Primera destrucción de Jerusalén y del templo (Año 11 de Sedequías; 587 a. C. en Livius).
+
 ### David
 
 Cronología generacional no determinada; ubicación esquemática.
@@ -5531,6 +5863,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E79 · Sabiduría y templo. Fuente del episodio: 1 Reyes 3–10; 2 Crónicas 1–9
+
 - genealogia → Roboam.  Fuente: 1 Crónicas 3:10–16; 2 Reyes 11; 24; 2 Crónicas 22:2
 
 ### Roboam
@@ -5538,6 +5872,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E81 · Roboam y Jeroboam I. Fuente del episodio: 1 Reyes 12–14; 2 Crónicas 10–12
 
 - genealogia → Abías (rey de Judá).  Fuente: 1 Crónicas 3:10–16; 2 Reyes 11; 24; 2 Crónicas 22:2
 
@@ -5547,6 +5883,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E82 · Asa y ascenso de la casa de Omri. Fuente del episodio: 1 Reyes 15–16; 2 Crónicas 13–16
+
 - genealogia → Asa.  Fuente: 1 Crónicas 3:10–16; 2 Reyes 11; 24; 2 Crónicas 22:2
 
 ### Asa
@@ -5555,6 +5893,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E82 · Asa y ascenso de la casa de Omri. Fuente del episodio: 1 Reyes 15–16; 2 Crónicas 13–16
+
 - genealogia → Josafat.  Fuente: 1 Crónicas 3:10–16; 2 Reyes 11; 24; 2 Crónicas 22:2
 
 ### Josafat
@@ -5562,6 +5902,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E83 · Elías y oposición al culto de Baal. Fuente del episodio: 1 Reyes 17–22; 2 Crónicas 17–20
 
 - genealogia → Joram (rey de Judá).  Fuente: 1 Crónicas 3:10–16; 2 Reyes 11; 24; 2 Crónicas 22:2
 
@@ -5579,6 +5921,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E85 · Jehú y restauración de Joás. Fuente del episodio: 2 Reyes 9–12; 2 Crónicas 22–24
+
 - genealogia → Joás (rey de Judá).  Fuente: 1 Crónicas 3:10–16; 2 Reyes 11; 24; 2 Crónicas 22:2
 
 ### Joás (rey de Judá)
@@ -5586,6 +5930,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E85 · Jehú y restauración de Joás. Fuente del episodio: 2 Reyes 9–12; 2 Crónicas 22–24
 
 - genealogia → Amasías.  Fuente: 1 Crónicas 3:10–16; 2 Reyes 11; 24; 2 Crónicas 22:2
 
@@ -5595,6 +5941,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E86 · Recuperación y crisis. Fuente del episodio: 2 Reyes 13–15; 14:25; Amós 1:1; Oseas 1:1; Jonás 1–4
+
 - genealogia → Uzías / Azarías.  Fuente: 1 Crónicas 3:10–16; 2 Reyes 11; 24; 2 Crónicas 22:2
 
 ### Uzías / Azarías
@@ -5602,6 +5950,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E86 · Recuperación y crisis. Fuente del episodio: 2 Reyes 13–15; 14:25; Amós 1:1; Oseas 1:1; Jonás 1–4
 
 - genealogia → Jotam.  Fuente: 1 Crónicas 3:10–16; 2 Reyes 11; 24; 2 Crónicas 22:2
 
@@ -5611,6 +5961,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E88 · Jotam, Acaz y Ezequías. Fuente del episodio: 2 Reyes 15–20; 2 Crónicas 27–32; Isaías 7; 36–39; Miqueas 1:1
+
 - genealogia → Acaz (rey de Judá).  Fuente: 1 Crónicas 3:10–16; 2 Reyes 11; 24; 2 Crónicas 22:2
 
 ### Acaz (rey de Judá)
@@ -5618,6 +5970,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E88 · Jotam, Acaz y Ezequías. Fuente del episodio: 2 Reyes 15–20; 2 Crónicas 27–32; Isaías 7; 36–39; Miqueas 1:1
 
 - genealogia → Ezequías.  Fuente: 1 Crónicas 3:10–16; 2 Reyes 11; 24; 2 Crónicas 22:2
 
@@ -5627,6 +5981,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E88 · Jotam, Acaz y Ezequías. Fuente del episodio: 2 Reyes 15–20; 2 Crónicas 27–32; Isaías 7; 36–39; Miqueas 1:1
+
 - genealogia → Manasés (rey de Judá).  Fuente: 1 Crónicas 3:10–16; 2 Reyes 11; 24; 2 Crónicas 22:2
 
 ### Manasés (rey de Judá)
@@ -5634,6 +5990,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E89 · Manasés, Amón y Josías. Fuente del episodio: 2 Reyes 21–23; 2 Crónicas 33–35; Sofonías 1:1; Jeremías 1:1–3
 
 - genealogia → Amón (rey de Judá).  Fuente: 1 Crónicas 3:10–16; 2 Reyes 11; 24; 2 Crónicas 22:2
 
@@ -5643,6 +6001,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E89 · Manasés, Amón y Josías. Fuente del episodio: 2 Reyes 21–23; 2 Crónicas 33–35; Sofonías 1:1; Jeremías 1:1–3
+
 - genealogia → Josías.  Fuente: 1 Crónicas 3:10–16; 2 Reyes 11; 24; 2 Crónicas 22:2
 
 ### Josías
@@ -5650,6 +6010,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E89 · Manasés, Amón y Josías. Fuente del episodio: 2 Reyes 21–23; 2 Crónicas 33–35; Sofonías 1:1; Jeremías 1:1–3
 
 - filiacion → Johanán (hijo de Josías).  Fuente: 1 Crónicas 3:10–16; 2 Reyes 11; 24; 2 Crónicas 22:2
 - filiacion → Joacim / Eliaquim.  Fuente: 1 Crónicas 3:10–16; 2 Reyes 11; 24; 2 Crónicas 22:2
@@ -5706,11 +6068,27 @@ Fuente: 1 Reyes 12–22; 2 Reyes 1–17
 
 Trazos de sucesión NO significan padre e hijo. Las filiaciones se añaden solo cuando las fuentes las especifican.
 
+Acontecimiento relacionado: E81 · Roboam y Jeroboam I (Ruptura).
+
+Acontecimiento relacionado: E82 · Asa y ascenso de la casa de Omri (Primeras dinastías).
+
+Acontecimiento relacionado: E83 · Elías y oposición al culto de Baal (Acab y Josafat).
+
+Acontecimiento relacionado: E84 · Elías, Eliseo y conflictos regionales (Sucesión profética).
+
+Acontecimiento relacionado: E85 · Jehú y restauración de Joás (Cambios dinásticos).
+
+Acontecimiento relacionado: E86 · Recuperación y crisis (Último siglo de Israel).
+
+Acontecimiento relacionado: E87 · Últimos reyes de Israel (Crisis asiria).
+
 ### Jeroboam I
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E81 · Roboam y Jeroboam I. Fuente del episodio: 1 Reyes 12–14; 2 Crónicas 10–12
 
 - sucesion → Nadab (rey de Israel).  Fuente: 1 Reyes 12–22; 2 Reyes 1–17
 - filiacion → Nadab (rey de Israel).  Fuente: 1 Reyes 12–22; 2 Reyes 1–17
@@ -5721,6 +6099,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E82 · Asa y ascenso de la casa de Omri. Fuente del episodio: 1 Reyes 15–16; 2 Crónicas 13–16
+
 - sucesion → Baasa.  Fuente: 1 Reyes 12–22; 2 Reyes 1–17
 
 ### Baasa
@@ -5728,6 +6108,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E82 · Asa y ascenso de la casa de Omri. Fuente del episodio: 1 Reyes 15–16; 2 Crónicas 13–16
 
 - sucesion → Ela (rey de Israel).  Fuente: 1 Reyes 12–22; 2 Reyes 1–17
 - filiacion → Ela (rey de Israel).  Fuente: 1 Reyes 12–22; 2 Reyes 1–17
@@ -5738,6 +6120,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E82 · Asa y ascenso de la casa de Omri. Fuente del episodio: 1 Reyes 15–16; 2 Crónicas 13–16
+
 - sucesion → Zimri (rey de Israel).  Fuente: 1 Reyes 12–22; 2 Reyes 1–17
 
 ### Zimri (rey de Israel)
@@ -5745,6 +6129,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E82 · Asa y ascenso de la casa de Omri. Fuente del episodio: 1 Reyes 15–16; 2 Crónicas 13–16
 
 - sucesion → Omri.  Fuente: 1 Reyes 12–22; 2 Reyes 1–17
 
@@ -5754,6 +6140,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E82 · Asa y ascenso de la casa de Omri. Fuente del episodio: 1 Reyes 15–16; 2 Crónicas 13–16
+
 - sucesion → Acab.  Fuente: 1 Reyes 12–22; 2 Reyes 1–17
 - filiacion → Acab.  Fuente: 1 Reyes 12–22; 2 Reyes 1–17
 
@@ -5762,6 +6150,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E83 · Elías y oposición al culto de Baal. Fuente del episodio: 1 Reyes 17–22; 2 Crónicas 17–20
 
 - sucesion → Ocozías (rey de Israel).  Fuente: 1 Reyes 12–22; 2 Reyes 1–17
 - filiacion → Ocozías (rey de Israel).  Fuente: 1 Reyes 12–22; 2 Reyes 1–17
@@ -5774,6 +6164,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E84 · Elías, Eliseo y conflictos regionales. Fuente del episodio: 2 Reyes 1–8
+
 - sucesion → Joram (rey de Israel).  Fuente: 1 Reyes 12–22; 2 Reyes 1–17
 
 ### Joram (rey de Israel)
@@ -5782,6 +6174,10 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E84 · Elías, Eliseo y conflictos regionales. Fuente del episodio: 2 Reyes 1–8
+
+Enlace personal: E85 · Jehú y restauración de Joás. Fuente del episodio: 2 Reyes 9–12; 2 Crónicas 22–24
+
 - sucesion → Jehú (rey de Israel).  Fuente: 1 Reyes 12–22; 2 Reyes 1–17
 
 ### Jehú (rey de Israel)
@@ -5789,6 +6185,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E85 · Jehú y restauración de Joás. Fuente del episodio: 2 Reyes 9–12; 2 Crónicas 22–24
 
 - sucesion → Joacaz (rey de Israel).  Fuente: 1 Reyes 12–22; 2 Reyes 1–17
 - filiacion → Joacaz (rey de Israel).  Fuente: 1 Reyes 12–22; 2 Reyes 1–17
@@ -5799,6 +6197,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E86 · Recuperación y crisis. Fuente del episodio: 2 Reyes 13–15; 14:25; Amós 1:1; Oseas 1:1; Jonás 1–4
+
 - sucesion → Joás (rey de Israel).  Fuente: 1 Reyes 12–22; 2 Reyes 1–17
 - filiacion → Joás (rey de Israel).  Fuente: 1 Reyes 12–22; 2 Reyes 1–17
 
@@ -5807,6 +6207,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E86 · Recuperación y crisis. Fuente del episodio: 2 Reyes 13–15; 14:25; Amós 1:1; Oseas 1:1; Jonás 1–4
 
 - sucesion → Jeroboam II.  Fuente: 1 Reyes 12–22; 2 Reyes 1–17
 - filiacion → Jeroboam II.  Fuente: 1 Reyes 12–22; 2 Reyes 1–17
@@ -5817,6 +6219,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E86 · Recuperación y crisis. Fuente del episodio: 2 Reyes 13–15; 14:25; Amós 1:1; Oseas 1:1; Jonás 1–4
+
 - sucesion → Zacarías (rey de Israel).  Fuente: 1 Reyes 12–22; 2 Reyes 1–17
 - filiacion → Zacarías (rey de Israel).  Fuente: 1 Reyes 12–22; 2 Reyes 1–17
 
@@ -5826,6 +6230,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E86 · Recuperación y crisis. Fuente del episodio: 2 Reyes 13–15; 14:25; Amós 1:1; Oseas 1:1; Jonás 1–4
+
 - sucesion → Salum (rey de Israel).  Fuente: 1 Reyes 12–22; 2 Reyes 1–17
 
 ### Salum (rey de Israel)
@@ -5834,6 +6240,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E86 · Recuperación y crisis. Fuente del episodio: 2 Reyes 13–15; 14:25; Amós 1:1; Oseas 1:1; Jonás 1–4
+
 - sucesion → Manahem.  Fuente: 1 Reyes 12–22; 2 Reyes 1–17
 
 ### Manahem
@@ -5841,6 +6249,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E86 · Recuperación y crisis. Fuente del episodio: 2 Reyes 13–15; 14:25; Amós 1:1; Oseas 1:1; Jonás 1–4
 
 - sucesion → Pekaía.  Fuente: 1 Reyes 12–22; 2 Reyes 1–17
 - filiacion → Pekaía.  Fuente: 1 Reyes 12–22; 2 Reyes 1–17
@@ -5851,6 +6261,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E86 · Recuperación y crisis. Fuente del episodio: 2 Reyes 13–15; 14:25; Amós 1:1; Oseas 1:1; Jonás 1–4
+
 - sucesion → Peka.  Fuente: 1 Reyes 12–22; 2 Reyes 1–17
 
 ### Peka
@@ -5858,6 +6270,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E86 · Recuperación y crisis. Fuente del episodio: 2 Reyes 13–15; 14:25; Amós 1:1; Oseas 1:1; Jonás 1–4
 
 - sucesion → Oseas (rey de Israel).  Fuente: 1 Reyes 12–22; 2 Reyes 1–17
 
@@ -5984,6 +6398,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E101 · Permiso y reconstrucción inicial. Fuente del episodio: Esdras 1–3; 2 Crónicas 36:22–23
 
 - filiacion → Mesulam.  Fuente: 1 Crónicas 3:17–24; Esdras 3:2; Mateo 1:12
 - filiacion → Hananías (de Zorobabel).  Fuente: 1 Crónicas 3:17–24; Esdras 3:2; Mateo 1:12
@@ -6259,6 +6675,8 @@ Fuente: Mateo 1:6–18
 
 Genealogía textual con omisiones conocidas frente a Crónicas. No expresa una secuencia de nacimientos sin lagunas. José es esposo de María, no padre biológico de Jesús en el relato.
 
+Acontecimiento relacionado: E113 · Nacimiento y primeros testigos (Reinado de Herodes el Grande).
+
 ### David
 
 Cronología generacional no determinada; ubicación esquemática.
@@ -6496,6 +6914,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Fuente: Lucas 3:23–31
 
 Se conserva la sucesión de nombres de la KJV, invertida para leer de antepasado a descendiente. Lucas nombra a José y no declara explícitamente que esta sea la genealogía de María. No se fusiona con Mateo.
+
+Acontecimiento relacionado: E116 · Predicación de Juan y bautismo (27 d. C. en GC).
 
 ### David
 
@@ -6846,6 +7266,8 @@ Fuente: Lucas 3:34–38; comparación con Génesis 10:24; 11:12
 
 Lucas KJV incluye a Cainán entre Arfaxad y Sala; Génesis KJV no. No borrar el nombre ni añadirlo silenciosamente a los cálculos de Génesis.
 
+Acontecimiento relacionado: E116 · Predicación de Juan y bautismo (27 d. C. en GC).
+
 ### Noé
 
 Cronología generacional no determinada; ubicación esquemática.
@@ -6949,11 +7371,19 @@ Familias narradas; fechas de nacimiento generalmente desconocidas. Los grados de
 
 Acontecimiento relacionado: E120 · Los Doce, enseñanza y señales (Ministerio galileo).
 
+Acontecimiento relacionado: E112 · Anuncios y Juan el Bautista (Antes del nacimiento de Jesús).
+
+Acontecimiento relacionado: E116 · Predicación de Juan y bautismo (27 d. C. en GC).
+
+Acontecimiento relacionado: E118 · Discípulos, Caná y Judea (Primer ministerio).
+
 ### Zacarías (padre del Bautista)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E112 · Anuncios y Juan el Bautista. Fuente del episodio: Lucas 1; Mateo 1:18–25
 
 - filiacion → Juan el Bautista.  Fuente: Lucas 1:5–36; Mateo 4:21; 10:2–4; Juan 1:42; Marcos 6:3; Hechos 12:12; 16:1; 2 Timoteo 1:5
 
@@ -6963,12 +7393,18 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E112 · Anuncios y Juan el Bautista. Fuente del episodio: Lucas 1; Mateo 1:18–25
+
+Enlace personal: E116 · Predicación de Juan y bautismo. Fuente del episodio: Lucas 3:1–23; Mateo 3; GC 327.1
+
 
 ### Elisabet (madre del Bautista)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E112 · Anuncios y Juan el Bautista. Fuente del episodio: Lucas 1; Mateo 1:18–25
 
 - materna → Juan el Bautista.  Fuente: Lucas 1:5–36; Mateo 4:21; 10:2–4; Juan 1:42; Marcos 6:3; Hechos 12:12; 16:1; 2 Timoteo 1:5
 - parentesco → María (madre de Jesús). Pariente; el grado exacto no está establecido por el término en esta ficha. Fuente: Lucas 1:36
@@ -6987,6 +7423,8 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E112 · Anuncios y Juan el Bautista. Fuente del episodio: Lucas 1; Mateo 1:18–25
+
 
 ### Zebedeo
 
@@ -7003,12 +7441,18 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E120 · Los Doce, enseñanza y señales. Fuente del episodio: Mateo 5–10; 13; Marcos 3–6; Lucas 6–9
+
 
 ### Juan (hijo de Zebedeo)
 
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E118 · Discípulos, Caná y Judea. Fuente del episodio: Juan 1:19–3:36
+
+Enlace personal: E120 · Los Doce, enseñanza y señales. Fuente del episodio: Mateo 5–10; 13; Marcos 3–6; Lucas 6–9
 
 
 ### Jonás / Juan (padre de Pedro)
@@ -7025,6 +7469,10 @@ Cronología generacional no determinada; ubicación esquemática.
 
 
 
+Enlace personal: E118 · Discípulos, Caná y Judea. Fuente del episodio: Juan 1:19–3:36
+
+Enlace personal: E120 · Los Doce, enseñanza y señales. Fuente del episodio: Mateo 5–10; 13; Marcos 3–6; Lucas 6–9
+
 - hermanos → Andrés.  Fuente: Juan 1:40–42
 - union → Esposa de Pedro (sin nombre).  Fuente: Marcos 1:30; 1 Corintios 9:5
 
@@ -7033,6 +7481,10 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E118 · Discípulos, Caná y Judea. Fuente del episodio: Juan 1:19–3:36
+
+Enlace personal: E120 · Los Doce, enseñanza y señales. Fuente del episodio: Mateo 5–10; 13; Marcos 3–6; Lucas 6–9
 
 
 ### Alfeo (padre de Jacobo)
@@ -7048,6 +7500,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Cronología generacional no determinada; ubicación esquemática.
 
 
+
+Enlace personal: E120 · Los Doce, enseñanza y señales. Fuente del episodio: Mateo 5–10; 13; Marcos 3–6; Lucas 6–9
 
 
 ### María (madre de Juan Marcos)
@@ -7165,6 +7619,12 @@ Fuente: 1 Samuel 4:4,19–22; 14:3; 22:9–23; 2 Samuel 15:27,36; 1 Crónicas 24
 
 Finés, hijo de Elí, no es Finés, hijo de Eleazar. Los Ahitub de otras casas sacerdotales no se fusionan. Ahías y Ahimelec se conservan separados: su identificación no queda resuelta por estos pasajes.
 
+Acontecimiento relacionado: E70 · Samuel, Elí y el arca (Transición al reino).
+
+Acontecimiento relacionado: E73 · Unción, Goliat y persecución (David antes del trono).
+
+Acontecimiento relacionado: E77 · Betsabé y rebelión de Absalón (Crisis de la casa de David).
+
 ### Elí
 
 Cronología generacional no determinada; ubicación esquemática.
@@ -7267,6 +7727,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Fuente: 1 Crónicas 6:39–43; 25:1–2,6–14
 
 La cadena reproduce la genealogía; no fija años ni presupone que todas las menciones de Asaf sean este cantor. Las variantes de nombres se señalan sin duplicar personas automáticamente.
+
+Acontecimiento relacionado: E78 · Censo, altar y sucesión (Final de David).
 
 ### Leví
 
@@ -7425,6 +7887,8 @@ Fuente: 1 Crónicas 25:4–6,18–31
 
 Complementa la ascendencia Coré–Samuel–Hemán de G19. Los turnos incluyen hijos y hermanos; no se convierten sus doce integrantes en doce hijos de cada jefe.
 
+Acontecimiento relacionado: E78 · Censo, altar y sucesión (Final de David).
+
 ### Hemán (cantor)
 
 Cronología generacional no determinada; ubicación esquemática.
@@ -7558,6 +8022,8 @@ Fuente: 1 Crónicas 25:3,9–10,11,15,17,21
 
 1 Cr 25:3 KJV dice seis, pero enumera cinco nombres. Simei aparece en el décimo turno (v. 17); su filiación se representa como inferencia, no como afirmación explícita de v. 3. No se fusiona Jedutún con Etán.
 
+Acontecimiento relacionado: E78 · Censo, altar y sucesión (Final de David).
+
 ### Jedutún
 
 Cronología generacional no determinada; ubicación esquemática.
@@ -7618,6 +8084,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Fuente: 1 Crónicas 6:29–30,44–47; 23:21–23; 24:26–30
 
 Mahli, hijo de Merari, y Mahli, hijo de Musi, son nodos distintos. Las cadenas son genealógicas; su escala generacional absoluta no está determinada.
+
+Acontecimiento relacionado: E78 · Censo, altar y sucesión (Final de David).
 
 ### Leví
 
@@ -7889,6 +8357,8 @@ Fuente: 1 Crónicas 26:1–19
 
 Los totales de 18, 62 y 13 incluyen hijos y hermanos; no son listas de hijos inmediatos. Las generaciones anteriores no reciben años estimados.
 
+Acontecimiento relacionado: E78 · Censo, altar y sucesión (Final de David).
+
 ### Coré (padre de Meselemías)
 
 Cronología generacional no determinada; ubicación esquemática.
@@ -8132,6 +8602,8 @@ Fuente: 1 Crónicas 23:15–17; 26:20–28
 
 Las referencias a descendientes de Moisés en tiempos de David no proporcionan una cronología continua de nacimientos. Sebuel no se representa como contemporáneo inmediato de Moisés.
 
+Acontecimiento relacionado: E78 · Censo, altar y sucesión (Final de David).
+
 ### Moisés
 
 Cronología generacional no determinada; ubicación esquemática.
@@ -8247,6 +8719,10 @@ Cronología generacional no determinada; ubicación esquemática.
 Fuente: 1 Crónicas 4:13–15; Josué 15:13–19
 
 No se fusiona a Caleb hijo de Jefone con Caleb hijo de Hezrón. Jos 15:17 admite discusión sobre el referente de «hermano de Caleb»; se conserva el parentesco sin inventar otro padre.
+
+Acontecimiento relacionado: E62 · Hai, Gabaón y herencias (Campañas y reparto).
+
+Acontecimiento relacionado: E64 · Otoniel, Aod y Samgar (Ciclos iniciales).
 
 ### Jefone
 
@@ -8590,6 +9066,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Fuente: Ester 2:5–7,15–17; 3:1; 5:10,14; 9:7–10
 
 No se identifica a Cis con el padre de Saúl ni se deduce el nacimiento de Mardoqueo del antecedente discutido de 2:6. Ester no es presentada como madre de Artajerjes. Amán agagueo no recibe una cadena biológica inventada desde Agag.
+
+Acontecimiento relacionado: E104 · Ester y preservación del pueblo (Reinado de Asuero).
 
 ### Cis (antepasado de Mardoqueo)
 
@@ -11344,6 +11822,8 @@ Fuente: Números 26:5–11; 1 Crónicas 5:3–10
 
 Se distinguen los dos grupos textuales. Joel no recibe un padre inventado. Sema de 5:8 y Semaías de 5:4 no se fusionan automáticamente.
 
+Acontecimiento relacionado: E57 · Coré y confirmación sacerdotal (Peregrinación).
+
 ### Rubén
 
 Cronología generacional no determinada; ubicación esquemática.
@@ -11521,6 +12001,8 @@ Nombrado entre los jefes y parientes de la casa; paternidad no especificada (1 C
 Fuente: 1 Crónicas 5:11–26
 
 Los censos se sitúan en los días de Jotam y Jeroboam (5:17), sin asignar nacimientos. Galaad y Micael de esta cadena no se fusionan con homónimos de otras tribus.
+
+Acontecimiento relacionado: E87 · Últimos reyes de Israel (Crisis asiria).
 
 ### Buz (rama de Gad)
 
@@ -11924,6 +12406,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Fuente: Números 26:5–62
 
 Registro de familias y efectivos, no cumpleaños ni lista de hijos nacidos en Moab. Cada nodo familiar representa un colectivo. Se conservan variantes frente a Génesis 46 y Crónicas; no se borran nombres de las listas anteriores.
+
+Acontecimiento relacionado: E59 · Balaam, Peor y preparación (Llanuras de Moab).
 
 ### Rubén (censo de Moab)
 
@@ -15267,6 +15751,10 @@ Su enfermedad, muerte y resurrección conectan a esta familia con el conflicto f
 Fuente: Lucas 7:11–15; 8:41–56; Juan 4:46–54
 
 Casas distintas, sin parentesco entre ellas. Se conservan los progenitores y los hijos sin nombres cuando así aparecen en los relatos. La hija de Jairo tiene unos doce años; no se convierte esa edad en fecha absoluta.
+
+Acontecimiento relacionado: E119 · Samaritana y anuncio del reino (Judea, Samaria y Galilea).
+
+Acontecimiento relacionado: E120 · Los Doce, enseñanza y señales (Ministerio galileo).
 
 ### Viuda de Naín
 
@@ -35176,6 +35664,8 @@ Fuente: 1 Crónicas 5:10,17–26
 
 Las genealogías de Rubén, Gad y Manasés están en G55–G56. Jetur, Nafis y Nodab se registran como pueblos de la campaña, sin crear individuos contemporáneos a partir de los ancestros de la tabla de naciones. Pul y Tilgat-pilneser se conservan como designaciones del texto; no se afirma que sean dos reyes diferentes. Jotam y Jeroboam son referencias del registro de 5:17, no fechas de nacimiento para toda la lista.
 
+Acontecimiento relacionado: E87 · Últimos reyes de Israel (Crisis asiria).
+
 ### Saúl (marco recordado, 5:10)
 
 Cronología generacional no determinada; ubicación esquemática.
@@ -35327,6 +35817,8 @@ Cronología generacional no determinada; ubicación esquemática.
 Fuente: 1 Crónicas 6:22–28
 
 Los segmentos se mantienen separados donde se repite Elcana. No se añade un enlace entre Ahimot y Elcana de 6:26 por proximidad. Asir aparece en dos niveles de 6:22–23; no se elimina uno. Aminadab, Uriel, Uzías, Saúl, Zofai, Nahat y Eliab se conservan sin sustituirlos por nombres de 6:33–38. KJV 6:28 imprime Vashni como primogénito de Samuel; 6:33 y 1 Samuel 8:2 tienen Joel. Se registra la dificultad textual, sin inventar un tercer hijo seguro de Samuel.
+
+Acontecimiento relacionado: E70 · Samuel, Elí y el arca (Transición al reino).
 
 ### Coat (6:22)
 
